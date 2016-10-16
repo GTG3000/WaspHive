@@ -5,7 +5,7 @@
 Playing as a wasp gives you:
 
 * Original humanoid-insect sprites that are clothing friendly 
-* Wasp wings back item: given automatically to new wasps or craftable (wasps only!) using at the apothecary, 
+* Wasp wings back item: given automatically to new wasps or craftable (wasps only!) using the apothecary, 
 the wings allow you to multi-jump as much as your energy permits, wall-jump, and glide gently to the ground by holding space.
 * A unique fully tiered ship, that includes matching doors and hatches, SAIL, Locker, Fuel hatch and a special animated teleporter 
 * 3 custom codexes outlining the discovery of the new species 
