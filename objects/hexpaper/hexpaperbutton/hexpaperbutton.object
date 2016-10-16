@@ -1,0 +1,76 @@
+{
+  "objectName" : "hexpaperbutton",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A compact button that activates when pressed.",
+  "shortdescription" : "Small Comb Button",
+  "race" : "wasphive",
+
+  "apexDescription" : "A button. Its function is unknown. Only one way to find out.",
+  "avianDescription" : "Why am I always compelled to push buttons?",
+  "floranDescription" : "Floran push buttonsss!",
+  "glitchDescription" : "Tempted. A button, begging to be pressed.",
+  "humanDescription" : "There's a button! I can't not press it!",
+  "hylotlDescription" : "Buttons are infuriating. Still, I must push it.",
+  "novakidDescription" : "Why is it always so darn temptin' to push buttons.",
+  "wasphiveDescription" : "Hive makez zmall buttonz to kontrol zubtle thinkz",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "inventoryIcon" : "hexpaperbuttonicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperbutton.png:<color>.off",
+	  "animationParts" : {
+		"switch" : "hexpaperbutton.png"
+      },
+	  "flipImages" : true,
+	  "imagePosition" : [-4, 0],
+	  "animationPosition" : [-4, 0],
+	  "direction" : "right",
+	  "anchors" : [ "background" ],
+	  "spaces" : [[0,0]]
+    },
+	{
+      "image" : "hexpaperbuttonf.png:<color>.off",
+	  "animationParts" : {
+		"switch" : "hexpaperbuttonf.png"
+      },
+	  "imagePosition" : [1, 4],
+	  "animationPosition" : [1, 4],
+	  "direction" : "left",
+	  "anchors" : [ "background" ],
+	  "spaces" : [[0,0],[1,0]]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/momentaryswitch/momentaryswitch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/switch/switchtoggle.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button3.ogg" ]
+    }
+  },
+
+  "outputNodes" : [ [0, 0] ],
+
+  "interval" : 15,
+
+  "npcToy": {
+    "ownerOnly" : true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "defaultReactions" : {},
+    "maxNpcs" : 1
+  }
+}

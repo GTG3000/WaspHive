@@ -1,0 +1,16 @@
+{
+  "itemName" : "hexpapersupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "hexpapersupport.png",
+  "description" : "A wall support used in hive construction.",
+  "shortdescription" : "Paper Support",
+  "glitchdescription" : "Informed. Looks like a support for a house. But made of paper.",
+  "florandescription" : "Paper sstructural ssupport.",
+  "novakiddescription" : "Made for holdin' up a roof of a card house, I recon.",
+  "wasphiveDescription" : "Zpecially made paper holdz hivez together.",
+
+  "materialId" : 10001,
+  "learnBlueprintsOnPickup" : [ "hexpapersupport" ]
+}

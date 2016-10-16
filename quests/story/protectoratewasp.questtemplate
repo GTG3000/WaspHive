@@ -1,0 +1,25 @@
+{
+  "id" : "protectoratewasp",
+  "mainQuest" : true,
+  "title" : "You're a Wasp Hive",
+  "text" : "Have some wings.",
+  "completionText" : "You got the insect wings - wear them with pride!",
+  "moneyRange" : [50, 50],
+  "canBeAbandoned" : false,
+  "invisible" : false,
+  "logOnly" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/tutorial/protectoratewasp.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "descriptions" : {
+      "graduate" : "Attend your graduation ceremony",
+      "matterManipulator" : "Take the matter manipulator",
+      "escape" : "Escape the destruction"
+    }
+  }
+}

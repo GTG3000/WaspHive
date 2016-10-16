@@ -1,0 +1,47 @@
+{
+  "objectName" : "hexpaperchair",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "An opulent armchair made from paper hexagons.",
+  "shortdescription" : "Hexagonal Paper Armhair",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "This armchair feels sturdy and dry. I wonder how much weight it can handle",
+  "avianDescription" 	: "This armchair feels almost like a paper perch.",
+  "floranDescription" 	: "Chair looksss like prey may be living inssside.",
+  "glitchDescription" 	: "Concerned. Paper lattice looks sound, but can it support me?",
+  "humanDescription" 	: "This armchair is made out of paper! I better not put any drinks on it without coasters.",
+  "hylotlDescription" 	: "It looks like someone tried making a paper sculpture and gave up halfway through.",
+  "novakidDescription" 	: "A fine lookin' paper armchair. Makes me feel all fancy.",
+  "wasphiveDescription"	: "Armchair made of paper combz. Hive can lounge however hive pleazes!",
+
+  "inventoryIcon" : "hexpaperchairicon.png",
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitCoverImage" : "/objects/hexpaper/hexpaperchair/hexpaperchaircover.png",
+  
+  "orientations" : [
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [2, 20]
+    },
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [2, 20]
+    }
+  ]
+}

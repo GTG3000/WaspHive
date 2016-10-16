@@ -1,0 +1,4 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/wasphive" , "value" : [ "protectorate1", "protectorate2", "wasphivelore", "wasphivejournal", "wasphiveresearch" ] },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-" , "value" : { "item" : "bumbleplush" } }
+]

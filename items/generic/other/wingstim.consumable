@@ -1,0 +1,21 @@
+{
+  "itemName" : "wingstim",
+  "rarity" : "Rare",
+  "price" : 500,
+  "category" : "medicine",
+  "inventoryIcon" : "wingstim.png",
+  "description" : "A comb of waxed paper, full of thick syrupy liquid.",
+  "shortdescription" : "Wing Growth Pack",
+  "effects" : [ [
+      {
+        "effect" : "spawnwings"
+      }
+    ] ],
+  //"emote" : "",
+  "foodValue" : 60,
+  //"emitters" : [ "stimuse" ],
+  "blockingEffects" : [
+    "spawnwings",
+	"wellfed"
+  ]
+}

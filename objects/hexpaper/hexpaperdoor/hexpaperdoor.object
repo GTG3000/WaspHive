@@ -1,0 +1,60 @@
+{
+  "objectName" : "hexpaperdoor",
+  "colonyTags" : ["door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 95,
+  "description" : "A door made of sturdy paper hexagons.",
+  "shortdescription" : "Papercomb Door",
+  "race" : "generic",
+
+  "apexDescription" : "This door appears to be made of paper, but it's fairly sturdy.",
+  "avianDescription" : "This paper door is surprisingly solid!",
+  "floranDescription" : "Sssturdy paper door. Floran ssshould open it, not cut through it.",
+  "glitchDescription" : "Observant. This door appears to be made entirely of dense paper.",
+  "humanDescription" : "A strange door made of paper.",
+  "hylotlDescription" : "A unique door, for sure.",
+  "novakidDescription" : "A strange wooden door, lookin' like a wasp made it.",
+  "wasphiveDescription" : "Hive knowz how to make ztronk paper.",
+
+  "inventoryIcon" : "hexpaperdooricon.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "hexpaperdoor.png:right",
+  
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperdoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wooddoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wooddoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "hexpaperdoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

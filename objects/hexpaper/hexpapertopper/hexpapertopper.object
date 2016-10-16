@@ -1,0 +1,45 @@
+{
+  "objectName" : "hexpapertopper",
+  "colonyTags" : ["wasphive"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "Half of a wall mounted paper comb.",
+  "shortdescription" : "Paper Comb Topper",
+  "race" : "wasphive",
+  "health" : 4.5,
+
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpapertoppericon.png",
+  "orientations" : [
+    {
+      "image" : "hexpapertopper.png:top",
+      "imagePosition" : [-8, 0],
+      //"bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+	  
+      "anchors" : [ "top" ],
+      //"collision" : "platform",
+      //"collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0]]
+    },
+    {
+      "image" : "hexpapertopper.png:bottom",
+      "imagePosition" : [-8, 0],
+      //"bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 0]],
+	  "spaces" : [[0,0]]
+    }
+
+  ],
+  
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

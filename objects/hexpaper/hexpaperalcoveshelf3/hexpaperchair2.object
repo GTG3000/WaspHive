@@ -1,0 +1,51 @@
+{
+  "objectName" : "hexpaperalcoveshelf2",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "An impressive alcove of hexagons, containing a seat and a tabletop.",
+  "shortdescription" : "Paper Comb Alcove Shelf",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "A shelf built into an alcove made of paper combs.",
+  "avianDescription" 	: "A nice shelf for putting stuff onto.",
+  "floranDescription" 	: "Floran thinks a prey bursst out of here. A rectangular prey.",
+  "glitchDescription" 	: "Curious. This shelf is pretty quaint.",
+  "humanDescription" 	: "A fancy built-in shelf made of paper.",
+  "hylotlDescription" 	: "A bulky shelf. How amusing.",
+  "novakidDescription" 	: "A wall shelf.",
+  "wasphiveDescription"	: "Zometimez hive wantz to zhow thingz off",
+
+  "inventoryIcon" : "hexpaperchairicon.png",
+  
+  "orientations" : [
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-23, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-2,0],[-1,0],[1,0],[2,0],[-2,3],[2,3]],
+	  "spaces" : [	[-3,0],[-2,0],[-1,0],[1,0],[2,0],[3,0],
+					[-3,2],[3,2],
+					[-2,3],[2,3]]
+    },
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-2,0],[-1,0],[1,0],[2,0],[-2,3],[2,3]],
+	  "spaces" : [	[-3,0],[-2,0],[-1,0],[1,0],[2,0],[3,0],
+					[-3,2],[3,2],
+					[-2,3],[2,3]]
+    }
+  ]
+}

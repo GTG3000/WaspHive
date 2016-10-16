@@ -1,0 +1,43 @@
+{
+  "objectName" : "hexpapertable",
+  "colonyTags" : ["commerce","wasphive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A table made out of paper combs.",
+  "shortdescription" : "Paper Comb Table",
+  "race" : "wasphive",
+  "category" : "furniture",
+  "price" : 70,
+
+  "apexDescription" : "This table is sturdy and serves it's purpose.",
+  "avianDescription" : "This table feels like a big block of paper!",
+  "floranDescription" : "Floran getsss making tablesss out of wood, but why make table out of chewed up woodsss?",
+  "glitchDescription" : "Worried. A table made of paper and wax. It would catch on fire if I placed a candle here!",
+  "humanDescription" : "A nice table made of combs.",
+  "hylotlDescription" : "This table would probably soak in paints if I crafted art on it.",
+  "novakidDescription" : "A table made of some kinda carboard. Surprisingly solid.",
+  "wasphiveDescription" : "Hive ztak combz, Hive made a table. Hive can put zweetz on the table!",
+
+  "inventoryIcon" : "hexpapertableicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpapertable.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "hexpapertable.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "objectName" : "hexpaperalcovebed",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 300,
+  "description" : "A bed built into wall paper combs.",
+  "shortdescription" : "Papercomb Alcove Bed",
+  "race" : "wasphive",
+
+  "apexDescription" : "This bed is built into the wall. Efficient, if cramped.",
+  "avianDescription" : "This bed is built into the wall. I could put it as high as I like!",
+  "floranDescription" : "Thiss nesst is furnished all nisse. Floran wonders what prey livess here.",
+  "glitchDescription" : "Approoving. Such a space saving solution for sleeping!",
+  "humanDescription" : "On one hand, this bed looks fancy with it's curtains. On the other hand, it's small like a coffin.",
+  "hylotlDescription" : "Is this a bed or an empty burial tomb?",
+  "novakidDescription":  "An ol' wall-mounted coffin. Or is it fancy bed?",
+  "wasphiveDescription" : "Bed built into the wall combz. Hive feels drowzy juzt looking at it.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/hexpaper/hexpaperalcovebed/hexpaperbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed5"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "hexpaperbedicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperbed.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [-5, 14],
+	  
+      "anchors" : [ "background" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [[-2,2],[0,3],[2,2],[-1,0],[0,0],[1,0]],
+	  "spaces" : 	[[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+					[-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[0,3]
+					]
+    },
+    {
+      "image" : "hexpaperbed.png:<color>",
+      "imagePosition" : [-23, 0],
+      
+      "direction" : "right",
+
+      "sitPosition" : [-11, 14],
+
+      "anchors" : [ "background" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [[-2,2],[0,3],[2,2],[-1,0],[0,0],[1,0]],
+	  "spaces" : 	[[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+					[-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[0,3]
+					]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "hexpaperhexagon", "count" : 8 },
+    { "item" : "paper", "count" : 10 }
+	
+  ],
+  "output" : {
+    "item" : "hexpaperalcoveshelf2",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

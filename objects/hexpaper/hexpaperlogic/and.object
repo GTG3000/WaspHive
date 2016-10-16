@@ -1,0 +1,47 @@
+{
+  "objectName" : "hexpaperand",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An /'AND'/ switch. Requires all inputs to be /'on'/ to work.",
+  "shortdescription" : "AND Switch",
+  "race" : "wasphive",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "floranDescription" : "An /'AND'/ ssswitch. Requiress all inputs to be /'on'/ to work.",
+  "glitchDescription" : "Pleased. An /'AND'/ switch. Requires all inputs to be /'on'/ to work.",
+  "wasphiveDescription":"An /'AND'/ zwitch. Requirez all inputz to be /'on'/ to work.",
+
+  "inventoryIcon" : "icons.png:and",
+  "orientations" : [
+    {
+      "image" : "and.png:<color>.off",
+      "imagePosition" : [-8, 0],
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/logic/logic.lua" ],
+  "scriptDelta" : 1,
+
+  "animation" : "/objects/wired/logic/logic.animation",
+
+  "animationParts" : {
+    "switch" : "and.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "inputNodes" : [ [-1, 0], [0, 1] ],
+  "outputNodes" : [ [1, 0] ],
+
+  "gates" : 2,
+  "truthtable" : [ [ false, false ], [ false, true ] ]
+}

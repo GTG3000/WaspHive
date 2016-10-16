@@ -1,0 +1,16 @@
+{
+  "itemName" : "hexpaperdetails",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "hexpaperdetails.png",
+  "description" : "A reinforced paper girder.",
+  "shortdescription" : "Paper girder",
+  "glitchdescription" : "Curious. This wall is made of paper, folded for extra reinforcement.",
+  "florandescription" : "Ssstrong thick paper.",
+  "novakiddescription" : "Strong lookin' wall made from paper.",
+  "wasphiveDescription" : "Hive can make paper very ztronk.",
+
+  "materialId" : 10002,
+  "learnBlueprintsOnPickup" : [ "hexpaperdetails" ]
+}

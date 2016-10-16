@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "hexpaperchair1", "count" : 5 },
+    { "item" : "paper", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "hexpapertable",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

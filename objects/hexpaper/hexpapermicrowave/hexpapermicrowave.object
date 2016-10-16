@@ -1,0 +1,63 @@
+{
+  "objectName" : "hexpapermicrowave",
+  "colonyTags" : ["wasphive","cooking","electronic"],
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 100,
+  "description" : "Nuke all the foodz!",
+  "shortdescription" : "Paper Comb Microwave",
+  "race" : "wasphive",
+
+  //"lightColor" : [153, 151, 116],
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Paper Comb Microwave",
+        "subtitle" : " Cooking convenience in hexagonal shape"
+      }
+    }
+  },
+
+  "apexDescription" : "A stylish device for quickly cooking food.",
+  "avianDescription" : "An oven built into the wall. This one has blinky lights!",
+  "floranDescription" : "Floran confused. Is thiss a nesst of prey or a ssnack-heating machine? Iss it both?",
+  "glitchDescription" : "Uncomfortable. Microwaves can be somewhat damaging to Glitch circuitry.",
+  "humanDescription" : "The clock is blinking 12:00. Typical.",
+  "hylotlDescription" : "A method of cooking for those who do not care about the quality of their preparation.",
+  "novakidDescription" : "Not sure what this machine does... But it smells like a candy factory.",
+  "wasphiveDescription" : "Humanz taught Hive zekretz of ze microwave. Hive cookz food wiz great efficiency!",
+
+  "inventoryIcon" : "hexpapermicrowaveicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "hexpapermicrowave.png:<color>.<frame>", "fullbright" : true }, { "image" : "hexpapermicrowavelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+	  "collisionSpaces" : [[0,1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    },
+    {
+      "imageLayers" : [ { "image" : "hexpapermicrowave.png:<color>.<frame>", "fullbright" : true }, { "image" : "hexpapermicrowavelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "frames" : 4,
+      "animationCycle" : 1.0,
+
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+	  "collisionSpaces" : [[0,1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    }
+  ]
+}

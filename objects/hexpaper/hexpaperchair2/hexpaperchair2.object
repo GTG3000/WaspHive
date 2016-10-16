@@ -1,0 +1,63 @@
+{
+  "objectName" : "hexpaperchair2",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "An impressive alcove of hexagons, containing a seat and a tabletop.",
+  "shortdescription" : "Paper Comb Alcove",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "A functional wall alcove made in hollowed out paper combs. There's a seat and a place for a banana.",
+  "avianDescription" 	: "Looks like these alcoves can be put pretty high up. Fitting for a flying creature.",
+  "floranDescription" 	: "Floran thinkss prey sshould be sitting in comb walls, not floran.",
+  "glitchDescription" 	: "Curious. This desk and seat are built into the wall.",
+  "humanDescription" 	: "This reminds me of school desks. Or maybe a restaurant.",
+  "hylotlDescription" 	: "This alcove looks like a little personal study.",
+  "novakidDescription" 	: "A seat and a desk, built into the wall.",
+  "wasphiveDescription"	: "Hive likez building thingz into wall combz. Hive feelz it iz efficient. And cozy.",
+
+  "inventoryIcon" : "hexpaperchairicon.png",
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitCoverImage" : "/objects/hexpaper/hexpaperchair2/hexpaperchair2cover.png",
+  
+  "orientations" : [
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-23, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "sitPosition" : [-11, 30],
+      "collision" : "platform",
+      "collisionSpaces" : [[-1,2],[-2,2],[2,4],[0,5]],
+	  "spaces" : [	[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+					[-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[-3,3],[2,3],[1,3],[0,3],[3,3],
+					[2,4],[1,4],[0,4],
+					[0,5]]
+    },
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "sitPosition" : [-2, 30],
+      "collision" : "platform",
+      "collisionSpaces" : [[1,2],[2,2],[-2,4],[0,5]],
+	  "spaces" : [	[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+					[-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[-3,3],[-2,3],[-1,3],[0,3],[3,3],
+					[-2,4],[-1,4],[0,4],
+					[0,5]]
+    }
+  ]
+}

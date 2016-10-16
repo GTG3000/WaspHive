@@ -1,0 +1,45 @@
+{
+  "objectName" : "hexpaperchest",
+  "colonyTags" : ["wasphive","storage"],
+  "printable" : true,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 70,
+  "description" : "A chest made out of paper comb",
+  "shortdescription" : "Hexagonal Paper Chest",
+  "race" : "wasphive",
+  "health" : 1.5,
+
+  "apexDescription" : "A pretty simple chest made of thick paper. I feel the urge to build a tower.",
+  "avianDescription" : "This chest is nice and compact. I hope I won't punch a hole through the paper.",
+  "floranDescription" : "Paper chessst. Floran make a tower of richesss!",
+  "glitchDescription" : "Curious. This chest stacks for efficient space usage. But how high can I stack them?",
+  "humanDescription" : "This chest is like a present box made by a wasp.",
+  "hylotlDescription" : "A hexagonal box of thick paper. Whoever made it was concerned with function over form.",
+  "novakidDescription" : "It's just an ol' paper box, but with more sides.",
+  "wasphiveDescription" : "Hive can open zis comb to put thingz in it! It's zturdy enough to be ztacked.",
+
+  "inventoryIcon" : "hexpaperchesticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperchest.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [-1, 0], [0, 0], [1, 0]]
+    }
+
+  ],
+
+  "openSounds" : [ "/sfx/objects/cardboardbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/cardboardbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

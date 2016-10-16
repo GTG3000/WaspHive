@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 10 },
+    { "item" : "torch", "count" : 2 },
+    { "item" : "glassmaterial", "count" : 2 }
+  ],
+  "output" : { "item" : "hexpaperlight1", "count" : 2 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

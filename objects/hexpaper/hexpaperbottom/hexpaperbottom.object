@@ -1,0 +1,34 @@
+{
+  "objectName" : "hexpaperbottom",
+  "colonyTags" : ["wasphive"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "Upper half of a wall mounted paper comb.",
+  "shortdescription" : "Paper Comb Bottom",
+  "race" : "wasphive",
+  "health" : 4.5,
+
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpaperbottomicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperbottom.png:bottom",
+      "imagePosition" : [-8, 0],
+      //"bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 0]],
+	  "spaces" : [[0,0]]
+    }
+
+  ],
+  
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

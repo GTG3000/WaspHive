@@ -1,0 +1,45 @@
+{
+  "objectName" : "hexpapertopcorner",
+  "colonyTags" : ["wasphive"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "Quarter of a paper comb. The lower quarter.",
+  "shortdescription" : "Paper Comb Top Corner.",
+  "race" : "wasphive",
+  "health" : 4.5,
+
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpapertopcornericon.png",
+  "orientations" : [
+    {
+      "image" : "hexpapertopcorner.png:right",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0] ],
+      "direction" : "right",
+	  
+      //"anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [1,0], [0, 0]],
+	  "spaces" : [[1,0],[0,0]]
+    },
+	{
+      "image" : "hexpapertopcorner.png:left",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0] ],
+      "direction" : "left",
+	  
+      //"anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[0, 0], [-1,0]],
+	  "spaces" : [[0,0],[-1,0]]
+    }
+
+  ],
+  
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

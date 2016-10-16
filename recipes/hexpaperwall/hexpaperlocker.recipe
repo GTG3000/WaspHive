@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "hexpaperhexagon", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "hexpaperlocker",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

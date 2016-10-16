@@ -1,0 +1,58 @@
+{
+  "objectName" : "hexpaperlocker",
+  "colonyTags" : ["wasphive","storage"],
+  "printable" : true,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 70,
+  "description" : "A hexagonal wall mounted locker.",
+  "shortdescription" : "Hexagonal Paper Locker",
+  "race" : "wasphive",
+  "health" : 1.5,
+
+  "apexDescription" : "A huge paper comb, mounted into the wall. I'm sure miniknog would like to make housing in this sort of thing.",
+  "avianDescription" : "This large paper comb can hold quite a lot!",
+  "floranDescription" : "Floran hopesss there isss prey inssside thisss nessst.",
+  "glitchDescription" : "Curious. Looks like a huge wasp should be living here.",
+  "humanDescription" : "Whoah! Are there giant wasps on the prowl?",
+  "hylotlDescription" : "A spacious comb made of paper. It looks like these can be arranged on the wall in interesting patterns.",
+  "novakidDescription" : "Sure is a big ol' comb. Hope there isn't a big ol' wasp inside.",
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home. And givez hive a place to store stuff.",
+
+  "inventoryIcon" : "hexpaperlockericon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperlocker.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "left",
+	  
+      //"anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    },
+    {
+      "dualImage" : "hexpaperlocker.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+
+      //"anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    }
+
+  ],
+
+  "openSounds" : [ "/sfx/objects/cardboardbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/cardboardbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

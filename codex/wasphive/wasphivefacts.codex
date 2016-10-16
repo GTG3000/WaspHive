@@ -1,0 +1,75 @@
+{
+  "id" : "wasphivefacts",
+  "title" : "^orange;Wasp Hive ^blue;Facts^reset;",
+  "description" : "Fresh from the ever popular ^orange;Alien^blue;Facts^reset; blog. Subscribe for more!",
+  "contentPages" : [
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; are able to engineer changes to their bodies on demand. Most are so optimized they have little to no conventional fat or meat, and are not edible even by florans!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; have stingers, but don't use them! Instead, they use weapons! Crazy!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; have some weird biology! An entire race of insect queens of all shapes and sizes, who are all crazy about sugar! So go and sweeten the deal with some honey!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; are really good at beatboxing - their native language consists entirely of buzzing and clicking noises anyway!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; have pretty volatile relationships with ^green;Florans^reset;! Both are tribal and like to back up their words with actions!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; are the only species to beat ^blue;Hylotl^reset; in origami - they make everything out of paper, even houses!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; are the envy of all the ^yellow;Avians^reset; - they can grow wings and fly about if they want to!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; were once researched by ^gray;Apex^reset;, but apparently Big Ape did not expect five hundred bodies to turn up for one invitation!
+
+^orange;Alien^blue;Facts!^reset;",
+
+
+"^blue;Did you know?^reset;
+
+^orange;Wasp Hives^reset; were once researched by ^gray;Apex^reset;, but apparently Big Ape did not expect five hundred bodies to turn up for one invitation!
+
+^orange;Alien^blue;Facts!^reset;"
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 100
+  }
+} 

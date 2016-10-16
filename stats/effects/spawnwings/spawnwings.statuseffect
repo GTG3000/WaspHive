@@ -1,0 +1,14 @@
+{
+  "name" : "spawnwings",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnwings.lua"
+  ],
+
+  "label" : "Growing Wings",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

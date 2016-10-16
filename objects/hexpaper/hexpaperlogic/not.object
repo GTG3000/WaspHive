@@ -1,0 +1,43 @@
+{
+  "objectName" : "hexpapernot",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A /'NOT'/ switch. Inverts the input on the circuit.",
+  "shortdescription" : "NOT Switch",
+  "race" : "wasphive",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "inventoryIcon" : "icons.png:not",
+  "orientations" : [
+    {
+      "image" : "not.png:<color>.off",
+      "imagePosition" : [-8, 0],
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/logic/logic.lua" ],
+  "scriptDelta" : 1,
+
+  "animation" : "/objects/wired/logic/logic.animation",
+
+  "animationParts" : {
+    "switch" : "not.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "inputNodes" : [ [-1, 0] ],
+  "outputNodes" : [ [1, 0] ],
+
+  "gates" : 1,
+  "truthtable" : [ true, false ]
+}

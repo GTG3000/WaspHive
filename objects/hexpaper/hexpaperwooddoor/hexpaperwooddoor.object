@@ -1,0 +1,60 @@
+{
+  "objectName" : "hexpaperwooddoor",
+  "colonyTags" : ["door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 95,
+  "description" : "A wooden door with a paper hexagon insert.",
+  "shortdescription" : "Hexagon Wooden Door",
+  "race" : "generic",
+
+  "apexDescription" : "This wooden door frames a hexagon of thick paper.",
+  "avianDescription" : "This door is decorated with paper.",
+  "floranDescription" : "Floran sees prey nest in door.",
+  "glitchDescription" : "Observant. This door is decorated with thick paper.",
+  "humanDescription" : "A fancy door with paper screen in the center.",
+  "hylotlDescription" : "This door is a grotesque imitation of a traditional shoji sceen.",
+  "novakidDescription" : "A door with a paper window innit.",
+  "wasphiveDescription" : "Hive knowz how to uze many materialz. But Hive likez ze paper combz.",
+
+  "inventoryIcon" : "hexpaperwooddooricon.png",
+
+  "tooltipKind" : "door",
+  "largeImage" : "hexpaperwooddoor.png:right",
+  
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperwooddoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wooddoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wooddoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "hexpaperwooddoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

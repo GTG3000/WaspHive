@@ -1,0 +1,25 @@
+{
+  "materialId" : 10002,
+  "materialName" : "hexpaperdetails",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "hexpaperdetails",
+  "description" : "A reinforced paper girder.",
+  "shortdescription" : "Paper girder",
+  "glitchDescription" : "Curious. This wall is made of paper, folded for extra reinforcement.",
+  "floranDescription" : "Ssstrong thick paper.",
+  "novakidDescription" : "Strong lookin' wall made from paper.",
+  "wasphiveDescription" : "Hive can make paper very ztronk.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "hexpaperdetails.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3340
+  }
+}

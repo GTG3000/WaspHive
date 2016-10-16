@@ -1,0 +1,57 @@
+{
+  "objectName" : "hexpaperbed",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 300,
+  "description" : "A bed resting on a sturdy hexagonal paper lattice",
+  "shortdescription" : "Hexagonal Paper Bed",
+  "race" : "wasphive",
+
+  "apexDescription" : "This bed uses a paper honeycomb framework to stay upright.",
+  "avianDescription" : "This paper bed is surprisingly sturdy.",
+  "floranDescription" : "Floran wondersss how big is the prey that nessstsss here.",
+  "glitchDescription" : "Concerned. I am not sure a paper lattice can support my weight.",
+  "humanDescription" : "I'm sure I'll have sweet dreams on a honeycomb bed like this! Wait, bees don't make combs out of paper...",
+  "hylotlDescription" : "A bed resting on a hand-crafted lattice of paper. Did someone put a matress on a primitive sculpture?",
+  "novakidDescription":  "Th' bed seems sturdy enough, but I wonder how hard th' bed bugs bite.",
+  "wasphiveDescription" : "Bed made of paper combz. Hive feels drowzy juzt looking at it.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/hexpaper/hexpaperbed/hexpaperbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed5"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "hexpaperbedicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperbed.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [-5, 14],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "hexpaperbed.png:<color>",
+      "imagePosition" : [-24, 0],
+      
+      "direction" : "right",
+
+      "sitPosition" : [-15, 14],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

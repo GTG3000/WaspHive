@@ -1,0 +1,12 @@
+{
+  "name" : "techeffect",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "techeffect.lua"
+  ],
+
+  "label" : "Tech Effect",
+  "icon" : "/interface/statuses/waspstatus.png"
+}

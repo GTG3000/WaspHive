@@ -1,0 +1,34 @@
+{
+  "objectName" : "hexpapertop",
+  "colonyTags" : ["wasphive"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "Half of a wall mounted paper comb, to be placed as a platform.",
+  "shortdescription" : "Paper Comb Top Platform.",
+  "race" : "wasphive",
+  "health" : 4.5,
+
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpapertopicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpapertop.png:top",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0] ],
+      "direction" : "right",
+	  
+      //"anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,0], [0, 0], [1,0]],
+	  "spaces" : [[-1,0],[0,0],[1,0]]
+    }
+
+  ],
+  
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

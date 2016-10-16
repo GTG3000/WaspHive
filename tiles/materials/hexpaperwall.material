@@ -1,0 +1,25 @@
+{
+  "materialId" : 10000,
+  "materialName" : "hexpaperwall",
+  "particleColor" : [115, 94, 58, 255],
+  "itemDrop" : "hexpaperwall",
+  "description" : "Many small paper combs stuck together firmly",
+  "shortdescription" : "Papercombs",
+  "glitchDescription" : "Impressed. These little combs are pretty strong.",
+  "floranDescription" : "Little prey nesstss.",
+  "novakidDescription" : "A lotta paper hexagons stuck together.",
+  "wasphiveDescription": "Hive makez zturdy combz, and buildz zturdy wallz out of zem.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 16,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "hexpaperwall.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 2630
+  }
+}

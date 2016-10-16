@@ -1,0 +1,53 @@
+{
+  "objectName" : "hexpaperalcoveshelf1",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "An impressive alcove of hexagons, containing a massive empty space.",
+  "shortdescription" : "Paper Comb Alcove",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "A functional wall alcove made in hollowed out paper combs. It's pretty spaceous.",
+  "avianDescription" 	: "Looks like these alcoves can be put pretty high up. Fitting for a flying creature.",
+  "floranDescription" 	: "A huge prey bursst out of thiss nesst.",
+  "glitchDescription" 	: "Impressed. This is a pretty large wall alcove made of paper.",
+  "humanDescription" 	: "I see someone else likes inbuilt furniture.",
+  "hylotlDescription" 	: "This alcove looks like a hideous hole in the wall.",
+  "novakidDescription" 	: "A place to place somethin' large, I recon.",
+  "wasphiveDescription"	: "Zometimez... Zometimez Hive juzt needz ztuff to fit.",
+
+  "inventoryIcon" : "hexpaperchairicon.png",
+  
+  "orientations" : [
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-23, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-2,0],[-1,0],[1,0],[2,0],[-2,5],[2,5]],
+	  "spaces" : [	[-3,0],[-2,0],[-1,0],[1,0],[2,0],[3,0],
+					[-3,2],[3,2],
+					[-3,4],[3,4],
+					[-2,5],[2,5]]
+    },
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      //"spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-2,0],[-1,0],[1,0],[2,0],[-2,5],[2,5]],
+	  "spaces" : [	[-3,0],[-2,0],[-1,0],[1,0],[2,0],[3,0],
+					[-3,2],[3,2],
+					[-3,4],[3,4],
+					[-2,5],[2,5]]
+    }
+  ]
+}

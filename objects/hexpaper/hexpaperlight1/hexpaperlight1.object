@@ -1,0 +1,74 @@
+{
+  "objectName" : "hexpaperlight1",
+  "colonyTags" : ["wasphive","light"],
+  "rarity" : "Common",
+  "description" : "A ceiling lamp assembled from hexagons of thick paper.",
+  "shortdescription" : "Hexagonal Paper Lantern",
+  "race" : "wasphive",
+
+  "category" : "light",
+  "price" : 75,
+  "lightColor" : [217, 217, 190],
+
+  "apexDescription" : "This lamp appears to be made of thick paper, cut into hexagons and glued together.",
+  "avianDescription" : "This lamp is surprisingly sturdy, I've never seen paper this thick.",
+  "floranDescription" : "Sssturdy paper protectss Floran.",
+  "glitchDescription" : "Questioning. Is this a lantern made to look like a honeycomb?",
+  "humanDescription" : "A lamp made of thick paper. Or is it considered cardboard at this point?",
+  "hylotlDescription" : "The Hylotl make similar lamps. Much more elegant and refined though.",
+  "novakidDescription" : "A type of hexagonal paper lamp hangin' from the ceiling.",
+  "wasphiveDescription" : "Hive makez zturdy lattice to protect ze light. Combz make Hive feel cozy.",
+
+  "inventoryIcon" : "hexpaperlight1icon.png",
+  "orientations" : [
+    {
+		"image" : "hexpaperlight1.png:<color>.<frame>",
+		"animationParts" : {
+			"bg" : "hexpaperlight1.png",
+			"fg" : "hexpaperlight1lit.png"
+		},
+		"imagePosition" : [-8, -8],
+		"animationPosition" : [-8, -8],
+		"frames" : 1,
+		"animationCycle" : 0.3,
+		"direction" : "right",
+
+		"spaceScan" : 0.1,
+		"anchors" : [ "top" ]
+    },
+    {
+		"image" : "hexpaperlight1wall.png:<color>.<frame>",
+		"animationParts" : {
+			"bg" : "hexpaperlight1wall.png",
+			"fg" : "hexpaperlight1walllit.png"
+		},
+		"imagePosition" : [-8, -8],
+		"animationPosition" : [-8, -8],
+		"frames" : 1,
+		"animationCycle" : 0.3,
+		"direction" : "right",
+
+		"spaceScan" : 0.1,
+		"anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+	"animationParts" : {
+	"bg" : "hexpaperlight1wall.png",
+	"fg" : "hexpaperlight1walllit.png"
+	},
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

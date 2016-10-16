@@ -1,0 +1,24 @@
+{
+  "materialId" : 10004,
+  "materialName" : "hexpaperplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "hexpaperplatform",
+  "shortdescription" : "Paper Comb Platform",
+  "description" : "A complicated paper platform.",
+  "glitchDescription" : "Impressed. These platforms can easily support my weight.",
+  "floranDescription" : "Paper platformsss.",
+  "novakidDescription" : "Some fancy lookin' platforms made outta paper.",
+  "wasphiveDescription" : "Hive putz paper togezer firmly into platformz.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "hexpaperplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

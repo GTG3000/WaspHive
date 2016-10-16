@@ -1,0 +1,70 @@
+{
+  "objectName" : "hexpaperlight3",
+  "colonyTags" : ["wasphive","light"],
+  "rarity" : "Common",
+  "description" : "A small wall-mounted papercomb light.",
+  "shortdescription" : "Small Comb Light",
+  "race" : "wasphive",
+
+  "category" : "light",
+  "price" : 75,
+  "lightColor" : [217, 217, 190],
+
+  "apexDescription" : "This appears to be a paper comb with a light inside. Could it be a luminous larvae of some sort?",
+  "avianDescription" : "This small lamp is surprisingly sturdy, I've never seen paper this thick.",
+  "floranDescription" : "Is there small sshiny prey inssside thiss ssmall lamp?",
+  "glitchDescription" : "Questioning. Is this a lantern made to look like a honeycomb?",
+  "humanDescription" : "A small stylish light in a shape of a honeycomb.",
+  "hylotlDescription" : "This little lamp is unassuming, but it can be arranged artfully.",
+  "novakidDescription" : "A lil' hexagon lamp made of paper.",
+  "wasphiveDescription" : "Hive makez zturdy lattice to protect ze light. Combz make Hive feel cozy.",
+
+  "inventoryIcon" : "hexpaperlight3icon.png",
+  "orientations" : [
+    {
+		"image" : "hexpaperlight3.png:<color>.<frame>",
+		"animationParts" : {
+			"bg" : "hexpaperlight3.png",
+			"fg" : "hexpaperlight3lit.png"
+		},
+		"flipImages" : false,
+		"imagePosition" : [-4, 0],
+		"animationPosition" : [-4, 0],
+		"frames" : 1,
+		"animationCycle" : 0.3,
+		"direction" : "right",
+		"anchors" : [ "background" ],
+		"spaces" : [[0,0]]
+    },
+    {
+		"image" : "hexpaperlight3.png:<color>.<frame>",
+		"animationParts" : {
+			"bg" : "hexpaperlight3unflip.png",
+			"fg" : "hexpaperlight3unfliplit.png"
+		},
+		"flipImages" : false,
+		"imagePosition" : [1, 4],
+		"animationPosition" : [1, 4],
+		"frames" : 1,
+		"animationCycle" : 0.3,
+		"direction" : "left",
+		"anchors" : [ "background" ],
+		"spaces" : [[0,0],[1,0]]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

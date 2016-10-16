@@ -1,0 +1,16 @@
+{
+  "itemName" : "hexpaperwall",
+  "price" : 10,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "hexpaperwall.png",
+  "description" : "Many small paper combs stuck together firmly",
+  "shortdescription" : "Papercombs",
+  "glitchdescription" : "Impressed. These little combs are pretty strong.",
+  "florandescription" : "Little prey nesstss.",
+  "novakiddescription" : "A lotta paper hexagons stuck together.",
+  "wasphivedescription": "Hive makez zturdy combz, and buildz zturdy wallz out of zem.",
+
+  "materialId" : 10000,
+  "learnBlueprintsOnPickup" : [ "hexpaperwall" ]
+}

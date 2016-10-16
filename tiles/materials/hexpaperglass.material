@@ -1,0 +1,25 @@
+{
+  "materialId" : 10003,
+  "materialName" : "hexpaperglass",
+  "particleColor" : [237, 254, 255, 255],
+  "itemDrop" : "hexpaperglass",
+  "description" : "I can see my fractured reflection.",
+  "shortdescription" : "Glass Cell Block",
+  "glitchDescription" : "Attentive. I can see through these glass cells.",
+  "floranDescription" : "Many pretty reflectionss of Floran.",
+  "novakidDescription" : "I can see all t'way through these glass cells.",
+  "wasphiveDescription" : "Zometimez Hive wantz natural light in ze roomz.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "hexpaperglass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 470
+  }
+}

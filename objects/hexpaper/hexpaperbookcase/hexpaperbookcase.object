@@ -1,0 +1,45 @@
+{
+  "objectName" : "hexpaperbookcase",
+  "colonyTags" : ["knowledge","storage","wasphive"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A tall paper comb bookcase full of books.",
+  "shortdescription" : "Paper Comb Bookcase",
+  "race" : "wasphive",
+  "price" : 200,
+  "health" : 1.5,
+
+  "apexDescription" : "Small as it may be, you could fit all of the Miniknog-allowed books in this bookcase.",
+  "avianDescription" : "A bookcase made of paper. I wonder if someone sacrificed bad books to make a house for good ones.",
+  "floranDescription" : "Floran thinkss this bookcassse has jussst enough ssspace.",
+  "glitchDescription" : "Curious. Is this bookcase made of books? It's certainly made of paper.",
+  "humanDescription" : "Egads! Knowledge wasps are on the prowl! Stinging with their sharp wits!",
+  "hylotlDescription" : "A bookcase made of paper. I find it... Ironic.",
+  "novakidDescription" : "A large bookcase made of combs. Hope them books don't sting!",
+  "wasphiveDescription" : "Hive knowz how to read AND write. Hive juzt doezn't zee much point.",
+
+  "inventoryIcon" : "hexpaperbookcaseicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperbookcase.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-1, 4],[0,4]]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

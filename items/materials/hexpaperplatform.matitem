@@ -1,0 +1,18 @@
+{
+  "itemName" : "hexpaperplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "hexpaperplatformicon.png",
+  "description" : "A complicated paper platform.",
+  "shortdescription" : "Paper Comb Platform",
+  "glitchdescription" : "Impressed. These platforms can easily support my weight.",
+  "florandescription" : "Paper platformsss.",
+  "novakiddescription" : "Some fancy lookin' platforms made outta paper.",
+  "wasphivedescription" : "Hive putz paper togezer firmly into platformz.",
+  //"learnBlueprintsOnPickup" : [ "protectorateplatform" ],
+  
+  "materialId" : 10004,
+  "learnBlueprintsOnPickup" : [ "hexpaperplatform" ]
+
+}

@@ -1,0 +1,50 @@
+{
+  "objectName" : "hexpaperalcovebookcase",
+  "colonyTags" : ["knowledge","storage","wasphive"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A spacious bookshelf built into wall combs.",
+  "shortdescription" : "Paper Comb Alcove Bookshelf",
+  "race" : "wasphive",
+  "price" : 150,
+  "health" : 1.5,
+
+  "apexDescription" : "A spacious bookcase built into the wall.",
+  "avianDescription" : "A paper bookcase for the space conscious.",
+  "floranDescription" : "Huge book holder for wall.",
+  "glitchDescription" : "Delighted. This bookshelf is as big as some bookcases.",
+  "humanDescription" : "A stylish hexagonal paper bookshelf.",
+  "hylotlDescription" : "These books are mounted on the wall in a paper shelf to save space.",
+  "novakidDescription" : "A great space-saving idea.",
+  "wasphiveDescription" : "Hive build wall ztorages for everything! Even paper!",
+
+  "inventoryIcon" : "hexpaperalcovebookcaseicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperalcovebookcase.png:<color>",
+      "imagePosition" : [-24, 0],
+	  "direction" : "right",
+      //"frames" : 1,
+      //"animationCycle" : 0.5,
+
+      "anchors" : [ "background" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [[-2,2],[-1,2],[0,3],[0,2],[1,2],[2,2]],
+	  "spaces" : 	[[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+					[-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[0,3]
+					]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

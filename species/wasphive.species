@@ -1,0 +1,174 @@
+{
+  "kind" : "wasphive",
+   "charCreationTooltip" : {
+      "title" : "Wasp Hive",
+      "subTitle" : "Honey",
+      "description" : "Hive wasps. Each wasp is their own hive."
+  },
+  "nameGen" : [ "/species/wasphivenamegen.config:names", "/species/wasphivenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/npc/quadruped/bugthinghead_pain1.ogg", "/sfx/npc/quadruped/bugthinghead_pain2.ogg" ],
+  "gruntNoises" : [ [ "/sfx/npc/quadruped/bugthinghead_turnhostile.ogg", "/sfx/npc/quadruped/bugthinghead_attack2.ogg" ], [ "/sfx/npc/quadruped/bugthinghead_attack1.ogg", "/sfx/npc/quadruped/bugthinghead_pain1.ogg" ] ],
+  "charGenTextLabels" : [ "Primary Colour", "Antennae Style", "Shirt", "Pants", "Secondary Colour", "Unused Slot", "Shirt Colour", "Pants Color", "WASP HIVE", "Personality" ],
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flaghuman" },
+      { "item" : "hivepaper" },
+      { "item" : "hexpaperchair1" },
+      { "item" : "hexpaperhexagon" },
+      { "item" : "hexpaperwall" },
+      { "item" : "hexpaperdetails" },
+      { "item" : "hexpapersupport" },
+      { "item" : "hexpaperglass" },
+      { "item" : "hexpaperplatform" },
+	  { "item" : "wingstim" },
+
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "wasphiveshipdoor" },
+      { "item" : "wasphiveshiphatch" },
+      { "item" : "wasphiveshipdoorslim" },
+      { "item" : "wasphiveshiphatchslim" },
+
+// Spinning Wheel
+      { "item" : "conceptchest" },
+      { "item" : "conceptlegs" },
+      { "item" : "coolchest" },
+      { "item" : "coollegs" },
+      { "item" : "sweatervestchest" },
+      { "item" : "sweatervestlegs" },
+      { "item" : "workoutchest" },
+      { "item" : "workoutlegs" }
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/wasphivemale.png",
+      "characterImage" : "/interface/title/wasphivembust.png",
+	  "hair" : [ "1", "2", "3", "4", "5" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/wasphivefemale.png",
+      "characterImage" : "/interface/title/wasphivefbust.png",
+	  "hair" : [ "1", "2", "3", "4", "5" ],
+      "shirt" : [ "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "FFCA8A" : "E2B2FF", "E0975C" : "B374D4", "A85636" : "7C4992", "6F2919" : "4B2655" }, //purple
+    { "FFCA8A" : "eab3db", "E0975C" : "d35eae", "A85636" : "97276d", "6F2919" : "59163f" }, //pink
+    { "FFCA8A" : "f4988c", "E0975C" : "d93a3a", "A85636" : "932625", "6F2919" : "601119" }, //red
+    { "FFCA8A" : "ffd495", "E0975C" : "ea9931", "A85636" : "af4e00", "6F2919" : "6e2900" }, //orange
+    { "FFCA8A" : "ffffa7", "E0975C" : "e2c344", "A85636" : "a46e06", "6F2919" : "642f00" }, //yellow
+    { "FFCA8A" : "d1e160", "E0975C" : "9bba3d", "A85636" : "48832f", "6F2919" : "1b4c2a" }, //green
+    { "FFCA8A" : "a8e6e2", "E0975C" : "4facb2", "A85636" : "30636c", "6F2919" : "233c43" }, //cyan
+    { "FFCA8A" : "ccae7c", "E0975C" : "a47844", "A85636" : "754c23", "6F2919" : "472b13" }, //brown
+    { "FFCA8A" : "FFFFFF", "E0975C" : "D7D5DB", "A85636" : "8E8E9B", "6F2919" : "6D6D6D" }, //white
+    { "FFCA8A" : "9E9E9E", "E0975C" : "696969", "A85636" : "434343", "6F2919" : "191919" }  //gray
+  ],
+  "undyColor" : [
+    { "F32200" : "E2B2FF", "DC1F00" : "B374D4", "BE1B00" : "7C4992", "951500" : "4B2655" }, //purple
+    { "F32200" : "eab3db", "DC1F00" : "d35eae", "BE1B00" : "97276d", "951500" : "59163f" }, //pink
+    { "F32200" : "f4988c", "DC1F00" : "d93a3a", "BE1B00" : "932625", "951500" : "601119" }, //red
+    { "F32200" : "ffd495", "DC1F00" : "ea9931", "BE1B00" : "af4e00", "951500" : "6e2900" }, //orange
+    { "F32200" : "ffffa7", "DC1F00" : "e2c344", "BE1B00" : "a46e06", "951500" : "642f00" }, //yellow
+    { "F32200" : "d1e160", "DC1F00" : "9bba3d", "BE1B00" : "48832f", "951500" : "1b4c2a" }, //green
+    { "F32200" : "a8e6e2", "DC1F00" : "4facb2", "BE1B00" : "30636c", "951500" : "233c43" }, //cyan
+    { "F32200" : "ccae7c", "DC1F00" : "a47844", "BE1B00" : "754c23", "951500" : "472b13" }, //brown
+    { "F32200" : "FFFFFF", "DC1F00" : "D7D5DB", "BE1B00" : "8E8E9B", "951500" : "6D6D6D" }, //white
+    { "F32200" : "737275", "DC1F00" : "595760", "BE1B00" : "3F3E43", "951500" : "212123" }  //dark
+  ],
+  "hairColor" : [
+    { "F7E7B2" : "FFC149", "D9C189" : "FFA500", "A38D59" : "C67B00", "735E3A" : "845200" }, //orange
+    { "F7E7B2" : "FFFFFF", "D9C189" : "D7D5DB", "A38D59" : "8E8E9B", "735E3A" : "6D6D6D" }, //white
+    { "F7E7B2" : "CD7575", "D9C189" : "9C3131", "A38D59" : "732929", "735E3A" : "411818" }, //chel redbrown
+    { "F7E7B2" : "E2B2FF", "D9C189" : "B374D4", "A38D59" : "7C4992", "735E3A" : "4B2655" }, //purple
+    { "F7E7B2" : "9E9E9E", "D9C189" : "696969", "A38D59" : "434343", "735E3A" : "191919" }, //gray
+    { "F7E7B2" : "F0608B", "D9C189" : "CD5061", "A38D59" : "95484C", "735E3A" : "6A3836" }, //red
+    { "F7E7B2" : "7FDADD", "D9C189" : "61AEBF", "A38D59" : "4E7A90", "735E3A" : "3F566E" }, //cyan
+    { "F7E7B2" : "F3EFA3", "D9C189" : "E3D965", "A38D59" : "BAA94A", "735E3A" : "98832D" }, //yellow
+    { "F7E7B2" : "998779", "D9C189" : "836752", "A38D59" : "625244", "735E3A" : "4E3B2E" }, //brown
+    { "F7E7B2" : "737275", "D9C189" : "595760", "A38D59" : "3F3E43", "735E3A" : "212123" }, //dark
+    { "F7E7B2" : "EEBFEA", "D9C189" : "DE8DDD", "A38D59" : "C060BB", "735E3A" : "9A4B9C" }, //purple
+    { "F7E7B2" : "D18BD5", "D9C189" : "A766BC", "A38D59" : "814797", "735E3A" : "693367" }, //darkpurple
+    { "F7E7B2" : "F3C873", "D9C189" : "DB9C38", "A38D59" : "B17628", "735E3A" : "89561F" }, //mustard
+    { "F7E7B2" : "DBF4B8", "D9C189" : "A4D66B", "A38D59" : "6F9E47", "735E3A" : "426D26" }, //yellowgreen
+    { "F7E7B2" : "B8F4BB", "D9C189" : "72DD7E", "A38D59" : "4AA559", "735E3A" : "266535" }, //limegreen
+    { "F7E7B2" : "F1EABB", "D9C189" : "D8D077", "A38D59" : "A09E4E", "735E3A" : "5F6229" }, //yellow
+    { "F7E7B2" : "B8F4D9", "D9C189" : "72DDB3", "A38D59" : "4AA586", "735E3A" : "266554" }, //aqua
+    { "F7E7B2" : "b5c2fa", "D9C189" : "758bf8", "A38D59" : "4a5ba5", "735E3A" : "272665" }  //blue
+  ]
+}
+

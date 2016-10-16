@@ -1,0 +1,9 @@
+{
+  "codexId" : "wasphiveresearch",
+  "title" : "Wasp Hives",
+  "codexkind" : "codex",
+  "itemName" : "wasphiveresearchCodex",
+  "rarity" : "common",
+  "description" : "Notes on Hive biology.",
+  "shortdescription" : "Wasp hive Research"
+}

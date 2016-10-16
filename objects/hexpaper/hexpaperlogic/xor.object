@@ -1,0 +1,47 @@
+{
+  "objectName" : "hexpaperxor",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An /'XOR'/ switch. Requires one input to be on, and one off.",
+  "shortdescription" : "XOR Switch",
+  "race" : "wasphive",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "floranDescription" : "An /'XOR'/ sswitch. Requiresss one input to be on, and one off.",
+  "glitchDescription" : "Observation. An /'XOR'/ switch. Requires one input to be on, and one off.",
+  "wasphiveDescription":"An /'XOR'/ zwitch. Requirez one input to be on, and one off.",
+
+  "inventoryIcon" : "icons.png:xor",
+  "orientations" : [
+    {
+      "image" : "xor.png:<color>.off",
+      "imagePosition" : [-8, 0],
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/logic/logic.lua" ],
+  "scriptDelta" : 1,
+
+  "animation" : "/objects/wired/logic/logic.animation",
+
+  "animationParts" : {
+    "switch" : "xor.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "inputNodes" : [ [-1, 0], [0, 1] ],
+  "outputNodes" : [ [1, 0] ],
+
+  "gates" : 2,
+  "truthtable" : [ [ false, true ], [ true, false ] ]
+}

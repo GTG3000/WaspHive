@@ -1,0 +1,45 @@
+{
+  "objectName" : "hexpaperfridge",
+  "colonyTags" : ["knowledge","storage","wasphive"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "fridgeStorage",
+  "description" : "A tall paper comb fridge with brass doors.",
+  "shortdescription" : "Paper Comb Fridge",
+  "race" : "wasphive",
+  "price" : 600,
+  "health" : 1.5,
+
+  "apexDescription" : "A large refrigerator. While the frame is made of thick paper, the insides are all bronze.",
+  "avianDescription" : "A refrigerator made of paper and brass. I wonder if there are sweet snacks inside?",
+  "floranDescription" : "Floran likess big fridge!",
+  "glitchDescription" : "Curious. This refrigerator is somewhat primitive, but it's spacious.",
+  "humanDescription" : "An old-timey fridge? Or a stylish fridge? A huge fridge anyway.",
+  "hylotlDescription" : "A fridge made of large slabs of bronze and thick unrefined paper.",
+  "novakidDescription" : "A big ol' fridge, made of bronze.",
+  "wasphiveDescription" : "Hive likez zweetz zat don't zpoil, but Hive alzo likez ozer foodz!",
+
+  "inventoryIcon" : "hexpaperfridgeicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperfridge.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-1, 4],[0,4]]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

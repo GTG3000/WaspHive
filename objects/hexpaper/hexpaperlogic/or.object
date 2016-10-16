@@ -1,0 +1,47 @@
+{
+  "objectName" : "hexpaperor",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An /'OR'/ switch. Allows you to have multiple individual inputs.",
+  "shortdescription" : "OR Switch",
+  "race" : "wasphive",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "floranDescription" : "An /'OR'/ sswitch. Allowsss you to have multiple individual inputs.",
+  "glitchDescription" : "Pleased. An /'OR'/ switch. Allows you to have multiple individual inputs.",
+  "wasphiveDescription":"And /'OR'/ zwitch. Allowz you to have multiple individual inputs.",
+
+  "inventoryIcon" : "icons.png:or",
+  "orientations" : [
+    {
+      "image" : "or.png:<color>.off",
+      "imagePosition" : [-8, 0],
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/logic/logic.lua" ],
+  "scriptDelta" : 1,
+
+  "animation" : "/objects/wired/logic/logic.animation",
+
+  "animationParts" : {
+    "switch" : "or.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "inputNodes" : [ [-1, 0], [0, 1] ],
+  "outputNodes" : [ [1, 0] ],
+
+  "gates" : 2,
+  "truthtable" : [ [ false, true ], [ true, true ] ]
+}

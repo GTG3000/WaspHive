@@ -1,0 +1,43 @@
+{
+  "objectName" : "hexpaperceilingbookcase",
+  "colonyTags" : ["knowledge","storage","wasphive"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A couple of paper combs, filled with paper books.",
+  "shortdescription" : "Paper Comb Bookshelf",
+  "race" : "wasphive",
+  "price" : 75,
+  "health" : 1.5,
+
+  "apexDescription" : "This bookshelf looks like some insects should be living in it, not books.",
+  "avianDescription" : "A small bookcase made out of paper. I wonder what books it holds!",
+  "floranDescription" : "Sssomeone already ate the prey and put bookss in it'ss place.",
+  "glitchDescription" : "Delighted. A small wall bookcase, for the select favourites.",
+  "humanDescription" : "I wonder if bees and wasps read?",
+  "hylotlDescription" : "This bookcase is more ornamental than useful.",
+  "novakidDescription" : "Them books better be sweet as honey!",
+  "wasphiveDescription" : "Compact and uzeful. Zeze combz have juzt enough zpace.",
+
+  "inventoryIcon" : "hexpaperceilingbookcaseicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hexpaperceilingbookcase.png:<color>",
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

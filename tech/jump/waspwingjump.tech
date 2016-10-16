@@ -1,0 +1,42 @@
+{
+  "name" : "waspwingjump",
+  "type" : "legs",
+
+  "scripts" : ["waspwingjump.lua"],
+  "animator" : "waspwingjump.animation",
+
+  "description" : "Soar like a wasp! Glide like a wasp! Sting like... Wait for it... A wasp!",
+  "shortDescription" : "Wasp Wings",
+  "rarity" : "Legendary",
+  "icon" : "/tech/waspwingjump.png",
+
+  "chipCost" : 8,
+  "layer" : "back",
+
+  "multiJumpCount" : 1,
+  "multiJumpModifier" : 0.75,
+  
+  "multiJumpEnergy" : 15,
+  "hoverEnergy" : 0.25,
+
+  "wallSensors" : [1.0, 1.75, 2.5],
+  "wallDetectThreshold" : 1,
+
+  "wallReleaseTime" : 0.15,
+
+  "wallGrabFreezeTime" : 0.15,
+  "wallJumpXVelocity" : 15,
+  "wallSlideParameters" : {
+    "airJumpProfile" : {
+      "jumpInitialPercentage" : 1.0
+    },
+    "airForce" : 0,
+    "airFriction" : 10.0
+  },
+  "fallingParameters" : {
+    "airForce" : 30,
+    "runSpeed" : 14,
+    "walkSpeed" : 14
+  },
+  "maxFallSpeed" : -14
+}

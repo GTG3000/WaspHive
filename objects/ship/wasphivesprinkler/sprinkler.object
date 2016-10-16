@@ -1,0 +1,90 @@
+{
+  "objectName" : "wasphivesprinkler",
+  "colonyTags" : ["farming","wasphive"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An automated soil watering solution.",
+  "shortdescription" : "Sprinkler",
+
+  "apexDescription" : "A sprinkler. Quite a clever way to water crops.",
+  "avianDescription" : "It's a machine that waters crops automatically.",
+  "floranDescription" : "Waters cropss..",
+  "glitchDescription" : "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+  "humanDescription" : "It's a sprinkler for watering crops! Running through sprinklers makes me feel nostalgic.",
+  "hylotlDescription" : "It is used to water crops. Simple, but rather clever.",
+  "novakidDescription" : "Waterin' crops made simple.",
+  "wasphiveDescription" : "Hive likez compact zprinklerz.",
+
+  "category" : "wire",
+  "price" : 200,
+
+  "inventoryIcon" : "sprinklericon.png",
+  "orientations" : [
+    {
+      "image" : "sprinkler.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "animationPosition" : [0, 0],
+      "animationParts" : {
+        "bg" : "sprinkler.png",
+        "fg" : "sprinkler.png"
+      },
+
+      "projectileDirection" : [0, 1],
+      "projectilePosition" : [-0.5, 1.5],
+	  
+      "bgAnchors" : [ [0, 0] ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 0]],
+	  "spaces" : [[0, 0]]
+    },
+    {
+      "image" : "sprinkler.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "animationPosition" : [0, 0],
+      "animationParts" : {
+        "bg" : "sprinkler.png",
+        "fg" : "sprinkler.png"
+      },
+
+      "projectileDirection" : [0, 1],
+      "projectilePosition" : [0.5, 1.5],
+	  
+      "bgAnchors" : [ [0, 0] ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 0]],
+	  "spaces" : [[0, 0]]
+    }
+  ],
+
+  "scripts" : [ "projectiletrap.lua" ],
+  "scriptDelta" : 2,
+
+  "animation" : "projectiletrap.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "shoot" : [ ],
+      "on" : [ ],
+      "off" : [ ]
+    }
+  },
+
+  "inputNodes" : [ [0, 0] ],
+
+  "inactiveLightColor" : [0, 0, 0], // light color to emit when the object is 'off'
+  "activeLightColor" : [0, 0, 0], // light color to emit when the object is 'on'
+
+  "fireTime" : 0.3, // rate of fire
+  "fireTimeVariance" : 0.1, // variation in rate of fire
+  "inaccuracy" : 0.5,
+  "projectile" : "watersprinkledroplet", // name of projectile (required)
+  "projectileConfig" : { // extra configuration overrides for projectile
+    "damageTeam" : { "type" : "indiscriminate" },
+    "power" : 0,
+    "speed" : 25
+  }
+}

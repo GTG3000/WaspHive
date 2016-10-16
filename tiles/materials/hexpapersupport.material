@@ -1,0 +1,28 @@
+
+{
+  "materialId" : 10001,
+  "materialName" : "hexpapersupport",
+  "frames" : "hexpapersupport.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "hexpapersupport",
+  "description" : "A wall support used in hive construction.",
+  "shortdescription" : "Paper Support",
+  "glitchDescription" : "Informed. Looks like a support for a house. But made of paper.",
+  "floranDescription" : "Paper sstructural ssupport.",
+  "novakidDescription" : "Made for holdin' up a roof of a card house, I recon.",
+  "wasphiveDescription" : "Zpecially made paper holdz hivez together.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "hexpapersupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3190
+  }
+}

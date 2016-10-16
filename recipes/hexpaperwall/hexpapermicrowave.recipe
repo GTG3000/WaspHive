@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 5 },
+    { "item" : "hexpaperhexagon", "count" : 1 },
+    { "item" : "glass", "count" : 2 },
+    { "item" : "wire", "count" : 5 },
+    { "item" : "siliconeboard", "count" : 3 },
+    { "item" : "copperbar", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "hexpapermicrowave",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

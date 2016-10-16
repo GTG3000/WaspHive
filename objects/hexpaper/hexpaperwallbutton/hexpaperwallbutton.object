@@ -1,0 +1,67 @@
+{
+  "objectName" : "hexpaperwallbutton",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Who knows what it might activate... just press it!",
+  "shortdescription" : "Paper Comb Button",
+  "race" : "generic",
+
+  "apexDescription" : "A button in a paper comb. Its function is unknown. Only one way to find out.",
+  "avianDescription" : "This button has a curious frame made of paper.",
+  "floranDescription" : "Floran push nesst buttonsss! Buttonss call prey!",
+  "glitchDescription" : "Tempted. A button in a paper frame, begging to be pressed.",
+  "humanDescription" : "On one hand, it's a button! On the other hand, what if it calls for wasps?",
+  "hylotlDescription" : "Buttons are infuriating. At least this one looks unique.",
+  "novakidDescription" : "Why is it always so darn temptin' to push buttons.",
+  "wasphiveDescription" : "Hive buildz buttonz to control all kindz of thingz!",
+
+  "category" : "wire",
+  "price" : 50,
+
+  "inventoryIcon" : "hexpaperwallbuttonicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperwallbutton.png:<color>.off",
+      "imagePosition" : [-8, 0],
+	  "direction" : "right",
+
+      "anchors" : [ "background" ],
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/momentaryswitch/momentaryswitch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/switch/switchtoggle.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button3.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "switch" : "hexpaperwallbutton.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "outputNodes" : [ [1, 0] ],
+
+  "interval" : 15,
+
+  "npcToy": {
+    "ownerOnly": true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

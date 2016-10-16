@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 5 }
+  ],
+  "output" : { "item" : "hexpaperdetails", "count" : 20 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

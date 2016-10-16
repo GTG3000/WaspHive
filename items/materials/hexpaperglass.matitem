@@ -1,0 +1,16 @@
+{
+  "itemName" : "hexpaperglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "hexpaperglass.png",
+  "description" : "I can see my fractured reflection.",
+  "shortdescription" : "Glass Comb Block",
+  "glitchdescription" : "Attentive. I can see through these glass cells.",
+  "florandescription" : "Many pretty reflectionss of Floran.",
+  "novakiddescription" : "I can see all t'way through these glass cells.",
+  "wasphivedescription" : "Zometimez Hive wantz natural light in ze roomz.",
+
+  "materialId" : 10003,
+  "learnBlueprintsOnPickup" : [ "hexpaperglass" ]
+}

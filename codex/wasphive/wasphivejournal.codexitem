@@ -1,0 +1,9 @@
+{
+  "codexId" : "wasphivejournal",
+  "title" : "Journal of a wasp hive.",
+  "codexkind" : "codex",
+  "itemName" : "wasphivejournalCodex",
+  "rarity" : "common",
+  "description" : "Translation of a pre-terrene hive journal.",
+  "shortdescription" : "Journal of a wasp hive."
+}

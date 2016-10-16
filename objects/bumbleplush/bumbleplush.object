@@ -1,0 +1,41 @@
+{
+  "objectName" : "bumbleplush",
+  "colonyTags" : ["pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A cute little bumblebee.",
+  "shortdescription" : "Bumblebee",
+
+  "apexDescription" : "An adorable bumblebee.",
+  "avianDescription" : "A cute and cuddly toy bumblebee.",
+  "floranDescription" : "Fluffy toy is ssstaring at Floran.",
+  "glitchDescription" : "Overjoyed. This bumblebee is so soft and fuzzy!",
+  "humanDescription" : "I just wanna cuddle this bumblebee forever.",
+  "hylotlDescription" : "Eeee! A wonderful bumblebee plushie. I love it!",
+  "novakidDescription" : "This lil' guy is pretty cute, I guess.",
+
+  "inventoryIcon" : "bumbleplush.png",
+  "orientations" : [
+    {
+      "image" : "bumbleplush.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "bumbleplush.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

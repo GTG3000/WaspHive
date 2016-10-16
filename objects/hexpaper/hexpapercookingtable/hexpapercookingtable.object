@@ -1,0 +1,42 @@
+{
+  "objectName" : "hexpapercookingtable",
+  "colonyTags" : ["wasphive","cooking"],
+  "price" : 300,
+  "rarity" : "Uncommon",
+  "category" : "crafting",
+  "description" : "This table is made of surprisingly thick paper, and has everything to cook food with.",
+  "shortdescription" : "Paper Comb Cooking Table",
+  "race" : "wasphive",
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingfood.config",
+    "filter" : [ "craftingfood" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Paper Comb Cooking Table",
+        "subtitle" : " ^#b9b5b2;Prepare and cook foodz"
+      }
+    }
+  },
+
+  "apexDescription" : "You'd think putting a stove into a paper table would be a bad idea, but it works fine.",
+  "avianDescription" : "I can use this to make all sorts of food. Should be careful not to burn it though.",
+  "floranDescription" : "Paper table sssoak food juicesss in? Floran unsssure.",
+  "glitchDescription" : "Cautious. Fire and paper don't go along usually. But this paper feels a bit like waxed wood.",
+  "humanDescription" : "A fancy cooking table! I haven't seen one made of paper before!",
+  "hylotlDescription" : "This table is a nightmare to keep clean after food preparation, I imagine.",
+  "novakidDescription" : "Time to cook something sweet!",
+  "wasphiveDescription" : "Big hivez have to do with zimple foodz. Hive can afford to cook fancy. And zweetz.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "hexpapercookingtable.png:<color>",
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

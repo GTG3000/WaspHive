@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "siliconboard", "count" : 1 },
+    { "item" : "wire", "count" : 3 },
+    { "item" : "hexpaperhexagon", "count" : 1 },
+    { "item" : "copperbar", "count" : 2 }
+  ],
+  "output" : { "item" : "hexpapertimer", "count" : 1 },
+  "groups" : [ "craftingwiring", "logic" ]
+}

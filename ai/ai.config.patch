@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/species/wasphive",
+    "value": {
+      "aiFrames": "humanai.png",
+      "portraitFrames": "portraits/humanportrait.png",
+      "staticFrames": "statichuman.png"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "objectName" : "hexpaperalcoveshelf",
+  "colonyTags" : ["storage","wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "description" : "A spacious bookshelf built into wall combs.",
+  "shortdescription" : "Small Paper Comb Alcove Shelf",
+  "race" : "wasphive",
+  "price" : 150,
+  "health" : 1.5,
+
+  "apexDescription" : "A shelf built into the wall.",
+  "avianDescription" : "A paper shelf for the space conscious.",
+  "floranDescription" : "A sstuff holder for wall.",
+  "glitchDescription" : "Delighted. This shelf is built into the wall and framed with paper.",
+  "humanDescription" : "A stylish hexagonal paper shelf.",
+  "hylotlDescription" : "This shelf has a thick paper frame. How gaudy.",
+  "novakidDescription" : "A great space-saving idea.",
+  "wasphiveDescription" : "Hive build wall ztorages for everything! Even thingz Hive wantz on dizplay!",
+
+  "inventoryIcon" : "hexpaperalcoveshelficon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperalcoveshelf.png:<color>",
+      "imagePosition" : [-24, 0],
+	  "direction" : "right",
+
+      "anchors" : [ "background" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [[-2,2],[2,2],[0,3],[-1,0],[0,0],[1,0]],
+	  "spaces" : 	[[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[2,1],[3,1],
+					[-2,2],[2,2],
+					[0,3]
+					]
+
+    },
+	{
+      "image" : "hexpaperalcoveshelf.png:<color>",
+      "imagePosition" : [-23, 0],
+	  "direction" : "left",
+	  "flipImages" : true,
+
+      "anchors" : [ "background" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [[-2,2],[2,2],[0,3],[-1,0],[0,0],[1,0]],
+	  "spaces" : 	[[-1,0],[0,0],[1,0],
+					[-3,1],[-2,1],[2,1],[3,1],
+					[-2,2],[2,2],
+					[0,3]
+					]
+
+    }
+  ],
+
+  "frameCooldown" : 5
+}

@@ -1,0 +1,56 @@
+{
+  "objectName" : "hexpaperlight2",
+  "colonyTags" : ["wasphive","light"],
+  "rarity" : "Common",
+  "description" : "A large wall-mounted papercomb light.",
+  "shortdescription" : "Large Comb Lantern",
+  "race" : "wasphive",
+
+  "category" : "light",
+  "price" : 75,
+  "lightColor" : [217, 217, 190],
+
+  "apexDescription" : "Someone built a large paper comb into this wall and made it into a large light.",
+  "avianDescription" : "I like warmth of light shining through paper.",
+  "floranDescription" : "Iss there ssshiny prey insside wall light?",
+  "glitchDescription" : "Questioning. Is there some sort of a giant shiny bee inside?",
+  "humanDescription" : "A classy wall-mounted light. You can tell, because it's made of paper.",
+  "hylotlDescription" : "The Hylotl make similar lamps. Much more elegant and refined though.",
+  "novakidDescription" : "A type of hexagonal paper lamp hangin' from the ceiling.",
+  "wasphiveDescription" : "Hive makez zturdy lattice to protect ze light. Combz make Hive feel cozy.",
+
+  "inventoryIcon" : "hexpaperlight2icon.png",
+  "orientations" : [
+    {
+		"image" : "hexpaperlight2.png:<color>.<frame>",
+		"imagePosition" : [-8, 0],
+		"animationPosition" : [-8, 0],
+		"frames" : 1,
+		"animationCycle" : 0.3,
+		"direction" : "right",
+		"anchors" : [ "background" ],
+		"collision" : "platform",
+		"collisionSpaces" : [  [0, 1]],
+		"spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+	"animationParts" : {
+	"bg" : "hexpaperlight2.png",
+	"fg" : "hexpaperlight2lit.png"
+	},
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

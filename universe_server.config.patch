@@ -1,0 +1,16 @@
+[
+  { "op" : "add",
+    "path" : "/speciesShips/wasphive",
+     "value" : [ 
+                "/ships/wasphive/wasphiveT0.structure",
+                "/ships/wasphive/wasphiveT1.structure",
+                "/ships/wasphive/wasphiveT2.structure",
+                "/ships/wasphive/wasphiveT3.structure",
+                "/ships/wasphive/wasphiveT4.structure",
+                "/ships/wasphive/wasphiveT5.structure",
+                "/ships/wasphive/wasphiveT6.structure",
+                "/ships/wasphive/wasphiveT7.structure",
+                "/ships/wasphive/wasphiveT8.structure"
+              ]
+  }
+]
