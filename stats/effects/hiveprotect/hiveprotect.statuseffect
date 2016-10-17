@@ -1,0 +1,9 @@
+{
+  "name" : "hiveprotect",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "hiveprotect.lua"
+  ]
+}
