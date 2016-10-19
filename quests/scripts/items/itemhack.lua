@@ -9,7 +9,7 @@ function init()
   storage.item = storage.item or false
   storage.timer = storage.timer or 0
   storage.techSwapped = storage.techSwapped or false
-  storage.debug = config.getParameter("debug")
+  storage.debug = config.getParameter("debug") or false
   message.setHandler("techChangeOn", function(...) onTechChangeEquipped(...) end)
   --message.setHandler("techChangeOff", function(...) onTechChangeOff(...) end)
 
@@ -21,14 +21,14 @@ function onTechChangeEquipped(message, isLocal, techName)
 		storage.techStored = player.equippedTech("legs") or false --just for legs right now. hopefully this works
 		storage.techEquipped = techName
 		storage.item = player.equippedItem("back").name
-		player.makeTechAvailable(techName)
-		player.enableTech(techName)
-		player.equipTech(techName)
 		if storage.debug then
 			local messageTemp = self.radioMessages.received
 			messageTemp.text="Activated Tech "..techName.." ( replaced "..storage.techStored.." ) on "..storage.item
 			player.radioMessage(messageTemp)
 		end
+		player.makeTechAvailable(techName)
+		player.enableTech(techName)
+		player.equipTech(techName)
 		storage.techSwapped = true
 	elseif storage.debug then
 		local messageTemp = self.radioMessages.received
