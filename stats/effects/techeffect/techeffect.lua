@@ -4,15 +4,16 @@ function init()
     {stat = "jumpModifier", amount = 0.5}
   })
   self.activeflag = true
+  self.tech = config.getParameter("tech") or "doublejump"
 end
 
 function update(dt)
 	if self.activeflag then
-		world.sendEntityMessage(effect.sourceEntity(),"techChangeOn","waspwingjump")
+		world.sendEntityMessage(effect.sourceEntity(),"techChangeOn",self.tech)
 		self.activeflag = false
 	end
 	mcontroller.controlModifiers({
-		airJumpModifier = 1.5
+		airJumpModifier = 1.25
     })
 end
 

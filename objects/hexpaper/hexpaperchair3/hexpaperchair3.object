@@ -1,0 +1,47 @@
+{
+  "objectName" : "hexpaperchair3",
+  "colonyTags" : ["wasphive"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 150,
+  "description" : "A simple chair with a back, made of paper combs.",
+  "shortdescription" : "Paper Comb Chair",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "This comb seems sturdy. I could put stuff on it, including my butt.",
+  "avianDescription" 	: "I could make a tall tower out of these combs and sit on it. But I'm worried about falling.",
+  "floranDescription" 	: "Floran build a ssspire of combsss! And sssit on top!.",
+  "glitchDescription" 	: "Curious. It looks like this humble paper comb has more than one use.",
+  "humanDescription" 	: "Is it a chair? Is it a table? I can't wait to find out!",
+  "hylotlDescription" 	: "This comb looks like a part of something bigger.",
+  "novakidDescription" 	: "A fine lookin' paper armchair. Makes me feel all fancy.",
+  "wasphiveDescription"	: "A paper comb, ztrong enough to ztand on. Hive feelz creative!",
+
+  "inventoryIcon" : "hexpaperchairicon.png",
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitCoverImage" : "/objects/hexpaper/hexpaperchair3/hexpaperchaircover.png",
+  
+  "orientations" : [
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-16, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [4, 21]
+    },
+    {
+      "image" : "hexpaperchair.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [-4, 21]
+    }
+  ]
+}

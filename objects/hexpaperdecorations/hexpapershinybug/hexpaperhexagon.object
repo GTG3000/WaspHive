@@ -1,0 +1,61 @@
+{
+  "objectName" : "hexpapershinybug",
+  "colonyTags" : ["wasphive"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "A large paper comb.",
+  "shortdescription" : "Stained Glass Shiny Bug",
+  "race" : "wasphive",
+  "health" : 4.5,
+
+  "apexDescription" : "A huge paper comb, mounted into the wall.",
+  "avianDescription" : "This is one large paper comb!",
+  "floranDescription" : "Iss thiss a nesst?",
+  "glitchDescription" : "Curious. Looks like someone decorated this wall with paper.",
+  "humanDescription" : "A nice paper tiling for walls.",
+  "hylotlDescription" : "A hexagonal piece of paper on the wall. An empty painting?",
+  "novakidDescription" : "Sure is a big ol' comb.",
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpaperhexagonicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperhexagon.png:<color>.<key>",
+      "imagePosition" : [-23, 0],
+	  "flipImages": true,
+      //"bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "left",
+	 
+      //"collision" : "platform",
+      //"collisionSpaces" : [  [0, 1]],
+	  "anchors" :["background"],
+	  "spaces" : [						 [0,5],
+						   [-2,4],[-1,4],[0,4],[1,4],[2,4],
+					[-3,3],[-2,3],[-1,3],[0,3],[1,3],[2,3],[3,3],
+						   [-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+								  [-1,0],[0,0],[1,0]]
+    },
+    {
+      "dualImage" : "hexpaperhexagon.png:<color>.<key>",
+      "imagePosition" : [-24, 0],
+      //"bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+
+      //"collision" : "platform",
+      //"collisionSpaces" : [  [0, 1]],
+	  "anchors" :["background"],
+	  "spaces" : [						 [0,5],
+						   [-2,4],[-1,4],[0,4],[1,4],[2,4],
+					[-3,3],[-2,3],[-1,3],[0,3],[1,3],[2,3],[3,3],
+						   [-2,2],[-1,2],[0,2],[1,2],[2,2],
+					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
+								  [-1,0],[0,0],[1,0]]
+    }
+
+  ],
+  "frameCooldown" : 5
+}

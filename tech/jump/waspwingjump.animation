@@ -198,7 +198,7 @@
     },
     "sounds": {
         "multiJumpSound": [
-            "crustoise_charge.ogg"
+            "/tech/jump/crustoise_charge.ogg"
         ],
         "wallJumpSound": [
             "/sfx/tech/tech_walljump.ogg"
@@ -210,7 +210,7 @@
             "/sfx/tech/tech_wallslide.ogg"
         ],
 		"hoverSound": [
-			"bobfae_fly.ogg"
+			"/tech/jump/bobfae_fly.ogg"
 		]
     }
 }

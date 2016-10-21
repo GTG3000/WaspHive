@@ -1,14 +1,13 @@
 {
-  "name" : "techeffect",
-  "effectConfig" : {  
-	"tech" : "waspwingjump"
+  "name" : "techeffectspeed",
+  "effectConfig" : {
+	"tech" : "waspwingjumpspeed"
   },
   "defaultDuration" : 5,
 
   "scripts" : [
     "techeffect.lua"
   ],
-
   
   "label" : "Tech Effect",
   "icon" : "/interface/statuses/waspstatus.png"
