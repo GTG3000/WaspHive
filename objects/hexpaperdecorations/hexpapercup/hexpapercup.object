@@ -8,13 +8,14 @@
   "category" : "decorative",
   "race" : "generic",
 
-  "apexDescription" : "This paper cup appears to be reusable.",
-  "avianDescription" : "Smells like hot syrup.",
-  "floranDescription" : "Floran not sssure if Floran like drink. Perhapss it grow on Floran.",
-  "glitchDescription" : "Delighted. Tea is a joy to the taste sensors.",
-  "humanDescription" : "There's nothing quite like a nice cup of tea and a sit-down.",
-  "hylotlDescription" : "The Hylotl brew similar drinks from ocean flora.",
-  "novakidDescription" : "Never understood what everyone likes so much 'bout tea.",
+  "apexDescription" 	: "This paper cup appears to be reusable. It's filled with syrup.",
+  "avianDescription" 	: "A paper cup! Smells like hot syrup.",
+  "floranDescription" 	: "Cup made of paper. Drink sssmell like ssweet sap.",
+  "glitchDescription" 	: "Curious. Someone made a cup of tea and added a cup of sugar to it.",
+  "humanDescription" 	: "This tea tastes of diabeetus",
+  "hylotlDescription" 	: "It seems that someone made tea directly in the sugar bowl.",
+  "novakidDescription" 	: "This 'tea' feels like it's gonna glue my insides together.",
+  "wasphiveDescription"	: "Hive makez a zturdy cup! And zum zweet, zweet... Whatever ze zweet iz dizzolved in.",
 
   "inventoryIcon" : "hexpapercupicon.png",
   "orientations" : [

@@ -3,7 +3,7 @@
   "type" : "legs",
 
   "scripts" : ["waspwingjump.lua"],
-  "animator" : "waspwingjump.animation",
+  "animator" : "waspwingjump2.animation",
 
   "description" : "Glide faster than you ever did! Warning, reduced air control and flight performance.",
   "shortDescription" : "Wasp Wings",

@@ -5,20 +5,20 @@
   "rarity" : "Common",
 
   "category" : "furniture",
-  "price" : 70,
-  "description" : "A large paper comb.",
+  "price" : 3000,
+  "description" : "A large stained glass picture.",
   "shortdescription" : "Stained Glass Shiny Bug",
   "race" : "wasphive",
   "health" : 4.5,
 
-  "apexDescription" : "A huge paper comb, mounted into the wall.",
-  "avianDescription" : "This is one large paper comb!",
-  "floranDescription" : "Iss thiss a nesst?",
-  "glitchDescription" : "Curious. Looks like someone decorated this wall with paper.",
-  "humanDescription" : "A nice paper tiling for walls.",
-  "hylotlDescription" : "A hexagonal piece of paper on the wall. An empty painting?",
-  "novakidDescription" : "Sure is a big ol' comb.",
-  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+  "apexDescription" : "A large stained glass window depicting some sort of a colourful insect.",
+  "avianDescription" : "A stained glass depicting a shiny bug! Is this some sort of a religion?",
+  "floranDescription" : "Ssshiny bug!",
+  "glitchDescription" : "Awed. An bright stainded glass image of a shiny bug. How inspiring.",
+  "humanDescription" : "A cool looking colourful window!",
+  "hylotlDescription" : "A large art of a bug, made into a window. Whoever made this doesn't understand colour.",
+  "novakidDescription" : "A big ol' stained glass window.",
+  "wasphiveDescription" : "A picture of a zhiny wazp! Zum day, Hive will be az zhiny and colourful!",
 
   "inventoryIcon" : "hexpaperhexagonicon.png",
   "orientations" : [
@@ -37,7 +37,8 @@
 					[-3,3],[-2,3],[-1,3],[0,3],[1,3],[2,3],[3,3],
 						   [-2,2],[-1,2],[0,2],[1,2],[2,2],
 					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
-								  [-1,0],[0,0],[1,0]]
+								  [-1,0],[0,0],[1,0]
+				 ]
     },
     {
       "dualImage" : "hexpaperhexagon.png:<color>.<key>",
@@ -53,7 +54,8 @@
 					[-3,3],[-2,3],[-1,3],[0,3],[1,3],[2,3],[3,3],
 						   [-2,2],[-1,2],[0,2],[1,2],[2,2],
 					[-3,1],[-2,1],[-1,1],[0,1],[1,1],[2,1],[3,1],
-								  [-1,0],[0,0],[1,0]]
+								  [-1,0],[0,0],[1,0]
+				 ]
     }
 
   ],
