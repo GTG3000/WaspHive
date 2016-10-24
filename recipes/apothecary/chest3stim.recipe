@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 10 },
+    { "item" : "livingroot", "count" : 3 },
+	{ "item" : "titaniumbar", "count": 8 },
+	{ "item" : "hardenedcarapace", "count": 2},
+	{ "item" : "venomsample", "count": 1},
+    { "item" : "paper", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "chest3stim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "healing" ]
+}

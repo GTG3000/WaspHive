@@ -1,14 +1,16 @@
 {
-  "name" : "spawnwings",
+  "name" : "spawnwasplegs5",
   //"blockingStat" : "poisonStatusImmunity",
 
-  "effectConfig" : {},
+  "effectConfig" : {
+	"item" : "wasphive5pants"
+  },
   "defaultDuration" : 60,
 
   "scripts" : [
-    "spawnwings.lua"
+    "spawnitem.lua"
   ],
 
-  "label" : "Growing Wings",
+  "label" : "Growing T5 Pants",
   "icon" : "/interface/statuses/growingstatus.png"
 }

@@ -29,9 +29,9 @@
       { "item" : "humantier1head" },
       { "item" : "humantier1chest" },
       { "item" : "humantier1pants" },
-      { "item" : "humantier2head" },
-      { "item" : "humantier2chest" },
-      { "item" : "humantier2pants" },
+      { "item" : "head2stim" },
+      { "item" : "chest2stim" },
+      { "item" : "legs2stim" },
 
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
@@ -39,12 +39,12 @@
       { "item" : "tungstenhammer" },
 
 // Anvil2
-      { "item" : "humantier3head" },
-      { "item" : "humantier3chest" },
-      { "item" : "humantier3pants" },
-      { "item" : "humantier4head" },
-      { "item" : "humantier4chest" },
-      { "item" : "humantier4pants" },
+      { "item" : "head3stim" },
+      { "item" : "chest3stim" },
+      { "item" : "legs3stim" },
+      { "item" : "head4stim" },
+      { "item" : "chest4stim" },
+      { "item" : "legs4stim" },
 
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
@@ -72,6 +72,10 @@
       { "item" : "humantier6shead" },
       { "item" : "humantier6schest" },
       { "item" : "humantier6spants" },
+	  
+      { "item" : "head5stim" },
+      { "item" : "chest5stim" },
+      { "item" : "legs5stim" },
 
       { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
@@ -86,6 +90,7 @@
       { "item" : "wasphiveshiphatch" },
       { "item" : "wasphiveshipdoorslim" },
       { "item" : "wasphiveshiphatchslim" },
+	  { "item" : "hexpapershinybug"},
 
 // Spinning Wheel
       { "item" : "conceptchest" },

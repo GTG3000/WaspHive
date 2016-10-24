@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 10 },
+    { "item" : "livingroot", "count" : 3 },
+	{ "item" : "durasteelbar", "count": 5 },
+	{ "item" : "liquidpoison", "count": 10 },
+	{ "item" : "hardenedcarapace", "count": 1 },
+    { "item" : "paper", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "head4stim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical2", "healing" ]
+}

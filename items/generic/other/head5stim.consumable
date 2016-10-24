@@ -1,0 +1,20 @@
+{
+	"itemName" : "head5stim",
+	"rarity" : "Rare",
+	"price" : 1500,
+	"category" : "medicine",
+	"inventoryIcon" : "wingstim.png",
+	"description" : "A comb of waxed paper, full of liquid rich in inedible stuff.",
+	"shortdescription" : "T5 Head Growth Pack",
+	"effects" : [ [
+		{ "effect"  : "spawnwasphead5"	},
+		{ "effect" : "hivepoison" }
+	] ],
+	//"emote" : "",
+	"foodValue" : 50,
+	//"emitters" : [ "stimuse" ],
+	"blockingEffects" : [
+		"spawnheadT5",
+	"wellfed"
+	]
+}

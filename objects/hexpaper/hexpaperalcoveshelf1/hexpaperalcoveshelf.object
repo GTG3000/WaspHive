@@ -24,7 +24,8 @@
       "image" : "hexpaperalcoveshelf.png:<color>",
       "imagePosition" : [-24, 0],
 	  "direction" : "right",
-
+	  "zLevel" : -1,
+	  
       "anchors" : [ "background" ],
 	  "collision" : "platform",
 	  "collisionSpaces" : [[-2,2],[2,2],[0,3],[-1,0],[0,0],[1,0]],
@@ -40,6 +41,7 @@
       "imagePosition" : [-23, 0],
 	  "direction" : "left",
 	  "flipImages" : true,
+	  "zLevel" : -1,
 
       "anchors" : [ "background" ],
 	  "collision" : "platform",

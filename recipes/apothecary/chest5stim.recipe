@@ -1,0 +1,18 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 10 },
+    { "item" : "livingroot", "count" : 3 },
+	{ "item" : "refinedaegisalt", "count": 2 },
+	{ "item" : "refinedviolium", "count": 2 },
+	{ "item" : "refinedferozium", "count": 2 },
+	{ "item" : "liquidpoison", "count": 10 },
+	{ "item" : "hardenedcarapace", "count": 2 },
+	{ "item" : "cryonicextract", "count": 1},
+    { "item" : "paper", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "chest5stim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical2", "healing" ]
+}

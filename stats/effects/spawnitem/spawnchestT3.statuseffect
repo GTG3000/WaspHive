@@ -1,0 +1,16 @@
+{
+  "name" : "spawnwaspchest3",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+	"item" : "wasphive3chest"
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing T3 Carapace",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

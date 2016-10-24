@@ -1,14 +1,16 @@
 {
-  "name" : "spawnhead",
+  "name" : "spawnwaspchest4",
   //"blockingStat" : "poisonStatusImmunity",
 
-  "effectConfig" : {},
+  "effectConfig" : {
+	"item" : "wasphive4chest"
+  },
   "defaultDuration" : 60,
 
   "scripts" : [
-    "spawnwings.lua"
+    "spawnitem.lua"
   ],
 
-  "label" : "Growing Wings",
+  "label" : "Growing T4 Carapace",
   "icon" : "/interface/statuses/growingstatus.png"
 }

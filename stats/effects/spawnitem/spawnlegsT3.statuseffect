@@ -1,0 +1,16 @@
+{
+  "name" : "spawnwasplegs3",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+	"item" : "wasphive3pants"
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing T3 Pants",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

@@ -10,12 +10,12 @@
   "shortdescription" : "Paper plate",
   "race" : "wasphive",
 
-  "apexDescription" : "For holding diplomas.",
-  "avianDescription" : "A frame for displaying items.",
-  "floranDescription" : "Stuff to go on wall.",
-  "glitchDescription" : "Identify. Item frame.",
-  "humanDescription" : "For family portraits and limited edition comic books.",
-  "hylotlDescription" : "An item frame.",
+  "apexDescription" : "This bowl is made of sturdy paper and laminated with... Something. Good for putting bananas in.",
+  "avianDescription" : "A bowl to eat from!",
+  "floranDescription" : "Floran doess not need platess.",
+  "glitchDescription" : "Unimpressed. A paper bowl. No match for glitch wooden bowls.",
+  "humanDescription" : "Looks like someone tried to imitate tupperware!.",
+  "hylotlDescription" : "An origami of a bowl? A bowl made of paper? Why would someone do this?",
   "wasphiveDescription" : "Hive iz not a barbarian to eat wizout a plate!",
 
   "inventoryIcon" : "hexpaperplate.png",

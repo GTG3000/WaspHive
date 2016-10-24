@@ -1,0 +1,16 @@
+{
+  "name" : "spawnwasplegs4",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+	"item" : "wasphive4pants"
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing T4 Pants",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

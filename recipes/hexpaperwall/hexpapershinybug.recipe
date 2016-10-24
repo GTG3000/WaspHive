@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 10 },
+    { "item" : "hexpaperhexagon", "count" : 6 },
+    { "item" : "glass", "count" : 20 },
+	{ "item" : "reddye", "count": 5 },
+	{ "item" : "bluedye", "count": 5 },
+	{ "item" : "greendye", "count": 5 },
+    { "item" : "copperbar", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "hexpapershinybug",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

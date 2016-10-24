@@ -25,6 +25,7 @@
       "imagePosition" : [-23, 0],
       "flipImages" : true,
       "direction" : "left",
+	  "zLevel" : -1,
 
       //"spaceScan" : 0.1,
       "anchors" : [ "background" ],
@@ -38,6 +39,7 @@
       "image" : "hexpaperchair.png:<color>",
       "imagePosition" : [-24, 0],
       "direction" : "right",
+	  "zLevel" : -1,
 
       //"spaceScan" : 0.1,
       "anchors" : [ "background" ],

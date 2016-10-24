@@ -1,0 +1,16 @@
+{
+  "name" : "spawnwingsspeed",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+	"item" : "waspwingsspeed"
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing Fast Wings",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

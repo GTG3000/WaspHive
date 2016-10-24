@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 10 },
+    { "item" : "livingroot", "count" : 3 },
+	{ "item" : "tungstenbar", "count": 5 },
+    { "item" : "paper", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "head2stim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "healing" ]
+}

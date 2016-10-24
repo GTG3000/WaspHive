@@ -1,0 +1,44 @@
+{
+  "objectName" : "hexpaperkettle",
+  "colonyTags" : ["cooking"],
+  "rarity" : "Common",
+  "price" : 30,
+  "description" : "A hexagonal kettle with nice bronze bottom, handle and spout.",
+  "shortdescription" : "Paper Kettle",
+  "category" : "decorative",
+  "race" : "wasphive",
+
+  "apexDescription" 	: "This kettle is made from bronze and paper. A curious choice of materials.",
+  "avianDescription" 	: "A paper kettle! Smells like hot syrup.",
+  "floranDescription" 	: "Kettle made of paper. Drink sssmell like ssweet sap.",
+  "glitchDescription" 	: "Curious. A kettle with bronze top and bottom... And paper walls.",
+  "humanDescription" 	: "A strange decorative kettle.",
+  "hylotlDescription" 	: "Is this kettle supposed to be art?",
+  "novakidDescription" 	: "This 'tea' feels like it's gonna glue my insides together.",
+  "wasphiveDescription"	: "Humanz taught Hive how to make tea. Hive taught humanz how many spoonz of zhugar it needz.",
+
+  "inventoryIcon" : "hexpaperkettleicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperkettle.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 12,
+      "animationCycle" : 2,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "hexpaperkettle.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 12,
+      "animationCycle" : 2,
+      "direction" : "right",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

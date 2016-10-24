@@ -1,0 +1,16 @@
+{
+  "name" : "spawnwasphead2",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+	"item" : "wasphive2head"
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing T2 Head",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

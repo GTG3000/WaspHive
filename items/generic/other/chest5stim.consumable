@@ -1,0 +1,20 @@
+{
+	"itemName" : "chest5stim",
+	"rarity" : "Rare",
+	"price" : 1500,
+	"category" : "medicine",
+	"inventoryIcon" : "wingstim.png",
+	"description" : "A comb of waxed paper, full of liquid rich in inedible stuff.",
+	"shortdescription" : "T5 Carapace Growth Pack",
+	"effects" : [ [
+		{ "effect" : "spawnwaspchest5" },
+		{ "effect" : "hivepoison" }
+	] ],
+	//"emote" : "",
+	"foodValue" : 50,
+	//"emitters" : [ "stimuse" ],
+	"blockingEffects" : [
+		"spawnchestT5",
+	"wellfed"
+	]
+}
