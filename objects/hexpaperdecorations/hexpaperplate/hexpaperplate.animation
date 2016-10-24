@@ -1,0 +1,65 @@
+{
+	"globalTagDefaults" : {
+		"foodIcon" 		: "default.png"
+	},
+	"animatedParts" 	: {
+		"stateTypes" 	: {
+			"plateState": {
+				"default" : "empty",
+				"states"  : {
+					"empty" : {
+						"frames" : 1,
+						"mode"   : "end"
+					},
+					"full"  : {
+						"frames" : 1,
+						"mode"	 : "end"
+					}
+				}
+			}
+		},
+		"parts" 		: {
+			"plate"		: {
+				"properties" : {
+					"zLevel" : 1,
+					"offset" : [1,1]
+				},
+				"partStates" : {
+					"plateState" : {
+						"empty"  : {
+							"properties" : {
+								"image"  : "hexpaperplate.png"
+							}
+						},
+						"full"	 : {
+							"properties" : {
+								"image"  : "hexpaperplate.png"
+							}
+						}
+					}
+				}
+			},
+			"item"		: {
+				"properties" : {
+					"centered" 	: true,
+					"zLevel"	: 0,
+					"offset" : [1,1]
+				},
+				"partStates" : {
+					"plateState" : {
+						"empty"	 : {
+							"properties" : {
+								"image"  : "default.png"
+							}
+						},
+						"full"	 : {
+							"properties" : {
+								"image"  : "<foodIcon>"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

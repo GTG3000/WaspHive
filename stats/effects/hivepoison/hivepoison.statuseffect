@@ -1,0 +1,16 @@
+{
+  "name" : "hivepoison",
+  "blockingStat" : "hiveStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "foodpoison.lua"
+  ],
+
+  "animationConfig" : "foodpoison.animation",
+
+  "label" : "Exotic Food Poisoning",
+  "icon" : "/interface/statuses/foodpoison.png"
+}

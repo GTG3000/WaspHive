@@ -1,0 +1,44 @@
+{
+  "objectName" : "hexpaperplate",
+  "tags" : ["pretty", "odd", "misc", "cooking", "wasphive"],
+  "rarity" : "Common",
+  "objectType" : "container",
+
+  "category" : "decorative",
+  "price" : 75,
+  "description" : "A reusable paper plate",
+  "shortdescription" : "Paper plate",
+  "race" : "wasphive",
+
+  "apexDescription" : "For holding diplomas.",
+  "avianDescription" : "A frame for displaying items.",
+  "floranDescription" : "Stuff to go on wall.",
+  "glitchDescription" : "Identify. Item frame.",
+  "humanDescription" : "For family portraits and limited edition comic books.",
+  "hylotlDescription" : "An item frame.",
+  "wasphiveDescription" : "Hive iz not a barbarian to eat wizout a plate!",
+
+  "inventoryIcon" : "hexpaperplate.png",
+  "orientations" : [
+    {
+      "image" : "hexpaperplate.png",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+	  "animationPosition" : [0,0],
+      "anchors" : [ "bottom" ],
+	  "direction" : "right",
+	  "spaces" : [[0,0],[1,0],[0,1],[1,1]]
+    }
+  ],
+  "scripts" : ["hexpaperplate.lua"],
+  "animation" : "hexpaperplate.animation",
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 1,
+  "uiConfig" : "/interface/paperplate/paperplate.config",
+  "frameCooldown" : 5,
+  "itemAgeMultiplier" : 0.0,
+  "autoCloseCooldown" : 3600
+}
