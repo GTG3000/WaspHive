@@ -1,0 +1,3350 @@
+[
+  {
+    "desc": "An alien bed. It seems to be alive.",
+    "file": "alienbed.object",
+    "name": "Alien Bed",
+    "path": "alien\\alienbed"
+  },
+  {
+    "desc": "An alien chair. It seems alive.",
+    "file": "alienchair.object",
+    "name": "Alien Chair",
+    "path": "alien\\alienchair"
+  },
+  {
+    "desc": "An alien chest.",
+    "file": "alienchest.object",
+    "name": "Alien Chest",
+    "path": "alien\\alienchest"
+  },
+  {
+    "desc": "An alien plant door.",
+    "file": "aliendoor.object",
+    "name": "Alien Door",
+    "path": "alien\\aliendoor"
+  },
+  {
+    "desc": "A glowing alien plant.",
+    "file": "alienglowplant1.object",
+    "name": "Glowing Alien Plant",
+    "path": "alien\\alienglowplant1"
+  },
+  {
+    "desc": "An alien table. It seems to be alive.",
+    "file": "alientable.object",
+    "name": "Alien Table",
+    "path": "alien\\alientable"
+  },
+  {
+    "desc": "A pile of mossy stones.",
+    "file": "mistprimer.object",
+    "name": "Pile of Mossy Stones",
+    "path": "alpine\\mistprimer"
+  },
+  {
+    "desc": "A bed made of cobblestone.",
+    "file": "stonebed.object",
+    "name": "Stone Bed",
+    "path": "alpine\\stonebed"
+  },
+  {
+    "desc": "A chair made of cobblestone.",
+    "file": "stonechair.object",
+    "name": "Stone Chair",
+    "path": "alpine\\stonechair"
+  },
+  {
+    "desc": "A treasure chest made of cobblestone.",
+    "file": "stonechest.object",
+    "name": "Stone Chest",
+    "path": "alpine\\stonechest"
+  },
+  {
+    "desc": "A door made of cobblestone.",
+    "file": "stonedoor.object",
+    "name": "Stone Door",
+    "path": "alpine\\stonedoor"
+  },
+  {
+    "desc": "A table made of cobblestone.",
+    "file": "stonetable.object",
+    "name": "Stone Table",
+    "path": "alpine\\stonetable"
+  },
+  {
+    "desc": "A bed, with glowing plants grown through it.",
+    "file": "glowbed.object",
+    "name": "Glow Bed",
+    "path": "bioluminescence\\glowbed"
+  },
+  {
+    "desc": "A bush of pretty glowing flowers.",
+    "file": "glowbush1.object",
+    "name": "Glow Flower Bush",
+    "path": "bioluminescence\\glowbush"
+  },
+  {
+    "desc": "A bush of pretty glowing flowers.",
+    "file": "glowbush2.object",
+    "name": "Glow Flower Bush",
+    "path": "bioluminescence\\glowbush"
+  },
+  {
+    "desc": "A bush of pretty glowing flowers.",
+    "file": "glowbush3.object",
+    "name": "Glow Flower Bush",
+    "path": "bioluminescence\\glowbush"
+  },
+  {
+    "desc": "A bush of pretty glowing flowers.",
+    "file": "glowbush4.object",
+    "name": "Glow Flower Bush",
+    "path": "bioluminescence\\glowbush"
+  },
+  {
+    "desc": "A bush of pretty glowing flowers.",
+    "file": "glowbush5.object",
+    "name": "Glow Flower Bush",
+    "path": "bioluminescence\\glowbush"
+  },
+  {
+    "desc": "A bush that emits a pleasant glow.",
+    "file": "glowbushlamp.object",
+    "name": "Glow Bush Lamp",
+    "path": "bioluminescence\\glowbushlamp"
+  },
+  {
+    "desc": "A glowing chair.",
+    "file": "glowchair.object",
+    "name": "Glow Chair",
+    "path": "bioluminescence\\glowchair"
+  },
+  {
+    "desc": "This chest appears organic in construction.",
+    "file": "glowchest.object",
+    "name": "Glow Chest",
+    "path": "bioluminescence\\glowchest"
+  },
+  {
+    "desc": "A glowing flower pod.",
+    "file": "glowflower1.object",
+    "name": "Glow Flower Pod",
+    "path": "bioluminescence\\glowflower"
+  },
+  {
+    "desc": "A glowing flower pod.",
+    "file": "glowflower2.object",
+    "name": "Glow Flower Pod",
+    "path": "bioluminescence\\glowflower"
+  },
+  {
+    "desc": "A glowing flower pod.",
+    "file": "glowflower3.object",
+    "name": "Glow Flower Pod",
+    "path": "bioluminescence\\glowflower"
+  },
+  {
+    "desc": "A glowing flower pod.",
+    "file": "glowflower4.object",
+    "name": "Glow Flower Pod",
+    "path": "bioluminescence\\glowflower"
+  },
+  {
+    "desc": "A glowing flower pod.",
+    "file": "glowflower5.object",
+    "name": "Glow Flower Pod",
+    "path": "bioluminescence\\glowflower"
+  },
+  {
+    "desc": "A flower that seems to emit a pleasant glow.",
+    "file": "glowflowerlamp.object",
+    "name": "Glow Flower Lamp",
+    "path": "bioluminescence\\glowflowerlamp"
+  },
+  {
+    "desc": "There are small glowing roots protruding from the ceiling.",
+    "file": "glowroot1.object",
+    "name": "Roots",
+    "path": "bioluminescence\\glowroot1"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "glowroot2.object",
+    "name": "Roots",
+    "path": "bioluminescence\\glowroot2"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "glowroot3.object",
+    "name": "Roots",
+    "path": "bioluminescence\\glowroot3"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "glowroot4.object",
+    "name": "Roots",
+    "path": "bioluminescence\\glowroot4"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "glowroot5.object",
+    "name": "Roots",
+    "path": "bioluminescence\\glowroot5"
+  },
+  {
+    "desc": "A glowing tree. It's beautiful, but a bit eerie.",
+    "file": "glowtree1.object",
+    "name": "Glow Tree",
+    "path": "bioluminescence\\glowtree"
+  },
+  {
+    "desc": "A glowing tree. It's beautiful, but a bit eerie.",
+    "file": "glowtree2.object",
+    "name": "Glow Tree",
+    "path": "bioluminescence\\glowtree"
+  },
+  {
+    "desc": "A glowing tree. It's beautiful, but a bit eerie.",
+    "file": "glowtree3.object",
+    "name": "Glow Tree",
+    "path": "bioluminescence\\glowtree"
+  },
+  {
+    "desc": "A glowing tree. It's beautiful, but a bit eerie.",
+    "file": "glowtree4.object",
+    "name": "Glow Tree",
+    "path": "bioluminescence\\glowtree"
+  },
+  {
+    "desc": "A glowing tree. It's beautiful, but a bit eerie.",
+    "file": "glowtree5.object",
+    "name": "Glow Tree",
+    "path": "bioluminescence\\glowtree"
+  },
+  {
+    "desc": "A glowing vine. It's beautiful, but a bit eerie.",
+    "file": "glowvine1.object",
+    "name": "Glow Vine",
+    "path": "bioluminescence\\glowvine"
+  },
+  {
+    "desc": "A glowing vine. It's beautiful, but a bit eerie.",
+    "file": "glowvine2.object",
+    "name": "Glow Vine",
+    "path": "bioluminescence\\glowvine"
+  },
+  {
+    "desc": "A glowing vine. It's beautiful, but a bit eerie.",
+    "file": "glowvine3.object",
+    "name": "Glow Vine",
+    "path": "bioluminescence\\glowvine"
+  },
+  {
+    "desc": "A glowing vine. It's beautiful, but a bit eerie.",
+    "file": "glowvine4.object",
+    "name": "Glowing Vine",
+    "path": "bioluminescence\\glowvine"
+  },
+  {
+    "desc": "A glowing vine. It's beautiful, but a bit eerie.",
+    "file": "glowvine5.object",
+    "name": "Glowing Vine",
+    "path": "bioluminescence\\glowvine"
+  },
+  {
+    "desc": "A vine that seems to emit a pleasant glow.",
+    "file": "glowvinelamp.object",
+    "name": "Glow Vine Lamp",
+    "path": "bioluminescence\\glowvinelamp"
+  },
+  {
+    "desc": "A clump of little glowing mushrooms",
+    "file": "bioshroom1.object",
+    "name": "Glow Mushrooms",
+    "path": "bioluminescentcave\\bioshroom"
+  },
+  {
+    "desc": "A clump of little glowing mushrooms",
+    "file": "bioshroom2.object",
+    "name": "Glow Mushrooms",
+    "path": "bioluminescentcave\\bioshroom"
+  },
+  {
+    "desc": "A clump of little glowing mushrooms",
+    "file": "bioshroom3.object",
+    "name": "Glow Mushrooms",
+    "path": "bioluminescentcave\\bioshroom"
+  },
+  {
+    "desc": "A clump of little glowing mushrooms",
+    "file": "bioshroom4.object",
+    "name": "Glow Mushrooms",
+    "path": "bioluminescentcave\\bioshroom"
+  },
+  {
+    "desc": "A clump of little glowing mushrooms",
+    "file": "bioshroom5.object",
+    "name": "Glow Mushrooms",
+    "path": "bioluminescentcave\\bioshroom"
+  },
+  {
+    "desc": "A giant glowing mushroom table. Perfect for sitting at in the dark.",
+    "file": "bioshroomtable.object",
+    "name": "Glow Table",
+    "path": "bioluminescentcave\\bioshroomtable"
+  },
+  {
+    "desc": "It's a glowing vine!",
+    "file": "biovine1.object",
+    "name": "Glow Vine",
+    "path": "bioluminescentcave\\biovine"
+  },
+  {
+    "desc": "It's a glowing vine!",
+    "file": "biovine2.object",
+    "name": "Glow Vine",
+    "path": "bioluminescentcave\\biovine"
+  },
+  {
+    "desc": "It's a glowing vine!",
+    "file": "biovine3.object",
+    "name": "Glow Vine",
+    "path": "bioluminescentcave\\biovine"
+  },
+  {
+    "desc": "It's a glowing vine!",
+    "file": "biovine4.object",
+    "name": "Glow Vine",
+    "path": "bioluminescentcave\\biovine"
+  },
+  {
+    "desc": "It's a glowing vine!",
+    "file": "biovine5.object",
+    "name": "Glow Vine",
+    "path": "bioluminescentcave\\biovine"
+  },
+  {
+    "desc": "A coffin bed. The hottest in undead comfort.",
+    "file": "bonebed.object",
+    "name": "Bone Coffin Bed",
+    "path": "bone\\bonebed"
+  },
+  {
+    "desc": "A bone throne. For all your royal bone needs.",
+    "file": "bonechair.object",
+    "name": "Bone Chair",
+    "path": "bone\\bonechair"
+  },
+  {
+    "desc": "A chest made of bone. Hopefully it's not filled with marrow.",
+    "file": "bonechest.object",
+    "name": "Bone Chest",
+    "path": "bone\\bonechest"
+  },
+  {
+    "desc": "A door made of bone. Where does it lead? Hell? Or the bathroom?",
+    "file": "bonedoor.object",
+    "name": "Bone Door",
+    "path": "bone\\bonedoor"
+  },
+  {
+    "desc": "A creepy bone table. Looks more like a sacrificial altar. Good for picnics.",
+    "file": "bonetable.object",
+    "name": "Bone Table",
+    "path": "bone\\bonetable"
+  },
+  {
+    "desc": "A pile of bones, prime for smashing.",
+    "file": "smashbones1.object",
+    "name": "Bone Pile",
+    "path": "bone\\smashbones1"
+  },
+  {
+    "desc": "A fully intact ribcage. Not for long.",
+    "file": "smashbones2.object",
+    "name": "Bone Pile",
+    "path": "bone\\smashbones2"
+  },
+  {
+    "desc": "A pile of bones, prime for smashing.",
+    "file": "smashbones3.object",
+    "name": "Bone Pile",
+    "path": "bone\\smashbones3"
+  },
+  {
+    "desc": "Part of a ribcage. It won't be intact for long.",
+    "file": "smashbones4.object",
+    "name": "Bone Pile",
+    "path": "bone\\smashbones4"
+  },
+  {
+    "desc": "A tentacle nerve ending",
+    "file": "brainsynapse1.object",
+    "name": "Synapse",
+    "path": "brain\\brainsynapse1"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike1.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike1"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike10.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike10"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike2.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike2"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike3.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike3"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike4.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike4"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike5.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike5"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike6.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike6"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike7.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike7"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike8.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike8"
+  },
+  {
+    "desc": "-todo-",
+    "file": "buglike9.object",
+    "name": "Hive Bush",
+    "path": "bug\\buglike9"
+  },
+  {
+    "desc": "A bright, modern looking chair.",
+    "file": "cellchair.object",
+    "name": "Cell Chair",
+    "path": "cell\\cellchair"
+  },
+  {
+    "desc": "A chest with a spherical lock.",
+    "file": "cellchest.object",
+    "name": "Cell Chest",
+    "path": "cell\\cellchest"
+  },
+  {
+    "desc": "A barrier composed of two coiling bars.",
+    "file": "celldoor.object",
+    "name": "Cell Door",
+    "path": "cell\\celldoor"
+  },
+  {
+    "desc": "A tall lamp, with each light linked to another.",
+    "file": "celllamp.object",
+    "name": "Cell Lamp",
+    "path": "cell\\celllamp"
+  },
+  {
+    "desc": "A clean, brightly coloured table.",
+    "file": "celltable.object",
+    "name": "Cell Table",
+    "path": "cell\\celltable"
+  },
+  {
+    "desc": "A weird jumble of cells.",
+    "file": "cellstructure1.object",
+    "name": "Cell Structure",
+    "path": "cellcave\\cellstructure1"
+  },
+  {
+    "desc": "A weird jumble of cells.",
+    "file": "cellstructure2.object",
+    "name": "Cell Structure",
+    "path": "cellcave\\cellstructure2"
+  },
+  {
+    "desc": "A weird jumble of cells.",
+    "file": "cellstructure3.object",
+    "name": "Cell Structure",
+    "path": "cellcave\\cellstructure3"
+  },
+  {
+    "desc": "A weird jumble of cells.",
+    "file": "cellstructure4.object",
+    "name": "Cell Structure",
+    "path": "cellcave\\cellstructure4"
+  },
+  {
+    "desc": "A weird jumble of cells.",
+    "file": "cellstructure5.object",
+    "name": "Cell Structure",
+    "path": "cellcave\\cellstructure5"
+  },
+  {
+    "desc": "A coiling plant, resembling DNA.",
+    "file": "dnaplant1.object",
+    "name": "DNA Plant",
+    "path": "cellcave\\dnaplant1"
+  },
+  {
+    "desc": "A coiling plant, like DNA.",
+    "file": "dnaplant2.object",
+    "name": "DNA Plant",
+    "path": "cellcave\\dnaplant2"
+  },
+  {
+    "desc": "A coiling plant, like DNA.",
+    "file": "dnaplant3.object",
+    "name": "DNA Plant",
+    "path": "cellcave\\dnaplant3"
+  },
+  {
+    "desc": "A coiling plant, like DNA.",
+    "file": "dnaplant4.object",
+    "name": "DNA Plant",
+    "path": "cellcave\\dnaplant4"
+  },
+  {
+    "desc": "A bush with unusual colouring.",
+    "file": "colourfulbush1.object",
+    "name": "Colourful Bush",
+    "path": "colourful\\colourfulbush1"
+  },
+  {
+    "desc": "A cute, colourful bush.",
+    "file": "colourfulbush2.object",
+    "name": "Colourful Bush",
+    "path": "colourful\\colourfulbush2"
+  },
+  {
+    "desc": "A divine, colourful bush.",
+    "file": "colourfulbush3.object",
+    "name": "Colourful Bush",
+    "path": "colourful\\colourfulbush3"
+  },
+  {
+    "desc": "A colourful bush of high aesthetic value.",
+    "file": "colourfulbush4.object",
+    "name": "Colourful Bush",
+    "path": "colourful\\colourfulbush4"
+  },
+  {
+    "desc": "A colourful bush that may secretly be a Floran in disguise.",
+    "file": "colourfulbush5.object",
+    "name": "Colourful Bush",
+    "path": "colourful\\colourfulbush5"
+  },
+  {
+    "desc": "A rainbow bed. Colourful and comfortable.",
+    "file": "rainbowbed.object",
+    "name": "Rainbow Bed",
+    "path": "colourful\\rainbowbed"
+  },
+  {
+    "desc": "A gloriously colourful rainbow chair.",
+    "file": "rainbowchair.object",
+    "name": "Rainbow Chair",
+    "path": "colourful\\rainbowchair"
+  },
+  {
+    "desc": "A chest decorated with beautiful rainbow markings.",
+    "file": "rainbowchest.object",
+    "name": "Rainbow Chest",
+    "path": "colourful\\rainbowchest"
+  },
+  {
+    "desc": "An inviting rainbow door.",
+    "file": "rainbowdoor.object",
+    "name": "Rainbow Door",
+    "path": "colourful\\rainbowdoor"
+  },
+  {
+    "desc": "A rainbow table makes every meal a joy.",
+    "file": "rainbowtable.object",
+    "name": "Rainbow Table",
+    "path": "colourful\\rainbowtable"
+  },
+  {
+    "desc": "A crispy coral shrub.",
+    "file": "embercoral1.object",
+    "name": "Ember Coral",
+    "path": "coralcave\\embercoral1"
+  },
+  {
+    "desc": "A crispy coral shrub.",
+    "file": "embercoral2.object",
+    "name": "Ember Coral",
+    "path": "coralcave\\embercoral2"
+  },
+  {
+    "desc": "A crispy coral shrub.",
+    "file": "embercoral3.object",
+    "name": "Ember Coral",
+    "path": "coralcave\\embercoral3"
+  },
+  {
+    "desc": "A crispy coral shrub.",
+    "file": "embercoral4.object",
+    "name": "Ember Coral",
+    "path": "coralcave\\embercoral4"
+  },
+  {
+    "desc": "A crispy coral shrub.",
+    "file": "embercoral5.object",
+    "name": "Ember Coral",
+    "path": "coralcave\\embercoral5"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystalcavebush1.object",
+    "name": "Crystalline Bush",
+    "path": "crystalcave\\crystalcavebush1"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystalcavebush2.object",
+    "name": "Crystalline Bush",
+    "path": "crystalcave\\crystalcavebush2"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystalcavebush3.object",
+    "name": "Crystalline Bush",
+    "path": "crystalcave\\crystalcavebush3"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystalcavebush4.object",
+    "name": "Crystalline Bush",
+    "path": "crystalcave\\crystalcavebush4"
+  },
+  {
+    "desc": "A crystal bed, for when you want to dream of being rich.",
+    "file": "crystalbed.object",
+    "name": "Crystal Bed",
+    "path": "crystalline\\crystalbed"
+  },
+  {
+    "desc": "A crystal chair. Fit for a monarch.",
+    "file": "crystalchair.object",
+    "name": "Crystal Chair",
+    "path": "crystalline\\crystalchair"
+  },
+  {
+    "desc": "A crystal chest. Perhaps the chest itself is the treasure?",
+    "file": "crystalchest.object",
+    "name": "Crystal Chest",
+    "path": "crystalline\\crystalchest"
+  },
+  {
+    "desc": "A glowing crystal which functions as a lamp.",
+    "file": "crystallamp.object",
+    "name": "Crystal Lamp",
+    "path": "crystalline\\crystallamp"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystallinebush1.object",
+    "name": "Crystalline Bush",
+    "path": "crystalline\\crystallinebush1"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystallinebush2.object",
+    "name": "Crystalline Bush",
+    "path": "crystalline\\crystallinebush2"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystallinebush3.object",
+    "name": "Crystalline Bush",
+    "path": "crystalline\\crystallinebush3"
+  },
+  {
+    "desc": "A crystalline deposit. Shiny.",
+    "file": "crystallinebush4.object",
+    "name": "Crystalline Bush",
+    "path": "crystalline\\crystallinebush4"
+  },
+  {
+    "desc": "A table made of crystal. Perfect for rich foods.",
+    "file": "crystaltable.object",
+    "name": "Crystal Table",
+    "path": "crystalline\\crystaltable"
+  },
+  {
+    "desc": "A dark, shadowy chest.",
+    "file": "shadowchest.object",
+    "name": "Shadow Chest",
+    "path": "dark\\shadowchest"
+  },
+  {
+    "desc": "Many find the gentle ringing of wind chimes like these quite soothing.",
+    "file": "shadowchimes.object",
+    "name": "Wind Chimes",
+    "path": "dark\\shadowchimes"
+  },
+  {
+    "desc": "A mysterious flag marker. What kind of leather is that?",
+    "file": "shadowmarker.object",
+    "name": "Shadow Marker",
+    "path": "dark\\shadowmarker"
+  },
+  {
+    "desc": "A dark rock.",
+    "file": "shadowrock1.object",
+    "name": "Dark rock",
+    "path": "dark\\shadowrock1"
+  },
+  {
+    "desc": "A dark rock.",
+    "file": "shadowrock2.object",
+    "name": "Dark rock",
+    "path": "dark\\shadowrock2"
+  },
+  {
+    "desc": "A dark rock.",
+    "file": "shadowrock3.object",
+    "name": "Dark rock",
+    "path": "dark\\shadowrock3"
+  },
+  {
+    "desc": "A dark rock.",
+    "file": "shadowrock4.object",
+    "name": "Dark rock",
+    "path": "dark\\shadowrock4"
+  },
+  {
+    "desc": "A dark rock.",
+    "file": "shadowrock5.object",
+    "name": "Dark rock",
+    "path": "dark\\shadowrock5"
+  },
+  {
+    "desc": "A really creepy looking shrine.",
+    "file": "shadowshrine.object",
+    "name": "Shadow Shrine",
+    "path": "dark\\shadowshrine"
+  },
+  {
+    "desc": "A really creepy looking shrine.",
+    "file": "shadowshrine2.object",
+    "name": "Shadow Shrine",
+    "path": "dark\\shadowshrine2"
+  },
+  {
+    "desc": "A really creepy looking shrine.",
+    "file": "shadowshrine3.object",
+    "name": "Shadow Shrine",
+    "path": "dark\\shadowshrine3"
+  },
+  {
+    "desc": "A large, dark vase. Looks pretty smashable.",
+    "file": "shadowurnlarge1.object",
+    "name": "Large Shadow Urn",
+    "path": "dark\\shadowurnlarge1"
+  },
+  {
+    "desc": "A large, dark vase. Looks pretty smashable.",
+    "file": "shadowurnlarge2.object",
+    "name": "Large Shadow Urn",
+    "path": "dark\\shadowurnlarge2"
+  },
+  {
+    "desc": "A dark vase. Looks pretty smashable.",
+    "file": "shadowurnmedium1.object",
+    "name": "Medium Shadow Urn",
+    "path": "dark\\shadowurnmedium1"
+  },
+  {
+    "desc": "A dark vase. Looks pretty smashable.",
+    "file": "shadowurnmedium2.object",
+    "name": "Medium Shadow Urn",
+    "path": "dark\\shadowurnmedium2"
+  },
+  {
+    "desc": "A small, dark vase. Looks pretty smashable.",
+    "file": "shadowurnsmall1.object",
+    "name": "Small Shadow Urn",
+    "path": "dark\\shadowurnsmall1"
+  },
+  {
+    "desc": "A small, dark vase. Looks pretty smashable.",
+    "file": "shadowurnsmall2.object",
+    "name": "Small Dark Vase",
+    "path": "dark\\shadowurnsmall2"
+  },
+  {
+    "desc": "A sandstone bed. Make sure you dust it off before use.",
+    "file": "sandstonebed.object",
+    "name": "Sandstone Bed",
+    "path": "desert\\sandstonebed"
+  },
+  {
+    "desc": "A sandstone chair. Crumbly.",
+    "file": "sandstonechair.object",
+    "name": "Sandstone Chair",
+    "path": "desert\\sandstonechair"
+  },
+  {
+    "desc": "A chest of roughly hewn sandstone.",
+    "file": "sandstonechest.object",
+    "name": "Sandstone Chest",
+    "path": "desert\\sandstonechest"
+  },
+  {
+    "desc": "A rough sandstone door.",
+    "file": "sandstonedoor.object",
+    "name": "Sandstone Door",
+    "path": "desert\\sandstonedoor"
+  },
+  {
+    "desc": "A sandstone table. Don't spill water on it.",
+    "file": "sandstonetable.object",
+    "name": "Sandstone Table",
+    "path": "desert\\sandstonetable"
+  },
+  {
+    "desc": "This torch flickers softly.",
+    "file": "sandstonetorch.object",
+    "name": "Sandstone Torch",
+    "path": "desert\\sandstonetorch"
+  },
+  {
+    "desc": "A bed adorned with eyes. Great for nightmares.",
+    "file": "eyebed.object",
+    "name": "Eye Bed",
+    "path": "eyepatch\\eyebed"
+  },
+  {
+    "desc": "An eye chair. Not to be confused with a high chair.",
+    "file": "eyechair.object",
+    "name": "Eye Chair",
+    "path": "eyepatch\\eyechair"
+  },
+  {
+    "desc": "A chest sealed with a piercing eye. Worth a look inside.",
+    "file": "eyechest.object",
+    "name": "Eye Chest",
+    "path": "eyepatch\\eyechest"
+  },
+  {
+    "desc": "A door covered in eyes. Don't blink.",
+    "file": "eyedoor.object",
+    "name": "Eye Door",
+    "path": "eyepatch\\eyedoor"
+  },
+  {
+    "desc": "An eye table. Not good for people wearing skirts.",
+    "file": "eyetable.object",
+    "name": "Eye Table",
+    "path": "eyepatch\\eyetable"
+  },
+  {
+    "desc": "A bed made of fresh flesh.",
+    "file": "fleshbed.object",
+    "name": "Flesh Bed",
+    "path": "flesh\\fleshbed"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush1.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush1"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush2.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush2"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush3.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush3"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush4.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush4"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush5.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush5"
+  },
+  {
+    "desc": "A fleshy bush. Squishy.",
+    "file": "fleshbush6.object",
+    "name": "Flesh Bush",
+    "path": "flesh\\fleshbush6"
+  },
+  {
+    "desc": "A fleshy chair. About as gross as it sounds.",
+    "file": "fleshchair.object",
+    "name": "Flesh Chair",
+    "path": "flesh\\fleshchair"
+  },
+  {
+    "desc": "A squishy, fleshy chest. To store things in.",
+    "file": "fleshchest.object",
+    "name": "Flesh Chest",
+    "path": "flesh\\fleshchest"
+  },
+  {
+    "desc": "A squishy, fleshy door.",
+    "file": "fleshdoor.object",
+    "name": "Flesh Door",
+    "path": "flesh\\fleshdoor"
+  },
+  {
+    "desc": "A fleshy table. Perfect for carnivores.",
+    "file": "fleshtable.object",
+    "name": "Flesh Table",
+    "path": "flesh\\fleshtable"
+  },
+  {
+    "desc": "A bed with a large lamp over it, producing considerable heat.",
+    "file": "foundrybed.object",
+    "name": "Foundry Bed",
+    "path": "foundry\\foundrybed"
+  },
+  {
+    "desc": "An industrial sized set of bellows from a foundry.",
+    "file": "foundrybellow.object",
+    "name": "Foundry Bellows",
+    "path": "foundry\\foundrybellow"
+  },
+  {
+    "desc": "A button fit for purpose in a foundry.",
+    "file": "foundrybutton.object",
+    "name": "Foundry Button",
+    "path": "foundry\\foundrybutton"
+  },
+  {
+    "desc": "A heavy metallic chair.",
+    "file": "foundrychair.object",
+    "name": "Heavy Chair",
+    "path": "foundry\\foundrychair"
+  },
+  {
+    "desc": "A console with interesting looking levels and lightbulbs.",
+    "file": "foundryconsole.object",
+    "name": "Foundry Console",
+    "path": "foundry\\foundryconsole"
+  },
+  {
+    "desc": "A heavy metal door often used in foundries.",
+    "file": "foundrydoor.object",
+    "name": "Heavy Door",
+    "path": "foundry\\foundrydoor"
+  },
+  {
+    "desc": "This elevator design is commonly seen in foundries.",
+    "file": "foundryelevatorlong.object",
+    "name": "Long Industrial Elevator",
+    "path": "foundry\\foundryelevator"
+  },
+  {
+    "desc": "This elevator design is commonly seen in foundries.",
+    "file": "foundryelevatorshort.object",
+    "name": "Short Industrial Elevator",
+    "path": "foundry\\foundryelevator"
+  },
+  {
+    "desc": "The lava in this small fountain is superheated to brightly glow.",
+    "file": "foundrylight.object",
+    "name": "Foundry Light",
+    "path": "foundry\\foundrylight"
+  },
+  {
+    "desc": "<An /'And'/ switch. Requires all inputs to be /'on'/ to work.>",
+    "file": "foundryand.object",
+    "name": "Foundry And Switch",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer that stays active for a set duration.>",
+    "file": "foundrycountdowntimer.object",
+    "name": "Foundry Countdown Timer",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A circuit that relays signals after a set delay.>",
+    "file": "foundrydelay.object",
+    "name": "Foundry Delay Gate",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A Latch. You'll only need to use this if you already know what it is.>",
+    "file": "foundrydlatch.object",
+    "name": "Foundry Latch",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A /'Not'/ switch. Inverts the input on the circuit.>",
+    "file": "foundrynot.object",
+    "name": "Foundry Not Switch",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<An /'Or'/ switch. Allows you to have multiple individual inputs.>",
+    "file": "foundryor.object",
+    "name": "Foundry Or Switch",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer.object",
+    "name": "Foundry Timer (0.5 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer1s.object",
+    "name": "Foundry Timer (1 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer2s.object",
+    "name": "Foundry Timer (2 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer3s.object",
+    "name": "Foundry Timer (3 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer4s.object",
+    "name": "Foundry Timer (4 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "<A timer. For when you need time to get away.>",
+    "file": "foundrytimer5s.object",
+    "name": "Foundry Timer (5 Sec)",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "An XOR switch. The output will be on when exactly one of the inputs is on.",
+    "file": "foundryxor.object",
+    "name": "Foundry XOR Switch",
+    "path": "foundry\\foundrylogic"
+  },
+  {
+    "desc": "A bright sign warning of dangerously high temperatures.",
+    "file": "foundrysign.object",
+    "name": "Foundry Sign",
+    "path": "foundry\\foundrysign"
+  },
+  {
+    "desc": "A metal girder, usually used for supporting ceilings.",
+    "file": "foundrysupport.object",
+    "name": "Foundry Support",
+    "path": "foundry\\foundrysupport"
+  },
+  {
+    "desc": "A switch for activating foundry machinery.",
+    "file": "foundryswitch.object",
+    "name": "Foundry Switch",
+    "path": "foundry\\foundryswitch"
+  },
+  {
+    "desc": "A container full of bubbling of molten liquid.",
+    "file": "ladlelarge.object",
+    "name": "Large Ladle",
+    "path": "foundry\\ladlelarge"
+  },
+  {
+    "desc": "A tall container full of bubbling of molten liquid.",
+    "file": "ladlesmall.object",
+    "name": "Small Ladle",
+    "path": "foundry\\ladlesmall"
+  },
+  {
+    "desc": "This tank cycles the molten liquid inside to keep it from becoming stagnant.",
+    "file": "lavatankcascade.object",
+    "name": "Cascading Lava Tank",
+    "path": "foundry\\lavatankcascade"
+  },
+  {
+    "desc": "A sealed tank full of molten liquid.",
+    "file": "lavatanklarge.object",
+    "name": "Large Lava tank",
+    "path": "foundry\\lavatanklarge"
+  },
+  {
+    "desc": "A small tank full of molten liquid.",
+    "file": "lavatanksmall.object",
+    "name": "Small Lava Tank",
+    "path": "foundry\\lavatanksmall"
+  },
+  {
+    "desc": "A lamp illuminated by suspended globules of lava.",
+    "file": "magmalamp.object",
+    "name": "Magma Lamp",
+    "path": "foundry\\magmalamp"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "frozenmistprimer.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\frozenmistprimer"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "geometricshard1.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\geometricshard1"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "geometricshard2.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\geometricshard2"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "geometricshard3.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\geometricshard3"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "geometricshard4.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\geometricshard4"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "geometricshard5.object",
+    "name": "Chunk of Ice",
+    "path": "frozen\\geometricshard5"
+  },
+  {
+    "desc": "Quite a dangerous chair to sit on",
+    "file": "frozenfirechair.object",
+    "name": "Frozen Fire Chair",
+    "path": "frozenfire\\frozenfirechair"
+  },
+  {
+    "desc": "A bed carved inside of a giant geode.",
+    "file": "geodebed.object",
+    "name": "Geode Bed",
+    "path": "geode\\geodebed"
+  },
+  {
+    "desc": "A light fashioned from a suspended glowing geode.",
+    "file": "geodeceilinglight.object",
+    "name": "Geode Light",
+    "path": "geode\\geodeceilinglight"
+  },
+  {
+    "desc": "A large hollow geode carved into a chair.",
+    "file": "geodechair.object",
+    "name": "Geode Chair",
+    "path": "geode\\geodechair"
+  },
+  {
+    "desc": "A door carved from a cross section of a large geode.",
+    "file": "geodedoor.object",
+    "name": "Geode Door",
+    "path": "geode\\geodedoor"
+  },
+  {
+    "desc": "A crystal geode plant in a flower pot.",
+    "file": "geodeplantpot.object",
+    "name": "Geode Plant Pot",
+    "path": "geode\\geodeplantpot"
+  },
+  {
+    "desc": "A green glowing geode.",
+    "file": "geodebnatural.object",
+    "name": "Geode B (Natural)",
+    "path": "geode\\musicalgeodes\\geodebnatural"
+  },
+  {
+    "desc": "A note carved from an orange musical geode.",
+    "file": "geodebnote.object",
+    "name": "Geode B",
+    "path": "geode\\musicalgeodes\\geodebnote"
+  },
+  {
+    "desc": "A green glowing geode.",
+    "file": "geodecnatural.object",
+    "name": "Geode C (Natural)",
+    "path": "geode\\musicalgeodes\\geodecnatural"
+  },
+  {
+    "desc": "A note carved from a yellow musical geode.",
+    "file": "geodecnote.object",
+    "name": "Geode C",
+    "path": "geode\\musicalgeodes\\geodecnote"
+  },
+  {
+    "desc": "A green glowing geode.",
+    "file": "geodednatural.object",
+    "name": "Geode D (Natural)",
+    "path": "geode\\musicalgeodes\\geodednatural"
+  },
+  {
+    "desc": "A note carved from a green musical geode.",
+    "file": "geodednote.object",
+    "name": "Geode D",
+    "path": "geode\\musicalgeodes\\geodednote"
+  },
+  {
+    "desc": "A note carved from a blue musical geode.",
+    "file": "geodeenote.object",
+    "name": "Geode E",
+    "path": "geode\\musicalgeodes\\geodeenote"
+  },
+  {
+    "desc": "A note carved from a purple musical geode.",
+    "file": "geodefnote.object",
+    "name": "Geode F",
+    "path": "geode\\musicalgeodes\\geodefnote"
+  },
+  {
+    "desc": "A note carved from a pink musical geode.",
+    "file": "geodegnote.object",
+    "name": "Geode G",
+    "path": "geode\\musicalgeodes\\geodegnote"
+  },
+  {
+    "desc": "A green glowing geode.",
+    "file": "geodehighanatural.object",
+    "name": "Geode High A (Natural)",
+    "path": "geode\\musicalgeodes\\geodehighanatural"
+  },
+  {
+    "desc": "A note carved from a white musical geode.",
+    "file": "geodehighanote.object",
+    "name": "Geode High A",
+    "path": "geode\\musicalgeodes\\geodehighanote"
+  },
+  {
+    "desc": "A green glowing geode.",
+    "file": "geodelowanatural.object",
+    "name": "Geode Low A (Natural)",
+    "path": "geode\\musicalgeodes\\geodelowanatural"
+  },
+  {
+    "desc": "A note carved from a red musical geode.",
+    "file": "geodelowanote.object",
+    "name": "Geode Low A",
+    "path": "geode\\musicalgeodes\\geodelowanote"
+  },
+  {
+    "desc": "\"A perfect sample of an aegisalt ore.\"",
+    "file": "aegisaltsample.object",
+    "name": "Aegisalt Sample",
+    "path": "geologicalsample\\aegisaltsample"
+  },
+  {
+    "desc": "\"A perfect sample of a coal ore.\"",
+    "file": "coalsample.object",
+    "name": "Coal Sample",
+    "path": "geologicalsample\\coalsample"
+  },
+  {
+    "desc": "\"A perfect sample of a copper ore.\"",
+    "file": "coppersample.object",
+    "name": "Copper Sample",
+    "path": "geologicalsample\\coppersample"
+  },
+  {
+    "desc": "\"A perfect sample of a core fragment.\"",
+    "file": "corefragmentsample.object",
+    "name": "Core Fragment Sample",
+    "path": "geologicalsample\\corefragmentsample"
+  },
+  {
+    "desc": "\"A perfect sample of a diamond ore.\"",
+    "file": "diamondsample.object",
+    "name": "Diamond Sample",
+    "path": "geologicalsample\\diamondsample"
+  },
+  {
+    "desc": "\"A perfect sample of a durasteel ore.\"",
+    "file": "durasteelsample.object",
+    "name": "Durasteel Sample",
+    "path": "geologicalsample\\durasteelsample"
+  },
+  {
+    "desc": "\"A perfect sample of Erchius Crystal fuel -  larger amounts are used to fuel ship FTL drives.\"",
+    "file": "erchiuscrystalsample.object",
+    "name": "Erchius Crystal Sample",
+    "path": "geologicalsample\\erchiuscrystalsample"
+  },
+  {
+    "desc": "\"A perfect sample of a ferozium ore.\"",
+    "file": "feroziumsample.object",
+    "name": "Ferozium Sample",
+    "path": "geologicalsample\\feroziumsample"
+  },
+  {
+    "desc": "A pretty, blue geode.",
+    "file": "geodebluesample.object",
+    "name": "Blue Geode Sample",
+    "path": "geologicalsample\\geodebluesample"
+  },
+  {
+    "desc": "A pretty, green geode.",
+    "file": "geodegreensample.object",
+    "name": "Green Geode Sample",
+    "path": "geologicalsample\\geodegreensample"
+  },
+  {
+    "desc": "A pretty, orange geode.",
+    "file": "geodeorangesample.object",
+    "name": "Orange Geode Sample",
+    "path": "geologicalsample\\geodeorangesample"
+  },
+  {
+    "desc": "A pretty, purple geode.",
+    "file": "geodepurplesample.object",
+    "name": "Purple Geode Sample",
+    "path": "geologicalsample\\geodepurplesample"
+  },
+  {
+    "desc": "A pretty, red geode.",
+    "file": "geoderedsample.object",
+    "name": "Red Geode Sample",
+    "path": "geologicalsample\\geoderedsample"
+  },
+  {
+    "desc": "A pretty, yellow geode.",
+    "file": "geodeyellowsample.object",
+    "name": "Yellow Geode Sample",
+    "path": "geologicalsample\\geodeyellowsample"
+  },
+  {
+    "desc": "\"A perfect sample of a gold ore.\"",
+    "file": "goldsample.object",
+    "name": "Gold Sample",
+    "path": "geologicalsample\\goldsample"
+  },
+  {
+    "desc": "\"A perfect sample of an iron ore.\"",
+    "file": "ironsample.object",
+    "name": "Iron Sample",
+    "path": "geologicalsample\\ironsample"
+  },
+  {
+    "desc": "\"A perfect sample of a platinum ore.\"",
+    "file": "platinumsample.object",
+    "name": "Platinum Sample",
+    "path": "geologicalsample\\platinumsample"
+  },
+  {
+    "desc": "\"A perfect sample of a plutonium ore.\"",
+    "file": "plutoniumsample.object",
+    "name": "Plutonium Sample",
+    "path": "geologicalsample\\plutoniumsample"
+  },
+  {
+    "desc": "\"A perfect sample of a prisilite ore.\"",
+    "file": "prisilitesample.object",
+    "name": "Prisilite Sample",
+    "path": "geologicalsample\\prisilitesample"
+  },
+  {
+    "desc": "\"A perfect sample of a silver ore.\"",
+    "file": "silversample.object",
+    "name": "Silver Sample",
+    "path": "geologicalsample\\silversample"
+  },
+  {
+    "desc": "\"A perfect sample of a solarium ore.\"",
+    "file": "solariumsample.object",
+    "name": "Solarium Sample",
+    "path": "geologicalsample\\solariumsample"
+  },
+  {
+    "desc": "\"A perfect sample of a titanium ore.\"",
+    "file": "titaniumsample.object",
+    "name": "Titanium Sample",
+    "path": "geologicalsample\\titaniumsample"
+  },
+  {
+    "desc": "\"A perfect sample of a tungsten ore.\"",
+    "file": "tungstensample.object",
+    "name": "Tungsten Sample",
+    "path": "geologicalsample\\tungstensample"
+  },
+  {
+    "desc": "\"A perfect sample of a uranium ore.\"",
+    "file": "uraniumsample.object",
+    "name": "Uranium Sample",
+    "path": "geologicalsample\\uraniumsample"
+  },
+  {
+    "desc": "\"A perfect sample of a violium ore.\"",
+    "file": "violiumsample.object",
+    "name": "Violium Sample",
+    "path": "geologicalsample\\violiumsample"
+  },
+  {
+    "desc": "A giant red flower. Pretty AND intimidating!",
+    "file": "giantflower1.object",
+    "name": "Giant Flower",
+    "path": "giantflower\\giantflower1"
+  },
+  {
+    "desc": "A giant red flower. Pretty AND intimidating!",
+    "file": "giantflower2.object",
+    "name": "Giant Flower",
+    "path": "giantflower\\giantflower2"
+  },
+  {
+    "desc": "A giant red flower. Pretty AND intimidating!",
+    "file": "giantflower3.object",
+    "name": "Giant Flower",
+    "path": "giantflower\\giantflower3"
+  },
+  {
+    "desc": "A giant red flower. Pretty AND intimidating!",
+    "file": "giantflower4.object",
+    "name": "Giant Flower",
+    "path": "giantflower\\giantflower4"
+  },
+  {
+    "desc": "A flower bed. Hope you don't have hayfever.",
+    "file": "giantflowerbed.object",
+    "name": "Giant Flower Bed",
+    "path": "giantflower\\giantflowerbed"
+  },
+  {
+    "desc": "A flower chair. If you enjoy sitting here, that means you like butter.",
+    "file": "giantflowerchair.object",
+    "name": "Giant Flower Chair",
+    "path": "giantflower\\giantflowerchair"
+  },
+  {
+    "desc": "A chest made of flowers.",
+    "file": "giantflowerchest.object",
+    "name": "Giant Flower Chest",
+    "path": "giantflower\\giantflowerchest"
+  },
+  {
+    "desc": "A door with a cheerful wreath on it.",
+    "file": "giantflowerdoor.object",
+    "name": "Giant Flower Door",
+    "path": "giantflower\\giantflowerdoor"
+  },
+  {
+    "desc": "A flower that seems to emit the sun's rays.",
+    "file": "giantflowerlamp.object",
+    "name": "Giant Flower Lamp",
+    "path": "giantflower\\giantflowerlamp"
+  },
+  {
+    "desc": "A giant flower. Perfect to use as a table.",
+    "file": "giantflowertable.object",
+    "name": "Giant Flower Table",
+    "path": "giantflower\\giantflowertable"
+  },
+  {
+    "desc": "A tiny communal building. Who visits it?",
+    "file": "smallchurch.object",
+    "name": "Tiny Building",
+    "path": "gnome\\smallchurch"
+  },
+  {
+    "desc": "A tiny clock tower. Save the clock tower!",
+    "file": "smallclocktower.object",
+    "name": "Tiny Clock Tower",
+    "path": "gnome\\smallclocktower"
+  },
+  {
+    "desc": "A tiny house. Who lives here?",
+    "file": "smallhouse1.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse1"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse10.object",
+    "name": "Tiny Flats",
+    "path": "gnome\\smallhouse10"
+  },
+  {
+    "desc": "A miniature house. Don't knock too hard!",
+    "file": "smallhouse11.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse11"
+  },
+  {
+    "desc": "A miniature house. Don't knock too hard!",
+    "file": "smallhouse2.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse2"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse3.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse3"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse4.object",
+    "name": "Tiny Flats",
+    "path": "gnome\\smallhouse4"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse5.object",
+    "name": "Tiny Flats",
+    "path": "gnome\\smallhouse5"
+  },
+  {
+    "desc": "A tiny house. Who lives here?",
+    "file": "smallhouse6.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse6"
+  },
+  {
+    "desc": "A miniature house. Don't knock too hard!",
+    "file": "smallhouse7.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse7"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse8.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallhouse8"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallhouse9.object",
+    "name": "Tiny Flats",
+    "path": "gnome\\smallhouse9"
+  },
+  {
+    "desc": "Little house on the prairie. Or wherever you are.",
+    "file": "smallinn.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallinn"
+  },
+  {
+    "desc": "A tiny lamppost. Try not to kick it over.",
+    "file": "smalllamppost.object",
+    "name": "Tiny Lamppost",
+    "path": "gnome\\smalllamppost"
+  },
+  {
+    "desc": "A miniature house. Don't knock too hard!",
+    "file": "smallwindmill.object",
+    "name": "Tiny House",
+    "path": "gnome\\smallwindmill"
+  },
+  {
+    "desc": "A silk bed, resting on a strange hive-like base.",
+    "file": "hivebed.object",
+    "name": "Hive Bed",
+    "path": "hive\\hivebed"
+  },
+  {
+    "desc": "Some sort of eggs.",
+    "file": "hivebush1.object",
+    "name": "Hive Eggs",
+    "path": "hive\\hivebush1"
+  },
+  {
+    "desc": "An oddly shaped egg sac.",
+    "file": "hivebush2.object",
+    "name": "Hive Egg Sac",
+    "path": "hive\\hivebush2"
+  },
+  {
+    "desc": "Some sort of eggs.",
+    "file": "hivebush3.object",
+    "name": "Hive Eggs",
+    "path": "hive\\hivebush3"
+  },
+  {
+    "desc": "An oddly shaped egg sac.",
+    "file": "hivebush4.object",
+    "name": "Hive Egg Sac",
+    "path": "hive\\hivebush4"
+  },
+  {
+    "desc": "An oddly shaped egg sac.",
+    "file": "hivebush5.object",
+    "name": "Hive Egg Sac",
+    "path": "hive\\hivebush5"
+  },
+  {
+    "desc": "A strange chair made from curious hexagonal pods.",
+    "file": "hivechair.object",
+    "name": "Hive Chair",
+    "path": "hive\\hivechair"
+  },
+  {
+    "desc": "A really gross looking chest.",
+    "file": "hivechest.object",
+    "name": "Hive Chest",
+    "path": "hive\\hivechest"
+  },
+  {
+    "desc": "A sticky door made from organic hexagonal pods.",
+    "file": "hivedoor.object",
+    "name": "Hive Door",
+    "path": "hive\\hivedoor"
+  },
+  {
+    "desc": "An odd lamp made from a hive-like structure.",
+    "file": "hivelamp.object",
+    "name": "Hive Lamp",
+    "path": "hive\\hivelamp"
+  },
+  {
+    "desc": "A pulsating, fleshy light.",
+    "file": "hivelight1.object",
+    "name": "Hive Light",
+    "path": "hive\\hivelight1"
+  },
+  {
+    "desc": "A sinister light from hive.",
+    "file": "hivelight2.object",
+    "name": "Small Hive Light",
+    "path": "hive\\hivelight2"
+  },
+  {
+    "desc": "A sticky table that looks more like a hive than furniture.",
+    "file": "hivetable.object",
+    "name": "Hive Table",
+    "path": "hive\\hivetable"
+  },
+  {
+    "desc": "A bed made of ice. In the summer, it becomes a water bed.",
+    "file": "icebed.object",
+    "name": "Ice Bed",
+    "path": "ice\\icebed"
+  },
+  {
+    "desc": "A frozen chair. Uncomfortable after a while.",
+    "file": "icechair.object",
+    "name": "Ice Chair",
+    "path": "ice\\icechair"
+  },
+  {
+    "desc": "An ice chest. Totally secure, until it melts.",
+    "file": "icechest.object",
+    "name": "Ice Chest",
+    "path": "ice\\icechest"
+  },
+  {
+    "desc": "An ice door. Don't grip the handle for too long.",
+    "file": "icedoor.object",
+    "name": "Ice Door",
+    "path": "ice\\icedoor"
+  },
+  {
+    "desc": "An ice dispenser made of ice. That's ice ice, baby.",
+    "file": "icemachine.object",
+    "name": "Ice Machine",
+    "path": "ice\\icemachine"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "iceshard1.object",
+    "name": "Chunk of Ice",
+    "path": "ice\\iceshard1"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "iceshard2.object",
+    "name": "Chunk of Ice",
+    "path": "ice\\iceshard2"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "iceshard3.object",
+    "name": "Chunk of Ice",
+    "path": "ice\\iceshard3"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "iceshard4.object",
+    "name": "Chunk of Ice",
+    "path": "ice\\iceshard4"
+  },
+  {
+    "desc": "A big chunk of ice.",
+    "file": "iceshard5.object",
+    "name": "Chunk of Ice",
+    "path": "ice\\iceshard5"
+  },
+  {
+    "desc": "A table made of carved ice.",
+    "file": "icetable.object",
+    "name": "Ice Table",
+    "path": "ice\\icetable"
+  },
+  {
+    "desc": "A snowglobe with a snowman inside. Festive!",
+    "file": "snowglobe1.object",
+    "name": "Snowman Snowglobe",
+    "path": "ice\\snowglobe1"
+  },
+  {
+    "desc": "A snowglobe with a penguin inside. The bird looks angry.",
+    "file": "snowglobe2.object",
+    "name": "Penguin Snowglobe",
+    "path": "ice\\snowglobe2"
+  },
+  {
+    "desc": "An icy sphere. Smash it before it melts!",
+    "file": "icesphere1.object",
+    "name": "Ice Sphere",
+    "path": "icesphere\\icesphere1"
+  },
+  {
+    "desc": "An icy sphere. Smash it before it melts!",
+    "file": "icesphere2.object",
+    "name": "Ice Sphere",
+    "path": "icesphere\\icesphere2"
+  },
+  {
+    "desc": "An icy sphere. Smash it before it melts!",
+    "file": "icesphere3.object",
+    "name": "Ice Sphere",
+    "path": "icesphere\\icesphere3"
+  },
+  {
+    "desc": "An icy sphere. Smash it before it melts!",
+    "file": "icesphere4.object",
+    "name": "Ice Sphere",
+    "path": "icesphere\\icesphere4"
+  },
+  {
+    "desc": "A frozen, spherical chest. Perfect for treasure, or making ice cubes.",
+    "file": "icespherechest.object",
+    "name": "Ice Sphere Chest",
+    "path": "icesphere\\icespherechest"
+  },
+  {
+    "desc": "A beanstalk, it grows up to the sky. ",
+    "file": "beanstalk.object",
+    "name": "Beanstalk",
+    "path": "jungle\\beanstalk"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush1.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush1"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush10.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush10"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush11.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush11"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush12.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush12"
+  },
+  {
+    "desc": "A leafy plant.",
+    "file": "junglebush13.object",
+    "name": "Leafy Plant",
+    "path": "jungle\\junglebush13"
+  },
+  {
+    "desc": "A leafy plant.",
+    "file": "junglebush14.object",
+    "name": "Leafy Plant",
+    "path": "jungle\\junglebush14"
+  },
+  {
+    "desc": "A leafy plant.",
+    "file": "junglebush15.object",
+    "name": "Leafy Plant",
+    "path": "jungle\\junglebush15"
+  },
+  {
+    "desc": "A leafy plant.",
+    "file": "junglebush16.object",
+    "name": "Leafy Plant",
+    "path": "jungle\\junglebush16"
+  },
+  {
+    "desc": "A putrid, horrible flower.",
+    "file": "junglebush17.object",
+    "name": "Putrid Flower",
+    "path": "jungle\\junglebush17"
+  },
+  {
+    "desc": "A putrid, horrible flower.",
+    "file": "junglebush18.object",
+    "name": "Putrid Flower",
+    "path": "jungle\\junglebush18"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush2.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush2"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush3.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush3"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush4.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush4"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush5.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush5"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush6.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush6"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush7.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush7"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush8.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush8"
+  },
+  {
+    "desc": "A colourful bush.",
+    "file": "junglebush9.object",
+    "name": "Colourful Bush",
+    "path": "jungle\\junglebush9"
+  },
+  {
+    "desc": "A chest made of vines, it's not really safe.",
+    "file": "junglechest.object",
+    "name": "Vine Chest",
+    "path": "jungle\\junglechest"
+  },
+  {
+    "desc": "A mushroom bed. Guaranteed to give you weird dreams.",
+    "file": "shroombed.object",
+    "name": "Shroom Bed",
+    "path": "mushroom\\shroombed"
+  },
+  {
+    "desc": "A mushroom chair. Or maybe a toadstool.",
+    "file": "shroomchair.object",
+    "name": "Shroom Chair",
+    "path": "mushroom\\shroomchair"
+  },
+  {
+    "desc": "A mushroom fashioned into a chest.",
+    "file": "shroomchest.object",
+    "name": "Shroom Chest",
+    "path": "mushroom\\shroomchest"
+  },
+  {
+    "desc": "A door made of mushrooms. It even has a cute mushroom handle.",
+    "file": "shroomdoor.object",
+    "name": "Shroom Door",
+    "path": "mushroom\\shroomdoor"
+  },
+  {
+    "desc": "A glow-in-the-dark mushroom. Handy AND cute.",
+    "file": "shroomlamp.object",
+    "name": "Shroom Lamp",
+    "path": "mushroom\\shroomlamp"
+  },
+  {
+    "desc": "A giant mushroom. Perfect to use as a table.",
+    "file": "shroomtable.object",
+    "name": "Shroom Table",
+    "path": "mushroom\\shroomtable"
+  },
+  {
+    "desc": "A mushroom wardrobe.",
+    "file": "shroomwardrobe.object",
+    "name": "Mushroom Wardrobe",
+    "path": "mushroom\\shroomwardrobe"
+  },
+  {
+    "desc": "A folding chair made for lounging. Looks relaxing.",
+    "file": "deckchair.object",
+    "name": "Deck Chair",
+    "path": "oasis\\deckchair"
+  },
+  {
+    "desc": "A deck lounge chair with a parasol, perfect for sun weather.",
+    "file": "oasisbed.object",
+    "name": "Deck Lounge Chair",
+    "path": "oasis\\oasisbed"
+  },
+  {
+    "desc": "A bed made of wood and reed.",
+    "file": "reedbed.object",
+    "name": "Reed Bed",
+    "path": "oasis\\reedbed"
+  },
+  {
+    "desc": "A chair made of wood and reed.",
+    "file": "reedchair.object",
+    "name": "Reed Chair",
+    "path": "oasis\\reedchair"
+  },
+  {
+    "desc": "Reeds fashioned into a chest.",
+    "file": "reedchest.object",
+    "name": "Reed Chest",
+    "path": "oasis\\reedchest"
+  },
+  {
+    "desc": "A reed clock with a hollow ticking sound.",
+    "file": "reedclock.object",
+    "name": "Reed Wall Clock",
+    "path": "oasis\\reedclock"
+  },
+  {
+    "desc": "A desk made of wood and reed.",
+    "file": "reeddesk.object",
+    "name": "Reed Desk",
+    "path": "oasis\\reeddesk"
+  },
+  {
+    "desc": "A door made of wood and reed.",
+    "file": "reeddoor.object",
+    "name": "Reed Door",
+    "path": "oasis\\reeddoor"
+  },
+  {
+    "desc": "It looks like reed, but it's actually a lamp.",
+    "file": "reedlamp.object",
+    "name": "Reed Lamp",
+    "path": "oasis\\reedlamp"
+  },
+  {
+    "desc": "Tall, leafy reeds.",
+    "file": "reedseed1.object",
+    "name": "Reed Seed",
+    "path": "oasis\\reedseed1"
+  },
+  {
+    "desc": "Tall, leafy reeds.",
+    "file": "reedseed2.object",
+    "name": "Reed Seed",
+    "path": "oasis\\reedseed2"
+  },
+  {
+    "desc": "Tall, leafy reeds.",
+    "file": "reedseed3.object",
+    "name": "Reed Seed",
+    "path": "oasis\\reedseed3"
+  },
+  {
+    "desc": "Tall, leafy reeds.",
+    "file": "reedseed4.object",
+    "name": "Reed Seed",
+    "path": "oasis\\reedseed4"
+  },
+  {
+    "desc": "Tall, leafy reeds.",
+    "file": "reedseed5.object",
+    "name": "Reed Seed",
+    "path": "oasis\\reedseed5"
+  },
+  {
+    "desc": "A reed shelf.",
+    "file": "reedshelf.object",
+    "name": "Reed Shelf",
+    "path": "oasis\\reedshelf"
+  },
+  {
+    "desc": "A patch of tall grass. Be sure to check for critters!",
+    "file": "tallgrass1.object",
+    "name": "Tall Grass",
+    "path": "oasis\\tallgrass1"
+  },
+  {
+    "desc": "A patch of tall grass. Be sure to check for critters!",
+    "file": "tallgrass2.object",
+    "name": "Tall Grass",
+    "path": "oasis\\tallgrass2"
+  },
+  {
+    "desc": "A patch of tall grass. Be sure to check for critters!",
+    "file": "tallgrass3.object",
+    "name": "Tall Grass",
+    "path": "oasis\\tallgrass3"
+  },
+  {
+    "desc": "A patch of tall grass. Be sure to check for critters!",
+    "file": "tallgrass4.object",
+    "name": "Tall Grass",
+    "path": "oasis\\tallgrass4"
+  },
+  {
+    "desc": "A broken anchor",
+    "file": "brokenanchor.object",
+    "name": "Broken Anchor",
+    "path": "ocean\\brokenanchor"
+  },
+  {
+    "desc": "A glowing oshroom.",
+    "file": "oshroom1.object",
+    "name": "Glowing Oshroom",
+    "path": "ocean\\oshroom1"
+  },
+  {
+    "desc": "A glowing oshroom.",
+    "file": "oshroom2.object",
+    "name": "Glowing Oshroom",
+    "path": "ocean\\oshroom2"
+  },
+  {
+    "desc": "A glowing oshroom.",
+    "file": "oshroom3.object",
+    "name": "Glowing Oshroom",
+    "path": "ocean\\oshroom3"
+  },
+  {
+    "desc": "A glowing oshroom.",
+    "file": "oshroom4.object",
+    "name": "Glowing Oshroom",
+    "path": "ocean\\oshroom4"
+  },
+  {
+    "desc": "A glowing oshroom.",
+    "file": "oshroom5.object",
+    "name": "Glowing Oshroom",
+    "path": "ocean\\oshroom5"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell1.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell1"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell2.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell2"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell3.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell3"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell4.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell4"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell5.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell5"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell6.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell6"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell7.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell7"
+  },
+  {
+    "desc": "A seashell!",
+    "file": "seashell8.object",
+    "name": "Seashell",
+    "path": "ocean\\seashell8"
+  },
+  {
+    "desc": "A minimalist bed made from a refractive glass.",
+    "file": "prismbed.object",
+    "name": "Prism Bed",
+    "path": "prism\\prismbed"
+  },
+  {
+    "desc": "A cleanly cut chair made from refractive glass.",
+    "file": "prismchair.object",
+    "name": "Prism Chair",
+    "path": "prism\\prismchair"
+  },
+  {
+    "desc": "A smooth door made from a refractive glass.",
+    "file": "prismdoor.object",
+    "name": "Prism Door",
+    "path": "prism\\prismdoor"
+  },
+  {
+    "desc": "A lamp made from a smoothly carved glowing crystal.",
+    "file": "prismlamp1.object",
+    "name": "Prism Magenta Lamp",
+    "path": "prism\\prismlamp1"
+  },
+  {
+    "desc": "A lamp made from a smoothly carved glowing crystal.",
+    "file": "prismlamp2.object",
+    "name": "Prism Emerald Lamp",
+    "path": "prism\\prismlamp2"
+  },
+  {
+    "desc": "A lamp made from a smoothly carved glowing crystal.",
+    "file": "prismlamp3.object",
+    "name": "Prism Cyan Lamp",
+    "path": "prism\\prismlamp3"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock1.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock1"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock2.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock2"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock3.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock3"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock4.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock4"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock5.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock5"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock6.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock6"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock7.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock7"
+  },
+  {
+    "desc": "A highly refractive prism.",
+    "file": "prismrock8.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrock8"
+  },
+  {
+    "desc": "A highly refractive prism. There appears to be something inside.",
+    "file": "prismrockhumanoid.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrockhumanoid"
+  },
+  {
+    "desc": "A highly refractive prism. There appears to be something inside.",
+    "file": "prismrockpenguin.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrockpenguin"
+  },
+  {
+    "desc": "A highly refractive prism with runes engraved into it.",
+    "file": "prismrockrunes.object",
+    "name": "Prism Crystal",
+    "path": "prism\\prismrockrunes"
+  },
+  {
+    "desc": "A smooth table cut from a refractive glass.",
+    "file": "prismtable.object",
+    "name": "Prism Table",
+    "path": "prism\\prismtable"
+  },
+  {
+    "desc": "A bed made of rainbow wood.",
+    "file": "rainbowwoodbed.object",
+    "name": "Rainbow Wood Bed",
+    "path": "rainbowwood\\rainbowwoodbed"
+  },
+  {
+    "desc": "A chair made of rainbow wood.",
+    "file": "rainbowwoodchair.object",
+    "name": "Rainbow Wood Chair",
+    "path": "rainbowwood\\rainbowwoodchair"
+  },
+  {
+    "desc": "A door made of rainbow wood.",
+    "file": "rainbowwooddoor.object",
+    "name": "Rainbow Wood Door",
+    "path": "rainbowwood\\rainbowwooddoor"
+  },
+  {
+    "desc": "A chest made of rainbow wood.",
+    "file": "rainbowwoodsafe.object",
+    "name": "Rainbow Wood Chest",
+    "path": "rainbowwood\\rainbowwoodsafe"
+  },
+  {
+    "desc": "A table made of rainbow wood.",
+    "file": "rainbowwoodtable.object",
+    "name": "Rainbow Wood Table",
+    "path": "rainbowwood\\rainbowwoodtable"
+  },
+  {
+    "desc": "A rusty bed. Looks cheap and fragile.",
+    "file": "rustbed.object",
+    "name": "Rusty Bed",
+    "path": "rust\\rustbed"
+  },
+  {
+    "desc": "A rusty bush. Watch out for sharp edges.",
+    "file": "rustbush1.object",
+    "name": "Rusty Bush",
+    "path": "rust\\rustbush1"
+  },
+  {
+    "desc": "A rusty bush. Watch out for sharp edges.",
+    "file": "rustbush2.object",
+    "name": "Rusty Bush",
+    "path": "rust\\rustbush2"
+  },
+  {
+    "desc": "A rusty bush. Watch out for sharp edges.",
+    "file": "rustbush3.object",
+    "name": "Rusty Bush",
+    "path": "rust\\rustbush3"
+  },
+  {
+    "desc": "A rusty bush. Watch out for sharp edges.",
+    "file": "rustbush4.object",
+    "name": "Rusty Bush",
+    "path": "rust\\rustbush4"
+  },
+  {
+    "desc": "A rusty chair. Don't rock back on it.",
+    "file": "rustchair.object",
+    "name": "Rusty Chair",
+    "path": "rust\\rustchair"
+  },
+  {
+    "desc": "A rusty chest. Practically falling apart.",
+    "file": "rustchest.object",
+    "name": "Rusty Chest",
+    "path": "rust\\rustchest"
+  },
+  {
+    "desc": "A rusty door. Looks like it should lead to a creepy basement.",
+    "file": "rustdoor.object",
+    "name": "Rusty Door",
+    "path": "rust\\rustdoor"
+  },
+  {
+    "desc": "A rusty table. Adds flavour.",
+    "file": "rusttable.object",
+    "name": "Rusty Table",
+    "path": "rust\\rusttable"
+  },
+  {
+    "desc": "An old, worn and dusty bed.",
+    "file": "dustybed.object",
+    "name": "Dusty Bed",
+    "path": "savannah\\dustybed"
+  },
+  {
+    "desc": "An old, worn and dusty chair.",
+    "file": "dustychair.object",
+    "name": "Dusty Chair",
+    "path": "savannah\\dustychair"
+  },
+  {
+    "desc": "A dusty wooden table.",
+    "file": "dustytable.object",
+    "name": "Dusty Wooden Table",
+    "path": "savannah\\dustytable"
+  },
+  {
+    "desc": "Everything you need to survive. Almost.",
+    "file": "bombsheltershelf1.object",
+    "name": "Shelter Shelf",
+    "path": "scorchedcity\\bombsheltershelf1"
+  },
+  {
+    "desc": "A dumpster.",
+    "file": "dumpster.object",
+    "name": "Dumpster",
+    "path": "scorchedcity\\dumpster"
+  },
+  {
+    "desc": "An explosive metal barrel. It looks dangerous.",
+    "file": "explosivebarrel.object",
+    "name": " Explosive Barrel",
+    "path": "scorchedcity\\explosivebarrel"
+  },
+  {
+    "desc": "Crossing this laser beam might trigger something!",
+    "file": "lasertripwire.object",
+    "name": "Laser Tripwire",
+    "path": "scorchedcity\\lasertripwire"
+  },
+  {
+    "desc": "A manhole cover.",
+    "file": "manholedoor.object",
+    "name": "Manhole Cover",
+    "path": "scorchedcity\\manholedoor"
+  },
+  {
+    "desc": "A trap door disguised as a metal platform.",
+    "file": "metallictrapdoor.object",
+    "name": "Metal Trap Door",
+    "path": "scorchedcity\\metallictrapdoor"
+  },
+  {
+    "desc": "A scorched bench.",
+    "file": "scorchedbench.object",
+    "name": "Scorched Bench",
+    "path": "scorchedcity\\scorchedbench"
+  },
+  {
+    "desc": "An arrow sign.",
+    "file": "scorchedcityarrowsign.object",
+    "name": "Tire Arrow Sign",
+    "path": "scorchedcity\\scorchedcityarrowsign"
+  },
+  {
+    "desc": "A clean and sturdy bed.",
+    "file": "scorchedcitybed.object",
+    "name": "Stylish Bed",
+    "path": "scorchedcity\\scorchedcitybed"
+  },
+  {
+    "desc": "A broken bed.",
+    "file": "scorchedcitybrokenbed.object",
+    "name": "Broken Stylish Bed",
+    "path": "scorchedcity\\scorchedcitybrokenbed"
+  },
+  {
+    "desc": "A broken chair.",
+    "file": "scorchedcitybrokenchair.object",
+    "name": "Broken Stylish Chair",
+    "path": "scorchedcity\\scorchedcitybrokenchair"
+  },
+  {
+    "desc": "A chest of drawers, minus a few drawers.",
+    "file": "scorchedcitybrokenchestdrawerlarge.object",
+    "name": "Large Broken Drawers",
+    "path": "scorchedcity\\scorchedcitybrokenchestdrawerlarge"
+  },
+  {
+    "desc": "A chest of drawers, minus a drawer.",
+    "file": "scorchedcitybrokenchestdrawersmall.object",
+    "name": "Small Broken Drawers",
+    "path": "scorchedcity\\scorchedcitybrokenchestdrawersmall"
+  },
+  {
+    "desc": "A counter with added grime.",
+    "file": "scorchedcitybrokencounter.object",
+    "name": "Grimy Stylish Counter",
+    "path": "scorchedcity\\scorchedcitybrokencounter"
+  },
+  {
+    "desc": "A broken electric box.",
+    "file": "scorchedcitybrokenelectricbox1.object",
+    "name": "Broken Electric Box",
+    "path": "scorchedcity\\scorchedcitybrokenelectricbox1"
+  },
+  {
+    "desc": "A broken utility box.",
+    "file": "scorchedcitybrokenelectricbox2.object",
+    "name": "Broken Utility Box",
+    "path": "scorchedcity\\scorchedcitybrokenelectricbox2"
+  },
+  {
+    "desc": "A broken fridge.",
+    "file": "scorchedcitybrokenfridge.object",
+    "name": "Rusty Stylish Fridge",
+    "path": "scorchedcity\\scorchedcitybrokenfridge"
+  },
+  {
+    "desc": "A broken register.",
+    "file": "scorchedcitybrokenregister.object",
+    "name": "Broken Register",
+    "path": "scorchedcity\\scorchedcitybrokenregister"
+  },
+  {
+    "desc": "A road sign, it is bent and rusted.",
+    "file": "scorchedcitybrokenroundsign1.object",
+    "name": "Neglected Rusty Sign",
+    "path": "scorchedcity\\scorchedcitybrokenroundsign1"
+  },
+  {
+    "desc": "A rusty metal shelf, some store goods still remain on the shelves.",
+    "file": "scorchedcitybrokenstoreshelf.object",
+    "name": "Rusty Metal Store Shelf",
+    "path": "scorchedcity\\scorchedcitybrokenstoreshelf"
+  },
+  {
+    "desc": "A broken wooden table.",
+    "file": "scorchedcitybrokentable.object",
+    "name": "Broken Round Table",
+    "path": "scorchedcity\\scorchedcitybrokentable"
+  },
+  {
+    "desc": "A rusty holding tank.",
+    "file": "scorchedcitybrokentank.object",
+    "name": "Rusty Holding Tank",
+    "path": "scorchedcity\\scorchedcitybrokentank"
+  },
+  {
+    "desc": "A set of traffic lights, badly broken.",
+    "file": "scorchedcitybrokentraficlights.object",
+    "name": "Broken Traffic Lights",
+    "path": "scorchedcity\\scorchedcitybrokentraficlights"
+  },
+  {
+    "desc": "A broken television set.",
+    "file": "scorchedcitybrokentv.object",
+    "name": "Broken Stylish TV",
+    "path": "scorchedcity\\scorchedcitybrokentv"
+  },
+  {
+    "desc": "A stylish but sturdy chair.",
+    "file": "scorchedcitychair.object",
+    "name": "Stylish Chair",
+    "path": "scorchedcity\\scorchedcitychair"
+  },
+  {
+    "desc": "A battered, decayed looking chest.",
+    "file": "scorchedcitychest.object",
+    "name": "Decayed Chest",
+    "path": "scorchedcity\\scorchedcitychest"
+  },
+  {
+    "desc": "A large contemporary chest of drawers.",
+    "file": "scorchedcitychestdrawerlarge.object",
+    "name": "Large Stylish Drawers",
+    "path": "scorchedcity\\scorchedcitychestdrawerlarge"
+  },
+  {
+    "desc": "A small contemporary chest of drawers.",
+    "file": "scorchedcitychestdrawersmall.object",
+    "name": "Small Stylish Drawers",
+    "path": "scorchedcity\\scorchedcitychestdrawersmall"
+  },
+  {
+    "desc": "A clean looking counter.",
+    "file": "scorchedcitycounter.object",
+    "name": "Stylish Counter",
+    "path": "scorchedcity\\scorchedcitycounter"
+  },
+  {
+    "desc": "A rusty crate.",
+    "file": "scorchedcitycrate.object",
+    "name": "Rusty Crate",
+    "path": "scorchedcity\\scorchedcitycrate"
+  },
+  {
+    "desc": "A contemprary style fridge, capable of extending the shelf life of food.",
+    "file": "scorchedcityfridge.object",
+    "name": "Stylish Fridge",
+    "path": "scorchedcity\\scorchedcityfridge"
+  },
+  {
+    "desc": "Ka-ching!",
+    "file": "scorchedcityregister.object",
+    "name": "Store Register",
+    "path": "scorchedcity\\scorchedcityregister"
+  },
+  {
+    "desc": "A warning sign, but what is it warning of?",
+    "file": "scorchedcitysign1.object",
+    "name": "Warning Sign",
+    "path": "scorchedcity\\scorchedcitysign1"
+  },
+  {
+    "desc": "A small rusty looking crate.",
+    "file": "scorchedcitysmallcrate.object",
+    "name": "Small Rusty Crate",
+    "path": "scorchedcity\\scorchedcitysmallcrate"
+  },
+  {
+    "desc": "A metal shelf packed with store goods.",
+    "file": "scorchedcitystoreshelf.object",
+    "name": "Metal Store Shelf",
+    "path": "scorchedcity\\scorchedcitystoreshelf"
+  },
+  {
+    "desc": "A rounded wooden table.",
+    "file": "scorchedcitytable.object",
+    "name": "Round Table",
+    "path": "scorchedcity\\scorchedcitytable"
+  },
+  {
+    "desc": "A popular style of television set.",
+    "file": "scorchedcitytv.object",
+    "name": "Stylish TV",
+    "path": "scorchedcity\\scorchedcitytv"
+  },
+  {
+    "desc": "An old, forgotten land mine. It may still be active!",
+    "file": "scorchedlandmine.object",
+    "name": "Rusty Land Mine",
+    "path": "scorchedcity\\scorchedlandmine"
+  },
+  {
+    "desc": "A virtual reality headset.",
+    "file": "vrheadset.object",
+    "name": "VR Headset",
+    "path": "scorchedcity\\vrheadset"
+  },
+  {
+    "desc": "A wooden utility pole.",
+    "file": "woodenutilitypole1.object",
+    "name": "Wooden Utility Pole",
+    "path": "scorchedcity\\woodenutilitypole1"
+  },
+  {
+    "desc": "A wooden utility pole.",
+    "file": "woodenutilitypole2.object",
+    "name": "Wooden Telephone Pole",
+    "path": "scorchedcity\\woodenutilitypole2"
+  },
+  {
+    "desc": "A glob of dripping slime.",
+    "file": "ceilingslime1.object",
+    "name": "Dripping Slime",
+    "path": "slime\\ceilingslime1"
+  },
+  {
+    "desc": "A glob of dripping slime.",
+    "file": "ceilingslime2.object",
+    "name": "Dripping Slime",
+    "path": "slime\\ceilingslime2"
+  },
+  {
+    "desc": "A glob of dripping slime.",
+    "file": "ceilingslime3.object",
+    "name": "Dripping Slime",
+    "path": "slime\\ceilingslime3"
+  },
+  {
+    "desc": "Sleep sweetly, suspended in slime.",
+    "file": "slimebed.object",
+    "name": "Slime Bed",
+    "path": "slime\\slimebed"
+  },
+  {
+    "desc": "A sticky, slimy spot to sit.",
+    "file": "slimechair.object",
+    "name": "Slime Chair",
+    "path": "slime\\slimechair"
+  },
+  {
+    "desc": "A chest made of a thick slime substance.",
+    "file": "slimehide.object",
+    "name": "Slime Chest",
+    "path": "slime\\slimechest"
+  },
+  {
+    "desc": "A torch made of slime.",
+    "file": "slimetorch.object",
+    "name": "Slime Torch",
+    "path": "slime\\slimetorch"
+  },
+  {
+    "desc": "A blueprint encased in a vile bubble of slime.",
+    "file": "blueprintblob.object",
+    "name": "Blueprint Blob",
+    "path": "slimecave\\blueprintblob"
+  },
+  {
+    "desc": "A vile bubble of slime. Yuck.",
+    "file": "slimeblob1.object",
+    "name": "Slime Blob",
+    "path": "slimecave\\slimeblob1"
+  },
+  {
+    "desc": "A vile bubble of slime. Yuk.",
+    "file": "slimeblob2.object",
+    "name": "Slime Blob",
+    "path": "slimecave\\slimeblob2"
+  },
+  {
+    "desc": "A vile bubble of slime. Yuk.",
+    "file": "slimeblob3.object",
+    "name": "Slime Blob",
+    "path": "slimecave\\slimeblob3"
+  },
+  {
+    "desc": "A vile bubble of slime. Yuk.",
+    "file": "slimeblob4.object",
+    "name": "Slime Blob",
+    "path": "slimecave\\slimeblob4"
+  },
+  {
+    "desc": "A vile bubble of slime. Yuk.",
+    "file": "slimeblob5.object",
+    "name": "Slime Blob",
+    "path": "slimecave\\slimeblob5"
+  },
+  {
+    "desc": "A cracked rock full of copper.",
+    "file": "copperrock.object",
+    "name": "Copper Rock",
+    "path": "smashablerocks\\copperrock"
+  },
+  {
+    "desc": "A cracked rock full of copper.",
+    "file": "copperrocksmall.object",
+    "name": "Small Copper Rock",
+    "path": "smashablerocks\\copperrocksmall"
+  },
+  {
+    "desc": "A cracked rock full of diamond.",
+    "file": "diamondrock.object",
+    "name": "Diamond Rock",
+    "path": "smashablerocks\\diamondrock"
+  },
+  {
+    "desc": "A cracked rock full of diamond.",
+    "file": "diamondrocksmall.object",
+    "name": "Small Diamond Rock",
+    "path": "smashablerocks\\diamondrocksmall"
+  },
+  {
+    "desc": "A cracked rock full of gold.",
+    "file": "goldrock.object",
+    "name": "Gold Rock",
+    "path": "smashablerocks\\goldrock"
+  },
+  {
+    "desc": "A cracked rock full of gold.",
+    "file": "goldrocksmall.object",
+    "name": "Small Gold Rock",
+    "path": "smashablerocks\\goldrocksmall"
+  },
+  {
+    "desc": "A cracked rock full of platinum.",
+    "file": "platinumrock.object",
+    "name": "Platinum Rock",
+    "path": "smashablerocks\\platinumrock"
+  },
+  {
+    "desc": "A cracked rock full of platinum.",
+    "file": "platinumrocksmall.object",
+    "name": "Small Platinum Rock",
+    "path": "smashablerocks\\platinumrocksmall"
+  },
+  {
+    "desc": "A cracked rock full of silver.",
+    "file": "silverrock.object",
+    "name": "Silver Rock",
+    "path": "smashablerocks\\silverrock"
+  },
+  {
+    "desc": "A cracked rock full of silver.",
+    "file": "silverrocksmall.object",
+    "name": "Small Silver Rock",
+    "path": "smashablerocks\\silverrocksmall"
+  },
+  {
+    "desc": "A distress beacon. Who knows who might hear it?",
+    "file": "beaconsnow.object",
+    "name": "Distress Beacon",
+    "path": "snow\\beaconsnow"
+  },
+  {
+    "desc": "A stylishly dressed snowman.",
+    "file": "fancysnowman.object",
+    "name": "Fancy Snowman",
+    "path": "snow\\fancysnowman"
+  },
+  {
+    "desc": "A snow drift.",
+    "file": "snowdrift1.object",
+    "name": "Snowdrift",
+    "path": "snow\\snowdrift1"
+  },
+  {
+    "desc": "A snow drift.",
+    "file": "snowdrift2.object",
+    "name": "Snowdrift",
+    "path": "snow\\snowdrift2"
+  },
+  {
+    "desc": "A snow drift.",
+    "file": "snowdrift3.object",
+    "name": "Snowdrift",
+    "path": "snow\\snowdrift3"
+  },
+  {
+    "desc": "A snow drift.",
+    "file": "snowdrift4.object",
+    "name": "Snowdrift",
+    "path": "snow\\snowdrift4"
+  },
+  {
+    "desc": "A perfect little snowman.",
+    "file": "snowman.object",
+    "name": "Snowman",
+    "path": "snow\\snowman"
+  },
+  {
+    "desc": "Strange oversized flowers, you can hide inside!",
+    "file": "flowerbox.object",
+    "name": "Strange Flower Box",
+    "path": "spring\\flowerbox"
+  },
+  {
+    "desc": "A blue flower lamp.",
+    "file": "flowerlamp.object",
+    "name": "Hanging Flower Lamp",
+    "path": "spring\\flowerlamp"
+  },
+  {
+    "desc": "A sunflower who's just looking for the sun.",
+    "file": "movingsunflower.object",
+    "name": "Moving Sunflower",
+    "path": "spring\\movingsunflower"
+  },
+  {
+    "desc": "A beautiful stone fountain with a floral centerpiece.",
+    "file": "petalfountain.object",
+    "name": "Floral Fountain",
+    "path": "spring\\petalfountain"
+  },
+  {
+    "desc": "A rather adorable pink potted plant.",
+    "file": "splendidplant.object",
+    "name": "Splendid Flower",
+    "path": "spring\\splendidplant"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush1.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush1"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush2.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush2"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush3.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush3"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush4.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush4"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush5.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush5"
+  },
+  {
+    "desc": "A flowery bush.",
+    "file": "springbush6.object",
+    "name": "Flowery Bush",
+    "path": "spring\\springbush6"
+  },
+  {
+    "desc": "A chest with a spring flower latch.",
+    "file": "springchest.object",
+    "name": "Spring Chest",
+    "path": "spring\\springchest"
+  },
+  {
+    "desc": "A particularly colourful potted plant.",
+    "file": "vibrantplant.object",
+    "name": "Vibrant Plant",
+    "path": "spring\\vibrantplant"
+  },
+  {
+    "desc": "A brass valve, rusted from years of use.",
+    "file": "boilervalve.object",
+    "name": "Boiler Valve",
+    "path": "steamspring\\boilervalve"
+  },
+  {
+    "desc": "A creaky lamp post, made from brass pipes.",
+    "file": "brasslamppost1.object",
+    "name": "Brass Lamp Post",
+    "path": "steamspring\\brasslamppost1"
+  },
+  {
+    "desc": "A rusted gear half-buried in the ground.",
+    "file": "floorgear1.object",
+    "name": "Floor Gear",
+    "path": "steamspring\\floorgear1"
+  },
+  {
+    "desc": "A pipe that comes out from the floor.",
+    "file": "floorpipe1.object",
+    "name": "Floor Pipe",
+    "path": "steamspring\\floorpipe1"
+  },
+  {
+    "desc": "A pipe that comes out from the floor.",
+    "file": "floorpipe2.object",
+    "name": "Floor Pipe",
+    "path": "steamspring\\floorpipe2"
+  },
+  {
+    "desc": "A pipe that comes out from the floor.",
+    "file": "floorpipe3.object",
+    "name": "Floor Pipe",
+    "path": "steamspring\\floorpipe3"
+  },
+  {
+    "desc": "A small rusty boiler, for turning freezing water into steam.",
+    "file": "steamboiler1.object",
+    "name": "Small Steam Boiler",
+    "path": "steamspring\\steamboiler1"
+  },
+  {
+    "desc": "A long dented boiler, for turning freezing water into steam.",
+    "file": "steamboiler2.object",
+    "name": "Medium Steam Boiler",
+    "path": "steamspring\\steamboiler2"
+  },
+  {
+    "desc": "A huge painted boiler, for turning freezing water into steam.",
+    "file": "steamboiler3.object",
+    "name": "Large Steam Boiler",
+    "path": "steamspring\\steamboiler3"
+  },
+  {
+    "desc": "A nice steam powered large clock face.",
+    "file": "steamclock.object",
+    "name": "Steam Clock Face",
+    "path": "steamspring\\steamclock"
+  },
+  {
+    "desc": "A comfy bed supported by a framework of pipes.",
+    "file": "steamspringbed.object",
+    "name": "Steamspring Bed",
+    "path": "steamspring\\steamspringbed"
+  },
+  {
+    "desc": "A fetching chair, made of fine wood and brass pipes.",
+    "file": "steamspringchair.object",
+    "name": "Steamspring Chair",
+    "path": "steamspring\\steamspringchair"
+  },
+  {
+    "desc": "A sturdy wooden door, with a brass pipe frame.",
+    "file": "steamspringdoor.object",
+    "name": "Steamspring Door",
+    "path": "steamspring\\steamspringdoor"
+  },
+  {
+    "desc": "A strange lamp made from wood and brass.",
+    "file": "steamspringlamp.object",
+    "name": "Steamspring Lamp",
+    "path": "steamspring\\steamspringlamp"
+  },
+  {
+    "desc": "A neatly crafted table decorated with brass pipes.",
+    "file": "steamspringtable.object",
+    "name": "Steamspring Table",
+    "path": "steamspring\\steamspringtable"
+  },
+  {
+    "desc": "A bed made of rock.",
+    "file": "cavebed.object",
+    "name": "Rock Bed",
+    "path": "stonecave\\cavebed"
+  },
+  {
+    "desc": "A rock chair.",
+    "file": "cavechair.object",
+    "name": "Rock Chair",
+    "path": "stonecave\\cavechair"
+  },
+  {
+    "desc": "A chest made of rock.",
+    "file": "cavechest.object",
+    "name": "Rock Chest",
+    "path": "stonecave\\cavechest"
+  },
+  {
+    "desc": "A glowing stalactite.",
+    "file": "cavelamp.object",
+    "name": "Stalactite Lamp",
+    "path": "stonecave\\cavelamp"
+  },
+  {
+    "desc": "This is an old rock stalactite.",
+    "file": "ceilingstalactite1.object",
+    "name": "Rock Stalactite",
+    "path": "stonecave\\ceilingstalactite1"
+  },
+  {
+    "desc": "This is an old rock stalactite.",
+    "file": "ceilingstalactite2.object",
+    "name": "Rock Stalactite",
+    "path": "stonecave\\ceilingstalactite2"
+  },
+  {
+    "desc": "This is an old rock stalactite.",
+    "file": "ceilingstalactite3.object",
+    "name": "Rock Stalactite",
+    "path": "stonecave\\ceilingstalactite3"
+  },
+  {
+    "desc": "This is an old rock stalactite.",
+    "file": "ceilingstalactite4.object",
+    "name": "Rock Stalactite",
+    "path": "stonecave\\ceilingstalactite4"
+  },
+  {
+    "desc": "This is an old rock stalactite.",
+    "file": "ceilingstalactite5.object",
+    "name": "Rock Stalactite",
+    "path": "stonecave\\ceilingstalactite5"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "gasprimer.object",
+    "name": "Root",
+    "path": "swamp\\gasprimer"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "rootbush1.object",
+    "name": "Root",
+    "path": "swamp\\rootbush1"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "rootbush2.object",
+    "name": "Root",
+    "path": "swamp\\rootbush2"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "rootbush3.object",
+    "name": "Root",
+    "path": "swamp\\rootbush3"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "rootbush4.object",
+    "name": "Root",
+    "path": "swamp\\rootbush4"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "rootbush5.object",
+    "name": "Root",
+    "path": "swamp\\rootbush5"
+  },
+  {
+    "desc": "A traditional bed made from roots and leaves.",
+    "file": "swampbed.object",
+    "name": "Swamp Bed",
+    "path": "swamp\\swampbed"
+  },
+  {
+    "desc": "A small seat made from leaves and roots.",
+    "file": "swampchair.object",
+    "name": "Swamp Chair",
+    "path": "swamp\\swampchair"
+  },
+  {
+    "desc": "A chest made from twigs and roots.",
+    "file": "swampchest.object",
+    "name": "Swamp Chest",
+    "path": "swamp\\swampchest"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "swamproot1.object",
+    "name": "Root",
+    "path": "swamp\\swamproot1"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "swamproot2.object",
+    "name": "Root",
+    "path": "swamp\\swamproot2"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "swamproot3.object",
+    "name": "Root",
+    "path": "swamp\\swamproot3"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "swamproot4.object",
+    "name": "Root",
+    "path": "swamp\\swamproot4"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "swamproot5.object",
+    "name": "Root",
+    "path": "swamp\\swamproot5"
+  },
+  {
+    "desc": "A wobbly table made from leaves and roots.",
+    "file": "swamptable.object",
+    "name": "Swamp Table",
+    "path": "swamp\\swamptable"
+  },
+  {
+    "desc": "An unusual bed, with sides made of roots and leaf bedding.",
+    "file": "swampybed.object",
+    "name": "Swamp Cot",
+    "path": "swamp\\swampybed"
+  },
+  {
+    "desc": "A simple tar bed.",
+    "file": "tarbed.object",
+    "name": "Tar Bed",
+    "path": "tar\\tarbed"
+  },
+  {
+    "desc": "A sticky tar chair.",
+    "file": "tarchair.object",
+    "name": "Tar Chair",
+    "path": "tar\\tarchair"
+  },
+  {
+    "desc": "A computer console made of tar.",
+    "file": "tarconsole.object",
+    "name": "Tar Console",
+    "path": "tar\\tarconsole"
+  },
+  {
+    "desc": "A shard of crystallised tar",
+    "file": "tarcrystal1.object",
+    "name": "Tar Shard",
+    "path": "tar\\tarcrystal1"
+  },
+  {
+    "desc": "A shard of crystalised tar",
+    "file": "tarcrystal2.object",
+    "name": "Tar Shard",
+    "path": "tar\\tarcrystal2"
+  },
+  {
+    "desc": "A shard of crystalised tar",
+    "file": "tarcrystal3.object",
+    "name": "Tar Shard",
+    "path": "tar\\tarcrystal3"
+  },
+  {
+    "desc": "A shard of crystalised tar",
+    "file": "tarcrystal4.object",
+    "name": "Tar Shard",
+    "path": "tar\\tarcrystal4"
+  },
+  {
+    "desc": "A shard of crystalised tar",
+    "file": "tarcrystal5.object",
+    "name": "Tar Shard",
+    "path": "tar\\tarcrystal5"
+  },
+  {
+    "desc": "A tar door.",
+    "file": "tardoor.object",
+    "name": "Tar Door",
+    "path": "tar\\tardoor"
+  },
+  {
+    "desc": "A lantern made of tar.",
+    "file": "tarlight.object",
+    "name": "Tar Lantern",
+    "path": "tar\\tarlight"
+  },
+  {
+    "desc": "Like a snowman, but sticky.",
+    "file": "tarman.object",
+    "name": "Tarman",
+    "path": "tar\\tarman"
+  },
+  {
+    "desc": "Tar fashioned into a chest.",
+    "file": "tarpitchest.object",
+    "name": "Tarpit Chest",
+    "path": "tar\\tarpitchest"
+  },
+  {
+    "desc": "Ruin tentacle.",
+    "file": "bosstentacle.object",
+    "name": "Boss Tentacle",
+    "path": "tentacle\\bosstentacle"
+  },
+  {
+    "desc": "Ruin organs.",
+    "file": "litorgans.object",
+    "name": "Lit Organs",
+    "path": "tentacle\\litorgans"
+  },
+  {
+    "desc": "A gently flickering torch of mysterious organic origin.",
+    "file": "organictorch.object",
+    "name": "Organic Torch",
+    "path": "tentacle\\organictorch"
+  },
+  {
+    "desc": "Ruin organs.",
+    "file": "rightorgans.object",
+    "name": "Right Organs",
+    "path": "tentacle\\rightorgans"
+  },
+  {
+    "desc": "Ruin spawner.",
+    "file": "bossrightspawner.object",
+    "name": "Boss Right Spawner",
+    "path": "tentacle\\spawner"
+  },
+  {
+    "desc": "Anyone for scrambled monster egg?",
+    "file": "tentacleegg.object",
+    "name": "Tentacle Monster Egg",
+    "path": "tentacle\\tentacleegg"
+  },
+  {
+    "desc": "Something organic and slimy...",
+    "file": "tentaclepart1.object",
+    "name": "Tentacle part",
+    "path": "tentacle\\tentaclepart1"
+  },
+  {
+    "desc": "Something organic and slimy...",
+    "file": "tentaclepart2.object",
+    "name": "Tentacle part",
+    "path": "tentacle\\tentaclepart2"
+  },
+  {
+    "desc": "Something organic and slimy...",
+    "file": "tentaclepart3.object",
+    "name": "Tentacle part",
+    "path": "tentacle\\tentaclepart3"
+  },
+  {
+    "desc": "A large breakable growth. Wonder what's inside.",
+    "file": "tentaclepopbig.object",
+    "name": "Large Tentacle Capsule",
+    "path": "tentacle\\tentaclepopbig"
+  },
+  {
+    "desc": "A breakable growth. Wonder what's inside.",
+    "file": "tentaclepopmed.object",
+    "name": "Medium Tentacle Capsule",
+    "path": "tentacle\\tentaclepopmed"
+  },
+  {
+    "desc": "A breakable growth. Wonder what's inside.",
+    "file": "tentaclepopsmall.object",
+    "name": "Medium Tentacle Capsule",
+    "path": "tentacle\\tentaclepopsmall"
+  },
+  {
+    "desc": "This green substance has something moving inside it...",
+    "file": "tentaclespawner1.object",
+    "name": "Tentacle Egg",
+    "path": "tentacle\\tentaclespawner1"
+  },
+  {
+    "desc": "Don't wanna fall on one of these...",
+    "file": "tentaclespike.object",
+    "name": "Tentacle Spike",
+    "path": "tentacle\\tentaclespike"
+  },
+  {
+    "desc": "A chair made of vines. Those spikes look poisonous.",
+    "file": "toxicchair.object",
+    "name": "Toxic Chair",
+    "path": "toxicplains\\toxicchair"
+  },
+  {
+    "desc": "A toxic chest.",
+    "file": "toxicchest.object",
+    "name": "Toxic Chest",
+    "path": "toxicplains\\toxicchest"
+  },
+  {
+    "desc": "A flower that functions as a lamp. Like a sunflower, but not.",
+    "file": "toxiclamp1.object",
+    "name": "Toxic Lamp",
+    "path": "toxicplains\\toxiclamp1"
+  },
+  {
+    "desc": "A flower that functions as a lamp. Like a sunflower, but not.",
+    "file": "toxiclamp2.object",
+    "name": "Hanging Toxic Lamp",
+    "path": "toxicplains\\toxiclamp2"
+  },
+  {
+    "desc": "A toxic glowing oshroom.",
+    "file": "toxicoshroom1.object",
+    "name": "Toxic Glowing Oshroom",
+    "path": "toxicplains\\toxicoshroom1"
+  },
+  {
+    "desc": "A toxic glowing oshroom.",
+    "file": "toxicoshroom2.object",
+    "name": "Toxic Glowing Oshroom",
+    "path": "toxicplains\\toxicoshroom2"
+  },
+  {
+    "desc": "A toxic glowing oshroom.",
+    "file": "toxicoshroom3.object",
+    "name": "Toxic Glowing Oshroom",
+    "path": "toxicplains\\toxicoshroom3"
+  },
+  {
+    "desc": "A toxic glowing oshroom.",
+    "file": "toxicoshroom4.object",
+    "name": "Toxic Glowing Oshroom",
+    "path": "toxicplains\\toxicoshroom4"
+  },
+  {
+    "desc": "A toxic glowing oshroom.",
+    "file": "toxicoshroom5.object",
+    "name": "Toxic Glowing Oshroom",
+    "path": "toxicplains\\toxicoshroom5"
+  },
+  {
+    "desc": "A thorny table. Careful where you put your feet.",
+    "file": "toxictable.object",
+    "name": "Toxic Table",
+    "path": "toxicplains\\toxictable"
+  },
+  {
+    "desc": "Smoke Primer.",
+    "file": "smokegen.object",
+    "name": "Smoke",
+    "path": "volcanic\\smokegen"
+  },
+  {
+    "desc": "A smoke machine.",
+    "file": "smokemachine.object",
+    "name": "Smoke Machine",
+    "path": "volcanic\\smokemachine"
+  },
+  {
+    "desc": "Smoke billows from this point.",
+    "file": "smokeprimer.object",
+    "name": "Smoke",
+    "path": "volcanic\\smokeprimer"
+  },
+  {
+    "desc": "This sturdy chest is made from volcanic material. Heat rises from it.",
+    "file": "volcanicchest.object",
+    "name": "Volcanic Chest",
+    "path": "volcanic\\volcanicchest"
+  },
+  {
+    "desc": "Volcanic gas escapes from this opening. Hot is an understatement.",
+    "file": "volcanictrap.object",
+    "name": "Natural Volcanic Geyser",
+    "path": "volcanic\\volcanictrap"
+  },
+  {
+    "desc": "A stone perfect for alien zen gardens.",
+    "file": "zenrock1.object",
+    "name": "Zen Rock",
+    "path": "zen\\zenrock1"
+  },
+  {
+    "desc": "A stone structure perfect for alien zen gardens.",
+    "file": "zenrock2.object",
+    "name": "Zen Rock",
+    "path": "zen\\zenrock2"
+  },
+  {
+    "desc": "A stone structure perfect for alien zen gardens.",
+    "file": "zenrock3.object",
+    "name": "Zen Rock",
+    "path": "zen\\zenrock3"
+  },
+  {
+    "desc": "A stone perfect for alien zen gardens.",
+    "file": "zenrock4.object",
+    "name": "Zen Rock",
+    "path": "zen\\zenrock4"
+  },
+  {
+    "desc": "A stone perfect for alien zen gardens.",
+    "file": "zenrock5.object",
+    "name": "Zen Rock",
+    "path": "zen\\zenrock5"
+  }
+]

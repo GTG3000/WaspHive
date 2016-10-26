@@ -1,0 +1,584 @@
+[
+  {
+    "desc": "An antenna. These are typically used to boost communication signals.",
+    "file": "antenna.object",
+    "name": "Antenna",
+    "path": "antenna"
+  },
+  {
+    "desc": "These electric lanterns generate a pleasantly warm light",
+    "file": "apexfightlantern.object",
+    "name": "Apex Lantern",
+    "path": "apexfightlantern"
+  },
+  {
+    "desc": "It looks like it was made to hold something important.",
+    "file": "apexartifactaltar.object",
+    "name": "Apex Artifact Altar",
+    "path": "apexmission\\apexartifactaltar"
+  },
+  {
+    "desc": "",
+    "file": "bigapescreen.object",
+    "name": "Ape Monitor",
+    "path": "apexmission\\bigapescreen"
+  },
+  {
+    "desc": "This device is meticulously engineered to launch fists with great force",
+    "file": "fistlauncher.object",
+    "name": "Fist Launcher",
+    "path": "apexmission\\fistlauncher"
+  },
+  {
+    "desc": "An old sign from an Apex laboratory.",
+    "file": "miniknogoldsign.object",
+    "name": "Ministry of Knowledge Sign",
+    "path": "apexmission\\miniknogoldsign"
+  },
+  {
+    "desc": "It looks like it was made to hold something important.",
+    "file": "avianartifactaltar.object",
+    "name": "Avian Artifact Altar",
+    "path": "avianmission\\avianartifactaltar"
+  },
+  {
+    "desc": "Don't wanna fall on one of these...",
+    "file": "bonespike.object",
+    "name": "Bone Spike",
+    "path": "bonespike"
+  },
+  {
+    "desc": "A force field which can only be passed through one way.",
+    "file": "bossdoor.object",
+    "name": "Force Field",
+    "path": "bossdoor"
+  },
+  {
+    "desc": "The web of the Ixodoom.",
+    "file": "bossweb.object",
+    "name": "Ixodoom Web",
+    "path": "bossweb"
+  },
+  {
+    "desc": "A broken tank.",
+    "file": "brokentank.object",
+    "name": "Broken Tank",
+    "path": "brokentank"
+  },
+  {
+    "desc": "A bush from an ocean planet.",
+    "file": "bushprop1.object",
+    "name": "Bush Prop 1",
+    "path": "bushprop1"
+  },
+  {
+    "desc": "A bush from an ocean planet.",
+    "file": "bushprop2.object",
+    "name": "Bush Prop 2",
+    "path": "bushprop2"
+  },
+  {
+    "desc": "A bush from an ocean planet.",
+    "file": "bushprop3.object",
+    "name": "Bush Prop 3",
+    "path": "bushprop3"
+  },
+  {
+    "desc": "Cave art depicting some animals.",
+    "file": "caveart1.object",
+    "name": "Animal Cave Art",
+    "path": "caveart1"
+  },
+  {
+    "desc": "Cave art depicting some hunters.",
+    "file": "caveart2.object",
+    "name": "Hunter Cave Art",
+    "path": "caveart2"
+  },
+  {
+    "desc": "Cave art depicting some large figure.",
+    "file": "caveart3.object",
+    "name": "Figure Cave Art",
+    "path": "caveart3"
+  },
+  {
+    "desc": "Cave art depicting a tentacled being.",
+    "file": "caveart4.object",
+    "name": "Ambiguous Cave Art",
+    "path": "caveart4"
+  },
+  {
+    "desc": "Cave art depicting an offering.",
+    "file": "caveart5.object",
+    "name": "Mysterious Cave Art",
+    "path": "caveart5"
+  },
+  {
+    "desc": "If you die, you will respawn at this location.",
+    "file": "checkpoint.object",
+    "name": "Mission Checkpoint",
+    "path": "checkpoint"
+  },
+  {
+    "desc": "An old sign to warn of deathly danger.",
+    "file": "deathwarning.object",
+    "name": "Old Warning Sign",
+    "path": "deathwarning"
+  },
+  {
+    "desc": "This sign appears to be warning me of some danger.",
+    "file": "deathwarningmodern.object",
+    "name": "Death Warning Sign",
+    "path": "deathwarningmodern"
+  },
+  {
+    "desc": "Something isn't quite right with this dirt.",
+    "file": "dirttrapdoor.object",
+    "name": "Dirt Trapdoor",
+    "path": "dirttrapdoor"
+  },
+  {
+    "desc": "Drops of water.",
+    "file": "drip1.object",
+    "name": "Water Drop Source",
+    "path": "drip1"
+  },
+  {
+    "desc": "Acid is dripping from this place.",
+    "file": "drip2.object",
+    "name": "Acid Drop Source",
+    "path": "drip2"
+  },
+  {
+    "desc": "A radar dish. Not to be confused with a salad dish.",
+    "file": "escaperadar.object",
+    "name": "Escape Radar Dish",
+    "path": "escaperadar"
+  },
+  {
+    "desc": "An old battered sign warning of falling rocks.",
+    "file": "fallingrocks.object",
+    "name": "Old Falling Rocks Sign",
+    "path": "fallingrocks"
+  },
+  {
+    "desc": "A warning sign showing falling rocks.",
+    "file": "fallingrocksmodern.object",
+    "name": "Falling Rocks Sign",
+    "path": "fallingrocksmodern"
+  },
+  {
+    "desc": "A statue of a Floran. It looks like a great hunter.",
+    "file": "huntingchampionstatue.object",
+    "name": "Floran Champion Statue",
+    "path": "floranchampionstatue"
+  },
+  {
+    "desc": "It looks like it was made to hold something important.",
+    "file": "floranartifactaltar.object",
+    "name": "Floran Artifact Altar",
+    "path": "floranmission\\floranartifactaltar"
+  },
+  {
+    "desc": "An alarm bell. One would hope this never needs to be rung.",
+    "file": "glitchalarm.object",
+    "name": "Alarm Bell",
+    "path": "glitchmission\\glitchalarm"
+  },
+  {
+    "desc": "It looks like it was made to hold something important.",
+    "file": "glitchartifactaltar.object",
+    "name": "Glitch Artifact Altar",
+    "path": "glitchmission\\glitchartifactaltar"
+  },
+  {
+    "desc": "A graffiti warning.",
+    "file": "nowayout.object",
+    "name": "nowayout",
+    "path": "graffiti-nowayout"
+  },
+  {
+    "desc": "A graffiti message.",
+    "file": "thewayisblocked.object",
+    "name": "thewayisblocked",
+    "path": "graffiti-thewayisblocked"
+  },
+  {
+    "desc": "A graffiti sign.",
+    "file": "turnback.object",
+    "name": "turnback",
+    "path": "graffiti-turnback"
+  },
+  {
+    "desc": "An old projector for communicating holographically.",
+    "file": "hologramprojector.object",
+    "name": "Hologram Projector",
+    "path": "hylotlmission\\hologramprojector"
+  },
+  {
+    "desc": "It looks like it was made to hold something important.",
+    "file": "hylotlartifactaltar.object",
+    "name": "Hylotl Artifact Altar",
+    "path": "hylotlmission\\hylotlartifactaltar"
+  },
+  {
+    "desc": "A large bookcase that has been damaged.",
+    "file": "librarybookcaseG2damage.object",
+    "name": "Damaged Grand Bookcase",
+    "path": "hylotlmission\\librarybookcaseG2damage"
+  },
+  {
+    "desc": "A gigantic bookcase that is damaged.",
+    "file": "librarybookcaseHUGEdamage.object",
+    "name": "Damaged Huge Bookcase",
+    "path": "hylotlmission\\librarybookcaseHUGEdamage"
+  },
+  {
+    "desc": "A big antique bookcase that has been damaged.",
+    "file": "librarybookcaseL2damage.object",
+    "name": "Damaged Large Bookcase",
+    "path": "hylotlmission\\librarybookcaseL2damage"
+  },
+  {
+    "desc": "A ornate bookcase with missing books",
+    "file": "librarybookcaseN2damage.object",
+    "name": "Damaged Bookcase",
+    "path": "hylotlmission\\librarybookcaseN2damage"
+  },
+  {
+    "desc": "A small bookcase that has been damaged.",
+    "file": "librarybookcase.object",
+    "name": "Damaged Small Bookcase",
+    "path": "hylotlmission\\librarybookcaseS1damage"
+  },
+  {
+    "desc": "A sleek red wall light.",
+    "file": "laboratorylight.object",
+    "name": "Laboratory Light",
+    "path": "laboratorylight"
+  },
+  {
+    "desc": "A sleek vertical doorway, perfect for secret labs.",
+    "file": "laboratoryverticaldoor.object",
+    "name": "Laboratory Hatch",
+    "path": "laboratoryverticaldoor"
+  },
+  {
+    "desc": "These cosy beds can stack on top of each other.",
+    "file": "lunarbasebunk.object",
+    "name": "Lunar Base Bunk",
+    "path": "lunarbasebunk"
+  },
+  {
+    "desc": "A surprisingly comfortable chair.",
+    "file": "lunarbasechair.object",
+    "name": "Lunar Base Chair",
+    "path": "lunarbasechair"
+  },
+  {
+    "desc": "A sleek control console.",
+    "file": "lunarbaseconsole.object",
+    "name": "Lunar Base Console",
+    "path": "lunarbaseconsole"
+  },
+  {
+    "desc": "A storage crate, typically used for stashing equipment and ores.",
+    "file": "lunarbasecrate.object",
+    "name": "Lunar Base Crate",
+    "path": "lunarbasecrate"
+  },
+  {
+    "desc": "This door is airtight and made with incredibly strong materials.",
+    "file": "lunarbasedoor.object",
+    "name": "Lunar Base Blastdoor",
+    "path": "lunarbasedoor"
+  },
+  {
+    "desc": "These electric lanterns generate a pleasantly warm light.",
+    "file": "lunarbaselantern.object",
+    "name": "Lunar Base Lantern",
+    "path": "lunarbaselantern"
+  },
+  {
+    "desc": "A laser made to mine through moon rock.",
+    "file": "lunarbaselaser.object",
+    "name": "Mining Laser",
+    "path": "lunarbaselaser"
+  },
+  {
+    "desc": "A set of lockers, perfect for storing things.",
+    "file": "lunarbaselocker.object",
+    "name": "Lunar Base Lockers",
+    "path": "lunarbaselocker"
+  },
+  {
+    "desc": "A large, industrial mining drill.",
+    "file": "drillmachine.object",
+    "name": "Mining Drill",
+    "path": "lunarquestturnin"
+  },
+  {
+    "desc": "A drill-mounted console.",
+    "file": "drillconsole.object",
+    "name": "Mining Drill Console",
+    "path": "lunarquestturnin\\drillconsole"
+  },
+  {
+    "desc": "A machine used to move large amounts of mined material.",
+    "file": "miningbelt.object",
+    "name": "Mining Conveyer Belt",
+    "path": "miningbelt"
+  },
+  {
+    "desc": "Perfect for storing tools and equipment in!",
+    "file": "miningchest.object",
+    "name": "Mining Chest",
+    "path": "miningchest"
+  },
+  {
+    "desc": "A machine used for breaking down rocks.",
+    "file": "miningcrusher.object",
+    "name": "Mining Impact Crusher",
+    "path": "miningcrusher"
+  },
+  {
+    "desc": "An industrial-looking metal door.",
+    "file": "miningdoor.object",
+    "name": "Miner's Door",
+    "path": "miningdoor"
+  },
+  {
+    "desc": "A metal fence with red and black warning stripes.",
+    "file": "miningfence.object",
+    "name": "Mining Railing",
+    "path": "miningfence"
+  },
+  {
+    "desc": "A metal sign that says \"HAZARD!\"",
+    "file": "mininghazardsign.object",
+    "name": "Mining Hazard Sign",
+    "path": "mininghazardsign"
+  },
+  {
+    "desc": "A sign that says either offline or online.",
+    "file": "miningpowersign.object",
+    "name": "Power Sign",
+    "path": "miningpowersign"
+  },
+  {
+    "desc": "A large metal Skip full of rubble.",
+    "file": "miningskip.object",
+    "name": "Mining Skip",
+    "path": "miningskip"
+  },
+  {
+    "desc": "A vertical hatch doorway.",
+    "file": "miningverticaldoor.object",
+    "name": "Mining Hatch",
+    "path": "miningverticaldoor"
+  },
+  {
+    "desc": "A vertical hatch doorway.",
+    "file": "penguinbasedoor.object",
+    "name": "Rusty Hatch",
+    "path": "penguinbasedoor"
+  },
+  {
+    "desc": "I don't feel welcome here...",
+    "file": "penguinposter1.object",
+    "name": "Penguins Only Sign",
+    "path": "penguinposter1"
+  },
+  {
+    "desc": "Watch your step!",
+    "file": "proximitywallsensor.object",
+    "name": "Proximity Wall Sensor",
+    "path": "proximitywallsensor"
+  },
+  {
+    "desc": "A dim red light.",
+    "file": "redlight.object",
+    "name": "Red Light",
+    "path": "redlight"
+  },
+  {
+    "desc": "A malfunctioning light.",
+    "file": "redlightBroken.object",
+    "name": "Broken Red Light",
+    "path": "redlight"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "root1.object",
+    "name": "Roots",
+    "path": "root1"
+  },
+  {
+    "desc": "There are long roots protruding from the ceiling.",
+    "file": "root10.object",
+    "name": "Long Roots",
+    "path": "root10"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "root2.object",
+    "name": "Roots",
+    "path": "root2"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "root3.object",
+    "name": "Roots",
+    "path": "root3"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "root4.object",
+    "name": "Roots",
+    "path": "root4"
+  },
+  {
+    "desc": "There are small roots protruding from the ceiling.",
+    "file": "root5.object",
+    "name": "Roots",
+    "path": "root5"
+  },
+  {
+    "desc": "There are long roots protruding from the ceiling.",
+    "file": "root6.object",
+    "name": "Long Roots",
+    "path": "root6"
+  },
+  {
+    "desc": "There are long roots protruding from the ceiling.",
+    "file": "root7.object",
+    "name": "Long Roots",
+    "path": "root7"
+  },
+  {
+    "desc": "There are long roots protruding from the ceiling.",
+    "file": "root8.object",
+    "name": "Long Roots",
+    "path": "root8"
+  },
+  {
+    "desc": "There are long roots protruding from the ceiling.",
+    "file": "root9.object",
+    "name": "Long Roots",
+    "path": "root9"
+  },
+  {
+    "desc": "A mysterious symbol.",
+    "file": "secretsign1.object",
+    "name": "Secret Symbol 1",
+    "path": "secretsign"
+  },
+  {
+    "desc": "A mysterious symbol.",
+    "file": "secretsign2.object",
+    "name": "Secret Symbol 2",
+    "path": "secretsign"
+  },
+  {
+    "desc": "A mysterious symbol.",
+    "file": "secretsign3.object",
+    "name": "Secret Symbol 3",
+    "path": "secretsign"
+  },
+  {
+    "desc": "Deep shadows stretch away from this menacing torch.",
+    "file": "skulltorch.object",
+    "name": "Skull Torch Stand",
+    "path": "skulltorch"
+  },
+  {
+    "desc": "A sinister torch made from old bones.",
+    "file": "skullwalltorch.object",
+    "name": "Skull Wall Torch",
+    "path": "skullwalltorch"
+  },
+  {
+    "desc": "A light which indicates the status of a switch.",
+    "file": "statuslight.object",
+    "name": "Status Light",
+    "path": "statuslight"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb1.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb2.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb3.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb4.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb5.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Strange organic webbing.",
+    "file": "strangeweb6.object",
+    "name": "Strange Web",
+    "path": "strangeweb1"
+  },
+  {
+    "desc": "Used to trap tanks.",
+    "file": "tanktrap.object",
+    "name": "Tank Trap",
+    "path": "tanktrap"
+  },
+  {
+    "desc": "I can't stand on this stone platform for long!",
+    "file": "templepressureplatform.object",
+    "name": "Temple Pressure Platform",
+    "path": "templepressureplatform"
+  },
+  {
+    "desc": "This chest is rigged with a sensor that sends a signal when its opened.",
+    "file": "trapchest.object",
+    "name": "Trap Chest",
+    "path": "trapchest"
+  },
+  {
+    "desc": "A nice tree.",
+    "file": "treeprop1.object",
+    "name": "Tree Prop",
+    "path": "treeprop1"
+  },
+  {
+    "desc": "A nice tree.",
+    "file": "treeprop2.object",
+    "name": "Tree Prop",
+    "path": "treeprop2"
+  },
+  {
+    "desc": "A nice tree.",
+    "file": "treeprop3.object",
+    "name": "Tree Prop",
+    "path": "treeprop3"
+  },
+  {
+    "desc": "A busted UFO.",
+    "file": "UFOprop.object",
+    "name": "UFO Prop",
+    "path": "UFOprop"
+  }
+]

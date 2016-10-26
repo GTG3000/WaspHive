@@ -1,0 +1,80 @@
+[
+  {
+    "desc": "Spawns monsters in a variety of configurable ways.",
+    "file": "monsterspawner.object",
+    "name": "Monster Spawner",
+    "path": "."
+  },
+  {
+    "desc": "Place in an enclosed building with at least one door and light source and someone will move in!",
+    "file": "colonydeed.object",
+    "name": "^yellow;Colony Deed",
+    "path": "colonydeed"
+  },
+  {
+    "desc": "A creature capture pod can be placed into this device, tethering the pet within its radius.",
+    "file": "pettether.object",
+    "name": "Pet Tether",
+    "path": "pettether"
+  },
+  {
+    "desc": "Spawn your very own Apex villager!",
+    "file": "spawner_apex.object",
+    "name": "Apex Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own Avian villager!",
+    "file": "spawner_avian.object",
+    "name": "Avian Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own chef!",
+    "file": "spawner_chef.object",
+    "name": "Chef Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own Floran villager!",
+    "file": "spawner_floran.object",
+    "name": "Floran Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own Glitch villager!",
+    "file": "spawner_glitch.object",
+    "name": "Glitch Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own guard!",
+    "file": "spawner_guard.object",
+    "name": "Guard Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own human villager!",
+    "file": "spawner_human.object",
+    "name": "Human Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own Hylotl villager!",
+    "file": "spawner_hylotl.object",
+    "name": "Hylotl Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "Spawn your very own wizard!",
+    "file": "spawner_wizard.object",
+    "name": "Wizard Spawner",
+    "path": "spawners"
+  },
+  {
+    "desc": "A station used to obtain employment beacons that call in all kinds of helpers.",
+    "file": "spawnerstation.object",
+    "name": "^orange;Employer's Station^white;",
+    "path": "spawnerstation"
+  }
+]

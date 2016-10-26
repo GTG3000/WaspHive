@@ -1,0 +1,14 @@
+[
+  {
+    "desc": "A tribute to GeorgeV! Developer Ultimate! ALL HAIL GEORGE!!!",
+    "file": "devstatuegeorge.object",
+    "name": "GeorgeV Dev Statue",
+    "path": "devstatuegeorge"
+  },
+  {
+    "desc": "A ridiculously tall chair",
+    "file": "tallchair.object",
+    "name": "Tall Chair",
+    "path": "tallchair"
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "desc": "A simple anvil, used for banging metal into shape.",
+    "file": "anvil.object",
+    "name": "Basic Anvil",
+    "path": "anvil"
+  },
+  {
+    "desc": "I wonder how heavy it is.",
+    "file": "ballandchain.object",
+    "name": "Ball and Chain",
+    "path": "ballandchain"
+  },
+  {
+    "desc": "A beautifully woven banner.",
+    "file": "bannermedievallarge.object",
+    "name": "Large Glitch Banner",
+    "path": "bannermedievallarge"
+  },
+  {
+    "desc": "A beautifully woven banner.",
+    "file": "bannermedievalsmall.object",
+    "name": "Small Glitch Banner",
+    "path": "bannermedievalsmall"
+  },
+  {
+    "desc": "A barrel. Anything could be inside!",
+    "file": "barrel.object",
+    "name": "Small Barrel",
+    "path": "barrel"
+  },
+  {
+    "desc": "A barrel. Sadly not full party hats.",
+    "file": "barrellarge.object",
+    "name": "Large Barrel",
+    "path": "barrellarge"
+  },
+  {
+    "desc": "A chequered flag bearing an emblem.",
+    "file": "battlestandard.object",
+    "name": "Battle Standard",
+    "path": "battlestandard"
+  },
+  {
+    "desc": "An ordinary burlap sack.",
+    "file": "burlapsack.object",
+    "name": "Burlap Sack",
+    "path": "burlapsack"
+  },
+  {
+    "desc": "A strong and secure door.",
+    "file": "castledoor.object",
+    "name": "Medieval Door",
+    "path": "castledoor"
+  },
+  {
+    "desc": "A dungeon cell door, built to hold even the strongest prisoner.",
+    "file": "castledungeondoor.object",
+    "name": "Medieval Cell Door",
+    "path": "castledungeondoor"
+  },
+  {
+    "desc": "Something isn't quite right with these bricks.",
+    "file": "castlehiddendoor.object",
+    "name": "Hidden Brick Door",
+    "path": "castlehiddendoor"
+  },
+  {
+    "desc": "Something isn't quite right with these bricks.",
+    "file": "castlehiddentrapdoor.object",
+    "name": "Hidden Brick Trapdoor",
+    "path": "castlehiddentrapdoor"
+  },
+  {
+    "desc": "A suspicious crystal with more to it than meets the eye.",
+    "file": "castleswitch.object",
+    "name": "Gem Switch",
+    "path": "castleswitch"
+  },
+  {
+    "desc": "A white bishop from an oversized chess set.",
+    "file": "chessbishop.object",
+    "name": "White Stone Bishop",
+    "path": "chessbishop"
+  },
+  {
+    "desc": "A black bishop from an oversized chess set.",
+    "file": "chessbishopblack.object",
+    "name": "Black Stone Bishop",
+    "path": "chessbishopblack"
+  },
+  {
+    "desc": "A white king from an oversized chess set.",
+    "file": "chessking.object",
+    "name": "White Stone King",
+    "path": "chessking"
+  },
+  {
+    "desc": "A black king from an oversized chess set.",
+    "file": "chesskingblack.object",
+    "name": "Black Stone King",
+    "path": "chesskingblack"
+  },
+  {
+    "desc": "A white knight from an oversized chess set.",
+    "file": "chessknight.object",
+    "name": "White Stone Knight",
+    "path": "chessknight"
+  },
+  {
+    "desc": "A black knight from an oversized chess set.",
+    "file": "chessknightblack.object",
+    "name": "Black Stone Knight",
+    "path": "chessknightblack"
+  },
+  {
+    "desc": "A white pawn from an oversized chess set.",
+    "file": "chesspawn.object",
+    "name": "White Stone Pawn",
+    "path": "chesspawn"
+  },
+  {
+    "desc": "A black pawn from an oversized chess set.",
+    "file": "chesspawnblack.object",
+    "name": "Black Stone Pawn",
+    "path": "chesspawnblack"
+  },
+  {
+    "desc": "A white queen from an oversized chess set.",
+    "file": "chessqueen.object",
+    "name": "White Stone Queen",
+    "path": "chessqueen"
+  },
+  {
+    "desc": "A black queen from an oversized chess set.",
+    "file": "chessqueenblack.object",
+    "name": "Black Stone Queen",
+    "path": "chessqueenblack"
+  },
+  {
+    "desc": "A white rook from an oversized chess set.",
+    "file": "chessrook.object",
+    "name": "White Stone Rook",
+    "path": "chessrook"
+  },
+  {
+    "desc": "A black rook from an oversized chess set.",
+    "file": "chessrookblack.object",
+    "name": "Black Stone Rook",
+    "path": "chessrookblack"
+  },
+  {
+    "desc": "Unhelpful road signs.",
+    "file": "crossroadssign.object",
+    "name": "Crossroads Sign",
+    "path": "crossroadssign"
+  },
+  {
+    "desc": "A darkly coloured woven banner.",
+    "file": "darkbannermedievallarge.object",
+    "name": "Large Dark Glitch Banner",
+    "path": "darkbannermedievallarge"
+  },
+  {
+    "desc": "A small darkly coloured woven banner.",
+    "file": "darkbannermedievalsmall.object",
+    "name": "Small Dark Glitch Banner",
+    "path": "darkbannermedievalsmall"
+  },
+  {
+    "desc": "A dark chequered flag bearing an emblem.",
+    "file": "darkbattlestandard.object",
+    "name": "Dark Battle Standard",
+    "path": "darkbattlestandard"
+  },
+  {
+    "desc": "A spade, a rake and a broom for all sorts of back-breaking farm work.",
+    "file": "farmtools.object",
+    "name": "Farm Tools",
+    "path": "farmtools"
+  },
+  {
+    "desc": "Tools used for poking at burning coals or kindling.",
+    "file": "fireplacetools.object",
+    "name": "Fireplace Tools",
+    "path": "fireplacetools"
+  },
+  {
+    "desc": "Common, workshop tools used for quick repairs.",
+    "file": "garagetools.object",
+    "name": "Workshop Tools",
+    "path": "garagetools"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "glitchstoragelocker.object",
+    "name": "Glitch Storage Locker",
+    "path": "glitchstoragelocker"
+  },
+  {
+    "desc": "A brutal yet effective execution device.",
+    "file": "guillotine.object",
+    "name": "Guillotine",
+    "path": "guillotine"
+  },
+  {
+    "desc": "A pile of hay. Probably not a great hiding place.",
+    "file": "haypile.object",
+    "name": "Hay Pile",
+    "path": "haypile"
+  },
+  {
+    "desc": "A rolled up bale of hay.",
+    "file": "hayroll.object",
+    "name": "Hay Roll",
+    "path": "hayroll"
+  },
+  {
+    "desc": "A neat bale of hay, ready for stacking.",
+    "file": "haystack.object",
+    "name": "Hay Stack",
+    "path": "haystack"
+  },
+  {
+    "desc": "A digital hourglass. It's stuck in a constant state.",
+    "file": "hourglass.object",
+    "name": "Hourglass",
+    "path": "hourglass"
+  },
+  {
+    "desc": "A keg full of juice. Mmm, juice!",
+    "file": "juicekeg.object",
+    "name": "Juice Keg",
+    "path": "juicekeg"
+  },
+  {
+    "desc": "Tools for creating pure, unadulterated deliciousness.",
+    "file": "kitchentools.object",
+    "name": "Kitchen Tools",
+    "path": "kitchentools"
+  },
+  {
+    "desc": "This bell must make quite a sound.",
+    "file": "largebell.object",
+    "name": "Large Bell",
+    "path": "largebell"
+  },
+  {
+    "desc": "A huge, intimidating door.",
+    "file": "largecastledoor.object",
+    "name": "Large Medieval Door",
+    "path": "largecastledoor"
+  },
+  {
+    "desc": "A wooden crate.",
+    "file": "largewoodencrate.object",
+    "name": "Large Wooden Crate",
+    "path": "largewoodencrate"
+  },
+  {
+    "desc": "Shiny armour stands resolute.",
+    "file": "medievalarmor.object",
+    "name": "Display Armour",
+    "path": "medievalarmor"
+  },
+  {
+    "desc": "Shiny armour stands armed and resolute.",
+    "file": "medievalarmorarmed.object",
+    "name": "Armed Display Armour",
+    "path": "medievalarmorarmed"
+  },
+  {
+    "desc": "Shiny armour stands resolute. Hmm... The shield looks loose.",
+    "file": "medievalarmorswitch.object",
+    "name": "Suspicious Display Armour",
+    "path": "medievalarmorswitch"
+  },
+  {
+    "desc": "These display axes look very sharp.",
+    "file": "medievalaxedisplay.object",
+    "name": "Axe Display",
+    "path": "medievalaxedisplay"
+  },
+  {
+    "desc": "A firm bed with silky sheets.",
+    "file": "medievalbed.object",
+    "name": "Medieval Bed",
+    "path": "medievalbed"
+  },
+  {
+    "desc": "A bookcase for storing folk tales and legends...",
+    "file": "medievalbookcase.object",
+    "name": "Medieval Bookcase",
+    "path": "medievalbookcase"
+  },
+  {
+    "desc": "One of these books looks out of place... I wonder...",
+    "file": "medievalbookcaseswitch.object",
+    "name": "Medieval Bookcase Switch",
+    "path": "medievalbookcaseswitch"
+  },
+  {
+    "desc": "A bowl. It doesn't look very clean.",
+    "file": "medievalbowl.object",
+    "name": "Medieval Bowl",
+    "path": "medievalbowl"
+  },
+  {
+    "desc": "There's a hole in this bucket.",
+    "file": "medievalbucket.object",
+    "name": "Medieval Bucket",
+    "path": "medievalbucket"
+  },
+  {
+    "desc": "A charming and well-made wooden cabinet.",
+    "file": "medievalcabinet.object",
+    "name": "Medieval Cabinet",
+    "path": "medievalcabinet"
+  },
+  {
+    "desc": "A small wax candle in a holder.",
+    "file": "medievalcandle.object",
+    "name": "Candle",
+    "path": "medievalcandle"
+  },
+  {
+    "desc": "An extremely basic bed of hay.",
+    "file": "medievalcellbed.object",
+    "name": "Medieval Hay Bed",
+    "path": "medievalcellbed"
+  },
+  {
+    "desc": "A hard chair, it would get uncomfortable pretty quickly.",
+    "file": "medievalchair.object",
+    "name": "Medieval Chair",
+    "path": "medievalchair"
+  },
+  {
+    "desc": "An iron chandelier. A good way to light a large room.",
+    "file": "medievalchandelier.object",
+    "name": "Medieval Chandelier",
+    "path": "medievalchandelier"
+  },
+  {
+    "desc": "An old wooden chest, still going strong.",
+    "file": "medievalchest.object",
+    "name": "Medieval Chest",
+    "path": "medievalchest"
+  },
+  {
+    "desc": "A small clock with a pendulum. It ticks and tocks but the hands never move.",
+    "file": "medievalclock.object",
+    "name": "Medieval Wall Clock",
+    "path": "medievalclock"
+  },
+  {
+    "desc": "This book is full of strange illustrations.",
+    "file": "medievalcodex.object",
+    "name": "Medieval Codex",
+    "path": "medievalcodex"
+  },
+  {
+    "desc": "Ye olde counter.",
+    "file": "medievalcounter.object",
+    "name": "Medieval Counter",
+    "path": "medievalcounter"
+  },
+  {
+    "desc": "A dirty-looking wooden cup.",
+    "file": "medievalcup.object",
+    "name": "Medieval Cup",
+    "path": "medievalcup"
+  },
+  {
+    "desc": "A nicely made wooden desk.",
+    "file": "medievaldesk.object",
+    "name": "Medieval Desk",
+    "path": "medievaldesk"
+  },
+  {
+    "desc": "A fancy feasting table.",
+    "file": "medievaldiningtable.object",
+    "name": "Royal Dining Table",
+    "path": "medievaldiningtable"
+  },
+  {
+    "desc": "This dresser has a musty smell. It doesn't look very clean.",
+    "file": "medievaldresser.object",
+    "name": "Medieval Dresser",
+    "path": "medievaldresser"
+  },
+  {
+    "desc": "A stone fireplace. A good way to warm a cold castle.",
+    "file": "medievalfireplace.object",
+    "name": "Medieval Fireplace",
+    "path": "medievalfireplace"
+  },
+  {
+    "desc": "A flagpole fit for topping any building.",
+    "file": "medievalflagpole.object",
+    "name": "Medieval Flagpole",
+    "path": "medievalflagpole"
+  },
+  {
+    "desc": "A old fashioned furnace for tempering tools.",
+    "file": "medievalfurnace.object",
+    "name": "Medieval Furnace",
+    "path": "medievalfurnace"
+  },
+  {
+    "desc": "A model of an unknown planet.",
+    "file": "medievalglobe.object",
+    "name": "Medieval Globe",
+    "path": "medievalglobe"
+  },
+  {
+    "desc": "An oil lamp. It gives off some warmth.",
+    "file": "medievallamp.object",
+    "name": "Medieval Lamp",
+    "path": "medievallamp"
+  },
+  {
+    "desc": "This cooking pot expels the odour of a hundred hearty meals.",
+    "file": "medievallargecookingpot.object",
+    "name": "Medieval Cooking Pot",
+    "path": "medievallargecookingpot"
+  },
+  {
+    "desc": "A map of an unknown world.",
+    "file": "medievalmap.object",
+    "name": "Medieval Map",
+    "path": "medievalmap"
+  },
+  {
+    "desc": "A pedestal for putting your treasures on display.",
+    "file": "medievalpedestal.object",
+    "name": "Medieval Pedestal",
+    "path": "medievalpedestal"
+  },
+  {
+    "desc": "A plate. It's gathering dust here.",
+    "file": "medievalplate.object",
+    "name": "Medieval Plate",
+    "path": "medievalplate"
+  },
+  {
+    "desc": "A pressure plate, to be used wisely.",
+    "file": "medievalpressureplate.object",
+    "name": "Pressure Plate",
+    "path": "medievalpressureplate"
+  },
+  {
+    "desc": "A mechanical cash register. Ka-ching!",
+    "file": "medievalregister.object",
+    "name": "Cash Register",
+    "path": "medievalregister"
+  },
+  {
+    "desc": "Some shoddy wooden scaffolding.",
+    "file": "medievalscaffolding.object",
+    "name": "Wooden Scaffolding",
+    "path": "medievalscaffolding"
+  },
+  {
+    "desc": "An old wooden shelf.",
+    "file": "medievalshelf.object",
+    "name": "Medieval Shelf",
+    "path": "medievalshelf"
+  },
+  {
+    "desc": "Wooden spikes. Just waiting to be decorated with the heads of your enemies!",
+    "file": "medievalspikes.object",
+    "name": "Wooden Spikes",
+    "path": "medievalspikes"
+  },
+  {
+    "desc": "A pair of stocks. A medieval method of punishment.",
+    "file": "medievalstock.object",
+    "name": "Medieval Stocks",
+    "path": "medievalstock"
+  },
+  {
+    "desc": "It's an old street lamp. It gives off a little warmth.",
+    "file": "medievalstreetlamp.object",
+    "name": "Medieval Street Lamp",
+    "path": "medievalstreetlamp"
+  },
+  {
+    "desc": "This floor tile looks different from the rest.",
+    "file": "medievalswitchhidden.object",
+    "name": "Grey Hidden Switch",
+    "path": "medievalswitchhidden"
+  },
+  {
+    "desc": "A mysterious lever. I wonder what this does?",
+    "file": "medievalswitchlever.object",
+    "name": "Switch Lever",
+    "path": "medievalswitchlever"
+  },
+  {
+    "desc": "One of these shackles looks suspicious...",
+    "file": "medievalswitchshackle.object",
+    "name": "Wall Shackles",
+    "path": "medievalswitchshackle"
+  },
+  {
+    "desc": "These display swords could be dangerous in the wrong hands.",
+    "file": "medievalsworddisplay.object",
+    "name": "Sword Display",
+    "path": "medievalsworddisplay"
+  },
+  {
+    "desc": "Ye olde dining room table.",
+    "file": "medievaltable.object",
+    "name": "Medieval Table",
+    "path": "medievaltable"
+  },
+  {
+    "desc": "A very basic toilet.",
+    "file": "medievaltoilet.object",
+    "name": "Medieval Toilet",
+    "path": "medievaltoilet"
+  },
+  {
+    "desc": "A solid iron torch with a gentle flickering flame.",
+    "file": "medievaltorch.object",
+    "name": "Medieval Torch",
+    "path": "medievaltorch"
+  },
+  {
+    "desc": "A wooden wall shelf for displaying trinkets.",
+    "file": "medievalwallshelf.object",
+    "name": "Medieval Wall Shelf",
+    "path": "medievalwallshelf"
+  },
+  {
+    "desc": "A rack full of fairly dull iron swords.",
+    "file": "medievalweaponrack.object",
+    "name": "Medieval Weapon Rack",
+    "path": "medievalweaponrack"
+  },
+  {
+    "desc": "An outhouse! Enjoy!",
+    "file": "outhouse.object",
+    "name": "Outhouse",
+    "path": "outhouse"
+  },
+  {
+    "desc": "An ominous warning sign.",
+    "file": "poisonsign.object",
+    "name": "Wooden Warning Sign",
+    "path": "poisonsign"
+  },
+  {
+    "desc": "A beautiful bed made of shiny gold.",
+    "file": "royalbed.object",
+    "name": "Ornate Royal Bed",
+    "path": "royalbed"
+  },
+  {
+    "desc": "A monarchs bookcase... let's find out what royalty reads.",
+    "file": "royalbookcase.object",
+    "name": "Royal Bookcase",
+    "path": "royalbookcase"
+  },
+  {
+    "desc": "Valuable things should be stored here.",
+    "file": "royalcabinet.object",
+    "name": "Royal Cabinet",
+    "path": "royalcabinet"
+  },
+  {
+    "desc": "A royal glow.",
+    "file": "royalcandles.object",
+    "name": "Royal Candles",
+    "path": "royalcandles"
+  },
+  {
+    "desc": "A royal chalice, for filling a royal mouth with royal beverages.",
+    "file": "royalchalice.object",
+    "name": "Royal Chalice",
+    "path": "royalchalice"
+  },
+  {
+    "desc": "This chest itself is a treasure, let alone the contents.",
+    "file": "royalchest.object",
+    "name": "Royal Chest",
+    "path": "royalchest"
+  },
+  {
+    "desc": "A fancy royal desk.",
+    "file": "royaldesk.object",
+    "name": "Royal Desk",
+    "path": "royaldesk"
+  },
+  {
+    "desc": "A throne fit for royal buttocks.",
+    "file": "royalthrone.object",
+    "name": "Royal Throne",
+    "path": "royalthrone"
+  },
+  {
+    "desc": "... Another throne.",
+    "file": "royaltoilet.object",
+    "name": "Royal Toilet",
+    "path": "royaltoilet"
+  },
+  {
+    "desc": "A barrel of sewage. Almost certainly toxic.",
+    "file": "sewagebarrel.object",
+    "name": "Sewage Barrel",
+    "path": "sewagebarrel"
+  },
+  {
+    "desc": "A cheaply made flood door.",
+    "file": "sewerflooddoor.object",
+    "name": "Sewer Flood Door",
+    "path": "sewerflooddoor"
+  },
+  {
+    "desc": "A sewer gauge. Nobody knows what the gauge illustrates.",
+    "file": "sewergauge.object",
+    "name": "Sewer Gauge",
+    "path": "sewergauge"
+  },
+  {
+    "desc": "A gear. Part of a well-oiled machine. Actually, it's a bit rusty.",
+    "file": "sewergear.object",
+    "name": "Gear",
+    "path": "sewergear"
+  },
+  {
+    "desc": "A tank filled with an unknown substance. Probably very lethal.",
+    "file": "sewertank.object",
+    "name": "Sewer Tank",
+    "path": "sewertank"
+  },
+  {
+    "desc": "A sewer valve. It's had a funny turn.",
+    "file": "sewervalve.object",
+    "name": "Sewer Valve",
+    "path": "sewervalve"
+  },
+  {
+    "desc": "A wall grate. Great.",
+    "file": "sewerwallgrate.object",
+    "name": "Sewer Wall Grate",
+    "path": "sewerwallgrate"
+  },
+  {
+    "desc": "Armour! Get yer armour here!",
+    "file": "signarmorshop.object",
+    "name": "Armour Shop Sign",
+    "path": "signarmorshop"
+  },
+  {
+    "desc": "A clear indicator of a forge.",
+    "file": "signforge.object",
+    "name": "Forge Sign",
+    "path": "signforge"
+  },
+  {
+    "desc": "A sign advertising a place to rest your head.",
+    "file": "signinn.object",
+    "name": "Inn Sign",
+    "path": "signinn"
+  },
+  {
+    "desc": "A library sign. This way to the library!",
+    "file": "signlibrary.object",
+    "name": "Library Sign",
+    "path": "signlibrary"
+  },
+  {
+    "desc": "A shop that sells freshly farmed produce.",
+    "file": "signproduce.object",
+    "name": "Produce Shop Sign",
+    "path": "signproduce"
+  },
+  {
+    "desc": "A sword on a sign. It usually appears outside a weapons shop.",
+    "file": "signweaponshop.object",
+    "name": "Weapon Shop Sign",
+    "path": "signweaponshop"
+  },
+  {
+    "desc": "A wooden crate.",
+    "file": "smallwoodencrate.object",
+    "name": "Small Wooden Crate",
+    "path": "smallwoodencrate"
+  },
+  {
+    "desc": "Bullseye!",
+    "file": "target.object",
+    "name": "Target",
+    "path": "target"
+  },
+  {
+    "desc": "Poor dummy, I'll name him Freddie!",
+    "file": "targetdummy.object",
+    "name": "Target Dummy",
+    "path": "targetdummy"
+  },
+  {
+    "desc": "A toxic waste barrel. Don't spill any!",
+    "file": "toxicwastebarrel.object",
+    "name": "Toxic Waste Barrel",
+    "path": "toxicwastebarrel"
+  },
+  {
+    "desc": "A trash bag. What a load of rubbish.",
+    "file": "trashbag.object",
+    "name": "Trash Bag",
+    "path": "trashbag"
+  },
+  {
+    "desc": "A trash can. What a load of rubbish.",
+    "file": "trashcan.object",
+    "name": "Trash Can",
+    "path": "trashcan"
+  },
+  {
+    "desc": "It's a trough for feeding livestock.",
+    "file": "trough.object",
+    "name": "Trough",
+    "path": "trough"
+  },
+  {
+    "desc": "A cheaply made wooden door.",
+    "file": "villagedoor.object",
+    "name": "Village Door",
+    "path": "villagedoor"
+  },
+  {
+    "desc": "A sewer pipe.",
+    "file": "wallpipe.object",
+    "name": "Wall Pipe",
+    "path": "wallpipe"
+  },
+  {
+    "desc": "These iron shackles may make escaping from prison inconvenient.",
+    "file": "wallshackles.object",
+    "name": "Wall Shackles",
+    "path": "wallshackles"
+  },
+  {
+    "desc": "Just a ceremonial shield. It wouldn't do much good in a fight.",
+    "file": "wallshield.object",
+    "name": "Glitch Shield Display",
+    "path": "wallshield"
+  },
+  {
+    "desc": "I sure could use some water...",
+    "file": "wellcover.object",
+    "name": "Well Cover",
+    "path": "wellcover"
+  },
+  {
+    "desc": "A wheelbarrow for transporting goods.",
+    "file": "wheelbarrow.object",
+    "name": "Wheelbarrow",
+    "path": "wheelbarrow"
+  },
+  {
+    "desc": "A tiny basket made of wicker.",
+    "file": "wickerbasket1.object",
+    "name": "Small Wicker Basket",
+    "path": "wickerbasket1"
+  },
+  {
+    "desc": "A wicker basket. Maybe it's got cool stuff inside!",
+    "file": "wickerbasket2.object",
+    "name": "Wide Wicker Basket",
+    "path": "wickerbasket2"
+  },
+  {
+    "desc": "A wicker basket. Maybe it's got cool stuff inside!",
+    "file": "wickerbasket3.object",
+    "name": "Tall Wicker Basket",
+    "path": "wickerbasket3"
+  },
+  {
+    "desc": "A wicker basket. Maybe it's got cool stuff inside!",
+    "file": "wickerbasket4.object",
+    "name": "Handled Wicker Basket",
+    "path": "wickerbasket4"
+  },
+  {
+    "desc": "A wicker basket. Maybe it's got cool stuff inside!",
+    "file": "wickerbasket5.object",
+    "name": "Large Wicker Basket",
+    "path": "wickerbasket5"
+  },
+  {
+    "desc": "A simple wooden stool.",
+    "file": "woodenstool.object",
+    "name": "Simple Wooden Stool",
+    "path": "woodenstool"
+  }
+]

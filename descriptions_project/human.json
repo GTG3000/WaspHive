@@ -1,0 +1,662 @@
+[
+  {
+    "desc": "The flashing light is meant to signal that there's been some sort of emergency...",
+    "file": "alertlight.object",
+    "name": "Alert Light",
+    "path": "alertlight"
+  },
+  {
+    "desc": "Ouch! I shouldn't get too close to that.",
+    "file": "barbedwire.object",
+    "name": "Barbed Wire",
+    "path": "barbedwire"
+  },
+  {
+    "desc": "__no description__",
+    "file": "basicbath.object",
+    "name": "Basic Bath",
+    "path": "basicbath"
+  },
+  {
+    "desc": "__no description__",
+    "file": "basicbathdripping.object",
+    "name": "Dripping Basic Bath",
+    "path": "basicbath"
+  },
+  {
+    "desc": "A normal looking toilet! Thank the stars!",
+    "file": "basictoilet.object",
+    "name": "Basic Toilet",
+    "path": "basictoilet"
+  },
+  {
+    "desc": "A television! I don't think this has worked for a long time.",
+    "file": "basictv.object",
+    "name": "Old Television",
+    "path": "basictv"
+  },
+  {
+    "desc": "The amount of data on this screen is overwhelming.",
+    "file": "bunkerbigpanel.object",
+    "name": "Large Monitor",
+    "path": "bunkerbigpanel"
+  },
+  {
+    "desc": "There's a book in here titled, 'How to Travel Backwards in Time for Dummies'.",
+    "file": "bunkerbookcase.object",
+    "name": "Metal Bookcase",
+    "path": "bunkerbookcase"
+  },
+  {
+    "desc": "It looks like it's full of hazardous materials.",
+    "file": "bunkercabinet1.object",
+    "name": "Metal Cabinet",
+    "path": "bunkercabinet1"
+  },
+  {
+    "desc": "A metallic ceiling lamp.",
+    "file": "bunkerceilinglight1.object",
+    "name": "Metal Ceiling Lamp",
+    "path": "bunkerceilinglight1"
+  },
+  {
+    "desc": "A metallic ceiling lamp.",
+    "file": "bunkerceilinglight2.object",
+    "name": "Metal Ceiling Lamp",
+    "path": "bunkerceilinglight2"
+  },
+  {
+    "desc": "Looks like it's mainly used for data entry. Nothing too interesting.",
+    "file": "bunkercomputer.object",
+    "name": "Small Computer",
+    "path": "bunkercomputer"
+  },
+  {
+    "desc": "It's full of really tempting levers but I should probably leave it alone.",
+    "file": "bunkerconsole1.object",
+    "name": "Command Console",
+    "path": "bunkerconsole1"
+  },
+  {
+    "desc": "Two keyboards and one monitor?",
+    "file": "bunkerconsole2.object",
+    "name": "Large Console",
+    "path": "bunkerconsole2"
+  },
+  {
+    "desc": "It looks like a screen full of personnel memos.",
+    "file": "bunkerconsole3.object",
+    "name": "Small Console",
+    "path": "bunkerconsole3"
+  },
+  {
+    "desc": "It's a screen full of super top secret mission data... Boring.",
+    "file": "bunkerconsole4.object",
+    "name": "Wide Console",
+    "path": "bunkerconsole4"
+  },
+  {
+    "desc": "A support beam painted with cautionary stripes. Mind your head!",
+    "file": "bunkercorner.object",
+    "name": "Metal Support Beam",
+    "path": "bunkercorner"
+  },
+  {
+    "desc": "A metal crate.",
+    "file": "bunkercrate.object",
+    "name": "Metal Crate",
+    "path": "bunkercrate"
+  },
+  {
+    "desc": "An office desk with a built-in monitor. Looks like someone was doing some coding.",
+    "file": "bunkerdesk.object",
+    "name": "Metal Office Desk",
+    "path": "bunkerdesk"
+  },
+  {
+    "desc": "The display shows a round central room branching off into several hallways.",
+    "file": "bunkerdisplay1.object",
+    "name": "Blueprint Display",
+    "path": "bunkerdisplay1"
+  },
+  {
+    "desc": "A screen with a pie chart representing budget statistics.",
+    "file": "bunkerdisplay2.object",
+    "name": "Statistical Display",
+    "path": "bunkerdisplay2"
+  },
+  {
+    "desc": "It's a map displaying a round central room branching out into several corridors.",
+    "file": "bunkerdisplay3.object",
+    "name": "Map Display",
+    "path": "bunkerdisplay3"
+  },
+  {
+    "desc": "That's no moon...",
+    "file": "bunkerdisplay4.object",
+    "name": "Anomalous Display",
+    "path": "bunkerdisplay4"
+  },
+  {
+    "desc": "A device to scan eyeballs and match them to personnel data.",
+    "file": "bunkereyescanner.object",
+    "name": "Eye Scanner",
+    "path": "bunkereyescanner"
+  },
+  {
+    "desc": "It scans fingerprints and matches them to personnel data.",
+    "file": "bunkerhandscanner.object",
+    "name": "Fingerprint Scanner",
+    "path": "bunkerhandscanner"
+  },
+  {
+    "desc": "A space heater!",
+    "file": "bunkerheater1.object",
+    "name": "Space Heater",
+    "path": "bunkerheater1"
+  },
+  {
+    "desc": "A blindingly bright fluorescent light.",
+    "file": "bunkerlighth.object",
+    "name": "Wide Fluorescent Lamp",
+    "path": "bunkerlighth"
+  },
+  {
+    "desc": "A blindingly bright fluorescent light.",
+    "file": "bunkerlightv.object",
+    "name": "Tall Fluorescent Lamp",
+    "path": "bunkerlightv"
+  },
+  {
+    "desc": "Stay still! It can't see you if you stay still.",
+    "file": "bunkermotiondetector.object",
+    "name": "Motion Detector",
+    "path": "bunkermotiondetector"
+  },
+  {
+    "desc": "This appears to be an analysis of the environment outside of the bunker.",
+    "file": "bunkerpanel1.object",
+    "name": "Environmental Data Panel",
+    "path": "bunkerpanel1"
+  },
+  {
+    "desc": "It's a patient file. He appears to be human, but... with two hearts?",
+    "file": "bunkerpanel2.object",
+    "name": "Medical Data Panel",
+    "path": "bunkerpanel2"
+  },
+  {
+    "desc": "A flashy electronic recruitment poster.",
+    "file": "bunkerpanel3.object",
+    "name": "LED Recruitment Panel",
+    "path": "bunkerpanel3"
+  },
+  {
+    "desc": "That's not very encouraging.",
+    "file": "bunkerposter1.object",
+    "name": "Motivational Poster",
+    "path": "bunkerposter1"
+  },
+  {
+    "desc": "There is no need to be upset.",
+    "file": "bunkerposter2.object",
+    "name": "Calming Poster",
+    "path": "bunkerposter2"
+  },
+  {
+    "desc": "It's a large server cabinet.",
+    "file": "bunkerserver.object",
+    "name": "Server Cabinet",
+    "path": "bunkerserver"
+  },
+  {
+    "desc": "This sliding door makes me feel like I'm in a sci-fi game...",
+    "file": "bunkerslidingdoor.object",
+    "name": "Modern Sliding Door",
+    "path": "bunkerslidingdoor"
+  },
+  {
+    "desc": "A simple metal table.",
+    "file": "bunkertable1.object",
+    "name": "Metal Table",
+    "path": "bunkertable1"
+  },
+  {
+    "desc": "A solid metal table.",
+    "file": "bunkertable2.object",
+    "name": "Solid Metal Table",
+    "path": "bunkertable2"
+  },
+  {
+    "desc": "Ideal for laying out battle strategies, holding meetings and snacking.",
+    "file": "bunkertable3.object",
+    "name": "Large Metal Table",
+    "path": "bunkertable3"
+  },
+  {
+    "desc": "A monitor displaying a task list.",
+    "file": "bunkertv.object",
+    "name": "Small Wall Monitor",
+    "path": "bunkertv"
+  },
+  {
+    "desc": "A set of three TV monitors facing in different directions.'",
+    "file": "bunkertv2.object",
+    "name": "USCM Television Monitors",
+    "path": "bunkertv2"
+  },
+  {
+    "desc": "Sterile, recycled air whirs through the fanblades at a steady pace.",
+    "file": "bunkervent.object",
+    "name": "Bunker Vent",
+    "path": "bunkervent"
+  },
+  {
+    "desc": "This is just an electrical fire waiting to happen.",
+    "file": "bunkerwires.object",
+    "name": "Wires",
+    "path": "bunkerwires"
+  },
+  {
+    "desc": "Someone couldn't count to 25.",
+    "file": "chalktally.object",
+    "name": "Tally Marks",
+    "path": "chalktally"
+  },
+  {
+    "desc": "This looks like a nice place to hide.",
+    "file": "curtain1.object",
+    "name": "Curtain",
+    "path": "curtain1"
+  },
+  {
+    "desc": "The sign says \"DANGER\". Wait, how do these people know my middle name?",
+    "file": "dangersignh.object",
+    "name": "Horizontal Danger Sign",
+    "path": "dangersignh"
+  },
+  {
+    "desc": "The sign says \"DANGER\". Wait, how do these people know my middle name?",
+    "file": "dangersignv.object",
+    "name": "Vertical Danger Sign",
+    "path": "dangersignv"
+  },
+  {
+    "desc": "Perfect for storing a lot of food and keeping it fresh.",
+    "file": "fridge.object",
+    "name": "Full-Size Fridge",
+    "path": "fridge"
+  },
+  {
+    "desc": "A shiny glass panel.",
+    "file": "glasspanel.object",
+    "name": "Glass Panel",
+    "path": "glasspanel"
+  },
+  {
+    "desc": "This brightly coloured tape clearly indicates that the area is unsafe.",
+    "file": "hazardtapeh.object",
+    "name": "Horizontal Hazard Tape",
+    "path": "hazardtapeh"
+  },
+  {
+    "desc": "This brightly coloured tape clearly indicates that the area is unsafe.",
+    "file": "hazardtapev.object",
+    "name": "Vertical Hazard Tape",
+    "path": "hazardtapev"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "humanstoragelocker.object",
+    "name": "Human Storage Locker",
+    "path": "humanstoragelocker"
+  },
+  {
+    "desc": "This jukebox sounds great! Too bad there only seems to be one track.",
+    "file": "jukebox.object",
+    "name": "Jukebox",
+    "path": "jukebox"
+  },
+  {
+    "desc": "It's entrancing. I can't look away.",
+    "file": "lavalamp1.object",
+    "name": "Lava Lamp",
+    "path": "lavalamp1"
+  },
+  {
+    "desc": "What does USCM stand for, again? Oh - United Systems Colonial Marines.",
+    "file": "marinesign.object",
+    "name": "USCM Sign",
+    "path": "marinesign"
+  },
+  {
+    "desc": "Nuke all the foods!",
+    "file": "microwave.object",
+    "name": "Microwave",
+    "path": "microwave"
+  },
+  {
+    "desc": "It's been so long since I had a home cooked meal... or a home.",
+    "file": "oven1.object",
+    "name": "Basic Oven",
+    "path": "oven1"
+  },
+  {
+    "desc": "An ornate gothic arch.",
+    "file": "prisonarch.object",
+    "name": "Gothic Arch",
+    "path": "prisonarch"
+  },
+  {
+    "desc": "Fire in a rusted-out barrel.",
+    "file": "prisonbarrelfire.object",
+    "name": "Barrel Fire",
+    "path": "prisonbarrelfire"
+  },
+  {
+    "desc": "Thick metal bars surround each cell. Chance of escape seems pretty slim.",
+    "file": "prisonbars.object",
+    "name": "Prison Bars",
+    "path": "prisonbars"
+  },
+  {
+    "desc": "A cold, hard slab of metal meant to serve as a bed.",
+    "file": "prisonbed.object",
+    "name": "Chained Metal Bed",
+    "path": "prisonbed"
+  },
+  {
+    "desc": "A simple bench, save for the fact that the legs are nailed to the floor.",
+    "file": "prisonbench.object",
+    "name": "Metal Bench",
+    "path": "prisonbench"
+  },
+  {
+    "desc": "Looks like it used to be filled with medical supplies - not any more.",
+    "file": "prisoncabinet1.object",
+    "name": "Broken Supply Cabinet",
+    "path": "prisoncabinet1"
+  },
+  {
+    "desc": "A set of monitors displaying the feeds from security cameras. Watch out for paranormal activity.",
+    "file": "prisoncamerastation.object",
+    "name": "Security Camera Station",
+    "path": "prisoncamerastation"
+  },
+  {
+    "desc": "A control panel that appears to operate lights, doors and alarms.",
+    "file": "prisoncontrolpanel.object",
+    "name": "Security Control Panel",
+    "path": "prisoncontrolpanel"
+  },
+  {
+    "desc": "A decorative gothic corner.",
+    "file": "prisoncorner.object",
+    "name": "Decorative Support Beam",
+    "path": "prisoncorner"
+  },
+  {
+    "desc": "A door made of thick metal bars.",
+    "file": "prisondoor.object",
+    "name": "Barred Door",
+    "path": "prisondoor"
+  },
+  {
+    "desc": "If you go this way, you're sure to be exiting... something.",
+    "file": "prisonexitsign.object",
+    "name": "Exit Sign",
+    "path": "prisonexitsign"
+  },
+  {
+    "desc": "It's a chain-link fence.",
+    "file": "prisonfence1.object",
+    "name": "Tall Chain-link Fence",
+    "path": "prisonfence1"
+  },
+  {
+    "desc": "It's a chain-link fence.",
+    "file": "prisonfence2.object",
+    "name": "Short Chain-link Fence",
+    "path": "prisonfence2"
+  },
+  {
+    "desc": "There were some office supplies and inmate files in this filing cabinet.",
+    "file": "prisonfile1.object",
+    "name": "Rusty Filing Cabinet",
+    "path": "prisonfile1"
+  },
+  {
+    "desc": "There were some office supplies and inmate files in this filing cabinet.",
+    "file": "prisonfile2.object",
+    "name": "Wide Rusty Filing Cabinet",
+    "path": "prisonfile2"
+  },
+  {
+    "desc": "It feels like I'm on stage!",
+    "file": "prisonfloodlight.object",
+    "name": "Small Floodlight",
+    "path": "prisonfloodlight"
+  },
+  {
+    "desc": "A flickering light to set that creepy mood.",
+    "file": "prisonfloodlightBroken.object",
+    "name": "Small Broken Floodlight",
+    "path": "prisonfloodlight"
+  },
+  {
+    "desc": "Some sort of solitary confinement device, maybe?",
+    "file": "prisonforcecell.object",
+    "name": "Force Cell",
+    "path": "prisonforcecell"
+  },
+  {
+    "desc": "Rusty old girder beams - can't be too safe.",
+    "file": "prisongirderh.object",
+    "name": "Horizontal Rusted Girder",
+    "path": "prisongirderh"
+  },
+  {
+    "desc": "Rusty old girder beams - can't be too safe.",
+    "file": "prisongirderv.object",
+    "name": "Vertical Rusted Girder",
+    "path": "prisongirderv"
+  },
+  {
+    "desc": "Waz.",
+    "file": "prisongraffiti1.object",
+    "name": "'Waz' Graffiti",
+    "path": "prisongraffiti1"
+  },
+  {
+    "desc": "Sure seems that way, Anonymous Graffiti Artist.",
+    "file": "prisongraffiti2.object",
+    "name": "\"No Escape\" Graffiti",
+    "path": "prisongraffiti2"
+  },
+  {
+    "desc": "Graffiti. A harsh warning. Ignore it.",
+    "file": "prisongraffiti3.object",
+    "name": "Graffiti",
+    "path": "prisongraffiti3"
+  },
+  {
+    "desc": "A crudely-drawn skull. It looks cheerful.",
+    "file": "prisongraffiti4.object",
+    "name": "Graffiti",
+    "path": "prisongraffiti4"
+  },
+  {
+    "desc": "Graffiti. The writer seems somewhat peeved.",
+    "file": "prisongraffiti5.object",
+    "name": "Graffiti",
+    "path": "prisongraffiti5"
+  },
+  {
+    "desc": "Graffiti reading \"turn back\". Chances of it being adhered to: zero.",
+    "file": "prisongraffiti6.object",
+    "name": "Graffiti",
+    "path": "prisongraffiti6"
+  },
+  {
+    "desc": "The words \"get out\" have been written in blood. You can tell the writer was serious.",
+    "file": "prisongraffiti7.object",
+    "name": "Graffiti",
+    "path": "prisongraffiti7"
+  },
+  {
+    "desc": "Rusted metal grates meant for ventilation.",
+    "file": "prisongrateh.object",
+    "name": "Horizonal Metal Grates",
+    "path": "prisongrateh"
+  },
+  {
+    "desc": "Rusted metal grates meant for ventilation.",
+    "file": "prisongratev.object",
+    "name": "Vertical Metal Grates",
+    "path": "prisongratev"
+  },
+  {
+    "desc": "A good place to stash contraband.",
+    "file": "prisonlocker1.object",
+    "name": "Small Prison Locker",
+    "path": "prisonlocker1"
+  },
+  {
+    "desc": "A good place to stash contraband.",
+    "file": "prisonlocker2.object",
+    "name": "Tall Prison Locker",
+    "path": "prisonlocker2"
+  },
+  {
+    "desc": "This mattress is filthy! I swear I just saw something crawling around inside.",
+    "file": "prisonmattress.object",
+    "name": "Dirty Mattress",
+    "path": "prisonmattress"
+  },
+  {
+    "desc": "Looks like someone had a case of the Mondays.",
+    "file": "prisonmirror1.object",
+    "name": "Large Broken Mirror",
+    "path": "prisonmirror1"
+  },
+  {
+    "desc": "Looks like someone had a case of the Mondays.",
+    "file": "prisonmirror2.object",
+    "name": "Small Broken Mirror",
+    "path": "prisonmirror2"
+  },
+  {
+    "desc": "The panel displays information about interacting with prisoners...",
+    "file": "prisonpanel.object",
+    "name": "USCM Penal Colony Panel",
+    "path": "prisonpanel"
+  },
+  {
+    "desc": "A notice written in ink.",
+    "file": "prisonpaper1.object",
+    "name": "Notice",
+    "path": "prisonpaper1"
+  },
+  {
+    "desc": "The paper is ripped and the words are smudged.",
+    "file": "prisonpaper2.object",
+    "name": "USCM Torn Memo",
+    "path": "prisonpaper2"
+  },
+  {
+    "desc": "Inmate #2162's Study Group for Criminals Who Can't Read Good",
+    "file": "prisonpaper3.object",
+    "name": "Event Memo",
+    "path": "prisonpaper3"
+  },
+  {
+    "desc": "A fence fashioned out of heavy metal pipes.",
+    "file": "prisonpipefence.object",
+    "name": "Pipe Fence",
+    "path": "prisonpipefence"
+  },
+  {
+    "desc": "The space heater emits a low, unpleasant hum.",
+    "file": "prisonradiator.object",
+    "name": "Old Radiator",
+    "path": "prisonradiator"
+  },
+  {
+    "desc": "A security camera. An all-seeing eye.",
+    "file": "prisonsecuritycamera.object",
+    "name": "Security Camera",
+    "path": "prisonsecuritycamera"
+  },
+  {
+    "desc": "A shower. Perfect for a clean getaway. If the water was actually clean.",
+    "file": "prisonshower.object",
+    "name": "Rusty Shower",
+    "path": "prisonshower"
+  },
+  {
+    "desc": "A shower. Perfect for a clean getaway.",
+    "file": "prisonshowerdripping.object",
+    "name": "Dripping Prison Shower",
+    "path": "prisonshower"
+  },
+  {
+    "desc": "The sign says, \"Cell Block\".",
+    "file": "prisonsign1.object",
+    "name": "Cell Block Sign",
+    "path": "prisonsign1"
+  },
+  {
+    "desc": "The sign says, \"Mess Hall\".",
+    "file": "prisonsign2.object",
+    "name": "Mess Hall Sign",
+    "path": "prisonsign2"
+  },
+  {
+    "desc": "USCM, huh? I wouldn't wanna be one of their prisoners.",
+    "file": "prisonstonesign.object",
+    "name": "USCM Penal Colony Sign",
+    "path": "prisonstonesign"
+  },
+  {
+    "desc": "Just a typical cafeteria table.",
+    "file": "prisontable.object",
+    "name": "Cafeteria Table",
+    "path": "prisontable"
+  },
+  {
+    "desc": "Looks like someone had a rough night.",
+    "file": "prisontoilet.object",
+    "name": "Dirty Toilet",
+    "path": "prisontoilet"
+  },
+  {
+    "desc": "A torture bed. Terrifying! Thank goodness for the pillow.",
+    "file": "prisontorturebed1.object",
+    "name": "Upright Torture Bed",
+    "path": "prisontorturebed1"
+  },
+  {
+    "desc": "A torture bed. Terrifying! Thank goodness for the pillow.",
+    "file": "prisontorturebed2.object",
+    "name": "Torture Bed",
+    "path": "prisontorturebed2"
+  },
+  {
+    "desc": "It's a turbine. Y'know, for science.",
+    "file": "prisonturbine.object",
+    "name": "Small Turbine",
+    "path": "prisonturbine"
+  },
+  {
+    "desc": "Ooh, what should I get?",
+    "file": "vendingmachine.object",
+    "name": "Vending Machine",
+    "path": "vendingmachine"
+  },
+  {
+    "desc": "It's one of those drinking machines people use to make small-talk.",
+    "file": "watermachine.object",
+    "name": "Water Cooler",
+    "path": "watermachine"
+  }
+]

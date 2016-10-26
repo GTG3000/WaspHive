@@ -1,0 +1,194 @@
+[
+  {
+    "desc": "A sturdy wooden bed with mooshi hide sheets.",
+    "file": "frontierbed.object",
+    "name": "Frontier Bed",
+    "path": "frontierbed"
+  },
+  {
+    "desc": "A wooden chair with mooshi hide cushioning.",
+    "file": "frontierchair.object",
+    "name": "Frontier Chair",
+    "path": "frontierchair"
+  },
+  {
+    "desc": "An old-fashioned standing clock, with a polished brass pendulum.",
+    "file": "frontierclock.object",
+    "name": "Frontier Grandfather Clock",
+    "path": "frontierclock"
+  },
+  {
+    "desc": "A rough wooden coffin. Luckily, no-one's inside!",
+    "file": "frontiercoffin.object",
+    "name": "Frontier Coffin",
+    "path": "frontiercoffin"
+  },
+  {
+    "desc": "A wooden door, emblazoned with an iron emblem on both sides.",
+    "file": "frontierdoor.object",
+    "name": "Frontier Door",
+    "path": "frontierdoor"
+  },
+  {
+    "desc": "An old copper and brass furnace.",
+    "file": "frontierfurnace.object",
+    "name": "Frontier Furnace",
+    "path": "frontierfurnace"
+  },
+  {
+    "desc": "A charming record player, playing an old tune.",
+    "file": "frontiergramophone.object",
+    "name": "Frontier Gramophone",
+    "path": "frontiergramophone"
+  },
+  {
+    "desc": "A decorative set of brass horns.",
+    "file": "frontierhatrack.object",
+    "name": "Frontier Hat Rack",
+    "path": "frontierhatrack"
+  },
+  {
+    "desc": "A decorative iron symbol.",
+    "file": "frontierironsymbol.object",
+    "name": "Frontier Iron Symbol",
+    "path": "frontierironsymbol"
+  },
+  {
+    "desc": "A hanging gas lamp with a red glass cover.",
+    "file": "frontierlamp.object",
+    "name": "Frontier Lamp",
+    "path": "frontierlamp"
+  },
+  {
+    "desc": "A wrought iron lamp post with a gas lit flame.",
+    "file": "frontierlamppost.object",
+    "name": "Frontier Lamp Post",
+    "path": "frontierlamppost"
+  },
+  {
+    "desc": "A detailed painting of a beautiful landscape.",
+    "file": "frontierpainting1.object",
+    "name": "Frontier Plains Painting",
+    "path": "frontierpainting1"
+  },
+  {
+    "desc": "A strange painting of a pulled wagon.",
+    "file": "frontierpainting2.object",
+    "name": "Frontier Wagon Painting",
+    "path": "frontierpainting2"
+  },
+  {
+    "desc": "A painting of a proud mooshi against a setting sun.",
+    "file": "frontierpainting3.object",
+    "name": "Frontier Mooshi Painting",
+    "path": "frontierpainting3"
+  },
+  {
+    "desc": "A huge ornate vault safe.",
+    "file": "frontiervault.object",
+    "name": "Frontier Vault",
+    "path": "frontiervault"
+  },
+  {
+    "desc": "A brass water pump that used to pump water, back when it was functioning.",
+    "file": "frontierwaterpump.object",
+    "name": "Frontier Water Pump",
+    "path": "frontierwaterpump"
+  },
+  {
+    "desc": "A brass, wood and copper windmill, that spins in the direction of the wind.",
+    "file": "frontierwindmill.object",
+    "name": "Frontier Windmill",
+    "path": "frontierwindmill"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "novakidstoragelocker.object",
+    "name": "Novakid Storage Locker",
+    "path": "novakidstoragelocker"
+  },
+  {
+    "desc": "A novelty cowboy picture stand.",
+    "file": "picturestand.object",
+    "name": "Picture Stand",
+    "path": "picturestand"
+  },
+  {
+    "desc": "An small, sturdy iron safe.",
+    "file": "safe.object",
+    "name": "Safe",
+    "path": "safe"
+  },
+  {
+    "desc": "A polished bar top, complete with three stools.",
+    "file": "saloonbar.object",
+    "name": "Saloon Bar",
+    "path": "saloonbar"
+  },
+  {
+    "desc": "A drinks cabinet, stocked with glassware and odd-shaped bottles.",
+    "file": "salooncabinet.object",
+    "name": "Saloon Cabinet",
+    "path": "salooncabinet"
+  },
+  {
+    "desc": "A swinging saloon door to keep those pesky tumbleweeds outside.",
+    "file": "saloondoor.object",
+    "name": "Saloon Door",
+    "path": "saloondoor"
+  },
+  {
+    "desc": "An electric wall sconce.",
+    "file": "saloonlight.object",
+    "name": "Saloon Light",
+    "path": "saloonlight"
+  },
+  {
+    "desc": "It's a piano fit for a saloon!",
+    "file": "saloonpiano.object",
+    "name": "Saloon Piano",
+    "path": "saloonpiano"
+  },
+  {
+    "desc": "An uncomfortable-looking saloon chair.",
+    "file": "saloonseat.object",
+    "name": "Saloon Chair",
+    "path": "saloonseat"
+  },
+  {
+    "desc": "A painted wooden sign for saloons.",
+    "file": "saloonsign.object",
+    "name": "Saloon Sign",
+    "path": "saloonsign"
+  },
+  {
+    "desc": "Eughh.",
+    "file": "saloonspittoon.object",
+    "name": "Saloon Spittoon",
+    "path": "saloonspittoon"
+  },
+  {
+    "desc": "A richly-stained table fit for an old Western.",
+    "file": "saloontable.object",
+    "name": "Saloon Table",
+    "path": "saloontable"
+  },
+  {
+    "desc": "A dirty-looking glass tumbler.",
+    "file": "saloontumbler.object",
+    "name": "Saloon Tumbler",
+    "path": "saloontumbler"
+  },
+  {
+    "desc": "A decorative wooden wagon wheel.",
+    "file": "wagonwheel.object",
+    "name": "Wagon Wheel",
+    "path": "wagonwheel"
+  },
+  {
+    "desc": "A faded poster, offering a bounty from long ago.",
+    "file": "wantedposter.object",
+    "name": "Wanted Poster",
+    "path": "wantedposter"
+  }
+]

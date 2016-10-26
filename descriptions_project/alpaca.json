@@ -1,0 +1,38 @@
+[
+  {
+    "desc": "An ancient rune that symbolises the basic component of life.",
+    "file": "alpacacomponentrune.object",
+    "name": "Component Rune",
+    "path": "alpacacomponentrune"
+  },
+  {
+    "desc": "An ancient rune that is the symbol of personal growth.",
+    "file": "alpacagrowthrune.object",
+    "name": "Alpaca Growth Rune",
+    "path": "alpacagrowthrune"
+  },
+  {
+    "desc": "An ancient rune that is the symbol of one's home.",
+    "file": "alpacahomerune.object",
+    "name": "Home Rune",
+    "path": "alpacahomerune"
+  },
+  {
+    "desc": "An ancient rune that is the symbol of knowledge.",
+    "file": "alpacaknowledgerune.object",
+    "name": "Knowledge Rune",
+    "path": "alpacaknowledgerune"
+  },
+  {
+    "desc": "An ancient rune that is the symbol of life.",
+    "file": "alpacaliferune.object",
+    "name": "Life Rune",
+    "path": "alpacaliferune"
+  },
+  {
+    "desc": "An ancient rune that is the symbol of ruin.",
+    "file": "alpacaruinrune.object",
+    "name": "Ruin Rune",
+    "path": "alpacaruinrune"
+  }
+]

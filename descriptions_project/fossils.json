@@ -1,0 +1,68 @@
+[
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one piece",
+    "file": "dirtyfossil1.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil2.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil3.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil4.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil5.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil6.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil7.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "Some kind of fossil, all covered in mud and rock. It's going to need careful cleaning to get it out in one peice",
+    "file": "dirtyfossil8.object",
+    "name": "Fossil",
+    "path": "dirtyfossils"
+  },
+  {
+    "desc": "A display stand for small fossils",
+    "file": "fossildisplay1.object",
+    "name": "Small Fossil Display",
+    "path": "displaystands\\fossildisplay1"
+  },
+  {
+    "desc": "A display stand for medium fossils",
+    "file": "fossildisplay3.object",
+    "name": "Medium Fossil Display",
+    "path": "displaystands\\fossildisplay3"
+  },
+  {
+    "desc": "A display stand for large fossils",
+    "file": "fossildisplay5.object",
+    "name": "Large Fossil Display",
+    "path": "displaystands\\fossildisplay5"
+  }
+]

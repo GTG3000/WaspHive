@@ -1,0 +1,500 @@
+[
+  {
+    "desc": "Automatoes! Be sure to spit out the screws.",
+    "file": "automatoseed.object",
+    "name": "Automato Seed",
+    "path": "automato"
+  },
+  {
+    "desc": "Automatoes! Be sure to spit out the screws.",
+    "file": "wildautomatoseed.object",
+    "name": "Automato Seed",
+    "path": "automato"
+  },
+  {
+    "desc": "Avesmingo, the plant of a 100 different flavours.",
+    "file": "avesmingoseed.object",
+    "name": "Avesmingo Seed",
+    "path": "avesmingo"
+  },
+  {
+    "desc": "Avesmingo, the plant of a 100 different flavours.",
+    "file": "wildavesmingoseed.object",
+    "name": "Avesmingo Seed",
+    "path": "avesmingo"
+  },
+  {
+    "desc": "Genetically enhanced bananas. Smaller trees with bigger fruit.",
+    "file": "bananaseed.object",
+    "name": "Banana Seed",
+    "path": "banana"
+  },
+  {
+    "desc": "Genetically enhanced bananas. Smaller trees with bigger fruit.",
+    "file": "wildbananaseed.object",
+    "name": "Banana Seed",
+    "path": "banana"
+  },
+  {
+    "desc": "Grows crunchy beakseed. The nostril is the best part.",
+    "file": "beakseedseed.object",
+    "name": "Beakseed Seed",
+    "path": "beakseed"
+  },
+  {
+    "desc": "Grows crunchy beakseed. The nostril is the best part.",
+    "file": "wildbeakseedseed.object",
+    "name": "Beakseed Seed",
+    "path": "beakseed"
+  },
+  {
+    "desc": "Grows boltbulb! Surprisingly soft.",
+    "file": "boltbulbseed.object",
+    "name": "Boltbulb Seed",
+    "path": "boltbulb"
+  },
+  {
+    "desc": "Boltbulb! Surprisingly soft.",
+    "file": "wildboltbulbseed.object",
+    "name": "Boltbulb Seed",
+    "path": "boltbulb"
+  },
+  {
+    "desc": "Boneboo, a good source of calcium.",
+    "file": "bonebooseed.object",
+    "name": "Boneboo Seed",
+    "path": "boneboo"
+  },
+  {
+    "desc": "Boneboo, a good source of calcium.",
+    "file": "wildbonebooseed.object",
+    "name": "Boneboo Seed",
+    "path": "boneboo"
+  },
+  {
+    "desc": "Grows delicious carrots, brought all the way across the stars from Earth.",
+    "file": "carrotseed.object",
+    "name": "Carrot Seed",
+    "path": "carrot"
+  },
+  {
+    "desc": "Grows delicious carrots, brought all the way across the stars from Earth.",
+    "file": "wildcarrotseed.object",
+    "name": "Carrot Seed",
+    "path": "carrot"
+  },
+  {
+    "desc": "Hot, hot, hot fiesta!! Extra hot to anyone but the humans.",
+    "file": "chiliseed.object",
+    "name": "Chilli Seed",
+    "path": "chili"
+  },
+  {
+    "desc": "Hot, hot, hot fiesta!! Extra hot to anyone but the humans.",
+    "file": "wildchiliseed.object",
+    "name": "Chilli Seed",
+    "path": "chili"
+  },
+  {
+    "desc": "A cocoa plant. Once ripe, the pods can be turned into chocolate.",
+    "file": "cocoaseed.object",
+    "name": "Cocoa Seed",
+    "path": "cocoa"
+  },
+  {
+    "desc": "Cocoa beans can be brewed to make a tasty beverage.",
+    "file": "wildcocoaseed.object",
+    "name": "Cocoa Seed",
+    "path": "cocoa"
+  },
+  {
+    "desc": "Coffee beans can be brewed to make a tasty beverage.",
+    "file": "coffeeseed.object",
+    "name": "Coffee Seed",
+    "path": "coffee"
+  },
+  {
+    "desc": "Coffee beans can be brewed to make a tasty beverage.",
+    "file": "wildcoffeeseed.object",
+    "name": "Coffee Seed",
+    "path": "coffee"
+  },
+  {
+    "desc": "The coralcreep fruit looks like a sea creature.",
+    "file": "coralcreepseed.object",
+    "name": "Coralcreep Seed",
+    "path": "coralcreep"
+  },
+  {
+    "desc": "The coralcreep fruit looks like a sea creature.",
+    "file": "wildcoralcreepseed.object",
+    "name": "Coralcreep Seed",
+    "path": "coralcreep"
+  },
+  {
+    "desc": "Sweet, yellow corn.",
+    "file": "cornseed.object",
+    "name": "Corn Seed",
+    "path": "corn"
+  },
+  {
+    "desc": "Sweet, yellow corn.",
+    "file": "wildcornseed.object",
+    "name": "Corn Seed",
+    "path": "corn"
+  },
+  {
+    "desc": "A plant which grows fluffy cotton buds.",
+    "file": "cottonseed.object",
+    "name": "Cotton Seed",
+    "path": "cotton"
+  },
+  {
+    "desc": "A plant which grows fluffy cotton buds!",
+    "file": "wildcottonseed.object",
+    "name": "Cotton Seed",
+    "path": "cotton"
+  },
+  {
+    "desc": "A Crystal plant. Truns out money does grow on trees.",
+    "file": "crystalplantseed.object",
+    "name": "Crystal Plant Seed",
+    "path": "crystalplant"
+  },
+  {
+    "desc": "A Crystal plant. Truns out money does grow on trees.",
+    "file": "wildcrystalplantseed.object",
+    "name": "Crystal Plant Seed",
+    "path": "crystalplant"
+  },
+  {
+    "desc": "Currentcorn, full of acid. Not good for fleshy creatures.",
+    "file": "currentcornseed.object",
+    "name": "Currentcorn Seed",
+    "path": "currentcorn"
+  },
+  {
+    "desc": "Currentcorn, full of acid. Not good for fleshy creatures.",
+    "file": "wildcurrentcornseed.object",
+    "name": "Currentcorn Seed",
+    "path": "currentcorn"
+  },
+  {
+    "desc": "Diodia, a soft root vegetable with a coppery taste.",
+    "file": "diodiaseed.object",
+    "name": "Diodia Seed",
+    "path": "diodia"
+  },
+  {
+    "desc": "Diodia, a soft root vegetable with a coppery taste.",
+    "file": "wilddiodiaseed.object",
+    "name": "Diodia Seed",
+    "path": "diodia"
+  },
+  {
+    "desc": "Dirturchins are squidgy and kind of tasteless.",
+    "file": "dirturchinseed.object",
+    "name": "Dirturchin Seed",
+    "path": "dirturchin"
+  },
+  {
+    "desc": "Dirturchins are squidgy and kind of tasteless.",
+    "file": "wilddirturchinseed.object",
+    "name": "Dirturchin Seed",
+    "path": "dirturchin"
+  },
+  {
+    "desc": "Hatches into a vulnerable electric fluffalo calf - a good source of static cells once fully grown.",
+    "file": "electricfluffaloegg.object",
+    "name": "Electric Fluffalo Egg",
+    "path": "eggs\\fluffaloegg"
+  },
+  {
+    "desc": "Hatches into a vulnerable fire fluffalo calf - a good source of scorched cores once fully grown.",
+    "file": "firefluffaloegg.object",
+    "name": "Fire Fluffalo Egg",
+    "path": "eggs\\fluffaloegg"
+  },
+  {
+    "desc": "Hatches into a vulnerable common fluffalo calf - a good source of plant fibre once fully grown.",
+    "file": "fluffaloegg.object",
+    "name": "Fluffalo Egg",
+    "path": "eggs\\fluffaloegg"
+  },
+  {
+    "desc": "Hatches into a vulnerable ice fluffalo calf - a good source of cryonic extract once fully grown.",
+    "file": "icefluffaloegg.object",
+    "name": "Ice Fluffalo Egg",
+    "path": "eggs\\fluffaloegg"
+  },
+  {
+    "desc": "Hatches into a vulnerable poison fluffalo calf - a good source of venom samples once fully grown.",
+    "file": "poisonfluffaloegg.object",
+    "name": "Poison Fluffalo Egg",
+    "path": "eggs\\fluffaloegg"
+  },
+  {
+    "desc": "Hatches into a tiny chick and matures into a hen. The adult hen lays delicious eggs.",
+    "file": "henegg.object",
+    "name": "Hen Egg",
+    "path": "eggs\\henegg"
+  },
+  {
+    "desc": "Hatches into a mooshi calf, which grows into an adult mooshi. Mooshi produce milk.",
+    "file": "mooshiegg.object",
+    "name": "Mooshi Egg",
+    "path": "eggs\\mooshiegg"
+  },
+  {
+    "desc": "Hatches into a robot chick and matures into a robot hen. The adult hen lays AA batteries.",
+    "file": "robothenegg.object",
+    "name": "Robot Hen Egg",
+    "path": "eggs\\robothenegg"
+  },
+  {
+    "desc": "Eggshoot, full of runny goodness.",
+    "file": "eggshootseed.object",
+    "name": "Eggshoot Seed",
+    "path": "eggshoot"
+  },
+  {
+    "desc": "Eggshoot, full of runny goodness.",
+    "file": "wildeggshootseed.object",
+    "name": "Eggshoot Seed",
+    "path": "eggshoot"
+  },
+  {
+    "desc": "Feathers sprout from the top of the feathercrown and catch in the wind.",
+    "file": "feathercrownseed.object",
+    "name": "Feathercrown Seed",
+    "path": "feathercrown"
+  },
+  {
+    "desc": "Feathers sprout from the top of the feathercrown and catch in the wind.",
+    "file": "wildfeathercrownseed.object",
+    "name": "Feathercrown Seed",
+    "path": "feathercrown"
+  },
+  {
+    "desc": "A flower with bright blue petals. Useful for making dye.",
+    "file": "flowerblue.object",
+    "name": "Blue Flower",
+    "path": "flowerblue"
+  },
+  {
+    "desc": "A flower with bright red petals. Useful for making dye.",
+    "file": "flowerred.object",
+    "name": "Red Flower",
+    "path": "flowerred"
+  },
+  {
+    "desc": "A sweetly scented spring flower.",
+    "file": "flowerspring.object",
+    "name": "Spring Flower",
+    "path": "flowerspring"
+  },
+  {
+    "desc": "A flower with bright yellow petals. Useful for making dye.",
+    "file": "floweryellow.object",
+    "name": "Yellow Flower",
+    "path": "floweryellow"
+  },
+  {
+    "desc": "Grapes, natures snackfood.",
+    "file": "grapesseed.object",
+    "name": "Grape Seed",
+    "path": "grapes"
+  },
+  {
+    "desc": "Grapes, natures snackfood.",
+    "file": "wildgrapesseed.object",
+    "name": "Grape Seed",
+    "path": "grapes"
+  },
+  {
+    "desc": "This particular variety of space kiwi grows close to the ground.",
+    "file": "kiwiseed.object",
+    "name": "Kiwi Seed",
+    "path": "kiwi"
+  },
+  {
+    "desc": "This particular variety of space kiwi grows close to the ground.",
+    "file": "wildkiwiseed.object",
+    "name": "Kiwi Seed",
+    "path": "kiwi"
+  },
+  {
+    "desc": "Attracts moths. Moths produce silk!",
+    "file": "mothtrap.object",
+    "name": "Moth Trap",
+    "path": "mothtrap"
+  },
+  {
+    "desc": "A mushroom. The farmer who plants these is a fun guy.",
+    "file": "mushroomseed.object",
+    "name": "Mushroom Seed",
+    "path": "mushroom"
+  },
+  {
+    "desc": "The vibrant flesh of a neonmelon tastes like bubblegum.",
+    "file": "neonmelonseed.object",
+    "name": "Neonmelon Seed",
+    "path": "neonmelon"
+  },
+  {
+    "desc": "The vibrant flesh of a neonmelon tastes like bubblegum.",
+    "file": "wildneonmelonseed.object",
+    "name": "Neonmelon Seed",
+    "path": "neonmelon"
+  },
+  {
+    "desc": "The iris is the best part of this strange fruit.",
+    "file": "oculemonseed.object",
+    "name": "Oculemon Seed",
+    "path": "oculemon"
+  },
+  {
+    "desc": "The iris is the best part of this strange fruit.",
+    "file": "wildoculemonseed.object",
+    "name": "Oculemon Seed",
+    "path": "oculemon"
+  },
+  {
+    "desc": "Pearlpea, you'll need to bite down hard.",
+    "file": "pearlpeaseed.object",
+    "name": "Pearlpea Seed",
+    "path": "pearlpea"
+  },
+  {
+    "desc": "Pearlpea, I'll need to bite down hard.",
+    "file": "wildpearlpeaseed.object",
+    "name": "Pearlpea Seed",
+    "path": "pearlpea"
+  },
+  {
+    "desc": "Pineapple, make sure you cut it open first.",
+    "file": "pineappleseed.object",
+    "name": "Pineapple Seed",
+    "path": "pineapple"
+  },
+  {
+    "desc": "Pineapple, make sure you cut it open first.",
+    "file": "wildpineappleseed.object",
+    "name": "Pineapple Seed",
+    "path": "pineapple"
+  },
+  {
+    "desc": "Potatoes! Boil em', mash em', stick em in a stew.",
+    "file": "potatoseed.object",
+    "name": "Potato Seed",
+    "path": "potato"
+  },
+  {
+    "desc": "Potatoes! Boil em', mash em', stick em in a stew.",
+    "file": "wildpotatoseed.object",
+    "name": "Potato Seed",
+    "path": "potato"
+  },
+  {
+    "desc": "The juicy pussplum gets its name from its creamy centre.",
+    "file": "pussplumseed.object",
+    "name": "Pussplum Seed",
+    "path": "pussplum"
+  },
+  {
+    "desc": "The juicy pussplum gets its name from its creamy centre.",
+    "file": "wildpussplumseed.object",
+    "name": "Pussplum Seed",
+    "path": "pussplum"
+  },
+  {
+    "desc": "Reefpod, tastes like a crunchy smoothie with added sea water. ",
+    "file": "reefpodseed.object",
+    "name": "Reefpod Seed",
+    "path": "reefpod"
+  },
+  {
+    "desc": "Reefpod, tastes like a crunchy smoothie with added sea water. ",
+    "file": "wildreefpodseed.object",
+    "name": "Reefpod Seed",
+    "path": "reefpod"
+  },
+  {
+    "desc": "Boil it, fry it, throw it at a bride. Rice! For all your culinary needs.",
+    "file": "riceseed.object",
+    "name": "Rice Seed",
+    "path": "rice"
+  },
+  {
+    "desc": "Boil it, fry it, throw it at a bride. Rice! For all your culinary needs.",
+    "file": "wildriceseed.object",
+    "name": "Rice Seed",
+    "path": "rice"
+  },
+  {
+    "desc": "Sugarcane is a fibrous crop with rich, sweet sap.",
+    "file": "sugarcaneseed.object",
+    "name": "Sugarcane Seed",
+    "path": "sugarcane"
+  },
+  {
+    "desc": "Sugarcane is a fibrous crop with rich, sweet sap.",
+    "file": "wildsugarcaneseed.object",
+    "name": "Sugarcane Seed",
+    "path": "sugarcane"
+  },
+  {
+    "desc": "A prickly plant with prickly fruits.",
+    "file": "thornplant.object",
+    "name": "Thorny Plant",
+    "path": "thornplant"
+  },
+  {
+    "desc": "Tomatoes are a rich, juicy fruit. Or vegetable. One of the two.",
+    "file": "tomatoseed.object",
+    "name": "Tomato Seed",
+    "path": "tomato"
+  },
+  {
+    "desc": "Tomatoes are a rich, juicy fruit. Or vegetable. One of the two.",
+    "file": "wildtomatoseed.object",
+    "name": "Tomato Seed",
+    "path": "tomato"
+  },
+  {
+    "desc": "Toxic looking fruit, but is it all that bad?",
+    "file": "toxictopseed.object",
+    "name": "Toxictop Seed",
+    "path": "toxictop"
+  },
+  {
+    "desc": "Toxic looking fruit, but is it all that bad?",
+    "file": "wildtoxictopseed.object",
+    "name": "Toxictop Seed",
+    "path": "toxictop"
+  },
+  {
+    "desc": "Not a fussy plant, wartweed grow easily under any condition.",
+    "file": "wartweedseed.object",
+    "name": "Wartweed Seed",
+    "path": "wartweed"
+  },
+  {
+    "desc": "Not a fussy plant, wartweed grow easily under any condition.",
+    "file": "wildwartweedseed.object",
+    "name": "Wartweed Seed",
+    "path": "wartweed"
+  },
+  {
+    "desc": "Wheat, a staple crop with many uses.",
+    "file": "wheatseed.object",
+    "name": "Wheat Seed",
+    "path": "wheat"
+  },
+  {
+    "desc": "Wheat, a staple crop with many uses.",
+    "file": "wildwheatseed.object",
+    "name": "Wheat Seed",
+    "path": "wheat"
+  }
+]

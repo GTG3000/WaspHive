@@ -1,0 +1,746 @@
+[
+  {
+    "desc": "A detailed model of the Sol system's planet Earth, the homeworld of humanity.",
+    "file": "earthmodel.object",
+    "name": "Earth Model",
+    "path": "astronaut\\earthmodel"
+  },
+  {
+    "desc": "A detailed model of the Sol system's largest planet, Jupiter.",
+    "file": "jupitermodel.object",
+    "name": "Jupiter Model",
+    "path": "astronaut\\jupitermodel"
+  },
+  {
+    "desc": "A horizontal chair like a captain's chair on an Earth space shuttle.",
+    "file": "liftoffseat.object",
+    "name": "Liftoff Seat",
+    "path": "astronaut\\liftoffseat"
+  },
+  {
+    "desc": "A detailed model of the Sol system's red planet, Mars.",
+    "file": "marsmodel.object",
+    "name": "Mars Model",
+    "path": "astronaut\\marsmodel"
+  },
+  {
+    "desc": "A detailed model of the Sol system's smallest planet, Mercury.",
+    "file": "mercurymodel.object",
+    "name": "Mercury Model",
+    "path": "astronaut\\mercurymodel"
+  },
+  {
+    "desc": "A detailed model of the Sol system's most distant planet, Neptune.",
+    "file": "neptunemodel.object",
+    "name": "Neptune Model",
+    "path": "astronaut\\neptunemodel"
+  },
+  {
+    "desc": "A detailed model of the Sol system's dwarf planet, Pluto.",
+    "file": "plutomodel.object",
+    "name": "Pluto Model",
+    "path": "astronaut\\plutomodel"
+  },
+  {
+    "desc": "A detailed model of an old Earth satellite.",
+    "file": "satellite.object",
+    "name": "Satellite Model",
+    "path": "astronaut\\satellite"
+  },
+  {
+    "desc": "A detailed model of the Sol system's most distinctly ringed planet, Saturn.",
+    "file": "saturnmodel.object",
+    "name": "Saturn Model",
+    "path": "astronaut\\saturnmodel"
+  },
+  {
+    "desc": "The design of this bed is based on an old Earth space shuttle.",
+    "file": "spaceshuttlebed.object",
+    "name": "Space Shuttle Bed",
+    "path": "astronaut\\spaceshuttlebed"
+  },
+  {
+    "desc": "A detailed model of Sol, the yellow dwarf responsible for all life on Earth. It even casts light.",
+    "file": "sunmodel.object",
+    "name": "Sol Model",
+    "path": "astronaut\\sunmodel"
+  },
+  {
+    "desc": "A detailed model of the Sol System's planet Uranus.",
+    "file": "uranusmodel.object",
+    "name": "Uranus Model",
+    "path": "astronaut\\uranusmodel"
+  },
+  {
+    "desc": "A detailed model of the Sol System's planet Venus.",
+    "file": "venusmodel.object",
+    "name": "Venus Model",
+    "path": "astronaut\\venusmodel"
+  },
+  {
+    "desc": "What's better than a bed? Two beds!",
+    "file": "cabinbunkbed.object",
+    "name": "Cabin Bunk Bed",
+    "path": "cabin\\cabinbunkbed"
+  },
+  {
+    "desc": "An old, hand carved rocking chair.",
+    "file": "cabinchair.object",
+    "name": "Cabin Chair",
+    "path": "cabin\\cabinchair"
+  },
+  {
+    "desc": "An electric light with a hand-carved wooden stand.",
+    "file": "cabinlamp.object",
+    "name": "Cabin Lamp",
+    "path": "cabin\\cabinlamp"
+  },
+  {
+    "desc": "A conspicuous pair of antlers. What kind of creature did these belong to?",
+    "file": "cabinornament.object",
+    "name": "Decorative Antlers",
+    "path": "cabin\\cabinornament"
+  },
+  {
+    "desc": "A small, three legged wooden table.",
+    "file": "cabinstooltable.object",
+    "name": "Cabin Stool Table",
+    "path": "cabin\\cabinstooltable"
+  },
+  {
+    "desc": "A quaint metal stove, perfect for cooking.",
+    "file": "cabinstove.object",
+    "name": "Cabin Stove",
+    "path": "cabin\\cabinstove"
+  },
+  {
+    "desc": "A classic wooden table, suitable for any environment.",
+    "file": "cabintable.object",
+    "name": "Cabin Table",
+    "path": "cabin\\cabintable"
+  },
+  {
+    "desc": "A sublime doom bed. It's a bit spiky, though.",
+    "file": "doombed.object",
+    "name": "Doom Bed",
+    "path": "doom\\doombed"
+  },
+  {
+    "desc": "A comfortable doom chair.",
+    "file": "doomchair.object",
+    "name": "Doom Chair",
+    "path": "doom\\doomchair"
+  },
+  {
+    "desc": "A creepy doom door.",
+    "file": "doomdoor.object",
+    "name": "Doom Door",
+    "path": "doom\\doomdoor"
+  },
+  {
+    "desc": "A doom light. The eye glows in the dark.",
+    "file": "doomlight.object",
+    "name": "Doom Light",
+    "path": "doom\\doomlight"
+  },
+  {
+    "desc": "A doom console. Be careful how you operate it - it's watching.",
+    "file": "doomswitch.object",
+    "name": "Doom Console",
+    "path": "doom\\doomswitch"
+  },
+  {
+    "desc": "A terrifying doom table. It watches you eat.",
+    "file": "doomtable.object",
+    "name": "Doom Table",
+    "path": "doom\\doomtable"
+  },
+  {
+    "desc": "An executive bed. For the sleep of your life.",
+    "file": "executivebed.object",
+    "name": "Executive Bed",
+    "path": "executive\\executivebed"
+  },
+  {
+    "desc": "An executive chair. You'll never want to stand again.",
+    "file": "executivechair.object",
+    "name": "Executive Chair",
+    "path": "executive\\executivechair"
+  },
+  {
+    "desc": "An impenetrable executive door.",
+    "file": "executivedoor.object",
+    "name": "Executive Door",
+    "path": "executive\\executivedoor"
+  },
+  {
+    "desc": "A dazzling executive light.",
+    "file": "executivelight.object",
+    "name": "Executive Light",
+    "path": "executive\\executivelight"
+  },
+  {
+    "desc": "An executive console. So exquisite, you can't help but treat it with respect.",
+    "file": "executiveswitch.object",
+    "name": "Executive Console",
+    "path": "executive\\executiveswitch"
+  },
+  {
+    "desc": "A beautiful executive table.",
+    "file": "executivetable.object",
+    "name": "Executive Table",
+    "path": "executive\\executivetable"
+  },
+  {
+    "desc": "A basket full of apples.",
+    "file": "applebasket.object",
+    "name": "Apple Basket",
+    "path": "farm\\applebasket"
+  },
+  {
+    "desc": "A box of fresh, crusty bread.",
+    "file": "baguettebox.object",
+    "name": "Box Of Bread",
+    "path": "farm\\baguettebox"
+  },
+  {
+    "desc": "A sturdy kitchen cabinet.",
+    "file": "kitchencabinet1.object",
+    "name": "Kitchen Cabinet",
+    "path": "farm\\kitchencabinet1"
+  },
+  {
+    "desc": "A tall, sturdy kitchen cabinet. Perfect for storing tableware and food.",
+    "file": "kitchencabinet2.object",
+    "name": "Tall Kitchen Cabinet",
+    "path": "farm\\kitchencabinet2"
+  },
+  {
+    "desc": "A wall-mounted kitchen cabinet.",
+    "file": "kitchenceilingcabinet1.object",
+    "name": "Kitchen Wall Cabinet",
+    "path": "farm\\kitchenceilingcabinet1"
+  },
+  {
+    "desc": "A small wall-mounted kitchen cabinet.",
+    "file": "kitchenceilingcabinet2.object",
+    "name": "Small Kitchen Wall Cabinet",
+    "path": "farm\\kitchenceilingcabinet2"
+  },
+  {
+    "desc": "A nice kitchen shelf that keeps spices handy.",
+    "file": "kitchenshelf.object",
+    "name": "Kitchen Shelf",
+    "path": "farm\\kitchenshelf"
+  },
+  {
+    "desc": "A sturdy kitchen cabinet with a stove top.",
+    "file": "kitchenstovetop.object",
+    "name": "Kitchen Stove Top",
+    "path": "farm\\kitchenstovetop"
+  },
+  {
+    "desc": "A rustic kitchen table.",
+    "file": "kitchentable.object",
+    "name": "Kitchen Table",
+    "path": "farm\\kitchentable"
+  },
+  {
+    "desc": "A strong geometric bed.",
+    "file": "geometricbed.object",
+    "name": "Geometric Bed",
+    "path": "geometric\\geometricbed"
+  },
+  {
+    "desc": "An exceptionally comfortable geometric chair.",
+    "file": "geometricchair.object",
+    "name": "Geometric Chair",
+    "path": "geometric\\geometricchair"
+  },
+  {
+    "desc": "A geometric door. Sturdy!",
+    "file": "geometricdoor.object",
+    "name": "Geometric Door",
+    "path": "geometric\\geometricdoor"
+  },
+  {
+    "desc": "A glowing geometric light.",
+    "file": "geometriclight.object",
+    "name": "Geometric Light",
+    "path": "geometric\\geometriclight"
+  },
+  {
+    "desc": "An geometric console. Sturdy enough to jump on.",
+    "file": "geometricswitch.object",
+    "name": "Geometric Console",
+    "path": "geometric\\geometricswitch"
+  },
+  {
+    "desc": "A very well-made geometric table.",
+    "file": "geometrictable.object",
+    "name": "Geometric Table",
+    "path": "geometric\\geometrictable"
+  },
+  {
+    "desc": "Pretend you're an undead ghoul with this creepy coffin!",
+    "file": "gothicbed.object",
+    "name": "Gothic Bed",
+    "path": "gothic\\gothicbed"
+  },
+  {
+    "desc": "A morbid cabinet, for storing books and other things.",
+    "file": "gothicbookcase.object",
+    "name": "Gothic Bookcase",
+    "path": "gothic\\gothicbookcase"
+  },
+  {
+    "desc": "An exceptionally gothic chair.",
+    "file": "gothicchair.object",
+    "name": "Gothic Chair",
+    "path": "gothic\\gothicchair"
+  },
+  {
+    "desc": "A creepy couch, with a black painted finish.",
+    "file": "gothiccouch.object",
+    "name": "Gothic Couch",
+    "path": "gothic\\gothiccouch"
+  },
+  {
+    "desc": "A gloomy wooden door.",
+    "file": "gothicdoor.object",
+    "name": "Gothic Door",
+    "path": "gothic\\gothicdoor"
+  },
+  {
+    "desc": "Candlelight, delivered in the spookiest way.",
+    "file": "gothiclight.object",
+    "name": "Gothic Candle",
+    "path": "gothic\\gothiclight"
+  },
+  {
+    "desc": "A dancing hula girl. Aloha!",
+    "file": "hulagirl.object",
+    "name": "Hula Girl",
+    "path": "island\\hulagirl"
+  },
+  {
+    "desc": "A tropical looking cabinet, complete with a little tree.",
+    "file": "islandcabinet.object",
+    "name": "Island Cabinet",
+    "path": "island\\islandcabinet"
+  },
+  {
+    "desc": "A chair made of bamboo and leaves.",
+    "file": "islandchair.object",
+    "name": "Island Chair",
+    "path": "island\\islandchair"
+  },
+  {
+    "desc": "To some, a hammock is the very picture of luxury.",
+    "file": "islandhammock.object",
+    "name": "Island Hammock",
+    "path": "island\\islandhammock"
+  },
+  {
+    "desc": "This glass lamp gives off a warm glow.",
+    "file": "islandlamp.object",
+    "name": "Island Lamp",
+    "path": "island\\islandlamp"
+  },
+  {
+    "desc": "There's a rather grim face carved into the base of this table.",
+    "file": "islandtable.object",
+    "name": "Island Table",
+    "path": "island\\islandtable"
+  },
+  {
+    "desc": "A remarkably comfortable opulent bed.",
+    "file": "opulentbed.object",
+    "name": "Opulent Bed",
+    "path": "opulent\\opulentbed"
+  },
+  {
+    "desc": "An incredibly comfortable opulent chair.",
+    "file": "opulentchair.object",
+    "name": "Opulent Chair",
+    "path": "opulent\\opulentchair"
+  },
+  {
+    "desc": "A super-strong opulent door.",
+    "file": "opulentdoor.object",
+    "name": "Opulent Door",
+    "path": "opulent\\opulentdoor"
+  },
+  {
+    "desc": "A glowing opulent light made from crystal.",
+    "file": "opulentlight.object",
+    "name": "Opulent Light",
+    "path": "opulent\\opulentlight"
+  },
+  {
+    "desc": "A opulent console mounted on a suspended crystal.",
+    "file": "opulentswitch.object",
+    "name": "Opulent Console",
+    "path": "opulent\\opulentswitch"
+  },
+  {
+    "desc": "An incredibly stylish opulent table.",
+    "file": "opulenttable.object",
+    "name": "Opulent Table",
+    "path": "opulent\\opulenttable"
+  },
+  {
+    "desc": "A lamp, fit for outdoors.",
+    "file": "lamppost1.object",
+    "name": "Basic Lamp Post",
+    "path": "outdoor\\lamppost1"
+  },
+  {
+    "desc": "A lamp post, with thrice the lights.",
+    "file": "lamppost2.object",
+    "name": "Triple Lamp Post",
+    "path": "outdoor\\lamppost2"
+  },
+  {
+    "desc": "A lamp post with two lamps. Nifty!",
+    "file": "lamppost3.object",
+    "name": "Double Lamp Post",
+    "path": "outdoor\\lamppost3"
+  },
+  {
+    "desc": "A bench, perfect for outdoors.",
+    "file": "outdoorbench.object",
+    "name": "Outdoor Bench",
+    "path": "outdoor\\outdoorbench"
+  },
+  {
+    "desc": "A chair, built to endure the elements.",
+    "file": "outdoorchair.object",
+    "name": "Outdoor Chair",
+    "path": "outdoor\\outdoorchair"
+  },
+  {
+    "desc": "A sleek fountain. The water looks refreshing.",
+    "file": "outdoorfountain.object",
+    "name": "Outdoor Fountain",
+    "path": "outdoor\\outdoorfountain"
+  },
+  {
+    "desc": "A smart metal stool, suitable for the outdoors.",
+    "file": "outdoorstool.object",
+    "name": "Outdoor Stool",
+    "path": "outdoor\\outdoorstool"
+  },
+  {
+    "desc": "A charming, pastel coloured bed.",
+    "file": "pastelbed.object",
+    "name": "Pastel Bed",
+    "path": "pastel\\pastelbed"
+  },
+  {
+    "desc": "A scented pink bunny plush toy.",
+    "file": "pastelbunnyplush.object",
+    "name": "Pastel Bunny Plushie",
+    "path": "pastel\\pastelbunnyplush"
+  },
+  {
+    "desc": "A small cabinet, painted in bright pastel colours.",
+    "file": "pastelcabinet.object",
+    "name": "Pastel Cabinet",
+    "path": "pastel\\pastelcabinet"
+  },
+  {
+    "desc": "A pastel coloured chair with a heart-shaped backrest.",
+    "file": "pastelchair.object",
+    "name": "Pastel Chair",
+    "path": "pastel\\pastelchair"
+  },
+  {
+    "desc": "A wall mounted pink fluorescent light.",
+    "file": "pastellight.object",
+    "name": "Pastel Light",
+    "path": "pastel\\pastellight"
+  },
+  {
+    "desc": "A small pastel coloured stool.",
+    "file": "pastelstool.object",
+    "name": "Pastel Stool",
+    "path": "pastel\\pastelstool"
+  },
+  {
+    "desc": "A brightly coloured table with a flowery tablecloth.",
+    "file": "pasteltable.object",
+    "name": "Pastel Table",
+    "path": "pastel\\pasteltable"
+  },
+  {
+    "desc": "A colourful square wall clock.",
+    "file": "pastelwallclock.object",
+    "name": "Pastel Wall Clock",
+    "path": "pastel\\pastelwallclock"
+  },
+  {
+    "desc": "A marvellous pastel coloured wardrobe.",
+    "file": "pastelwardrobe.object",
+    "name": "Pastel Wardrobe",
+    "path": "pastel\\pastelwardrobe"
+  },
+  {
+    "desc": "A bed made in a retro-futuristic style.",
+    "file": "retroscifibed.object",
+    "name": "Retro Pod",
+    "path": "retroscifi\\retroscifibed"
+  },
+  {
+    "desc": "A small cabinet made in a retro-futuristic style.",
+    "file": "retroscificabinet.object",
+    "name": "Retro Cabinet",
+    "path": "retroscifi\\retroscificabinet"
+  },
+  {
+    "desc": "An egg shaped chair made in a retro-futuristic style.",
+    "file": "retroscifichair.object",
+    "name": "Retro Chair",
+    "path": "retroscifi\\retroscifichair"
+  },
+  {
+    "desc": "A dresser made in a retro-futuristic style",
+    "file": "retroscifidresser.object",
+    "name": "Retro Dresser",
+    "path": "retroscifi\\retroscifidresser"
+  },
+  {
+    "desc": "A spotlight made in a retro-futuristic style.",
+    "file": "retroscifilight.object",
+    "name": "Retro Spotlight",
+    "path": "retroscifi\\retroscifilight"
+  },
+  {
+    "desc": "A table made in a retro-futuristic style.",
+    "file": "retroscifitable.object",
+    "name": "Retro Table",
+    "path": "retroscifi\\retroscifitable"
+  },
+  {
+    "desc": "A television set made in a Retro-Futuristic style.",
+    "file": "retroscifitv.object",
+    "name": "Retro Television",
+    "path": "retroscifi\\retroscifitv"
+  },
+  {
+    "desc": "A drinks cabinet, stocked with glassware and odd-shaped bottles.",
+    "file": "salooncabinet.object",
+    "name": "Saloon Cabinet",
+    "path": "saloon\\salooncabinet"
+  },
+  {
+    "desc": "A swinging saloon door to keep those pesky tumbleweeds outside.",
+    "file": "saloondoor.object",
+    "name": "Saloon Door",
+    "path": "saloon\\saloondoor"
+  },
+  {
+    "desc": "An electric wall sconce.",
+    "file": "saloonlight.object",
+    "name": "Saloon Light",
+    "path": "saloon\\saloonlight"
+  },
+  {
+    "desc": "It's a piano fit for a saloon!",
+    "file": "saloonpiano.object",
+    "name": "Saloon Piano",
+    "path": "saloon\\saloonpiano"
+  },
+  {
+    "desc": "An uncomfortable-looking saloon chair.",
+    "file": "saloonseat.object",
+    "name": "Saloon Chair",
+    "path": "saloon\\saloonseat"
+  },
+  {
+    "desc": "Eughh.",
+    "file": "saloonspittoon.object",
+    "name": "Saloon Spittoon",
+    "path": "saloon\\saloonspittoon"
+  },
+  {
+    "desc": "A richly-stained table fit for an old Western.",
+    "file": "saloontable.object",
+    "name": "Saloon Table",
+    "path": "saloon\\saloontable"
+  },
+  {
+    "desc": "A wall mirror set in a coral frame.",
+    "file": "coralmirror.object",
+    "name": "Coral Mirror",
+    "path": "sea\\coralmirror"
+  },
+  {
+    "desc": "A seashell-shaped bed.",
+    "file": "seabed.object",
+    "name": "Seashell Bed",
+    "path": "sea\\seabed"
+  },
+  {
+    "desc": "A seashell-shaped armchair.",
+    "file": "seachair.object",
+    "name": "Seashell Armchair",
+    "path": "sea\\seachair"
+  },
+  {
+    "desc": "A cute seashell which provides light.",
+    "file": "sealamp.object",
+    "name": "Sea Lamp",
+    "path": "sea\\sealamp"
+  },
+  {
+    "desc": "A seaweed in a flower pot.",
+    "file": "seaweedpot.object",
+    "name": "Seaweed Pot",
+    "path": "sea\\seaweedpot"
+  },
+  {
+    "desc": "An exceptionally comfortable serene bed.",
+    "file": "serenebed.object",
+    "name": "Serene Bed",
+    "path": "serene\\serenebed"
+  },
+  {
+    "desc": "A very comfortable serene chair.",
+    "file": "serenechair.object",
+    "name": "Serene Chair",
+    "path": "serene\\serenechair"
+  },
+  {
+    "desc": "A very sturdy serene door.",
+    "file": "serenedoor.object",
+    "name": "Serene Door",
+    "path": "serene\\serenedoor"
+  },
+  {
+    "desc": "A serene, glowing light.",
+    "file": "serenelight.object",
+    "name": "Serene Light",
+    "path": "serene\\serenelight"
+  },
+  {
+    "desc": "An serene console. Using it is calming.",
+    "file": "sereneswitch.object",
+    "name": "Serene Console",
+    "path": "serene\\sereneswitch"
+  },
+  {
+    "desc": "A hardy serene table.",
+    "file": "serenetable.object",
+    "name": "Serene Table",
+    "path": "serene\\serenetable"
+  },
+  {
+    "desc": "There's something disturbing about this fancy old bed.",
+    "file": "spookybed.object",
+    "name": "Spooky Bed",
+    "path": "spooky\\spookybed"
+  },
+  {
+    "desc": "The metal frame of this candle holder curls like fingers.",
+    "file": "spookycandles.object",
+    "name": "Spooky Candles",
+    "path": "spooky\\spookycandles"
+  },
+  {
+    "desc": "A bubbling cauldron, big enough that you could fit a whole person inside it.",
+    "file": "spookycauldron.object",
+    "name": "Spooky Cauldron",
+    "path": "spooky\\spookycauldron"
+  },
+  {
+    "desc": "An old grandfather clock, topped with a creepy bat carving.",
+    "file": "spookyclock.object",
+    "name": "Spooky Clock",
+    "path": "spooky\\spookyclock"
+  },
+  {
+    "desc": "The age-old traditional of pumpkin carving lives on.",
+    "file": "spookypumpkinhead.object",
+    "name": "Spooky Pumpkin Head",
+    "path": "spooky\\spookypumpkindhead"
+  },
+  {
+    "desc": "Rest in peace with this padded ornamental chair.",
+    "file": "spookytombchair.object",
+    "name": "Spooky Tomb Chair",
+    "path": "spooky\\spookytombchair"
+  },
+  {
+    "desc": "A fancy looking armchair.",
+    "file": "steampunkarmchair.object",
+    "name": "Steampunk Armchair",
+    "path": "steampunk\\steampunkarmchair"
+  },
+  {
+    "desc": "A bed supported by a framework of pipes.",
+    "file": "steampunkbed.object",
+    "name": "Steampunk Bed",
+    "path": "steampunk\\steampunkbed"
+  },
+  {
+    "desc": "A metal desk, covered in curious devices.",
+    "file": "steampunkdesk.object",
+    "name": "Steampunk Desk",
+    "path": "steampunk\\steampunkdesk"
+  },
+  {
+    "desc": "An old wooden carved globe.",
+    "file": "steampunkglobe.object",
+    "name": "Steampunk Globe",
+    "path": "steampunk\\steampunkglobe"
+  },
+  {
+    "desc": "An electric wall lamp, filled with a flowing, glowing gas.",
+    "file": "steampunklamp.object",
+    "name": "Steampunk Lamp",
+    "path": "steampunk\\steampunklamp"
+  },
+  {
+    "desc": "A set of shelves hung with pipes.",
+    "file": "steampunkshelf.object",
+    "name": "Steampunk Shelf",
+    "path": "steampunk\\steampunkshelf"
+  },
+  {
+    "desc": "An incredibly comfortable wave bed.",
+    "file": "wavebed.object",
+    "name": "Wave Bed",
+    "path": "wave\\wavebed"
+  },
+  {
+    "desc": "An exceptionally comfortable wave chair.",
+    "file": "wavechair.object",
+    "name": "Wave Chair",
+    "path": "wave\\wavechair"
+  },
+  {
+    "desc": "A very sturdy wave door.",
+    "file": "wavedoor.object",
+    "name": "Wave Door",
+    "path": "wave\\wavedoor"
+  },
+  {
+    "desc": "A hollow circular lamp.",
+    "file": "wavelight.object",
+    "name": "Wave Lamp",
+    "path": "wave\\wavelight"
+  },
+  {
+    "desc": "A wave console. It has a strong curved design.",
+    "file": "waveswitch.object",
+    "name": "Wave Console",
+    "path": "wave\\waveswitch"
+  },
+  {
+    "desc": "A very hardy wave table.",
+    "file": "wavetable.object",
+    "name": "Wave Table",
+    "path": "wave\\wavetable"
+  }
+]

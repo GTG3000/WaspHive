@@ -1,0 +1,884 @@
+[
+  {
+    "desc": "A sturdy airlock door.",
+    "file": "airlockdoor.object",
+    "name": "Airlock Door",
+    "path": "airlockdoor"
+  },
+  {
+    "desc": "A sturdy airlock hatch.",
+    "file": "airlockhatch.object",
+    "name": "Airlock Hatch",
+    "path": "airlockhatch"
+  },
+  {
+    "desc": "The machine runs a game called 'Psychedelic Rodeo Melee'.",
+    "file": "arcadeblue.object",
+    "name": "Blue Arcade Machine",
+    "path": "arcadeblue"
+  },
+  {
+    "desc": "Let's play some Dance-Dance!",
+    "file": "arcadedance.object",
+    "name": "Dance-Dance Machine",
+    "path": "arcadedance"
+  },
+  {
+    "desc": "This machine runs a game called 'Stylish Thief Wasteland'.",
+    "file": "arcadegreen.object",
+    "name": "Green Arcade Machine",
+    "path": "arcadegreen"
+  },
+  {
+    "desc": "This machine runs a game called 'Sleazy Burger Heroes'.",
+    "file": "arcadeorange.object",
+    "name": "Orange Arcade Machine",
+    "path": "arcadeorange"
+  },
+  {
+    "desc": "This machine runs 'Screaming Fashion Agent'.",
+    "file": "arcadepurple.object",
+    "name": "Purple Arcade Machine",
+    "path": "arcadepurple"
+  },
+  {
+    "desc": "This machine runs a game called 'Cool Wizard Island'.",
+    "file": "arcadered.object",
+    "name": "Red Arcade Machine",
+    "path": "arcadered"
+  },
+  {
+    "desc": "An arcade sign. There's probably an arcade nearby.",
+    "file": "arcadesign.object",
+    "name": "Arcade Sign",
+    "path": "arcadesign"
+  },
+  {
+    "desc": "An arcade machine running a game called 'Starbound'.",
+    "file": "arcadestarbound.object",
+    "name": "Starbound Arcade Machine",
+    "path": "arcadestarbound"
+  },
+  {
+    "desc": "This machine runs a game called 'Zombie Banana Mansion'.",
+    "file": "arcadeyellow.object",
+    "name": "Yellow Arcade Machine",
+    "path": "arcadeyellow"
+  },
+  {
+    "desc": "Bad Goo Plushie. A cuddly goo doll.",
+    "file": "badgooplush.object",
+    "name": "Bad Goo Plushie",
+    "path": "badgooplush"
+  },
+  {
+    "desc": "A wobbly bar stool.",
+    "file": "barstool.object",
+    "name": "Bar Stool",
+    "path": "barstool"
+  },
+  {
+    "desc": "A cuddly bear plushy. Awwwww.",
+    "file": "bearplush.object",
+    "name": "Bear Plushie",
+    "path": "bearplush"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "classicbanner1.object",
+    "name": "Classic Banner Top",
+    "path": "classicbanner1"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "classicbanner2.object",
+    "name": "Classic Banner Mid",
+    "path": "classicbanner2"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "classicbanner2b.object",
+    "name": "Classic Banner Mid Symbol",
+    "path": "classicbanner2b"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "classicbanner3.object",
+    "name": "Classic Banner Bottom",
+    "path": "classicbanner3"
+  },
+  {
+    "desc": "This used to be the classiest curtain. Now it's a bit tattered.",
+    "file": "classicbannertattered.object",
+    "name": "Tattered Classic Banner",
+    "path": "classicbannertattered"
+  },
+  {
+    "desc": "Colourful ceiling lights found in clubs.",
+    "file": "clubceilinglights.object",
+    "name": "Blue Club Lights",
+    "path": "clubceilinglights"
+  },
+  {
+    "desc": "Colourful lights found in clubs.",
+    "file": "clubceilinglightsgreen.object",
+    "name": "Green Club Lights",
+    "path": "clubceilinglightsgreen"
+  },
+  {
+    "desc": "Colourful lights found in clubs.",
+    "file": "clubceilinglightsred.object",
+    "name": "Red Club Lights",
+    "path": "clubceilinglightsred"
+  },
+  {
+    "desc": "Colourful lights found in clubs.",
+    "file": "clubceilinglightsyellow.object",
+    "name": "Yellow Club Lights",
+    "path": "clubceilinglightsyellow"
+  },
+  {
+    "desc": "The huge speakers pump out loud dance music.",
+    "file": "clubdecks.object",
+    "name": "Club Decks",
+    "path": "clubdecks"
+  },
+  {
+    "desc": "The lamp emits a low, ambient blue light.",
+    "file": "clublampsmall.object",
+    "name": "Club Lamp",
+    "path": "clublampsmall"
+  },
+  {
+    "desc": "A large club speaker.",
+    "file": "clubspeaker.object",
+    "name": "Club Speaker",
+    "path": "clubspeaker"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "combinationprop.object",
+    "name": "Combination Lock Prop",
+    "path": "combinationprop"
+  },
+  {
+    "desc": "A directional light used to illuminate items on display.",
+    "file": "displaylight.object",
+    "name": "Display Light",
+    "path": "displaylight"
+  },
+  {
+    "desc": "This light is meant to illuminate a display of some kind.",
+    "file": "displaylightbroken.object",
+    "name": "Broken Display Light",
+    "path": "displaylight"
+  },
+  {
+    "desc": "A light meant to draw attention to an area.",
+    "file": "eventlight.object",
+    "name": "Small Spotlight",
+    "path": "eventlight"
+  },
+  {
+    "desc": "A small light that can work in water.",
+    "file": "floodlightsmall.object",
+    "name": "Small Flood Light",
+    "path": "floodlightsmall"
+  },
+  {
+    "desc": "A small flickering light that can work in water.",
+    "file": "floodlightsmallflickering.object",
+    "name": "Small Flickering Flood Light",
+    "path": "floodlightsmallflickering"
+  },
+  {
+    "desc": "A classic football...or soccer ball, if you prefer.",
+    "file": "football.object",
+    "name": "Football",
+    "path": "football"
+  },
+  {
+    "desc": "A large bronze statue of the Hylotl's home planet.",
+    "file": "giantglobe.object",
+    "name": "Globe Statue",
+    "path": "giantglobe"
+  },
+  {
+    "desc": "A light that can switch between green and red.",
+    "file": "greenredlight.object",
+    "name": "Green Red Light",
+    "path": "greenredlight"
+  },
+  {
+    "desc": "A classic air hockey table. First to ten wins!",
+    "file": "hockeytable.object",
+    "name": "Air Hockey Table",
+    "path": "hockeytable"
+  },
+  {
+    "desc": "Legend has it that if you spend the night in this bed, you'll lose consciousness.",
+    "file": "hylotlbed2.object",
+    "name": "Comfy Traditional Bed",
+    "path": "hylotlbed2"
+  },
+  {
+    "desc": "A simple striped bowl.",
+    "file": "hylotlbowl.object",
+    "name": "Traditional Bowl",
+    "path": "hylotlbowl"
+  },
+  {
+    "desc": "Who knows what it might activate... just press it!",
+    "file": "hylotlbutton.object",
+    "name": "Blue Base Button",
+    "path": "hylotlbutton"
+  },
+  {
+    "desc": "Framed calligraphy for 'ribbit'.",
+    "file": "hylotlcalligraphy1.object",
+    "name": "Hylotl \"Ribbit\" Calligraphy",
+    "path": "hylotlcalligraphy1"
+  },
+  {
+    "desc": "Framed calligraphy for 'croak'.",
+    "file": "hylotlcalligraphy2.object",
+    "name": "Hylotl \"Croak\" Calligraphy",
+    "path": "hylotlcalligraphy2"
+  },
+  {
+    "desc": "Framed calligraphy for 'lily pad'.",
+    "file": "hylotlcalligraphy3.object",
+    "name": "Hylotl \"Lily\" Calligraphy",
+    "path": "hylotlcalligraphy3"
+  },
+  {
+    "desc": "Framed calligraphy for 'leap'.",
+    "file": "hylotlcalligraphy4.object",
+    "name": "Hylotl \"Leap\" Calligraphy",
+    "path": "hylotlcalligraphy4"
+  },
+  {
+    "desc": "Framed calligraphy for 'pond'.",
+    "file": "hylotlcalligraphy5.object",
+    "name": "Hylotl \"Pond\" Calligraphy",
+    "path": "hylotlcalligraphy5"
+  },
+  {
+    "desc": "Ka-ching!",
+    "file": "hylotlcashregister.object",
+    "name": "Store Cash Register",
+    "path": "hylotlcashregister"
+  },
+  {
+    "desc": "A teal blue chair.",
+    "file": "hylotlchair.object",
+    "name": "Blue Chair",
+    "path": "hylotlchair"
+  },
+  {
+    "desc": "A framed poster of a city.",
+    "file": "hylotlcityposter.object",
+    "name": "Hylotl City Poster",
+    "path": "hylotlcityposter"
+  },
+  {
+    "desc": "A master work of craftsmanship. Beautiful.",
+    "file": "hylotlclassicbookcase.object",
+    "name": "Traditional Bookcase",
+    "path": "hylotlclassicbookcase"
+  },
+  {
+    "desc": "A wooden cabinet. Its doors are full of etched decoration.",
+    "file": "hylotlclassiccabinet1.object",
+    "name": "Traditional Square Cabinet",
+    "path": "hylotlclassiccabinet1"
+  },
+  {
+    "desc": "A high-class wooden chair, is it intended for important figures.",
+    "file": "hylotlclassicchair.object",
+    "name": "Traditional Fancy Chair",
+    "path": "hylotlclassicchair"
+  },
+  {
+    "desc": "A classic style desk.",
+    "file": "hylotlclassicdesk.object",
+    "name": "Classic Desk",
+    "path": "hylotlclassicdesk"
+  },
+  {
+    "desc": "Hey, this gong has a big chip in it... oh. Oh, I see. It's a lily pad.",
+    "file": "hylotlclassicgong.object",
+    "name": "Traditional Gong",
+    "path": "hylotlclassicgong"
+  },
+  {
+    "desc": "An old calligraphy painting depicting an early Hylotl warrior.",
+    "file": "hylotlclassicpainting1.object",
+    "name": "Hylotl Warrior Painting",
+    "path": "hylotlclassicpainting1"
+  },
+  {
+    "desc": "A traditional style table.",
+    "file": "hylotlclassictable.object",
+    "name": "Traditional Table",
+    "path": "hylotlclassictable"
+  },
+  {
+    "desc": "A delicately designed wooden table.",
+    "file": "hylotlclassictable2.object",
+    "name": "Small Traditional Table",
+    "path": "hylotlclassictable2"
+  },
+  {
+    "desc": "The lily pad rotates to lock its doors.",
+    "file": "hylotlclassicwardrobe1.object",
+    "name": "Traditional Wardrobe",
+    "path": "hylotlclassicwardrobe1"
+  },
+  {
+    "desc": "A touch-screen console with all sorts of fun buttons.",
+    "file": "hylotlconsole.object",
+    "name": "Hi-Tech Console",
+    "path": "hylotlconsole"
+  },
+  {
+    "desc": "A counter that oddly resembles a Hylotl.",
+    "file": "hylotlcounter.object",
+    "name": "Hylotl Counter",
+    "path": "hylotlcounter"
+  },
+  {
+    "desc": "A vending machine filled with popular beverages.",
+    "file": "hylotldrinks.object",
+    "name": "Blue Vending Machine",
+    "path": "hylotldrinks"
+  },
+  {
+    "desc": "It's a common emblem for the Hylotl. Three crystals representing their three eyes...",
+    "file": "hylotlemblem.object",
+    "name": "Hylotl Emblem",
+    "path": "hylotlemblem"
+  },
+  {
+    "desc": "A hologram displaying the latest trends in Hylotl fashion.",
+    "file": "hylotlfashionhologram.object",
+    "name": "Hylotl Fashion Hologram",
+    "path": "hylotlfashionhologram"
+  },
+  {
+    "desc": "It's some sort of floor ornament. Frog spawn swirls inside.",
+    "file": "hylotlfloorornament.object",
+    "name": "Floor Ornament",
+    "path": "hylotlfloorornament"
+  },
+  {
+    "desc": "A rack of traditional swords.",
+    "file": "hylotlkatanarack.object",
+    "name": "Traditional Sword Rack",
+    "path": "hylotlkatanarack"
+  },
+  {
+    "desc": "A small lamp that gives off a low red light.",
+    "file": "hylotllamp.object",
+    "name": "Bio-Lamp",
+    "path": "hylotllamp"
+  },
+  {
+    "desc": "A paper ceiling lamp.",
+    "file": "hylotllantern1.object",
+    "name": "Traditional Paper Lantern",
+    "path": "hylotllantern1"
+  },
+  {
+    "desc": "A clock in the shape of a lily pad.",
+    "file": "hylotllilyclock.object",
+    "name": "Lily Pad Clock",
+    "path": "hylotllilyclock"
+  },
+  {
+    "desc": "A small lily pad decoration.",
+    "file": "hylotllilydeco1.object",
+    "name": "Little Lily Pad",
+    "path": "hylotllilydeco1"
+  },
+  {
+    "desc": "A small set of lily pad wall hangings.",
+    "file": "hylotllilydeco2.object",
+    "name": "Tiny Lily Pads",
+    "path": "hylotllilydeco2"
+  },
+  {
+    "desc": "A large lily pad wall hanging.",
+    "file": "hylotllilydeco3.object",
+    "name": "Big Lily Pad",
+    "path": "hylotllilydeco3"
+  },
+  {
+    "desc": "It looks like a decorative lily pad.",
+    "file": "hylotllilypad.object",
+    "name": "Metal Lily Pad",
+    "path": "hylotllilypad"
+  },
+  {
+    "desc": "Don't use your finger! This trusty sensor indicates the presence of liquids.",
+    "file": "hylotlliquidsensor.object",
+    "name": "Liquid Sensor",
+    "path": "hylotlliquidsensor"
+  },
+  {
+    "desc": "A blue mailbox.",
+    "file": "hylotlmailbox.object",
+    "name": "Urban Mailbox",
+    "path": "hylotlmailbox"
+  },
+  {
+    "desc": "A framed poster from the movie \"Cybernetic Apocalypse\".",
+    "file": "hylotlmovieposter1.object",
+    "name": "Action Movie Poster",
+    "path": "hylotlmovieposter1"
+  },
+  {
+    "desc": "A framed poster from the movie \"Fiery Blade Crusader\".",
+    "file": "hylotlmovieposter2.object",
+    "name": "Warrior Movie Poster",
+    "path": "hylotlmovieposter2"
+  },
+  {
+    "desc": "A framed poster from the controversial romance film \"10 Things I Hate About Florans\".",
+    "file": "hylotlmovieposter3.object",
+    "name": "Romantic Movie Poster",
+    "path": "hylotlmovieposter3"
+  },
+  {
+    "desc": "It's a painting of a great big wave.",
+    "file": "hylotlpainting1.object",
+    "name": "Traditional Wave Painting",
+    "path": "hylotlpainting1"
+  },
+  {
+    "desc": "It's a copy of an old, famous painting.",
+    "file": "hylotlpainting2.object",
+    "name": "Traditional Mount Painting",
+    "path": "hylotlpainting2"
+  },
+  {
+    "desc": "It's a painting of a bridge over still water.",
+    "file": "hylotlpainting3.object",
+    "name": "Traditional Bridge Painting",
+    "path": "hylotlpainting3"
+  },
+  {
+    "desc": "A replica plant, it is obviously made of plastic.",
+    "file": "hylotlplant1.object",
+    "name": "Plastic Fake Plant",
+    "path": "hylotlplant1"
+  },
+  {
+    "desc": "A decorative wooden post with a lantern in it.",
+    "file": "hylotlpost.object",
+    "name": "Traditional Wooden Post",
+    "path": "hylotlpost"
+  },
+  {
+    "desc": "A glass case full of plushies and toys.",
+    "file": "hylotlprizecounter.object",
+    "name": "Arcade Prize Counter",
+    "path": "hylotlprizecounter"
+  },
+  {
+    "desc": "A bright blue alarm",
+    "file": "hylotlredalert.object",
+    "name": "Blue Alert",
+    "path": "hylotlredalert"
+  },
+  {
+    "desc": "A shoji screen door.",
+    "file": "hylotlshojidoor.object",
+    "name": "Traditional Shoji Door",
+    "path": "hylotlshojidoor"
+  },
+  {
+    "desc": "A screen for modest individuals to hide behind while getting changed.",
+    "file": "hylotlshojiscreen.object",
+    "name": "Traditional Shoji Screen",
+    "path": "hylotlshojiscreen"
+  },
+  {
+    "desc": "A cheery welcome sign meant for Hylotl-owned shops.",
+    "file": "hylotlshopsign.object",
+    "name": "Friendly Hylotl Sign",
+    "path": "hylotlshopsign"
+  },
+  {
+    "desc": "A table set at kneeling height.",
+    "file": "hylotlshorttable.object",
+    "name": "Traditional Low Table",
+    "path": "hylotlshorttable"
+  },
+  {
+    "desc": "A blue neon sign decorated with a seashell.",
+    "file": "hylotlsign1b.object",
+    "name": "Blue Shell Sign",
+    "path": "hylotlsign1b"
+  },
+  {
+    "desc": "A green neon sign advertising furniture from a lily pad inspired design movement.",
+    "file": "hylotlsign1g.object",
+    "name": "Green Lily Pad Sign",
+    "path": "hylotlsign1g"
+  },
+  {
+    "desc": "An orange neon sign displaying what seems to be Big Ape.",
+    "file": "hylotlsign1o.object",
+    "name": "Orange Apex Sign",
+    "path": "hylotlsign1o"
+  },
+  {
+    "desc": "A sign that looks like it says \"BUBBLE\"...",
+    "file": "hylotlsign2b.object",
+    "name": "Blue Neon Sign",
+    "path": "hylotlsign2b"
+  },
+  {
+    "desc": "A sign that looks like it says \"RIBBIT\"...",
+    "file": "hylotlsign2g.object",
+    "name": "Green Neon Sign",
+    "path": "hylotlsign2g"
+  },
+  {
+    "desc": "It looks like the word 'croak', but apparently it means something completely different.",
+    "file": "hylotlsign2o.object",
+    "name": "Orange Neon Sign",
+    "path": "hylotlsign2o"
+  },
+  {
+    "desc": "Small ocean creatures swim within this sign.",
+    "file": "hylotlsign3b.object",
+    "name": "Blue Neon Shop Sign",
+    "path": "hylotlsign3b"
+  },
+  {
+    "desc": "A sign displaying reefpods, a tasty delicacy.",
+    "file": "hylotlsign3g.object",
+    "name": "Green Neon Pod Sign",
+    "path": "hylotlsign3g"
+  },
+  {
+    "desc": "A sign seeking Hylotl to collect spawn from the surface.",
+    "file": "hylotlsign3o.object",
+    "name": "Orange Neon Collector Sign",
+    "path": "hylotlsign3o"
+  },
+  {
+    "desc": "An old radio, it still plays music.",
+    "file": "hylotlradio.object",
+    "name": "Traditional Radio",
+    "path": "hylotlspeaker"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "hylotlstoragelocker.object",
+    "name": "Hylotl Storage Locker",
+    "path": "hylotlstoragelocker"
+  },
+  {
+    "desc": "The shelf is packed with all kinds of Hylotl goods.",
+    "file": "hylotlstoreshelf.object",
+    "name": "Hylotl Store Shelf",
+    "path": "hylotlstoreshelf"
+  },
+  {
+    "desc": "A poster for a unpopular Hylotl movie \"Claw of Dread\".",
+    "file": "hylotlstyleposter.object",
+    "name": "Comedy Movie Poster",
+    "path": "hylotlstyleposter"
+  },
+  {
+    "desc": "A structural support beam able to withstand deep-sea pressure.",
+    "file": "hylotlsupportbeam.object",
+    "name": "Pressurised Support",
+    "path": "hylotlsupportbeam"
+  },
+  {
+    "desc": "It's a very tempting lever.",
+    "file": "hylotlswitch.object",
+    "name": "Standard Lever",
+    "path": "hylotlswitch"
+  },
+  {
+    "desc": "A metal lily pad with a bright blue emblem.",
+    "file": "hylotlsymbolb.object",
+    "name": "Blue Neon Symbol",
+    "path": "hylotlsymbolb"
+  },
+  {
+    "desc": "A metal lily pad with a bright green emblem.",
+    "file": "hylotlsymbolg.object",
+    "name": "Green Neon Symbol",
+    "path": "hylotlsymbolg"
+  },
+  {
+    "desc": "A table with a studded gem motif resembling the three eyes of the Hylotl.",
+    "file": "hylotltable.object",
+    "name": "Hylotl Table",
+    "path": "hylotltable"
+  },
+  {
+    "desc": "A garbage bin.",
+    "file": "hylotltrashcan.object",
+    "name": "Urban Trash Can",
+    "path": "hylotltrashcan"
+  },
+  {
+    "desc": "A stand displaying Hylotl armour.",
+    "file": "hylotluniformstand.object",
+    "name": "Hylotl Armour Stand",
+    "path": "hylotluniformstand"
+  },
+  {
+    "desc": "A blue shelf used for displaying items.",
+    "file": "hylotlwallshelf.object",
+    "name": "Blue Wall Shelf",
+    "path": "hylotlwallshelf"
+  },
+  {
+    "desc": "It's a warning to anyone who cares to read it.",
+    "file": "hylotlwarningposter.object",
+    "name": "Warning Poster",
+    "path": "hylotlwarningposter"
+  },
+  {
+    "desc": "This water feature is perfect for the home, garden, or interstellar dojo.",
+    "file": "hylotlwaterfeature1.object",
+    "name": "Traditional Water Feature",
+    "path": "hylotlwaterfeature1"
+  },
+  {
+    "desc": "A traditional index filled with cards.",
+    "file": "index.object",
+    "name": "Card Index",
+    "path": "index"
+  },
+  {
+    "desc": "A large antique bookcase.",
+    "file": "librarybookcaseG2.object",
+    "name": "Grand Ornate Bookcase",
+    "path": "librarybookcaseG2"
+  },
+  {
+    "desc": "A gigantic bookcase filled with books.",
+    "file": "librarybookcaseHUGE.object",
+    "name": "Huge Ornate Bookcase",
+    "path": "librarybookcaseHUGE"
+  },
+  {
+    "desc": "A big antique bookcase.",
+    "file": "librarybookcaseL2.object",
+    "name": "Large Ornate Bookcase",
+    "path": "librarybookcaseL2"
+  },
+  {
+    "desc": "A fairly big bookcase full of books.",
+    "file": "librarybookcaseN2.object",
+    "name": "Ornate Bookcase",
+    "path": "librarybookcaseN2"
+  },
+  {
+    "desc": "A fairly big bookcase, only partially filled with books.",
+    "file": "librarybookcaseN2empty.object",
+    "name": "Deprived Bookcase",
+    "path": "librarybookcaseN2empty"
+  },
+  {
+    "desc": "An ornately carved bookcase.",
+    "file": "librarybookcaseS1.object",
+    "name": "Small Ornate Bookcase",
+    "path": "librarybookcaseS1"
+  },
+  {
+    "desc": "An ornately carved bookcase. It's only partially filled.",
+    "file": "librarybookcaseS1empty.object",
+    "name": "Small Deprived Bookcase",
+    "path": "librarybookcaseS1empty"
+  },
+  {
+    "desc": "A questionably cute plushie of a Mindwurm.",
+    "file": "mindwurmplush.object",
+    "name": "Mindwurm Plushie",
+    "path": "mindwurmplush"
+  },
+  {
+    "desc": "A framed poster for cult hit, \"The Moleman Prophecy\".",
+    "file": "molemanposter.object",
+    "name": "Moleman Poster",
+    "path": "molemanposter"
+  },
+  {
+    "desc": "A neon sign depicting a Hylotl head.",
+    "file": "neonhylotlhead.object",
+    "name": "Neon Hylotl Sign",
+    "path": "neonhylotlhead"
+  },
+  {
+    "desc": "A plushie of Numi, the mascot from a Hylotl children's cartoon of the same name.",
+    "file": "numiplush.object",
+    "name": "Numi Plushie",
+    "path": "numiplush"
+  },
+  {
+    "desc": "A poster displaying Numi, mascot from a Hylotl children's cartoon.",
+    "file": "numiposter.object",
+    "name": "Numi Poster",
+    "path": "numiposter"
+  },
+  {
+    "desc": "A sign advertising Numi, a famous mascot from a Hylotl children's cartoon.",
+    "file": "numisign.object",
+    "name": "Numi Sign",
+    "path": "numisign"
+  },
+  {
+    "desc": "A neon \"open\" sign.",
+    "file": "opensign.object",
+    "name": "Neon Open Sign",
+    "path": "opensign"
+  },
+  {
+    "desc": "This ornate lamp flickers softly.",
+    "file": "ornatetorch.object",
+    "name": "Ornate Lantern",
+    "path": "ornatetorch"
+  },
+  {
+    "desc": "An adorable Normal Virorb plushie.",
+    "file": "plainorbplush.object",
+    "name": "Virorb Plushie",
+    "path": "plainorbplush"
+  },
+  {
+    "desc": "A soft Poptop plush toy.",
+    "file": "poptopplush.object",
+    "name": "Poptop Plushie",
+    "path": "poptopplush"
+  },
+  {
+    "desc": "It's a round window.",
+    "file": "porthole.object",
+    "name": "Porthole",
+    "path": "porthole"
+  },
+  {
+    "desc": "A door that's good under pressure.",
+    "file": "pressuredoor.object",
+    "name": "Pressurised Door",
+    "path": "pressuredoor"
+  },
+  {
+    "desc": "A sign that indicates the status of a pump.",
+    "file": "pumpsign.object",
+    "name": "Pump Sign",
+    "path": "pumpsign"
+  },
+  {
+    "desc": "A quill and ink.",
+    "file": "quillandink.object",
+    "name": "Quill and Ink",
+    "path": "quillandink"
+  },
+  {
+    "desc": "A banner advertising a sale. Everybody loves sales!",
+    "file": "salesign.object",
+    "name": "Sale Sign",
+    "path": "salesign"
+  },
+  {
+    "desc": "A very large shipping container.",
+    "file": "shippingcontainer.object",
+    "name": "Shipping Container",
+    "path": "shippingcontainer"
+  },
+  {
+    "desc": "A sign marking where a checkout line begins.",
+    "file": "shopline.object",
+    "name": "Checkout Sign",
+    "path": "shopline"
+  },
+  {
+    "desc": "An empty bottle of avesmingo cordial.",
+    "file": "smashabledrink1.object",
+    "name": "Empty Cordial Bottle",
+    "path": "smashabledrink1"
+  },
+  {
+    "desc": "An empty bottle of dandelion root pop.",
+    "file": "smashabledrink2.object",
+    "name": "Empty Root Pop Bottle",
+    "path": "smashabledrink2"
+  },
+  {
+    "desc": "An empty bottle of Oculemon nectar.",
+    "file": "smashabledrink3.object",
+    "name": "Empty Nectar Bottle",
+    "path": "smashabledrink3"
+  },
+  {
+    "desc": "An empty bottle of petal nectar.",
+    "file": "smashabledrink4.object",
+    "name": "Empty Petal Nectar Bottle",
+    "path": "smashabledrink4"
+  },
+  {
+    "desc": "An empty bottle of fancy water.",
+    "file": "smashabledrink5.object",
+    "name": "Empty Fancy Water Bottle",
+    "path": "smashabledrink5"
+  },
+  {
+    "desc": "A sign advertising natural soft drinks.",
+    "file": "softdrinksign.object",
+    "name": "Soft Drink Sign",
+    "path": "softdrinksign"
+  },
+  {
+    "desc": "A study lamp for a library or desk. Very fancy.",
+    "file": "studylamp.object",
+    "name": "Study Lamp",
+    "path": "studylamp"
+  },
+  {
+    "desc": "Tenth Study in Female Hylotlgy",
+    "file": "tenstudiesplaque.object",
+    "name": "Nameplate",
+    "path": "thefickletype"
+  },
+  {
+    "desc": "A cute little turtle plush.",
+    "file": "turtleplush.object",
+    "name": "Turtle Plushie",
+    "path": "turtleplush"
+  },
+  {
+    "desc": "A light protected by a glass cage.",
+    "file": "underwaterlight.object",
+    "name": "Waterproof Light",
+    "path": "underwaterlight"
+  },
+  {
+    "desc": "A tiny wall light.",
+    "file": "underwaterlightsmall.object",
+    "name": "Small Waterproof Light",
+    "path": "underwaterlightsmall"
+  },
+  {
+    "desc": "A tiny wall light. It's broken.",
+    "file": "underwaterlightsmallbroken.object",
+    "name": "Broken Waterproof Light",
+    "path": "underwaterlightsmall"
+  },
+  {
+    "desc": "A squishy, adorable unicorn. What's not to love?",
+    "file": "unicornplush.object",
+    "name": "Unicorn Plushie",
+    "path": "unicornplush"
+  }
+]

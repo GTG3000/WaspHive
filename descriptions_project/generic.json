@@ -1,0 +1,1088 @@
+[
+  {
+    "desc": "A pale stone altar, undecorated.",
+    "file": "altar1.object",
+    "name": "Stone Altar",
+    "path": "altar1"
+  },
+  {
+    "desc": "This would be a neat venue for a stall.",
+    "file": "arcadegameclosed.object",
+    "name": "Closed Mazebound64",
+    "path": "arcadegame"
+  },
+  {
+    "desc": "This machine runs a game called 'Mazebound64'.",
+    "file": "arcadegameobject.object",
+    "name": "Mazebound64",
+    "path": "arcadegame"
+  },
+  {
+    "desc": "An old-school arcade machine. This one plays 'Super Tralgar Blaster 2'.",
+    "file": "arcademachine.object",
+    "name": "Arcade Machine",
+    "path": "arcademachine"
+  },
+  {
+    "desc": "I wouldn't want to find myself locked behind these thick iron bars.",
+    "file": "bardoor.object",
+    "name": "Iron Bar Door",
+    "path": "bardoor"
+  },
+  {
+    "desc": "A small barred vent.",
+    "file": "barvent.object",
+    "name": "Barred Vent",
+    "path": "barvent"
+  },
+  {
+    "desc": "A metal sign with a biohazard symbol.",
+    "file": "biohazardsign.object",
+    "name": "Biohazard Sign",
+    "path": "biohazardsign"
+  },
+  {
+    "desc": "A bird's nest with an egg in it.",
+    "file": "birdsnest.object",
+    "name": "Bird's Nest",
+    "path": "birdsnest"
+  },
+  {
+    "desc": "A cold blue light.",
+    "file": "bluelight.object",
+    "name": "Blue Light",
+    "path": "bluelight"
+  },
+  {
+    "desc": "A small wooden crate.",
+    "file": "box1.object",
+    "name": "Wooden Crate",
+    "path": "box1"
+  },
+  {
+    "desc": "A secured wooden crate.",
+    "file": "box2.object",
+    "name": "Secure Wooden Crate",
+    "path": "box2"
+  },
+  {
+    "desc": "Don't burn your feet!",
+    "file": "burningcoals.object",
+    "name": "Burning Coals",
+    "path": "burningcoals"
+  },
+  {
+    "desc": "Little flapping bugs appear to be moving inside this bush.",
+    "file": "butterflybush.object",
+    "name": "Butterfly Bush",
+    "path": "butterflybush"
+  },
+  {
+    "desc": "An exotic-looking cactus in a flower pot.",
+    "file": "cactiflowerpot.object",
+    "name": "Cactus Pot",
+    "path": "cactiflowerpot"
+  },
+  {
+    "desc": "A large breakable capsule. Wonder what's inside.",
+    "file": "capsulebig.object",
+    "name": "Large Capsule",
+    "path": "capsulebig"
+  },
+  {
+    "desc": "A breakable capsule. Wonder what's inside.",
+    "file": "capsulemed.object",
+    "name": "Medium Capsule",
+    "path": "capsulemed"
+  },
+  {
+    "desc": "A small breakable capsule. Wonder what's inside.",
+    "file": "capsulesmall.object",
+    "name": "Small Capsule",
+    "path": "capsulesmall"
+  },
+  {
+    "desc": "A car shaped bed, for those young at heart.",
+    "file": "carbed.object",
+    "name": "Car Bed",
+    "path": "carbed"
+  },
+  {
+    "desc": "An upright cardboard box.",
+    "file": "cardboard1.object",
+    "name": "Upright Cardboard Box",
+    "path": "cardboard1"
+  },
+  {
+    "desc": "A simple cardboard box.",
+    "file": "cardboard2.object",
+    "name": "Cardboard Box",
+    "path": "cardboard2"
+  },
+  {
+    "desc": "An opened cardboard box.",
+    "file": "cardboard3.object",
+    "name": "Open Cardboard Box",
+    "path": "cardboard3"
+  },
+  {
+    "desc": "Perfect for storing a lot of food and keeping it fresh.",
+    "file": "largecooler1.object",
+    "name": "Large Cooler",
+    "path": "ceilingfridge1"
+  },
+  {
+    "desc": "A decorative clay pot. Wonder what's inside?",
+    "file": "claypot1.object",
+    "name": "Small Clay Pot",
+    "path": "claypot1"
+  },
+  {
+    "desc": "A cracked clay pot. Wonder what's inside?",
+    "file": "claypot2.object",
+    "name": "Unusual Clay Pot",
+    "path": "claypot2"
+  },
+  {
+    "desc": "A decorative clay pot. Wonder what's inside?",
+    "file": "claypot3.object",
+    "name": "Wide Clay Pot",
+    "path": "claypot3"
+  },
+  {
+    "desc": "A strong storage crate made from copper.",
+    "file": "copperbox1.object",
+    "name": "Copper Crate",
+    "path": "copperbox1"
+  },
+  {
+    "desc": "A hanging ceiling light made from copper.",
+    "file": "copperceilinglight.object",
+    "name": "Copper Ceiling Light",
+    "path": "copperceilinglight"
+  },
+  {
+    "desc": "An oil lantern made of copper.",
+    "file": "copperlantern.object",
+    "name": "Copper Oil Lantern",
+    "path": "copperlantern"
+  },
+  {
+    "desc": "A wall shelf made from copper.",
+    "file": "coppershelf.object",
+    "name": "Copper Wall Shelf",
+    "path": "coppershelf"
+  },
+  {
+    "desc": "A copper structural support beam.",
+    "file": "coppersupport.object",
+    "name": "Copper Support",
+    "path": "coppersupport"
+  },
+  {
+    "desc": "Sell food and produce to Terramart from the comfort of your own doorstep, by blasting it into space.",
+    "file": "cropshipper.object",
+    "name": "Terramart Shipments",
+    "path": "cropshipper"
+  },
+  {
+    "desc": "A cultist altar. Nefarious worship goes on here.",
+    "file": "cultistaltar.object",
+    "name": "Cultist Altar",
+    "path": "cultistaltar"
+  },
+  {
+    "desc": "This station seems to be transmitting a lot of data.",
+    "file": "datastation.object",
+    "name": "Data Station",
+    "path": "datastation"
+  },
+  {
+    "desc": "This durasteel elevator will get the job done.",
+    "file": "durasteelelevatorlong.object",
+    "name": "Long Durasteel Elevator",
+    "path": "durasteelelevator"
+  },
+  {
+    "desc": "This durasteel elevator will get the job done.",
+    "file": "durasteelelevatorshort.object",
+    "name": "Short Durasteel Elevator",
+    "path": "durasteelelevator"
+  },
+  {
+    "desc": "This chair is egg-shaped. I'm not sure whose idea that was.",
+    "file": "eggchair.object",
+    "name": "Egg Chair",
+    "path": "eggchair"
+  },
+  {
+    "desc": "It's some sort of electrical barrier. Looks dangerous...",
+    "file": "electricdoor.object",
+    "name": "Electrical Barrier",
+    "path": "electricdoor"
+  },
+  {
+    "desc": "A cheap electric light.",
+    "file": "electriclight.object",
+    "name": "Electric Light",
+    "path": "electriclight"
+  },
+  {
+    "desc": "A string of small, twinkling fairy lights.",
+    "file": "fairylights.object",
+    "name": "Yellow Fairy Lights",
+    "path": "fairylights"
+  },
+  {
+    "desc": "A fiery-looking flower in a pot.",
+    "file": "fireflowerpot.object",
+    "name": "Fiery Flower",
+    "path": "fireflowerpot"
+  },
+  {
+    "desc": "Little glowing bugs appear to be living in this bush.",
+    "file": "fireflybush.object",
+    "name": "Firefly Bush",
+    "path": "fireflybush"
+  },
+  {
+    "desc": "An Apex flag. The symbol of the Miniknog. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flagapex.object",
+    "name": "Apex Flag",
+    "path": "flagapex"
+  },
+  {
+    "desc": "The Avian flag. Use ^green;[E] to bookmark a teleportation location.",
+    "file": "flagavian.object",
+    "name": "Avian Flag",
+    "path": "flagavian"
+  },
+  {
+    "desc": "The Floran flag. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flagfloran.object",
+    "name": "Floran Flag",
+    "path": "flagfloran"
+  },
+  {
+    "desc": "The flag of the Glitch. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flagglitch.object",
+    "name": "Glitch Flag",
+    "path": "flagglitch"
+  },
+  {
+    "desc": "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flaghuman.object",
+    "name": "Human Flag",
+    "path": "flaghuman"
+  },
+  {
+    "desc": "The Hylotl flag. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flaghylotl.object",
+    "name": "Hylotl Flag",
+    "path": "flaghylotl"
+  },
+  {
+    "desc": "The Novakid flag. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "file": "flagnovakid.object",
+    "name": "Novakid Flag",
+    "path": "flagnovakid"
+  },
+  {
+    "desc": "This fluorescent light has seen better days.",
+    "file": "flickeringfluorescentlight.object",
+    "name": "Damaged Fluorescent Light",
+    "path": "flickeringfluorescentlight"
+  },
+  {
+    "desc": "If I look at these lights any longer, I'll probably go blind.",
+    "file": "floodlights.object",
+    "name": "Floodlights",
+    "path": "floodlights"
+  },
+  {
+    "desc": "Bright fluorescent light.",
+    "file": "fluorescentlight.object",
+    "name": "Fluorescent Light",
+    "path": "fluorescentlight"
+  },
+  {
+    "desc": "A pet food bowl. Leave your pet something tasty for when you're not around!",
+    "file": "foodbowl.object",
+    "name": "Food Bowl",
+    "path": "foodbowl"
+  },
+  {
+    "desc": "Let's find out what that fossil was! Place it down and smash it open!",
+    "file": "fossilpod.object",
+    "name": "Fossil Pod",
+    "path": "fossilpod"
+  },
+  {
+    "desc": "A beautiful stone fountain. The water looks refreshing.",
+    "file": "fountain1.object",
+    "name": "Tiered Stone Fountain",
+    "path": "fountain1"
+  },
+  {
+    "desc": "A peaceful stone fountain. The water gently flows.",
+    "file": "fountain2.object",
+    "name": "Stone Fountain",
+    "path": "fountain2"
+  },
+  {
+    "desc": "A frog merchant. What it really is, or what it wants, nobody knows.",
+    "file": "frogmerchant.object",
+    "name": "Frog Merchant",
+    "path": "frogmerchant"
+  },
+  {
+    "desc": "A statue of a frog sitting peacefully.",
+    "file": "frogstatue.object",
+    "name": "Frog Statue",
+    "path": "frogstatue"
+  },
+  {
+    "desc": "A cheap fluorescent light.",
+    "file": "futurelight.object",
+    "name": "Cheap Light",
+    "path": "futurelight"
+  },
+  {
+    "desc": "A hi-tech container for guns.",
+    "file": "gunchest.object",
+    "name": "Gun Chest",
+    "path": "gunchest"
+  },
+  {
+    "desc": "A large microscope, designed for observing potentially hazardous bacteria.",
+    "file": "hazardmicroscope.object",
+    "name": "Hazard Microscope",
+    "path": "hazardmicroscope"
+  },
+  {
+    "desc": "...",
+    "file": "helpme.object",
+    "name": "Help Me Sign",
+    "path": "helpme"
+  },
+  {
+    "desc": "Strip lighting, for use on a spaceship.",
+    "file": "invisiblelight.object",
+    "name": "Ship Light",
+    "path": "invisiblelight"
+  },
+  {
+    "desc": "Invisible Sparker",
+    "file": "invisiblesparker.object",
+    "name": "Invisible Sparker",
+    "path": "invisiblesparker"
+  },
+  {
+    "desc": "An iron bed made of swords. Perfect for a power nap.",
+    "file": "ironbed.object",
+    "name": "Sharp Bed",
+    "path": "ironbed"
+  },
+  {
+    "desc": "A door of crossed blades. It looks like they can be withdrawn.",
+    "file": "irondoor.object",
+    "name": "Sharp Door",
+    "path": "irondoor"
+  },
+  {
+    "desc": "Is it a light, or is it a sabre? Maybe both.",
+    "file": "ironlight.object",
+    "name": "Sharp Light",
+    "path": "ironlight"
+  },
+  {
+    "desc": "The sword in the... console?",
+    "file": "ironswitch.object",
+    "name": "Sharp Console",
+    "path": "ironswitch"
+  },
+  {
+    "desc": "A table with swords for legs. Not ideal for playing footsie.",
+    "file": "irontable.object",
+    "name": "Sharp Table",
+    "path": "irontable"
+  },
+  {
+    "desc": "A toilet made of swords. Risky.",
+    "file": "irontoilet.object",
+    "name": "Sharp Toilet",
+    "path": "irontoilet"
+  },
+  {
+    "desc": "An adorable kennel for an adorable pet.",
+    "file": "kennel.object",
+    "name": "Kennel",
+    "path": "kennel"
+  },
+  {
+    "desc": "A bare lightbulb hanging from a metal rod in the ceiling.",
+    "file": "lightbulb.object",
+    "name": "Flickering Lightbulb",
+    "path": "lightbulb"
+  },
+  {
+    "desc": "A bare lightbulb hanging from a metal rod in the ceiling.",
+    "file": "lightbulb2.object",
+    "name": "Lightbulb",
+    "path": "lightbulb"
+  },
+  {
+    "desc": "A locker with a tall metal door.",
+    "file": "locker1.object",
+    "name": "Tall Locker",
+    "path": "locker1"
+  },
+  {
+    "desc": "A locker with a wide metal door.",
+    "file": "locker2.object",
+    "name": "Flat Locker",
+    "path": "locker2"
+  },
+  {
+    "desc": "It's a set of loudspeakers through which people speak loudly.",
+    "file": "loudspeaker.object",
+    "name": "Loudspeakers",
+    "path": "loudspeaker"
+  },
+  {
+    "desc": "Display and easily equip armour sets!",
+    "file": "mannequin.object",
+    "name": "Mannequin",
+    "path": "mannequin"
+  },
+  {
+    "desc": "A beautifully crafted marker with a plaque embedded into it.",
+    "file": "markergroundplaque.object",
+    "name": "Commemorative Marker",
+    "path": "markergroundplaque"
+  },
+  {
+    "desc": "Simple, but elegant. Plaques like this bring some real class to a place.",
+    "file": "markerwallplaque1.object",
+    "name": "Iron Plaque",
+    "path": "markerwallplaque1"
+  },
+  {
+    "desc": "Simple, but elegant. Plaques like this bring some real class to a place.",
+    "file": "markerwallplaque2.object",
+    "name": "Polished Stone Plaque",
+    "path": "markerwallplaque2"
+  },
+  {
+    "desc": "Plaques don't come much classier than this.",
+    "file": "markerwallplaque3.object",
+    "name": "Golden Plaque",
+    "path": "markerwallplaque3"
+  },
+  {
+    "desc": "This elevator operates on an elaborate system of clockwork.",
+    "file": "mechanicalelevatorlong.object",
+    "name": "Long Mechanical Elevator",
+    "path": "mechanicalelevator"
+  },
+  {
+    "desc": "This elevator operates on an elaborate system of clockwork.",
+    "file": "mechanicalelevatorshort.object",
+    "name": "Short Mechanical Elevator",
+    "path": "mechanicalelevator"
+  },
+  {
+    "desc": "A generic metal barrel. It's sealed.",
+    "file": "metalbarrel1.object",
+    "name": "Metal Barrel",
+    "path": "metalbarrel1"
+  },
+  {
+    "desc": "A barrel full of radioactive material.",
+    "file": "metalbarrel2.object",
+    "name": "Radioactive Barrel",
+    "path": "metalbarrel2"
+  },
+  {
+    "desc": "A barrel full of radioactive material.",
+    "file": "metalbarrel2b.object",
+    "name": "Radioactive Barrel",
+    "path": "metalbarrel2b"
+  },
+  {
+    "desc": "A sturdy metal chair.",
+    "file": "basicmetalchair.object",
+    "name": "Basic Metal Chair",
+    "path": "metalchair"
+  },
+  {
+    "desc": "Ideal for storing food and keeping it fresh.",
+    "file": "minifridge.object",
+    "name": "Mini Fridge",
+    "path": "minifridge"
+  },
+  {
+    "desc": "An old crate of Mining supplies - For every budding Miner!",
+    "file": "miningsupplies.object",
+    "name": "Mining Supplies Crate",
+    "path": "miningsupplies"
+  },
+  {
+    "desc": "A contemporary chair.",
+    "file": "modernchair.object",
+    "name": "Modern Chair",
+    "path": "modernchair"
+  },
+  {
+    "desc": "A fancy modern table to place fancy modern things on.",
+    "file": "moderntable.object",
+    "name": "Modern Table",
+    "path": "moderntable"
+  },
+  {
+    "desc": "Provides exceptional heat and a great for cooking outdoors.",
+    "file": "nanostove.object",
+    "name": "Nanostove",
+    "path": "nanostove"
+  },
+  {
+    "desc": "A pretty oil lantern.",
+    "file": "oillantern1.object",
+    "name": "Oil Lantern",
+    "path": "oillantern1"
+  },
+  {
+    "desc": "An oil lantern on a stand.",
+    "file": "oillanterntall.object",
+    "name": "Standing Oil Lamp",
+    "path": "oillanterntall"
+  },
+  {
+    "desc": "It's a perfectly generic item, perhaps a bit too perfect.",
+    "file": "perfectlygenericitem.object",
+    "name": "Perfectly Generic Item",
+    "path": "perfectlygenericitem"
+  },
+  {
+    "desc": "Just big enough for a small animal to fit comfortably inside",
+    "file": "pethouse.object",
+    "name": "Pet House",
+    "path": "pethouse"
+  },
+  {
+    "desc": "A tall stone pillar.",
+    "file": "pillar1.object",
+    "name": "Stone Pillar",
+    "path": "pillar1"
+  },
+  {
+    "desc": "A broken stone pillar.",
+    "file": "pillar2.object",
+    "name": "Broken Stone Pillar",
+    "path": "pillar2"
+  },
+  {
+    "desc": "Knock it down!",
+    "file": "bowlingpin.object",
+    "name": "Bowling Pin",
+    "path": "pin"
+  },
+  {
+    "desc": "...",
+    "file": "pleaseget.object",
+    "name": "Please Get Sign",
+    "path": "pleaseget"
+  },
+  {
+    "desc": "A useful storage chest.",
+    "file": "podchest.object",
+    "name": "Pod Chest",
+    "path": "podchest"
+  },
+  {
+    "desc": "A revolting pile of poop. The stench is foul!",
+    "file": "poop.object",
+    "name": "Poop",
+    "path": "poop"
+  },
+  {
+    "desc": "A portcullis made of solid durasteel.",
+    "file": "portcullis.object",
+    "name": "Durasteel Portcullis",
+    "path": "portcullis"
+  },
+  {
+    "desc": "A random fountain. The most unpredictable of fountains.",
+    "file": "randomfountain.object",
+    "name": "Random Fountain",
+    "path": "randomfountain"
+  },
+  {
+    "desc": "Some rusty old vehicle, broken beyond repair.",
+    "file": "recreationalvehicle.object",
+    "name": "Recreational Vehicle",
+    "path": "recreationalvehicle"
+  },
+  {
+    "desc": "A red flashing light... That's usually not good.",
+    "file": "redalert.object",
+    "name": "Warning Light",
+    "path": "redalert"
+  },
+  {
+    "desc": "Crackling quietly, the smell of hickory smoke is delightful.",
+    "file": "rusticoven.object",
+    "name": "Rustic Oven",
+    "path": "rusticoven"
+  },
+  {
+    "desc": "A sapling. From simple roots a tree will grow.",
+    "file": "sapling.object",
+    "name": "Sapling",
+    "path": "sapling"
+  },
+  {
+    "desc": "A sack of straw with a face. Kinda loveable!",
+    "file": "scarecrow.object",
+    "name": "Scarecrow",
+    "path": "scarecrow"
+  },
+  {
+    "desc": "I wish I'd paid attention in astrogeography class.",
+    "file": "screenplanet.object",
+    "name": "Planet Monitor",
+    "path": "screenplanet"
+  },
+  {
+    "desc": "A device for monitoring seismic activity.",
+    "file": "seismograph.object",
+    "name": "Seismograph",
+    "path": "seismograph"
+  },
+  {
+    "desc": "Strip lighting, for use on a spaceship.",
+    "file": "shiplight.object",
+    "name": "Ship Light",
+    "path": "shiplight"
+  },
+  {
+    "desc": "It's a sleeping bag. It's not the comfiest, but it'll do.",
+    "file": "sleepingbag.object",
+    "name": "Blue Sleeping Bag",
+    "path": "sleepingbag"
+  },
+  {
+    "desc": "It's a sleeping bag. It's not the comfiest, but it'll do.",
+    "file": "sleepingbaggreen.object",
+    "name": "Green Sleeping Bag",
+    "path": "sleepingbaggreen"
+  },
+  {
+    "desc": "It's a sleeping bag. It's not the comfiest, but it'll do.",
+    "file": "sleepingbagred.object",
+    "name": "Red Sleeping Bag",
+    "path": "sleepingbagred"
+  },
+  {
+    "desc": "Door goes up... Door goes down... Door goes up... Door goes down...",
+    "file": "slidingdoor.object",
+    "name": "Sliding Door",
+    "path": "slidingdoor"
+  },
+  {
+    "desc": "A smashable crystal. Time to get breaking bad.",
+    "file": "smashcrystal.object",
+    "name": "Smashable Crystal",
+    "path": "smashcrystal"
+  },
+  {
+    "desc": "An automated soil watering solution.",
+    "file": "sprinkler.object",
+    "name": "Sprinkler",
+    "path": "sprinkler"
+  },
+  {
+    "desc": "A status pod. Take your chances...",
+    "file": "statuspod.object",
+    "name": "Status Pod",
+    "path": "statuspod"
+  },
+  {
+    "desc": "A stepladder.",
+    "file": "stepladder.object",
+    "name": "Stepladder",
+    "path": "stepladder"
+  },
+  {
+    "desc": "A basic iron chest.",
+    "file": "ironchest.object",
+    "name": "Iron Chest",
+    "path": "stonechest"
+  },
+  {
+    "desc": "A critter in a jar, daydreaming.",
+    "file": "symbiotesample.object",
+    "name": "Symbiote in a Jar",
+    "path": "symbiotesample"
+  },
+  {
+    "desc": "A steaming cup of Earl Grey.",
+    "file": "teacup1.object",
+    "name": "Teacup",
+    "path": "teacup1"
+  },
+  {
+    "desc": "The perfect teapot for a tea party.",
+    "file": "teapot1.object",
+    "name": "Teapot",
+    "path": "teapot1"
+  },
+  {
+    "desc": "A chest with bright glowing markings throughout.",
+    "file": "techchest.object",
+    "name": "Hi-Tech Chest",
+    "path": "techchest"
+  },
+  {
+    "desc": "A chest with bright glowing markings throughout.",
+    "file": "techchest2.object",
+    "name": "Hi-Tech Chest",
+    "path": "techchest2"
+  },
+  {
+    "desc": "A basic tent. Watch out for spacebears!",
+    "file": "tent1.object",
+    "name": "Green Dome Tent",
+    "path": "tent1"
+  },
+  {
+    "desc": "A basic tent. Watch out for spacebears!",
+    "file": "tent1blue.object",
+    "name": "Blue Dome Tent",
+    "path": "tent1blue"
+  },
+  {
+    "desc": "A basic tent. Watch out for spacebears!",
+    "file": "tent1red.object",
+    "name": "Red Dome Tent",
+    "path": "tent1red"
+  },
+  {
+    "desc": "A basic tent. Watch out for spacebears!",
+    "file": "tent2.object",
+    "name": "Green Basic Tent",
+    "path": "tent2"
+  },
+  {
+    "desc": "A basic tent. Watch out for spacebears!",
+    "file": "tent2yellow.object",
+    "name": "Yellow Basic Tent",
+    "path": "tent2yellow"
+  },
+  {
+    "desc": "This torch flickers softly.",
+    "file": "torch.object",
+    "name": "Torch",
+    "path": "torch"
+  },
+  {
+    "desc": "It's a root.",
+    "file": "toxicgasprimer.object",
+    "name": "Root",
+    "path": "toxicgasprimer"
+  },
+  {
+    "desc": "A machine that hobbyist travellers use to record geological information.",
+    "file": "travellersbeacon.object",
+    "name": "Traveller's Meter",
+    "path": "travellersbeacon"
+  },
+  {
+    "desc": "The plaque reads \"All that is gold does not glitter. Awarded for a heroic victory.\".",
+    "file": "trophybronze.object",
+    "name": "Warrior's Trophy",
+    "path": "trophybronze"
+  },
+  {
+    "desc": "The plaque reads \"Awarded to those who can pass through the fire of combat unburned.\".",
+    "file": "trophygold.object",
+    "name": "Champion's Trophy",
+    "path": "trophygold"
+  },
+  {
+    "desc": "The plaque reads \"Awarded to those who can challenge nature's power.\".",
+    "file": "trophysilver.object",
+    "name": "Hunter's Trophy",
+    "path": "trophysilver"
+  },
+  {
+    "desc": "An uncomfortable-looking chair.",
+    "file": "tungstenchair.object",
+    "name": "Metal Folding Chair",
+    "path": "tungstenchair"
+  },
+  {
+    "desc": "Once used to broadcast a video signal.",
+    "file": "tvstation.object",
+    "name": "TV Station",
+    "path": "tvstation"
+  },
+  {
+    "desc": "This vent clangs as air whistles through.",
+    "file": "vent.object",
+    "name": "Air Vent",
+    "path": "vent"
+  },
+  {
+    "desc": "A material dispensing pod.",
+    "file": "volcanopod.object",
+    "name": "Dispensing Pod",
+    "path": "volcanopod"
+  },
+  {
+    "desc": "A heavy duty chest for storing weapons.",
+    "file": "weaponchest.object",
+    "name": "Weapon Chest",
+    "path": "weaponchest"
+  },
+  {
+    "desc": "A pretty white flower in a pot.",
+    "file": "wflowerpot.object",
+    "name": "White Flower",
+    "path": "wflowerpot"
+  },
+  {
+    "desc": "Hollow bamboo strung together to make a wind chime.",
+    "file": "windchime.object",
+    "name": "Bamboo Wind Chime",
+    "path": "windchime"
+  },
+  {
+    "desc": "A basic wooden chair.",
+    "file": "woodchair.object",
+    "name": "Wooden Padded Chair",
+    "path": "woodchair"
+  },
+  {
+    "desc": "A manufactured paneled door.",
+    "file": "wooddoor.object",
+    "name": "Paneled Door",
+    "path": "wooddoor"
+  },
+  {
+    "desc": "A comfy wooden armchair.",
+    "file": "woodenarmchair1.object",
+    "name": "Wooden Armchair",
+    "path": "woodenarmchair1"
+  },
+  {
+    "desc": "A luxurious armchair.",
+    "file": "woodenarmchair2.object",
+    "name": "Soft Armchair",
+    "path": "woodenarmchair2"
+  },
+  {
+    "desc": "A comfy wooden bed.",
+    "file": "woodenbed.object",
+    "name": "Wooden Bed",
+    "path": "woodenbed"
+  },
+  {
+    "desc": "A comfy wooden bed with a headboard.",
+    "file": "woodenbed2.object",
+    "name": "Wooden Bed",
+    "path": "woodenbed2"
+  },
+  {
+    "desc": "A tall wooden bookcase full of books.",
+    "file": "woodenbookcase.object",
+    "name": "Wooden Bookcase",
+    "path": "woodenbookcase"
+  },
+  {
+    "desc": "A sturdy wooden cabinet.",
+    "file": "woodencabinet1.object",
+    "name": "Double Wooden Cabinet",
+    "path": "woodencabinet1"
+  },
+  {
+    "desc": "A sturdy wooden cabinet.",
+    "file": "woodencabinet2.object",
+    "name": "Tall Wooden Cabinet",
+    "path": "woodencabinet2"
+  },
+  {
+    "desc": "A sturdy wooden cabinet.",
+    "file": "woodencabinet3.object",
+    "name": "Wide Wooden Cabinet",
+    "path": "woodencabinet3"
+  },
+  {
+    "desc": "A sturdy suspended bookshelf.",
+    "file": "woodenceilingbookcase1.object",
+    "name": "Wall Bookshelf",
+    "path": "woodenceilingbookcase1"
+  },
+  {
+    "desc": "A sturdy suspended cabinet.",
+    "file": "woodenceilingcabinet1.object",
+    "name": "Double Wall Cabinet",
+    "path": "woodenceilingcabinet1"
+  },
+  {
+    "desc": "A sturdy suspended cabinet.",
+    "file": "woodenceilingcabinet2.object",
+    "name": "Single Wall Cabinet",
+    "path": "woodenceilingcabinet2"
+  },
+  {
+    "desc": "An uncomfortable-looking wooden chair.",
+    "file": "woodenchair.object",
+    "name": "Wooden Chair",
+    "path": "woodenchair"
+  },
+  {
+    "desc": "A basic wooden chest.",
+    "file": "woodenchest.object",
+    "name": "Wooden Chest",
+    "path": "woodenchest"
+  },
+  {
+    "desc": "A comfy wooden couch, the stripes help it go faster.",
+    "file": "woodencouch1.object",
+    "name": "Wooden Couch",
+    "path": "woodencouch1"
+  },
+  {
+    "desc": "A fluffy two-seater couch.",
+    "file": "woodencouch2.object",
+    "name": "Soft Couch",
+    "path": "woodencouch2"
+  },
+  {
+    "desc": "A mysterious wooden crate.",
+    "file": "woodencrate1.object",
+    "name": "Wooden Crate",
+    "path": "woodencrate1"
+  },
+  {
+    "desc": "A mysterious wooden crate.",
+    "file": "woodencrate2.object",
+    "name": "Large Wooden Crate",
+    "path": "woodencrate2"
+  },
+  {
+    "desc": "An expensive-looking wooden desk.",
+    "file": "woodendesk.object",
+    "name": "Wooden Desk",
+    "path": "woodendesk"
+  },
+  {
+    "desc": "A crude wooden door. Not very secure.",
+    "file": "woodendoor.object",
+    "name": "Wooden Door",
+    "path": "woodendoor"
+  },
+  {
+    "desc": "This simple wooden elevator operates on a pulley system.",
+    "file": "woodenelevatorlong.object",
+    "name": "Long Wooden Elevator",
+    "path": "woodenelevator"
+  },
+  {
+    "desc": "This simple wooden elevator operates on a pulley system.",
+    "file": "woodenelevatorshort.object",
+    "name": "Short Wooden Elevator",
+    "path": "woodenelevator"
+  },
+  {
+    "desc": "A cute wooden end table.",
+    "file": "woodenendtable.object",
+    "name": "Wooden End Table",
+    "path": "woodenendtable"
+  },
+  {
+    "desc": "A crude wooden gate. Not very secure.",
+    "file": "woodengate.object",
+    "name": "Wooden Gate",
+    "path": "woodengate"
+  },
+  {
+    "desc": "A cute wooden lamp.",
+    "file": "woodenlamp1.object",
+    "name": "Wooden Table Lamp",
+    "path": "woodenlamp1"
+  },
+  {
+    "desc": "A tall wooden lamp with a homely feel.",
+    "file": "woodenlamp2.object",
+    "name": "Wooden Standing Lamp",
+    "path": "woodenlamp2"
+  },
+  {
+    "desc": "A homely ceiling lamp.",
+    "file": "woodenlamp3.object",
+    "name": "Wooden Ceiling Lamp",
+    "path": "woodenlamp3"
+  },
+  {
+    "desc": "A wooden cabinet with a sink installed.",
+    "file": "woodensink.object",
+    "name": "Wooden Sink",
+    "path": "woodensink"
+  },
+  {
+    "desc": "A thin solid wooden stand.",
+    "file": "woodenstand1.object",
+    "name": "Thin Wooden Stand",
+    "path": "woodenstand1"
+  },
+  {
+    "desc": "A wide solid wooden stand.",
+    "file": "woodenstand2.object",
+    "name": "Wide Wooden Stand",
+    "path": "woodenstand2"
+  },
+  {
+    "desc": "A large flickering torch warms the air around it.",
+    "file": "woodentalllantern.object",
+    "name": "Tall Wooden Torch",
+    "path": "woodentalllantern"
+  },
+  {
+    "desc": "A small wooden stool.",
+    "file": "woodstool.object",
+    "name": "Wooden Stool",
+    "path": "woodstool"
+  },
+  {
+    "desc": "A worn wooden support.",
+    "file": "woodsupport.object",
+    "name": "Wooden Support",
+    "path": "woodsupport"
+  },
+  {
+    "desc": "A basic wooden table.",
+    "file": "woodtable.object",
+    "name": "Wooden Table",
+    "path": "woodtable"
+  },
+  {
+    "desc": "A wooden toilet. ",
+    "file": "woodtoilet.object",
+    "name": "Wooden Toilet",
+    "path": "woodtoilet"
+  },
+  {
+    "desc": "A crude wooden hatch.",
+    "file": "woodenverticaldoor.object",
+    "name": "Wooden Hatch",
+    "path": "woodverticaldoor"
+  },
+  {
+    "desc": "A statue of a worm. But where's the hook?",
+    "file": "wormstatue.object",
+    "name": "Stone Worm Statue",
+    "path": "wormstatue"
+  }
+]

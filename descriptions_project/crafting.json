@@ -1,0 +1,134 @@
+[
+  {
+    "desc": "This machine can reorganize pixels into almost any shape.",
+    "file": "3dprinter.object",
+    "name": "^orange;Pixel Printer^white;",
+    "path": "3dprinter"
+  },
+  {
+    "desc": "Embers dance away from the campfire, warming the air. The heat can be used for cooking.",
+    "file": "campfire.object",
+    "name": "^orange;Campfire^white;",
+    "path": "campfire"
+  },
+  {
+    "desc": "Used to produce capture pods, healing stations and other pet related items.",
+    "file": "capturestation.object",
+    "name": "^orange;Pet Station^white;",
+    "path": "capturestation"
+  },
+  {
+    "desc": "Used to make fossil excavation tools and display cases.",
+    "file": "fossilstation.object",
+    "name": "^orange;Fossil Station^white;",
+    "path": "fossilstation"
+  },
+  {
+    "desc": "Can be used to produce armour and weapons.",
+    "file": "ironanvil.object",
+    "name": "^orange;Iron Anvil^white;",
+    "path": "ironanvil"
+  },
+  {
+    "desc": "One could build some very sophisticated equipment on this table.",
+    "file": "ironcraftingtable.object",
+    "name": "^orange;Iron Crafting Table^white;",
+    "path": "ironcraftingtable"
+  },
+  {
+    "desc": "The creature healing station is used to heal captured creatures.",
+    "file": "pethealingstation.object",
+    "name": "^orange;Pet Healing Station^white;",
+    "path": "pethealingstation"
+  },
+  {
+    "desc": "Compress pixels for storage.",
+    "file": "pixelcompressor.object",
+    "name": "^orange;Pixel Compressor^white;",
+    "path": "pixelcompressor"
+  },
+  {
+    "desc": "Used to produce rails, rail riding items and related objects.",
+    "file": "railcraftingtable.object",
+    "name": "^orange;Rail Crafting Table^white;",
+    "path": "railcraftingtable"
+  },
+  {
+    "desc": "The refinery is used to produce raw pixels from ores.",
+    "file": "refinery.object",
+    "name": "^orange;Refinery^white;",
+    "path": "refinery"
+  },
+  {
+    "desc": "The anvil is used to produce armour and weapons from fabric and ores.",
+    "file": "craftinganvil.object",
+    "name": "^orange;Anvil^white;",
+    "path": "upgradeablecraftingobjects\\craftinganvil"
+  },
+  {
+    "desc": "A module that adds additional ranged equipment and armour to the replicator.",
+    "file": "acceleratoraddon.object",
+    "name": "^orange;Accelerator Addon^white;",
+    "path": "upgradeablecraftingobjects\\craftinganvil\\addons\\acceleratoraddon"
+  },
+  {
+    "desc": "A module that adds additional high-tech combat equipment and armour to the replicator.",
+    "file": "manipulatoraddon.object",
+    "name": "^orange;Manipulator Addon^white;",
+    "path": "upgradeablecraftingobjects\\craftinganvil\\addons\\manipulatoraddon"
+  },
+  {
+    "desc": "A module that adds additional melee equipment and armour to the replicator.",
+    "file": "separatoraddon.object",
+    "name": "^orange;Separator Addon^white;",
+    "path": "upgradeablecraftingobjects\\craftinganvil\\addons\\separatoraddon"
+  },
+  {
+    "desc": "Used to produce items for hunting, mining and farming.",
+    "file": "craftingfarm.object",
+    "name": "^orange;Foraging Table^white;",
+    "path": "upgradeablecraftingobjects\\craftingfarm"
+  },
+  {
+    "desc": "Used to turn ores and other materials into crafting ingredients.",
+    "file": "craftingfurnace.object",
+    "name": "^orange;Primitive Furnace^white;",
+    "path": "upgradeablecraftingobjects\\craftingfurnace"
+  },
+  {
+    "desc": "Can be used to produce materials and objects needed to build a settlement.",
+    "file": "craftingfurniture.object",
+    "name": "^orange;Wooden Workbench^white;",
+    "path": "upgradeablecraftingobjects\\craftingfurniture"
+  },
+  {
+    "desc": "The apothecary is used to produce healing items and medicine.",
+    "file": "craftingmedical.object",
+    "name": "^orange;Apothecary^white;",
+    "path": "upgradeablecraftingobjects\\craftingmedical"
+  },
+  {
+    "desc": "The spinning wheel is used to produce clothing, fabrics and other crafting ingredients.",
+    "file": "craftingwheel.object",
+    "name": "^orange;Spinning Wheel^white;",
+    "path": "upgradeablecraftingobjects\\craftingwheel"
+  },
+  {
+    "desc": "The inventor's table is used to produce various crafting stations.",
+    "file": "inventorstable.object",
+    "name": "^orange;Inventor's Table^white;",
+    "path": "upgradeablecraftingobjects\\inventorstable"
+  },
+  {
+    "desc": "Used to produce complex wiring components.",
+    "file": "wiringstation.object",
+    "name": "^orange;Wiring Station^white;",
+    "path": "wiringstation"
+  },
+  {
+    "desc": "Used to produce wholesome foods with a variety of effects.",
+    "file": "woodencookingtable.object",
+    "name": "^orange;Kitchen Counter^white;",
+    "path": "woodencookingtable"
+  }
+]

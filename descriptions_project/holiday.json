@@ -1,0 +1,272 @@
+[
+  {
+    "desc": "A festive pink box with a bow on top.",
+    "file": "bigpresent.object",
+    "name": "Big Present",
+    "path": "bigpresent"
+  },
+  {
+    "desc": "A synthetic tree decorated with strings of lights and festive ornaments.",
+    "file": "decoratedtree.object",
+    "name": "Decorated Tree",
+    "path": "decoratedtree"
+  },
+  {
+    "desc": "A four-sided spinning top. There are curious symbols on each side.",
+    "file": "dreidel.object",
+    "name": "Dreidel",
+    "path": "dreidel"
+  },
+  {
+    "desc": "A large pair of decorative bells. Just the thing to get one into the holiday spirit!",
+    "file": "giantbells.object",
+    "name": "Giant Holiday Bells",
+    "path": "giantbells"
+  },
+  {
+    "desc": "A decorative red bow.",
+    "file": "giantbow1.object",
+    "name": "Big Red Bow",
+    "path": "giantbow1"
+  },
+  {
+    "desc": "A decorative red bow.",
+    "file": "giantbow2.object",
+    "name": "Shiny Red Bow",
+    "path": "giantbow2"
+  },
+  {
+    "desc": "He sees you when you're sleeping! He knows when you're awake!",
+    "file": "giantsanta.object",
+    "name": "Jetpack Santa Statue",
+    "path": "giantsanta"
+  },
+  {
+    "desc": "A huge snowflake decoration.",
+    "file": "giantsnowflake.object",
+    "name": "Giant Snowflake",
+    "path": "giantsnowflake"
+  },
+  {
+    "desc": "A festive pink box with a bow on top. There's something odd about it.",
+    "file": "giftmonsterbox.object",
+    "name": "Big Unusual Gift Box",
+    "path": "giftmonsterbox"
+  },
+  {
+    "desc": "A festive pink box with a bow on top. There's something odd about it.",
+    "file": "giftmonstersmallbox.object",
+    "name": "Small Unusual Gift Box",
+    "path": "giftmonsterbox"
+  },
+  {
+    "desc": "A golden ball. These are popular as holiday ornaments.",
+    "file": "goldball.object",
+    "name": "Gold Ball Holiday Ornament",
+    "path": "goldball"
+  },
+  {
+    "desc": "A decorative green candy cane.",
+    "file": "greencandycane1.object",
+    "name": "Green Candy Cane",
+    "path": "greencandycane1"
+  },
+  {
+    "desc": "A decorative green candy cane. It's crooked.",
+    "file": "greencandycane2.object",
+    "name": "Crooked Candy Cane",
+    "path": "greencandycane2"
+  },
+  {
+    "desc": "A decorative green candy cane. It's crooked.",
+    "file": "greencandycane3.object",
+    "name": "Crooked Candy Cane",
+    "path": "greencandycane3"
+  },
+  {
+    "desc": "A big, delicious green gumdrop! Yummy!",
+    "file": "greengumdrop1.object",
+    "name": "Big Green Gumdrop",
+    "path": "greengumdrop1"
+  },
+  {
+    "desc": "A giant, delicious green gumdrop! Yummy!",
+    "file": "greengumdrop2.object",
+    "name": "Giant Green Gumdrop",
+    "path": "greengumdrop2"
+  },
+  {
+    "desc": "Just the thing for making a gift to show someone you care.",
+    "file": "heartforge.object",
+    "name": "Heart Forge",
+    "path": "heartforge"
+  },
+  {
+    "desc": "A set of candles.",
+    "file": "holidaycandles.object",
+    "name": "Festive Candles",
+    "path": "holidaycandles"
+  },
+  {
+    "desc": "For all your holiday crafting needs!",
+    "file": "holidaycraftingtable.object",
+    "name": "Toymaker's Table",
+    "path": "holidaycraftingtable"
+  },
+  {
+    "desc": "A string of small, twinkling fairy lights.",
+    "file": "holidaylights.object",
+    "name": "Fairy Lights",
+    "path": "holidaylights"
+  },
+  {
+    "desc": "A holiday pole! Its festively striped.",
+    "file": "holidaypole.object",
+    "name": "Holiday Pole",
+    "path": "holidaypole"
+  },
+  {
+    "desc": "Nothing like a bit of holly to make you feel jolly!",
+    "file": "holly.object",
+    "name": "Decorative Holly",
+    "path": "holly"
+  },
+  {
+    "desc": "A giant swirly lollipop! Sweet!",
+    "file": "lollipop1.object",
+    "name": "Giant Lollipop",
+    "path": "lollipop1"
+  },
+  {
+    "desc": "A big lollipop! Sweet!",
+    "file": "lollipop2.object",
+    "name": "Giant Lollipop",
+    "path": "lollipop2"
+  },
+  {
+    "desc": "A warm holiday glow.",
+    "file": "menorah.object",
+    "name": "Menorah",
+    "path": "menorah"
+  },
+  {
+    "desc": "A present! It's wrapped in teal paper with a gold ribbon!",
+    "file": "present1.object",
+    "name": "Teal Present",
+    "path": "present1"
+  },
+  {
+    "desc": "A present! It's wrapped in red paper with a gold ribbon!",
+    "file": "present2.object",
+    "name": "Red Present",
+    "path": "present2"
+  },
+  {
+    "desc": "A present! It's wrapped in blue paper with a gold ribbon!",
+    "file": "present3.object",
+    "name": "Blue Present",
+    "path": "present3"
+  },
+  {
+    "desc": "A present! It's wrapped in green-coloured paper with a gold ribbon!",
+    "file": "present4.object",
+    "name": "Green Present",
+    "path": "present4"
+  },
+  {
+    "desc": "A big, delicious purple gumdrop! Yummy!",
+    "file": "purplegumdrop1.object",
+    "name": "Big Purple Gumdrop",
+    "path": "purplegumdrop1"
+  },
+  {
+    "desc": "A giant, delicious purple gumdrop! Yummy!",
+    "file": "purplegumdrop2.object",
+    "name": "Giant Purple Gumdrop",
+    "path": "purplegumdrop2"
+  },
+  {
+    "desc": "A red ball adorned with a big white star! These are popular as holiday ornaments.",
+    "file": "redball.object",
+    "name": "Red Ball Holiday Ornament",
+    "path": "redball"
+  },
+  {
+    "desc": "A decorative red candy cane.",
+    "file": "redcandycane1.object",
+    "name": "Red Candy Cane",
+    "path": "redcandycane1"
+  },
+  {
+    "desc": "A decorative red candy cane. It's crooked.",
+    "file": "redcandycane2.object",
+    "name": "Crooked Candy Cane",
+    "path": "redcandycane2"
+  },
+  {
+    "desc": "A decorative red candy cane. It's broken.",
+    "file": "redcandycane3.object",
+    "name": "Broken Candy Cane",
+    "path": "redcandycane3"
+  },
+  {
+    "desc": "A big, delicious red gumdrop! Yummy!",
+    "file": "redgumdrop1.object",
+    "name": "Big Red Gumdrop",
+    "path": "redgumdrop1"
+  },
+  {
+    "desc": "A giant, delicious red gumdrop! Yummy!",
+    "file": "redgumdrop2.object",
+    "name": "Giant Red Gumdrop",
+    "path": "redgumdrop2"
+  },
+  {
+    "desc": "This colourful sleigh has a big rocket engine on the back! Who needs reindeer, right?",
+    "file": "scifisleigh.object",
+    "name": "Holiday Rocket Sleigh",
+    "path": "scifisleigh"
+  },
+  {
+    "desc": "A small red bow.",
+    "file": "smallbow.object",
+    "name": "Little Red Bow",
+    "path": "smallbow"
+  },
+  {
+    "desc": "A tiny synthetic fir tree.",
+    "file": "smallholidaytree.object",
+    "name": "Small Faux Fir Tree",
+    "path": "smallholidaytree"
+  },
+  {
+    "desc": "A small snowflake decoration.",
+    "file": "smallsnowflake.object",
+    "name": "Small Snowflake",
+    "path": "smallsnowflake"
+  },
+  {
+    "desc": "A fuzzy red stocking. A little too big for anyone's foot.",
+    "file": "stocking1.object",
+    "name": "Red Stocking",
+    "path": "stocking1"
+  },
+  {
+    "desc": "A fuzzy red stocking. A little too big for anyone's foot.",
+    "file": "stocking2.object",
+    "name": "Crooked Stocking",
+    "path": "stocking2"
+  },
+  {
+    "desc": "A synthetic fir tree.",
+    "file": "undecoratedtree.object",
+    "name": "Faux Fir Tree",
+    "path": "undecoratedtree"
+  },
+  {
+    "desc": "Fairy lights that spell out 'waz', whatever that means.",
+    "file": "wazlights.object",
+    "name": "Waz Lights",
+    "path": "wazlights"
+  }
+]

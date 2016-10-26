@@ -1,0 +1,68 @@
+[
+  {
+    "desc": "This ancient teleporter no longer functions.",
+    "file": "arkdestinationteleporter.object",
+    "name": "Broken Ark Teleporter",
+    "path": "arkdestinationteleporter"
+  },
+  {
+    "desc": "This teleporter should get you back to the Ark.",
+    "file": "arkteleporter.object",
+    "name": "Ark Teleporter",
+    "path": "arkteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "blackteleporter.object",
+    "name": "Executive Teleporter",
+    "path": "blackteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "brassteleporter.object",
+    "name": "Brass Teleporter",
+    "path": "brassteleporter"
+  },
+  {
+    "desc": "This teleporter will get you back to the ship when you're ready to leave.",
+    "file": "exitteleporter.object",
+    "name": "Exit Teleporter",
+    "path": "exitteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "futureteleporter.object",
+    "name": "Futuristic Teleporter",
+    "path": "futureteleporter"
+  },
+  {
+    "desc": "This teleporter should get you back to the Outpost.",
+    "file": "returnoutpostteleporter.object",
+    "name": "Outpost Teleporter",
+    "path": "returnoutpostteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "scienceteleporter.object",
+    "name": "Scientific Teleporter",
+    "path": "scienceteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "stoneteleporter.object",
+    "name": "Stone Teleporter",
+    "path": "stoneteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "tombteleporter.object",
+    "name": "Tomb Teleporter",
+    "path": "tombteleporter"
+  },
+  {
+    "desc": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "file": "woodenteleporter.object",
+    "name": "Wooden Teleporter",
+    "path": "woodenteleporter"
+  }
+]

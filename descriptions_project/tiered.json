@@ -1,0 +1,152 @@
+[
+  {
+    "desc": "A common iron bed.",
+    "file": "tier1bed.object",
+    "name": "Iron Bed",
+    "path": "tier1bed"
+  },
+  {
+    "desc": "A simple iron chair.",
+    "file": "tier1chair.object",
+    "name": "Iron Chair",
+    "path": "tier1chair"
+  },
+  {
+    "desc": "A basic iron door.",
+    "file": "tier1door.object",
+    "name": "Iron Door",
+    "path": "tier1door"
+  },
+  {
+    "desc": "A handy oil lantern. Careful not to spill it.",
+    "file": "tier1light.object",
+    "name": "Iron Lantern",
+    "path": "tier1light"
+  },
+  {
+    "desc": "This soft light is useful for illuminating small areas.",
+    "file": "tier1spotlight.object",
+    "name": "Iron Spotlight",
+    "path": "tier1spotlight"
+  },
+  {
+    "desc": "A sturdy iron lever. Perfect for pulling.",
+    "file": "tier1switch.object",
+    "name": "Iron Lever",
+    "path": "tier1switch"
+  },
+  {
+    "desc": "A simple iron table.",
+    "file": "tier1table.object",
+    "name": "Iron Table",
+    "path": "tier1table"
+  },
+  {
+    "desc": "A common tungsten bed.",
+    "file": "tier2bed.object",
+    "name": "Tungsten Bed",
+    "path": "tier2bed"
+  },
+  {
+    "desc": "A simple tungsten chair.",
+    "file": "tier2chair.object",
+    "name": "Tungsten Chair",
+    "path": "tier2chair"
+  },
+  {
+    "desc": "A basic tungsten door.",
+    "file": "tier2door.object",
+    "name": "Tungsten Door",
+    "path": "tier2door"
+  },
+  {
+    "desc": "A simple tungsten lamp.",
+    "file": "tier2light.object",
+    "name": "Tungsten Light",
+    "path": "tier2light"
+  },
+  {
+    "desc": "A robust tungesten lever. Demands to be pulled.",
+    "file": "tier2switch.object",
+    "name": "Tungsten Lever",
+    "path": "tier2switch"
+  },
+  {
+    "desc": "A basic tungsten table.",
+    "file": "tier2table.object",
+    "name": "Tungsten Table",
+    "path": "tier2table"
+  },
+  {
+    "desc": "A comfortable titanium bed. Looks pretty sleek.",
+    "file": "tier3bed.object",
+    "name": "Titanium Bed",
+    "path": "tier3bed"
+  },
+  {
+    "desc": "A comfortable titanium chair.",
+    "file": "tier3chair.object",
+    "name": "Titanium Chair",
+    "path": "tier3chair"
+  },
+  {
+    "desc": "A strong titanium door.",
+    "file": "tier3door.object",
+    "name": "Titanium Door",
+    "path": "tier3door"
+  },
+  {
+    "desc": "A glowing titanium light.",
+    "file": "tier3light.object",
+    "name": "Titanium Light",
+    "path": "tier3light"
+  },
+  {
+    "desc": "A titanium control console. Press all the buttons!",
+    "file": "tier3switch.object",
+    "name": "Titanium Console",
+    "path": "tier3switch"
+  },
+  {
+    "desc": "A stylish titanium table.",
+    "file": "tier3table.object",
+    "name": "Titanium Table",
+    "path": "tier3table"
+  },
+  {
+    "desc": "A comfortable durasteel bed. Looks pretty sleek.",
+    "file": "tier4bed.object",
+    "name": "Durasteel Bed",
+    "path": "tier4bed"
+  },
+  {
+    "desc": "A comfortable durasteel chair.",
+    "file": "tier4chair.object",
+    "name": "Durasteel Chair",
+    "path": "tier4chair"
+  },
+  {
+    "desc": "A secure durasteel door.",
+    "file": "tier4door.object",
+    "name": "Durasteel Door",
+    "path": "tier4door"
+  },
+  {
+    "desc": "A glowing durasteel light.",
+    "file": "tier4light.object",
+    "name": "Durasteel Light",
+    "path": "tier4light"
+  },
+  {
+    "desc": "A durasteel control console. Press all the buttons!",
+    "file": "tier4switch.object",
+    "name": "Durasteel Console",
+    "path": "tier4switch"
+  },
+  {
+    "desc": "A solid Durasteel table.",
+    "file": "tier4table.object",
+    "name": "Durasteel Table",
+    "path": "tier4table"
+  }
+]

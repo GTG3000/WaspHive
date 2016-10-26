@@ -1,0 +1,152 @@
+[
+  {
+    "desc": "A somewhat suspicious doll of Big Ape.",
+    "file": "bigapedoll.object",
+    "name": "Big Ape Doll",
+    "path": "apex\\bigapedoll"
+  },
+  {
+    "desc": "A disorganised map for locating Big Ape. Whoever drew it was very angry.",
+    "file": "bigapetargetmap.object",
+    "name": "Big Ape Target Map",
+    "path": "apex\\bigapetargetmap"
+  },
+  {
+    "desc": "A computer displaying information downloaded from the drone on top.",
+    "file": "minidronerack.object",
+    "name": "Minidrone Intel Rack",
+    "path": "apex\\minidronerack"
+  },
+  {
+    "desc": "A display cycling through information about Miniknog strongholds.",
+    "file": "miniknogintel1.object",
+    "name": "Miniknog Intel Display",
+    "path": "apex\\miniknogintel1"
+  },
+  {
+    "desc": "A large propaganda newspaper, to be put up where everyone can see.",
+    "file": "miniknognewspaper.object",
+    "name": "Miniknog Newspaper",
+    "path": "apex\\miniknognewspaper"
+  },
+  {
+    "desc": "An old torn map which claims to lead to godly treasures.",
+    "file": "kluexmap1.object",
+    "name": "Kluex Treasure Map",
+    "path": "avian\\kluexmap1"
+  },
+  {
+    "desc": "An ancient mural of the god Kluex.",
+    "file": "kluexmural1.object",
+    "name": "Kluex World Mural",
+    "path": "avian\\kluexmural1"
+  },
+  {
+    "desc": "An ancient mural depicting the gifts given by Kluex to his followers.",
+    "file": "kluexmural2.object",
+    "name": "Kluex Gift Mural",
+    "path": "avian\\kluexmural2"
+  },
+  {
+    "desc": "A statue honouring the history of the Avian god Kluex.",
+    "file": "kluexstatue1.object",
+    "name": "Kluex Winged Statue",
+    "path": "avian\\kluexstatue1"
+  },
+  {
+    "desc": "A statue depicting the might of the deity Kluex.",
+    "file": "kluexstatue2.object",
+    "name": "Kluex Serpentine Statue",
+    "path": "avian\\kluexstatue2"
+  },
+  {
+    "desc": "A display commemorating the spear of a Floran who won a hunting ceremony.",
+    "file": "championspeardisplay.object",
+    "name": "Champion's Spear Display",
+    "path": "floran\\championspeardisplay"
+  },
+  {
+    "desc": "A crude painting of a Floran hunter wielding a spear.",
+    "file": "floranhunterpainting.object",
+    "name": "Primitive Hunter Art",
+    "path": "floran\\floranhunterpainting"
+  },
+  {
+    "desc": "This trophy is a spinneret from some large, web spinning creature.",
+    "file": "floranspinneret.object",
+    "name": "Spinneret Trophy",
+    "path": "floran\\floranspinneret"
+  },
+  {
+    "desc": "This trophy rack is covered in a foul web.",
+    "file": "floranwebbing.object",
+    "name": "Web Rack",
+    "path": "floran\\floranwebbing"
+  },
+  {
+    "desc": "A small insectile creature impaled on a hunting pike.",
+    "file": "ixolingpike.object",
+    "name": "Ixoling Pike",
+    "path": "floran\\ixolingpike"
+  },
+  {
+    "desc": "It's a figurine of a Glitch noble.",
+    "file": "glitchbaronfigure.object",
+    "name": "Glitch Statuette",
+    "path": "glitch\\glitchbaronfigure"
+  },
+  {
+    "desc": "This chess board has custom pieces.",
+    "file": "glitchchess.object",
+    "name": "Themed Chess Table",
+    "path": "glitch\\glitchchess"
+  },
+  {
+    "desc": "This royal decree makes note of a keep, where treasures lay under watchful guard.",
+    "file": "glitchdecree.object",
+    "name": "Royal Decree",
+    "path": "glitch\\glitchdecree"
+  },
+  {
+    "desc": "A ceremonial horn that holds a woven banner.",
+    "file": "glitchhorndisplay.object",
+    "name": "Mounted Horn Banner",
+    "path": "glitch\\glitchhorndisplay"
+  },
+  {
+    "desc": "A wooden desk used by scribes.",
+    "file": "glitchscribe.object",
+    "name": "Scribe's Desk",
+    "path": "glitch\\glitchscribe"
+  },
+  {
+    "desc": "An old poster of some ancient Hylotl library.",
+    "file": "hylotllibraryposter1.object",
+    "name": "Vintage Library Poster",
+    "path": "hylotl\\hylotllibaryposter1"
+  },
+  {
+    "desc": "An intricate handmade music box. The melody it plays is soothing.",
+    "file": "hylotlmusicbox.object",
+    "name": "Decorated Music Box",
+    "path": "hylotl\\hylotlmusicbox"
+  },
+  {
+    "desc": "An ancient tome that catalogues of all the Hylotl books in the galaxy.",
+    "file": "librarycodex.object",
+    "name": "Ancient Library Codex",
+    "path": "hylotl\\librarycodex"
+  },
+  {
+    "desc": "An intricate handmade paper model of a Hylotl library. There's little paper bookcases inside!",
+    "file": "librarymodel.object",
+    "name": "Hylotl Library Model",
+    "path": "hylotl\\librarymodel"
+  },
+  {
+    "desc": "A grand looking aquarium, with a small scale Hylotl pagoda model on top.",
+    "file": "pagodaaquarium.object",
+    "name": "Pagoda Aquarium",
+    "path": "hylotl\\pagodaaquarium"
+  }
+]

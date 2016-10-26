@@ -1,0 +1,26 @@
+[
+  {
+    "desc": "Caps rail endpoints to send riders back the way they came",
+    "file": "railbumper.object",
+    "name": "Rail Bumper",
+    "path": "railbumper"
+  },
+  {
+    "desc": "Detects rail riders as they pass through",
+    "file": "railsensor.object",
+    "name": "Rail Sensor",
+    "path": "railsensor"
+  },
+  {
+    "desc": "Stops and starts rail riders",
+    "file": "railstop.object",
+    "name": "Rail Stop",
+    "path": "railstop"
+  },
+  {
+    "desc": "Directs rail riders to different paths",
+    "file": "railswitch.object",
+    "name": "Rail Switch",
+    "path": "railswitch"
+  }
+]

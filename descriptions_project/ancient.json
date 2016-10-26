@@ -1,0 +1,278 @@
+[
+  {
+    "desc": "The gas released from these chutes makes you feel light as a feather.",
+    "file": "airbooster.object",
+    "name": "Air Booster",
+    "path": "airbooster"
+  },
+  {
+    "desc": "A fearsome ancient chest ornamented with a lidless eye.",
+    "file": "ancientbigchest.object",
+    "name": "Ancient Big Chest",
+    "path": "ancientbigchest"
+  },
+  {
+    "desc": "An ancient chest of unknown origin.",
+    "file": "ancientchest.object",
+    "name": "Ancient Chest",
+    "path": "ancientchest"
+  },
+  {
+    "desc": "This looks like the control panel for the gate. It still seems to work.",
+    "file": "ancientconsole.object",
+    "name": "Ancient Console",
+    "path": "ancientconsole"
+  },
+  {
+    "desc": "This looks like the control panel for the gate. It still seems to work.",
+    "file": "returnconsole.object",
+    "name": "Ancient Console",
+    "path": "ancientconsole"
+  },
+  {
+    "desc": "An ancient-looking door.",
+    "file": "ancientdoor.object",
+    "name": "Ancient Door",
+    "path": "ancientdoor"
+  },
+  {
+    "desc": "A mysterious ancient gate.",
+    "file": "ancientgate.object",
+    "name": "Ancient Gate",
+    "path": "ancientgate"
+  },
+  {
+    "desc": "Something isn't quite right with these bricks.",
+    "file": "ancienthiddenplatform.object",
+    "name": "Ancient Hidden Platform",
+    "path": "ancienthiddenplatform"
+  },
+  {
+    "desc": "A wall light.",
+    "file": "ancientlight.object",
+    "name": "Ancient Wall Light",
+    "path": "ancientlight"
+  },
+  {
+    "desc": "A beam of hard light creating a platform.",
+    "file": "ancientlightplatform.object",
+    "name": "Ancient Light Platform",
+    "path": "ancientlightplatform"
+  },
+  {
+    "desc": "A round wall light.",
+    "file": "ancientlightround.object",
+    "name": "Round Ancient Wall Light",
+    "path": "ancientlightround"
+  },
+  {
+    "desc": "An ancient pillar found near the gates. It produces light.",
+    "file": "ancientpillar.object",
+    "name": "Ancient Pillar",
+    "path": "ancientpillar"
+  },
+  {
+    "desc": "An impossibly old message.",
+    "file": "ancientplaque1.object",
+    "name": "Ancient Plaque",
+    "path": "ancientplaque1"
+  },
+  {
+    "desc": "A temporary prop.",
+    "file": "ancientprop.object",
+    "name": "TODO - Ancient Prop",
+    "path": "ancientprop"
+  },
+  {
+    "desc": "This looks like an ancient control panel. It still seems to work.",
+    "file": "ancientsmallconsole.object",
+    "name": "Ancient Console",
+    "path": "ancientsmallconsole"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight1.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight1"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight10.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight10"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight11.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight11"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight12.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight12"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight13.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight13"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight2.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight2"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight3.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight3"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight4.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight4"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight5.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight5"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight6.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight6"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight7.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight7"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight8.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight8"
+  },
+  {
+    "desc": "A mysterious light.",
+    "file": "ancientstriplight9.object",
+    "name": "Ancient Strip Light",
+    "path": "ancientstriplight9"
+  },
+  {
+    "desc": "This ancient torch flickers softly.",
+    "file": "ancienttorch.object",
+    "name": "Ancient Torch",
+    "path": "ancienttorch"
+  },
+  {
+    "desc": "An ancient vertical hatch doorway.",
+    "file": "ancientverticaldoor.object",
+    "name": "Ancient Hatch",
+    "path": "ancientverticaldoor"
+  },
+  {
+    "desc": "A mysterious doorway leading into an unknown dimension. What could possibly go wrong?",
+    "file": "challengedoor.object",
+    "name": "Challenge Door",
+    "path": "challengedoor"
+  },
+  {
+    "desc": "I sure hope this door will take me back to reality!",
+    "file": "challengereturndoor.object",
+    "name": "Challenge Door",
+    "path": "challengedoor"
+  },
+  {
+    "desc": "An ancient holographic depiction of a mythological scene.",
+    "file": "hologram1.object",
+    "name": "Ancient Hologram",
+    "path": "hologram1"
+  },
+  {
+    "desc": "An ancient holographic depiction of a mythological scene.",
+    "file": "hologram2.object",
+    "name": "Ancient Hologram",
+    "path": "hologram2"
+  },
+  {
+    "desc": "An ancient holographic depiction of a mythological scene.",
+    "file": "hologram3.object",
+    "name": "Ancient Hologram",
+    "path": "hologram3"
+  },
+  {
+    "desc": "An ancient holographic depiction of a mythological scene.",
+    "file": "hologram4.object",
+    "name": "Ancient Hologram",
+    "path": "hologram4"
+  },
+  {
+    "desc": "An ancient holographic depiction of a galaxy.",
+    "file": "hologramgalaxy.object",
+    "name": "Ancient Hologram",
+    "path": "hologramgalaxy"
+  },
+  {
+    "desc": "The gas released from these chutes increase your jumping power.",
+    "file": "jumpbooster.object",
+    "name": "Jump Booster",
+    "path": "jumpbooster"
+  },
+  {
+    "desc": "A huge stone tentacle",
+    "file": "largetentacleprop.object",
+    "name": "Huge Tentacle Statue",
+    "path": "largetentacleprop"
+  },
+  {
+    "desc": "Bright light streaks.",
+    "file": "lightstreaks.object",
+    "name": "Light Streaks",
+    "path": "lightstreaks"
+  },
+  {
+    "desc": "A mysterious ancient gate.",
+    "file": "monolithgate.object",
+    "name": "Monolith Gate",
+    "path": "monolithgate"
+  },
+  {
+    "desc": "A mysterious ancient statue.",
+    "file": "monolithstatue1.object",
+    "name": "Monolith Statue",
+    "path": "monolithstatue1"
+  },
+  {
+    "desc": "A mysterious ancient statue.",
+    "file": "monolithstatue2.object",
+    "name": "Monolith Statue",
+    "path": "monolithstatue2"
+  },
+  {
+    "desc": "The gas released from these chutes increases your destructive power.",
+    "file": "powerbooster.object",
+    "name": "Power Booster",
+    "path": "powerbooster"
+  },
+  {
+    "desc": "Wow, this looks sharp!",
+    "file": "sawblade2.object",
+    "name": "Ancient Saw Trap",
+    "path": "sawblade2"
+  },
+  {
+    "desc": "The gas released from these chutes increases your running speed.",
+    "file": "speedbooster.object",
+    "name": "Speed Booster",
+    "path": "speedbooster"
+  }
+]

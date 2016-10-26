@@ -1,0 +1,146 @@
+[
+  {
+    "desc": "Filth and rust have eaten away at this bed. Thankfully I'm not at all tired.",
+    "file": "wreckbed.object",
+    "name": "Wrecked Bed",
+    "path": "wreckbed"
+  },
+  {
+    "desc": "An old boiler. A dripping echoes from inside.",
+    "file": "wreckboiler.object",
+    "name": "Wrecked Boiler",
+    "path": "wreckboiler"
+  },
+  {
+    "desc": "A filthy chair. Insects skitter in and out of holes in the fabric.",
+    "file": "wreckchair.object",
+    "name": "Wrecked Chair",
+    "path": "wreckchair"
+  },
+  {
+    "desc": "No chance of this thing starting up.",
+    "file": "wreckconsole1.object",
+    "name": "Wrecked Console",
+    "path": "wreckconsole1"
+  },
+  {
+    "desc": "Scratching sounds from the inside... I think something has made a nest in there.",
+    "file": "wreckconsole2.object",
+    "name": "Wrecked Computer",
+    "path": "wreckconsole2"
+  },
+  {
+    "desc": "It looks like an old remote terminal.",
+    "file": "wreckconsole3.object",
+    "name": "Wrecked Terminal",
+    "path": "wreckconsole3"
+  },
+  {
+    "desc": "A antique crate, I wonder what's inside..",
+    "file": "wreckcrate1.object",
+    "name": "Wrecked Crate",
+    "path": "wreckcrate1"
+  },
+  {
+    "desc": "This door is almost rusted shut.",
+    "file": "wreckdoor.object",
+    "name": "Wrecked Door",
+    "path": "wreckdoor"
+  },
+  {
+    "desc": "The stale air produces little more than a creak from this old fan.",
+    "file": "wreckfan.object",
+    "name": "Wrecked Fan",
+    "path": "wreckfan"
+  },
+  {
+    "desc": "Once upon a time, a couple of these things could power a whole ship.",
+    "file": "wreckgenerator.object",
+    "name": "Wrecked Generator",
+    "path": "wreckgenerator"
+  },
+  {
+    "desc": "An old locker. Hey! There's a photo taped to the inside...",
+    "file": "wrecklocker.object",
+    "name": "Wrecked Locker",
+    "path": "wrecklocker"
+  },
+  {
+    "desc": "An old input panel. One of the keys has fallen off.",
+    "file": "wreckpanel1.object",
+    "name": "Wrecked Panel",
+    "path": "wreckpanel1"
+  },
+  {
+    "desc": "An old input panel, probably used to be used for security.",
+    "file": "wreckpanel2.object",
+    "name": "Small Wrecked Panel",
+    "path": "wreckpanel2"
+  },
+  {
+    "desc": "A smashed monitor, not much use now.",
+    "file": "wreckscreen.object",
+    "name": "Wrecked Monitor",
+    "path": "wreckscreen"
+  },
+  {
+    "desc": "A small damaged table.",
+    "file": "wrecksmalltable.object",
+    "name": "Small Wrecked Table",
+    "path": "wrecksmalltable"
+  },
+  {
+    "desc": "A rusty metal support.",
+    "file": "wrecksupport.object",
+    "name": "Wrecked Support",
+    "path": "wrecksupport"
+  },
+  {
+    "desc": "A battered old table. Still operational as far as tables go!",
+    "file": "wrecktable.object",
+    "name": "Wrecked Table",
+    "path": "wrecktable"
+  },
+  {
+    "desc": "A wrecked turbine, completely non-operational.",
+    "file": "wreckturbine2.object",
+    "name": "Wrecked Turbine",
+    "path": "wreckturbine2"
+  },
+  {
+    "desc": "A couple of wrecked turbines caked in dust.",
+    "file": "wreckturbines.object",
+    "name": "Wrecked Turbines",
+    "path": "wreckturbines"
+  },
+  {
+    "desc": "The screen sends out an ominous flickering light.",
+    "file": "wrecktv.object",
+    "name": "Wrecked Screen",
+    "path": "wrecktv"
+  },
+  {
+    "desc": "A smashed vat, the inside is covered in dried slime... Did something break out?",
+    "file": "wreckvat1.object",
+    "name": "Wrecked Vat",
+    "path": "wreckvat1"
+  },
+  {
+    "desc": "This vending machine is empty, I guess the crew had a taste for soda.",
+    "file": "wreckvendingmachine.object",
+    "name": "Wrecked Vending Machine",
+    "path": "wreckvendingmachine"
+  },
+  {
+    "desc": "Stale air whistles through this old vent.",
+    "file": "wreckvent.object",
+    "name": "Wrecked Vent",
+    "path": "wreckvent"
+  },
+  {
+    "desc": "Old wiring, torn apart.",
+    "file": "wreckwiresceiling.object",
+    "name": "Wrecked Hanging Wires",
+    "path": "wreckwiresceiling"
+  }
+]

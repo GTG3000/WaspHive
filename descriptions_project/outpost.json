@@ -1,0 +1,578 @@
+[
+  {
+    "desc": "This shop offers personal teleporters in a variety of styles.",
+    "file": "2stopshop.object",
+    "name": "2 Stop Teleshop",
+    "path": "2stopteleshop"
+  },
+  {
+    "desc": "This would be a neat venue for a stall.",
+    "file": "2stopshopclosed.object",
+    "name": "Closed 2 Stop Teleshop",
+    "path": "2stopteleshop"
+  },
+  {
+    "desc": "This teleporter makes a great demonstration and a handy return point!",
+    "file": "2stoptele.object",
+    "name": "2 Stop Teleshop Teleporter",
+    "path": "2stopteleshop"
+  },
+  {
+    "desc": "A handy hand dryer. Hands off.",
+    "file": "bathroomhanddryer.object",
+    "name": "Bathroom Hand Dryer",
+    "path": "bathroomhanddryer"
+  },
+  {
+    "desc": "A bathroom sink. Wash your hands!",
+    "file": "bathroomsink.object",
+    "name": "Bathroom Sink",
+    "path": "bathroomsink"
+  },
+  {
+    "desc": "A bathroom stall. Don't get stuck!",
+    "file": "bathroomstall.object",
+    "name": "Bathroom Stall",
+    "path": "bathroomstall"
+  },
+  {
+    "desc": "Trash. Just trash. Or is it? Answer: yes.",
+    "file": "bathroomtrash.object",
+    "name": "Rubbish Bin",
+    "path": "bathroomtrash"
+  },
+  {
+    "desc": "Trash. Just trash. Or is it? Answer: yes.",
+    "file": "bathroomtrashquest.object",
+    "name": "Bathroom Trash",
+    "path": "bathroomtrashquest"
+  },
+  {
+    "desc": "A bathroom urinal. Useful for some.",
+    "file": "bathroomurinal.object",
+    "name": "Bathroom Urinal",
+    "path": "bathroomurinal"
+  },
+  {
+    "desc": "A basic bench.",
+    "file": "bench.object",
+    "name": "Bench",
+    "path": "bench"
+  },
+  {
+    "desc": "A coffee machine, for the perfect pick-me-up.",
+    "file": "coffeemachine.object",
+    "name": "Coffee Machine",
+    "path": "coffeemachine"
+  },
+  {
+    "desc": "A customized signboard",
+    "file": "customsign.object",
+    "name": "Sign",
+    "path": "customsign"
+  },
+  {
+    "desc": "A customized signboard",
+    "file": "wiredcustomsign.object",
+    "name": "Sign",
+    "path": "customsign"
+  },
+  {
+    "desc": "A filing cabinet. Sorted.",
+    "file": "filingcabinet.object",
+    "name": "Filing Cabinet",
+    "path": "filingcabinet"
+  },
+  {
+    "desc": "A fire extinguisher. Not for fun and games.",
+    "file": "fireextinguisher.object",
+    "name": "Fire Extinguisher",
+    "path": "fireextinguisher"
+  },
+  {
+    "desc": "Floop marker.",
+    "file": "floop.object",
+    "name": "Floop",
+    "path": "floop"
+  },
+  {
+    "desc": "Floor marker.",
+    "file": "floor.object",
+    "name": "Floor",
+    "path": "floor"
+  },
+  {
+    "desc": "The finest furnishings from around the universe.",
+    "file": "frogfurnishing.object",
+    "name": "Fr\u0413\u00b6gg Furnishing",
+    "path": "frogfurnishing"
+  },
+  {
+    "desc": "This would be a neat venue for a shop.",
+    "file": "frogfurnishingclosed.object",
+    "name": "Closed Fr\u0413\u00b6gg Furnishing",
+    "path": "frogfurnishing"
+  },
+  {
+    "desc": "An intergalactic convenience store. It seems an ideal place to stock up.",
+    "file": "infinityexpress.object",
+    "name": "Infinity Express",
+    "path": "infinityexpress"
+  },
+  {
+    "desc": "Zero marker.",
+    "file": "number0.object",
+    "name": "Zero",
+    "path": "number0"
+  },
+  {
+    "desc": "One marker.",
+    "file": "number1.object",
+    "name": "One",
+    "path": "number1"
+  },
+  {
+    "desc": "Two marker.",
+    "file": "number2.object",
+    "name": "Two",
+    "path": "number2"
+  },
+  {
+    "desc": "Three marker.",
+    "file": "number3.object",
+    "name": "Three",
+    "path": "number3"
+  },
+  {
+    "desc": "Four marker.",
+    "file": "number4.object",
+    "name": "Four",
+    "path": "number4"
+  },
+  {
+    "desc": "Five marker.",
+    "file": "number5.object",
+    "name": "Five",
+    "path": "number5"
+  },
+  {
+    "desc": "Six marker.",
+    "file": "number6.object",
+    "name": "Six",
+    "path": "number6"
+  },
+  {
+    "desc": "Seven marker.",
+    "file": "number7.object",
+    "name": "Seven",
+    "path": "number7"
+  },
+  {
+    "desc": "Eight marker.",
+    "file": "number8.object",
+    "name": "Eight",
+    "path": "number8"
+  },
+  {
+    "desc": "Nine marker.",
+    "file": "number9.object",
+    "name": "Nine",
+    "path": "number9"
+  },
+  {
+    "desc": "This door is made of some sort of bulletproof material.",
+    "file": "outpostairlock.object",
+    "name": "Small Airlock",
+    "path": "outpostairlock"
+  },
+  {
+    "desc": "This door is made of some sort of bulletproof material.",
+    "file": "outpostairlocklarge.object",
+    "name": "Large Airlock",
+    "path": "outpostairlocklarge"
+  },
+  {
+    "desc": "A wobbly bar stool.",
+    "file": "outpostbarstool.object",
+    "name": "Urban Bar Stool",
+    "path": "outpostbarstool"
+  },
+  {
+    "desc": "A basic bed. Not too comfy.",
+    "file": "outpostbed.object",
+    "name": "Basic Metal Bed",
+    "path": "outpostbed"
+  },
+  {
+    "desc": "A button.",
+    "file": "outpostbutton.object",
+    "name": "Wall Mounted Button",
+    "path": "outpostbutton"
+  },
+  {
+    "desc": "A cabinet containing who knows what?",
+    "file": "outpostcabinet.object",
+    "name": "Metal Cabinet",
+    "path": "outpostcabinet"
+  },
+  {
+    "desc": "A crate containing cargo. What cargo? Who knows.",
+    "file": "outpostcargocrate.object",
+    "name": "Metal Cargo Crate",
+    "path": "outpostcargocrate"
+  },
+  {
+    "desc": "A small cargo crate. No doubt it has cargo in it.",
+    "file": "outpostcargocrateshort.object",
+    "name": "Short Metal Cargo Crate",
+    "path": "outpostcargocrateshort"
+  },
+  {
+    "desc": "A metallic light fixture.",
+    "file": "outpostceilinglight.object",
+    "name": "Metal Light Fixture",
+    "path": "outpostceilinglight"
+  },
+  {
+    "desc": "A chair. You sit in it. Yes.",
+    "file": "outpostchair.object",
+    "name": "Padded Metal Chair",
+    "path": "outpostchair"
+  },
+  {
+    "desc": "A control console.",
+    "file": "outpostconsole.object",
+    "name": "Free Standing Console",
+    "path": "outpostconsole"
+  },
+  {
+    "desc": "This counter seems ideal for food preparation.",
+    "file": "outpostcookingtable.object",
+    "name": "Chic Cooking Table",
+    "path": "outpostcookingtable"
+  },
+  {
+    "desc": "A crane. Used for lifting, or swinging from.",
+    "file": "outpostcrane.object",
+    "name": "Large Mechanical Crane",
+    "path": "outpostcrane"
+  },
+  {
+    "desc": "A basic desk.",
+    "file": "outpostdesk.object",
+    "name": "Basic Metal Desk",
+    "path": "outpostdesk"
+  },
+  {
+    "desc": "A fridge. Hopefully filled with tasty, tasty treats.",
+    "file": "outpostfridge.object",
+    "name": "Chic Fridge",
+    "path": "outpostfridge"
+  },
+  {
+    "desc": "A handy power generator.",
+    "file": "outpostgenerator.object",
+    "name": "Power Generator",
+    "path": "outpostgenerator"
+  },
+  {
+    "desc": "A keypad.",
+    "file": "outpostkeypad.object",
+    "name": "Wall Mounted Keypad",
+    "path": "outpostkeypad"
+  },
+  {
+    "desc": "A wall light.",
+    "file": "outpostlamp.object",
+    "name": "LED Wall Light",
+    "path": "outpostlamp"
+  },
+  {
+    "desc": "A wall light.",
+    "file": "outpostlight.object",
+    "name": "Simple Wall Light",
+    "path": "outpostlight"
+  },
+  {
+    "desc": "A locker of unknown ownership.",
+    "file": "outpostlocker.object",
+    "name": "Basic Metal Locker",
+    "path": "outpostlocker"
+  },
+  {
+    "desc": "A microwave. For when you're hungry enough to nuke your food.",
+    "file": "outpostmicrowave.object",
+    "name": "Microwave Oven",
+    "path": "outpostmicrowave"
+  },
+  {
+    "desc": "A monitor. But who monitors the monitor?",
+    "file": "outpostmonitor.object",
+    "name": "Wall Mounted Monitor",
+    "path": "outpostmonitor"
+  },
+  {
+    "desc": "A computer. Probably quite a good one.",
+    "file": "outpostpc.object",
+    "name": "Desktop PC",
+    "path": "outpostpc"
+  },
+  {
+    "desc": "A chair that anyone can sit on!",
+    "file": "outpostpublicchair.object",
+    "name": "Public Chair",
+    "path": "outpostpublicchair"
+  },
+  {
+    "desc": "A radar dish. Not to be confused with a salad dish.",
+    "file": "outpostradardish.object",
+    "name": "Large Radar Dish",
+    "path": "outpostradardish"
+  },
+  {
+    "desc": "A security console. For keeping things secure.",
+    "file": "outpostsecurityconsole.object",
+    "name": "Standing Security Console",
+    "path": "outpostsecurityconsole"
+  },
+  {
+    "desc": "A service panel.",
+    "file": "outpostservicepanel.object",
+    "name": "Service Panel",
+    "path": "outpostservicepanel"
+  },
+  {
+    "desc": "A shipping container. Probably doesn't contain a ship.",
+    "file": "outpostshippingcontainer.object",
+    "name": "Large Shipping Container",
+    "path": "outpostshippingcontainer"
+  },
+  {
+    "desc": "This sliding door makes me feel like I'm in a sci-fi game...",
+    "file": "outpostslidingdoor.object",
+    "name": "Sleek Sliding Door",
+    "path": "outpostslidingdoor"
+  },
+  {
+    "desc": "A small monitor. But what does it display?",
+    "file": "outpostsmallmonitor.object",
+    "name": "Small Mounted Monitor",
+    "path": "outpostsmallmonitor"
+  },
+  {
+    "desc": "A standing desk. Good for the posture.",
+    "file": "outpoststandingdesk.object",
+    "name": "Standing Desk",
+    "path": "outpoststandingdesk"
+  },
+  {
+    "desc": "A table. Perfect for tabletop gaming. Or eating.",
+    "file": "outposttable.object",
+    "name": "Basic Metal Table",
+    "path": "outposttable"
+  },
+  {
+    "desc": "A tank of unknown use.",
+    "file": "outposttank.object",
+    "name": "Large Metal Tank",
+    "path": "outposttank"
+  },
+  {
+    "desc": "A terminal. Useful, probably.",
+    "file": "outpostterminal.object",
+    "name": "Basic Terminal",
+    "path": "outpostterminal"
+  },
+  {
+    "desc": "A bar fit for a penguin.",
+    "file": "penguinbarbottom.object",
+    "name": "Penguin Bar",
+    "path": "penguinbar"
+  },
+  {
+    "desc": "A bar fit for a penguin.",
+    "file": "penguinbartop.object",
+    "name": "Penguin Bar Top",
+    "path": "penguinbar"
+  },
+  {
+    "desc": "A bar fit for a Penguin.",
+    "file": "penguinbartop2.object",
+    "name": "Penguin Bar Top",
+    "path": "penguinbar"
+  },
+  {
+    "desc": "A metallic ceiling lamp.",
+    "file": "penguinbarlamp.object",
+    "name": "Penguin Bar Lamp",
+    "path": "penguinbarlamp"
+  },
+  {
+    "desc": "It's entrancing. I can't look away.",
+    "file": "penguinbarsign.object",
+    "name": "Penguin Bar Sign",
+    "path": "penguinbarsign"
+  },
+  {
+    "desc": "This place is selling counterfeit ship licenses.",
+    "file": "penguinbay.object",
+    "name": "Penguin Bay",
+    "path": "penguinbay"
+  },
+  {
+    "desc": "This would be a neat venue for a shop.",
+    "file": "penguinbayclosed.object",
+    "name": "Closed Penguin Bay",
+    "path": "penguinbay"
+  },
+  {
+    "desc": "Offers upgrades to rare weapons.",
+    "file": "penguinweaponshop.object",
+    "name": "Biggy's Reputable Weaponry",
+    "path": "penguinweaponshop"
+  },
+  {
+    "desc": "This would be a neat venue for a shop.",
+    "file": "penguinweaponshopclosed.object",
+    "name": "Closed Biggy's Reputable Weapons",
+    "path": "penguinweaponshop"
+  },
+  {
+    "desc": "A fake plastic plant. Not a tree.",
+    "file": "plasticplant.object",
+    "name": "Plastic Plant",
+    "path": "plasticplant"
+  },
+  {
+    "desc": "It's a Rob Repairo, A mechanical merchant who repairs lost or broken vehicles.",
+    "file": "repairo.object",
+    "name": "Rob Repairo",
+    "path": "repairo"
+  },
+  {
+    "desc": "A vent.",
+    "file": "roofvent.object",
+    "name": "Roof Vent",
+    "path": "roofvent"
+  },
+  {
+    "desc": "A shady looking captain.",
+    "file": "shipyardcaptain.object",
+    "name": "Shipyard Captain",
+    "path": "shipyardcaptain"
+  },
+  {
+    "desc": "It's a collection of ship parts.",
+    "file": "shipyardjunk.object",
+    "name": "Shipyard Junk",
+    "path": "shipyardjunk"
+  },
+  {
+    "desc": "He looks busy.",
+    "file": "shipyardwelding.object",
+    "name": "Welding Penguin",
+    "path": "shipyardwelding"
+  },
+  {
+    "desc": "This cabinet is where the signs come out. Maybe I can put one in?",
+    "file": "signdispenser.object",
+    "name": "EASEL Cabinet",
+    "path": "signstore"
+  },
+  {
+    "desc": "The Elegantly Automatic Sign Engineering Lithographer.",
+    "file": "signstore.object",
+    "name": "EASEL",
+    "path": "signstore"
+  },
+  {
+    "desc": "This would be a neat venue for a stall.",
+    "file": "signstoreclosed.object",
+    "name": "Closed Sign Store",
+    "path": "signstore"
+  },
+  {
+    "desc": "Tech lab equipment.",
+    "file": "techlab.object",
+    "name": "Tech Lab",
+    "path": "techlab"
+  },
+  {
+    "desc": "Purchase tech consoles using this interface.",
+    "file": "techlabconsole1.object",
+    "name": "Tech Console Dispenser",
+    "path": "techlab"
+  },
+  {
+    "desc": "Offline tech console dispenser.",
+    "file": "techlabconsole1offline.object",
+    "name": "Tech Console Dispenser",
+    "path": "techlab"
+  },
+  {
+    "desc": "Equip your tech on this console.",
+    "file": "techlabconsole2.object",
+    "name": "Equip Tech Console",
+    "path": "techlab"
+  },
+  {
+    "desc": "Tech lab hologram",
+    "file": "techlabhologram.object",
+    "name": "Tech Lab Interface",
+    "path": "techlab"
+  },
+  {
+    "desc": "Tech lab scientist.",
+    "file": "techlabscientist.object",
+    "name": "Tech Lab Scientist",
+    "path": "techlab"
+  },
+  {
+    "desc": "Tech lab scientist shop.",
+    "file": "techlabscientistshop.object",
+    "name": "Tech Lab Shop",
+    "path": "techlab"
+  },
+  {
+    "desc": "A cute little teddy bear.",
+    "file": "teddybearplush.object",
+    "name": "Teddy Bear",
+    "path": "teddybearplush"
+  },
+  {
+    "desc": "For all your farming and terraforming needs!",
+    "file": "terramart.object",
+    "name": "Terramart",
+    "path": "terramart"
+  },
+  {
+    "desc": "This would be a neat venue for a shop.",
+    "file": "terramartclosed.object",
+    "name": "Closed Terra Mart",
+    "path": "terramart"
+  },
+  {
+    "desc": "Got something rare? We've got something rarer.",
+    "file": "treasuredtrophies.object",
+    "name": "Treasured Trophies",
+    "path": "treasuredtrophies"
+  },
+  {
+    "desc": "A family business. Sells refined ores for crafting.",
+    "file": "ursaminer.object",
+    "name": "Ursa Miner",
+    "path": "ursaminer"
+  },
+  {
+    "desc": "A family business. Sells refined ores for crafting.",
+    "file": "ursaminerclosed.object",
+    "name": "Ursa Miner",
+    "path": "ursaminer"
+  },
+  {
+    "desc": "A water cooler. The best place to find the hottest gossip.",
+    "file": "watercooler.object",
+    "name": "Water Cooler",
+    "path": "watercooler"
+  }
+]

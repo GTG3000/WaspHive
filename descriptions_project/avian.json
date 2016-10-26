@@ -1,0 +1,740 @@
+[
+  {
+    "desc": "This emblem signifies the free and flowing element of air.",
+    "file": "airemblem.object",
+    "name": "Avian Air Emblem",
+    "path": "airemblem"
+  },
+  {
+    "desc": "A carved Avian head sits atop this altar.",
+    "file": "altaravian.object",
+    "name": "Avian Head Altar",
+    "path": "altaravian"
+  },
+  {
+    "desc": "A carved bunny sits on top of this altar.",
+    "file": "altarbunny.object",
+    "name": "Bunny Altar",
+    "path": "altarbunny"
+  },
+  {
+    "desc": "A heavy metal anchor. Yarr.",
+    "file": "anchor.object",
+    "name": "Anchor",
+    "path": "anchor"
+  },
+  {
+    "desc": "A bird-shaped jar full of ash. I wanna break it.",
+    "file": "ashjar1.object",
+    "name": "Bird Jar",
+    "path": "ashjar1"
+  },
+  {
+    "desc": "A bunny-shaped jar full of ash. Maybe I can smash it.",
+    "file": "ashjar2.object",
+    "name": "Bunny Jar",
+    "path": "ashjar2"
+  },
+  {
+    "desc": "A familiar-shaped jar. It looks angry and smashable.",
+    "file": "ashjar3.object",
+    "name": "Familiar Jar",
+    "path": "ashjar3"
+  },
+  {
+    "desc": "An Avian banner woven with expensive silk.",
+    "file": "avianbanner1.object",
+    "name": "Avian Colourful Banner",
+    "path": "avianbanner1"
+  },
+  {
+    "desc": "A thick woven banner depicting a crescent moon.",
+    "file": "avianbanner2.object",
+    "name": "Avian Lunar Banner",
+    "path": "avianbanner2"
+  },
+  {
+    "desc": "An Avian banner made of gorgeous silk.",
+    "file": "avianbanner3.object",
+    "name": "Avian Patterned Banner",
+    "path": "avianbanner3"
+  },
+  {
+    "desc": "A standard cloth Avian banner.",
+    "file": "avianbanner4.object",
+    "name": "Avian Small Banner",
+    "path": "avianbanner4"
+  },
+  {
+    "desc": "A beautiful rustic bench.",
+    "file": "avianbench1.object",
+    "name": "Rustic Bench",
+    "path": "avianbench1"
+  },
+  {
+    "desc": "A comfortable Avian bench.",
+    "file": "avianbench2.object",
+    "name": "Village Bench",
+    "path": "avianbench2"
+  },
+  {
+    "desc": "Use this pressure plate wisely.",
+    "file": "avianpressureplate.object",
+    "name": "Crystal Pressure Plate",
+    "path": "avianpressureplate"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "avianstoragelocker.object",
+    "name": "Avian Storage Locker",
+    "path": "avianstoragelocker"
+  },
+  {
+    "desc": "This tile looks different from the rest.",
+    "file": "avianswitchhidden1.object",
+    "name": "Yellow Hidden Switch",
+    "path": "avianswitchhidden"
+  },
+  {
+    "desc": "This tile looks different from the rest.",
+    "file": "avianswitchhidden2.object",
+    "name": "Blue Hidden Switch",
+    "path": "avianswitchhidden"
+  },
+  {
+    "desc": "The crystal embedded into this fixture glows with a pale light.",
+    "file": "avianwaterlight.object",
+    "name": "Crystal Light",
+    "path": "avianwaterlight"
+  },
+  {
+    "desc": "This heavy iron portcullis opens upwards.",
+    "file": "bardoor2.object",
+    "name": "Portcullis",
+    "path": "bardoor2"
+  },
+  {
+    "desc": "This heavy iron portcullis opens inward.",
+    "file": "bardoor2sideways.object",
+    "name": "Horizontal Portcullis",
+    "path": "bardoor2"
+  },
+  {
+    "desc": "This massive iron portcullis closes with a thud.",
+    "file": "bardoor3.object",
+    "name": "Large Portcullis",
+    "path": "bardoor3"
+  },
+  {
+    "desc": "A lavish bird-shaped jar. Maybe I can smash it...",
+    "file": "bigjar1.object",
+    "name": "Big Bird Jar",
+    "path": "bigjar1"
+  },
+  {
+    "desc": "The altar is covered in carvings of a winged god.",
+    "file": "birdaltar2.object",
+    "name": "Avian Prayer Altar",
+    "path": "birdaltar2"
+  },
+  {
+    "desc": "A solid stone bed topped with a nest of hay.",
+    "file": "birdbed.object",
+    "name": "Guardian's Nest",
+    "path": "birdbed"
+  },
+  {
+    "desc": "A heavy golden door with crystals set into its surface.",
+    "file": "birddoor.object",
+    "name": "Golden Crystal Door",
+    "path": "birddoor"
+  },
+  {
+    "desc": "I swear the eye is following me around the room..",
+    "file": "birdgodemblem.object",
+    "name": "Avian Emblem",
+    "path": "birdgodemblem"
+  },
+  {
+    "desc": "A large metal gong. It's so tempting to give it a smack!",
+    "file": "birdgong1.object",
+    "name": "Large Gong",
+    "path": "birdgong1"
+  },
+  {
+    "desc": "A big fancy gong. It's covered in carvings.",
+    "file": "birdgong2.object",
+    "name": "Fancy Avian Gong",
+    "path": "birdgong2"
+  },
+  {
+    "desc": "Deep shadows stretch away from this flickering torch.",
+    "file": "birdgroundlantern.object",
+    "name": "Torch Stand",
+    "path": "birdgroundlantern"
+  },
+  {
+    "desc": "This jar has seen better days. It looks smashable...",
+    "file": "birdjar1.object",
+    "name": "Fancy Temple Jar",
+    "path": "birdjar1"
+  },
+  {
+    "desc": "What an ugly jar.",
+    "file": "birdjar2.object",
+    "name": "Ugly Temple Jar",
+    "path": "birdjar2"
+  },
+  {
+    "desc": "A stone table in typical Avian style.",
+    "file": "birdtable.object",
+    "name": "Temple Table",
+    "path": "birdtable"
+  },
+  {
+    "desc": "A masterfully crafted throne, fit for Kluex himself.",
+    "file": "birdthrone.object",
+    "name": "Avian Throne",
+    "path": "birdthrone"
+  },
+  {
+    "desc": "A chest adorned with ancient Avian art.",
+    "file": "chestavian1.object",
+    "name": "Decorative Chest",
+    "path": "chestavian"
+  },
+  {
+    "desc": "A dank old chest, fashioned from wood and iron.",
+    "file": "chestavian2.object",
+    "name": "Old Chest",
+    "path": "chestavian2"
+  },
+  {
+    "desc": "A chest adorned with ancient Avian art.",
+    "file": "chestmedavian1.object",
+    "name": "Large Decorative Chest",
+    "path": "chestmedavian"
+  },
+  {
+    "desc": "A large old chest, fashioned from wood and iron.",
+    "file": "chestmedavian2.object",
+    "name": "Large Old Chest",
+    "path": "chestmedavian2"
+  },
+  {
+    "desc": "An access panel with a bird crudely etched into the base.",
+    "file": "consoletribal1.object",
+    "name": "Carved Bird Console",
+    "path": "consoletribal1"
+  },
+  {
+    "desc": "An access panel with an egg etched into its base.",
+    "file": "consoletribal2.object",
+    "name": "Carved Egg Console",
+    "path": "consoletribal2"
+  },
+  {
+    "desc": "An access panel with a flame carved into its base.",
+    "file": "consoletribal3.object",
+    "name": "Carved Flame Console",
+    "path": "consoletribal3"
+  },
+  {
+    "desc": "A large control panel powered by Avian crystals.",
+    "file": "consoletribal4.object",
+    "name": "Large Carved Console",
+    "path": "consoletribal4"
+  },
+  {
+    "desc": "A small security panel.",
+    "file": "consoletribalwall.object",
+    "name": "Carved Security Panel",
+    "path": "consoletribalwall"
+  },
+  {
+    "desc": "A crystal levitates above its frame, emitting an eerie light.",
+    "file": "crystaltorch.object",
+    "name": "Crystal Torch",
+    "path": "crystaltorch"
+  },
+  {
+    "desc": "An intricately woven wall tapestry.",
+    "file": "decorativewallrug1.object",
+    "name": "Colourful Tapestry",
+    "path": "decorativewallrug1"
+  },
+  {
+    "desc": "A small tribal wall tapestry. It looks soft!",
+    "file": "decorativewallrug2.object",
+    "name": "Small Colourful Tapestry",
+    "path": "decorativewallrug2"
+  },
+  {
+    "desc": "This emblem signifies the strong and resilient element of earth.",
+    "file": "earthemblem.object",
+    "name": "Avian Earth Emblem",
+    "path": "earthemblem"
+  },
+  {
+    "desc": "Gorgeous, vibrant feathers arranged like flowers",
+    "file": "feathers1.object",
+    "name": "Vibrant Feather Bundle",
+    "path": "feathers1"
+  },
+  {
+    "desc": "Gorgeous, colourful feathers arranged like flowers.",
+    "file": "feathers2.object",
+    "name": "Colourful Feather Bundle",
+    "path": "feathers2"
+  },
+  {
+    "desc": "Huge feathers are sprouting from this small bird statue.",
+    "file": "featherybird.object",
+    "name": "Decorative Bird",
+    "path": "featherybird"
+  },
+  {
+    "desc": "This emblem signifies the wild and destructive element of fire.",
+    "file": "fireemblem.object",
+    "name": "Avian Fire Emblem",
+    "path": "fireemblem"
+  },
+  {
+    "desc": "A golden duck!",
+    "file": "goldenducky.object",
+    "name": "Golden Ducky",
+    "path": "goldenducky"
+  },
+  {
+    "desc": "This beady-eyed bird jar is made of solid gold.",
+    "file": "goldenjar1.object",
+    "name": "Golden Bird Jar",
+    "path": "goldenjar1"
+  },
+  {
+    "desc": "The ashes of Avian Stargazers are often stored in urns like this one.",
+    "file": "goldenurn.object",
+    "name": "Golden Urn",
+    "path": "goldenurn"
+  },
+  {
+    "desc": "A support beam carved to resemble a fearsome bird.",
+    "file": "idolsupport.object",
+    "name": "Carved Support Beam",
+    "path": "idolsupport"
+  },
+  {
+    "desc": "A sickly-sweet scent clings to the inside.",
+    "file": "lamp.object",
+    "name": "Golden Lamp",
+    "path": "lamp"
+  },
+  {
+    "desc": "I wonder what fruit they sell on this planet.",
+    "file": "marketstall1.object",
+    "name": "Market Fruit Stall",
+    "path": "marketstall1"
+  },
+  {
+    "desc": "Beautiful fabrics and clothing adorn this cute little stall.",
+    "file": "marketstall2.object",
+    "name": "Market Clothes Stall",
+    "path": "marketstall2"
+  },
+  {
+    "desc": "An assortment of pointy things.",
+    "file": "marketstall3.object",
+    "name": "Market Weapon Stall",
+    "path": "marketstall3"
+  },
+  {
+    "desc": "A small empty stall. It looks sad.",
+    "file": "marketstall4.object",
+    "name": "Small Empty Market Stall",
+    "path": "marketstall4"
+  },
+  {
+    "desc": "A large empty stall. I bet business is slow.",
+    "file": "marketstall5.object",
+    "name": "Large Empty Market Stall",
+    "path": "marketstall5"
+  },
+  {
+    "desc": "This guy looks surprised to see me!",
+    "file": "mask1.object",
+    "name": "Decorative Human Mask",
+    "path": "mask1"
+  },
+  {
+    "desc": "This guy looks hungry. His eyes make me uncomfortable.",
+    "file": "mask2.object",
+    "name": "Decorative Skull Mask",
+    "path": "mask2"
+  },
+  {
+    "desc": "This mask looks angry.",
+    "file": "mask3.object",
+    "name": "Decorative Alien Mask",
+    "path": "mask3"
+  },
+  {
+    "desc": "A rather serious looking bird.",
+    "file": "mask4.object",
+    "name": "Decorative Bird Mask",
+    "path": "mask4"
+  },
+  {
+    "desc": "This guy seems... wise.",
+    "file": "mask5.object",
+    "name": "Decorative Wiseman Mask",
+    "path": "mask5"
+  },
+  {
+    "desc": "This mask looks like my ex-wife.",
+    "file": "mask6.object",
+    "name": "Decorative Priest Mask",
+    "path": "mask6"
+  },
+  {
+    "desc": "A crumbling old pot with patterned markings. It looks smashable.",
+    "file": "midjar1.object",
+    "name": "Old Pot",
+    "path": "midjar1"
+  },
+  {
+    "desc": "This emblem commemorates the Avians' first flight to the stars.",
+    "file": "moonemblem.object",
+    "name": "Avian Moon Emblem",
+    "path": "moonemblem"
+  },
+  {
+    "desc": "A ornate obsidian bookcase.",
+    "file": "obsidianbookcase.object",
+    "name": "Large Obsidian Bookcase",
+    "path": "obsidianbookcase"
+  },
+  {
+    "desc": "Tick, tock, tick, tock.",
+    "file": "owlclock.object",
+    "name": "Owl Wall Clock",
+    "path": "owlclock"
+  },
+  {
+    "desc": "A beautifully crafted propeller.",
+    "file": "propeller.object",
+    "name": "Propeller",
+    "path": "propeller"
+  },
+  {
+    "desc": "An altar sticky with old blood and feathers.",
+    "file": "sacrificialaltar.object",
+    "name": "Sacrificial Altar",
+    "path": "sacrificialaltar"
+  },
+  {
+    "desc": "An expertly crafted Avian sarcophagus. I wonder what's inside.",
+    "file": "sarcoavian1.object",
+    "name": "Avian Sarcophagus",
+    "path": "sarcoavian1"
+  },
+  {
+    "desc": "An expertly crafted Avian sarcophagus. The feather suggests it was for someone important.",
+    "file": "sarcoavian2.object",
+    "name": "Grand Avian Sarcophagus",
+    "path": "sarcoavian2"
+  },
+  {
+    "desc": "Is it wrong to take your bunny to the afterlife with you?",
+    "file": "sarcobunny.object",
+    "name": "Bunny Sarcophagus",
+    "path": "sarcobunny"
+  },
+  {
+    "desc": "Avians have been known to attempt to take human companions with them to the afterlife.",
+    "file": "sarcohuman.object",
+    "name": "Human Sarcophagus",
+    "path": "sarcohuman"
+  },
+  {
+    "desc": "Avians have been known to attempt to take human companions with them to the afterlife. Wait a minute... I think I can hear something inside!",
+    "file": "sarcohumanalive.object",
+    "name": "Human Sarcophagus",
+    "path": "sarcohuman"
+  },
+  {
+    "desc": "Wow, this looks sharp!",
+    "file": "sawblade.object",
+    "name": "Sawblade Trap",
+    "path": "sawblade"
+  },
+  {
+    "desc": "Old system readings that seem to be out of date.",
+    "file": "screen1.object",
+    "name": "Data Screen",
+    "path": "screen1"
+  },
+  {
+    "desc": "It's a spaceship orbiting a planet.",
+    "file": "screen2.object",
+    "name": "Spaceship screen",
+    "path": "screen2"
+  },
+  {
+    "desc": "A star map! It's a little primitive.",
+    "file": "screen3.object",
+    "name": "Star Map Screen",
+    "path": "screen3"
+  },
+  {
+    "desc": "Glyphs pulse ominously... what do they mean?",
+    "file": "screen4.object",
+    "name": "Glyph Screen",
+    "path": "screen4"
+  },
+  {
+    "desc": "Are those... brain waves? Yes. Yes they are.",
+    "file": "screen5.object",
+    "name": "Brain Activity Screen",
+    "path": "screen5"
+  },
+  {
+    "desc": "Yarrrr, me hearties!",
+    "file": "shipwheel.object",
+    "name": "Wooden Ship Wheel",
+    "path": "shipwheel"
+  },
+  {
+    "desc": "A small, brittle-looking pot. It looks smashable...",
+    "file": "smalljar1.object",
+    "name": "Small Pot",
+    "path": "smalljar1"
+  },
+  {
+    "desc": "The rack is filled with antique Avian spears.",
+    "file": "spearrack.object",
+    "name": "Avian Spear Rack",
+    "path": "spearrack"
+  },
+  {
+    "desc": "Ironically, looking at this decorative sun sends a chill down my spine.",
+    "file": "sundecor.object",
+    "name": "Decorative Sun",
+    "path": "sundecor"
+  },
+  {
+    "desc": "A tall, dusty pot that smells of bird poop. Maybe it's smashable.",
+    "file": "talljar1.object",
+    "name": "Tall Pot",
+    "path": "talljar1"
+  },
+  {
+    "desc": "This looks like something I made in pottery class. Crude. I should smash it.",
+    "file": "talljar2.object",
+    "name": "Crude Pot",
+    "path": "talljar2"
+  },
+  {
+    "desc": "Something isn't quite right with these bricks.",
+    "file": "templehiddendoor.object",
+    "name": "Brick Hidden Door",
+    "path": "templehiddendoor"
+  },
+  {
+    "desc": "Something isn't quite right with these bricks.",
+    "file": "templehiddentrapdoor.object",
+    "name": "Brick Hidden Trapdoor",
+    "path": "templehiddentrapdoor"
+  },
+  {
+    "desc": "A statue of a great Avian hero.",
+    "file": "tombstatueavian.object",
+    "name": "Avian Hero Statue",
+    "path": "tombstatueavian"
+  },
+  {
+    "desc": "A statue of a bunny.",
+    "file": "tombstatuebunny.object",
+    "name": "Avian Bunny Statue",
+    "path": "tombstatuebunny"
+  },
+  {
+    "desc": "The words honour a fallen Avian.",
+    "file": "tombstone1.object",
+    "name": "Basic Tombstone",
+    "path": "tombstone1"
+  },
+  {
+    "desc": "This tombstone is engraved with an eye symbol",
+    "file": "tombstone10.object",
+    "name": "Eye Tombstone",
+    "path": "tombstone10"
+  },
+  {
+    "desc": "These symbols signify a mass grave.",
+    "file": "tombstone11.object",
+    "name": "Mass Tombstone",
+    "path": "tombstone11"
+  },
+  {
+    "desc": "The words honour a fallen Avian.",
+    "file": "tombstone2.object",
+    "name": "Embossed Tombstone",
+    "path": "tombstone2"
+  },
+  {
+    "desc": "This tomb is anonymous, engraved with the image of its occupant.",
+    "file": "tombstone3.object",
+    "name": "Engraved Tombstone",
+    "path": "tombstone3"
+  },
+  {
+    "desc": "This tombstone has been smashed beyond repair.",
+    "file": "tombstone4.object",
+    "name": "Smashed Tombstone",
+    "path": "tombstone4"
+  },
+  {
+    "desc": "This tombstone belongs to a warrior, fallen in battle.",
+    "file": "tombstone5.object",
+    "name": "Warrior's Tombstone",
+    "path": "tombstone5"
+  },
+  {
+    "desc": "This tombstone belongs to a priest, fallen in battle.",
+    "file": "tombstone6.object",
+    "name": "Priest's Tombstone",
+    "path": "tombstone6"
+  },
+  {
+    "desc": "The skull on this tombstone shows that it belongs to one of the grounded.",
+    "file": "tombstone7.object",
+    "name": "Grounded's Tombstone",
+    "path": "tombstone7"
+  },
+  {
+    "desc": "This tombstone belonged to one of the grounded. It's been desecrated.",
+    "file": "tombstone8.object",
+    "name": "Desecrated Tombstone",
+    "path": "tombstone8"
+  },
+  {
+    "desc": "This tombstone looks as if it's about to fall over.",
+    "file": "tombstone9.object",
+    "name": "Unstable Tombstone",
+    "path": "tombstone9"
+  },
+  {
+    "desc": "A plain stone tomb caked in dust.",
+    "file": "tombthing1.object",
+    "name": "Undecorated Stone Tomb",
+    "path": "tombthing1"
+  },
+  {
+    "desc": "An engraved Avian tomb depicting the aether.",
+    "file": "tombthing2.object",
+    "name": "Engraved Avian Tomb",
+    "path": "tombthing2"
+  },
+  {
+    "desc": "An open stone tomb. It smells.",
+    "file": "tombthing3.object",
+    "name": "Open Stone Tomb",
+    "path": "tombthing3"
+  },
+  {
+    "desc": "A lavish Avian tomb.",
+    "file": "tombthing4.object",
+    "name": "Lavish Avian Tomb",
+    "path": "tombthing4"
+  },
+  {
+    "desc": "X marks the spot.",
+    "file": "treasuremap.object",
+    "name": "Treasure Map",
+    "path": "treasuremap"
+  },
+  {
+    "desc": "A beautifully carved Avian bed.",
+    "file": "tribalbed2.object",
+    "name": "Avian Bed",
+    "path": "tribalbed2"
+  },
+  {
+    "desc": "Hand-made and beautiful, this bookcase is intricately carved.",
+    "file": "tribalbookcase1.object",
+    "name": "Large Carved Bookcase",
+    "path": "tribalbookcase1"
+  },
+  {
+    "desc": "This book case was built to store Avian history.",
+    "file": "tribalbookcase2.object",
+    "name": "Small Avian Bookcase",
+    "path": "tribalbookcase2"
+  },
+  {
+    "desc": "Carved patterns surround this small cabinet.",
+    "file": "tribalcabinet1.object",
+    "name": "Small Carved Cabinet",
+    "path": "tribalcabinet1"
+  },
+  {
+    "desc": "The crystal on top of this closet appears to be broken.",
+    "file": "tribalcloset1.object",
+    "name": "Avian Closet",
+    "path": "tribalcloset1"
+  },
+  {
+    "desc": "A smooth cooking surface.",
+    "file": "tribalcounter1.object",
+    "name": "Carved Counter",
+    "path": "tribalcounter1"
+  },
+  {
+    "desc": "A beautifully carved door.",
+    "file": "tribaldoor.object",
+    "name": "Carved Door",
+    "path": "tribaldoor"
+  },
+  {
+    "desc": "A beautiful lamp built from Avian crystal tech.",
+    "file": "triballamp.object",
+    "name": "Avian Lamp",
+    "path": "triballamp"
+  },
+  {
+    "desc": "This Avian server must contain a vast amount of data.",
+    "file": "tribalserver.object",
+    "name": "Avian Server",
+    "path": "tribalserver"
+  },
+  {
+    "desc": "An interestingly carved table.",
+    "file": "tribaltable.object",
+    "name": "Carved Table",
+    "path": "tribaltable"
+  },
+  {
+    "desc": "Looks like a place you might store an eggcup... Do Avians eat eggs?",
+    "file": "tribalwallcabinet.object",
+    "name": "Carved Wall Cabinet",
+    "path": "tribalwallcabinet"
+  },
+  {
+    "desc": "This emblem signifies the tranquil and life-bringing element of water.",
+    "file": "wateremblem.object",
+    "name": "Avian Water Emblem",
+    "path": "wateremblem"
+  },
+  {
+    "desc": "Is that an Avian... or a chicken?",
+    "file": "windchicken.object",
+    "name": "Weathervane",
+    "path": "windchicken"
+  },
+  {
+    "desc": "A winged urn, perhaps believed to carry the dead into the afterlife.",
+    "file": "wingedurn.object",
+    "name": "Winged Urn",
+    "path": "wingedurn"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "desc": "A trap that drops heavy boulders on unsuspecting intruders.",
+    "file": "ancientbouldertrap.object",
+    "name": "Ancient Boulder Trap",
+    "path": "ancientbouldertrap"
+  },
+  {
+    "desc": "A crystal trap designed to deter invaders.",
+    "file": "ancientcrystaltrap.object",
+    "name": "Ancient Crystal Trap",
+    "path": "ancientcrystaltrap"
+  },
+  {
+    "desc": "This trap spews flames to deter invaders.",
+    "file": "ancientflametrap.object",
+    "name": "Ancient Flame Trap",
+    "path": "ancientflametrap"
+  },
+  {
+    "desc": "This trap spews frost to deter invaders.",
+    "file": "ancienticetrap.object",
+    "name": "Ancient Ice Trap",
+    "path": "ancienticetrap"
+  },
+  {
+    "desc": "This trap spews a flame that empowers enemies.",
+    "file": "arenaflametrap.object",
+    "name": "Arena Flame Trap",
+    "path": "arenaflametrap"
+  },
+  {
+    "desc": "A trap that drops heavy boulders on unsuspecting intruders.",
+    "file": "bouldertrap.object",
+    "name": "Temple Boulder Trap",
+    "path": "bouldertrap"
+  },
+  {
+    "desc": "A crystal trap designed to deter invaders.",
+    "file": "crystaltrap.object",
+    "name": "Carved Crystal Trap",
+    "path": "crystaltrap"
+  },
+  {
+    "desc": "A flame trap designed to deter invaders.",
+    "file": "flametrap.object",
+    "name": "Avian Flame Trap",
+    "path": "flametrap"
+  },
+  {
+    "desc": "A trap that drops heavy boulders on unsuspecting intruders.",
+    "file": "floranbouldertrap.object",
+    "name": "Floran Boulder Trap",
+    "path": "floranbouldertrap"
+  },
+  {
+    "desc": "This device is used to rapidly freeze materials.",
+    "file": "freezetrap.object",
+    "name": "Cryogenic Blaster",
+    "path": "freezetrap"
+  },
+  {
+    "desc": "A cute little explosive that packs a serious punch!",
+    "file": "wallb.object",
+    "name": "WALL-B",
+    "path": "wallb"
+  }
+]

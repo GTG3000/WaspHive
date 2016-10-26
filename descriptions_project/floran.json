@@ -1,0 +1,746 @@
+[
+  {
+    "desc": "A giant mushroom of Agaran origin.",
+    "file": "agaranmushroom.object",
+    "name": "Giant Agaran Mushroom",
+    "path": "agaranmushroom"
+  },
+  {
+    "desc": "This door is strong and sustainably sourced.",
+    "file": "bamboodoor.object",
+    "name": "Bamboo Door",
+    "path": "bamboodoor"
+  },
+  {
+    "desc": "A small chest, made from sticks. Its security is questionable.",
+    "file": "chestfloran1.object",
+    "name": "Small Primitive Chest",
+    "path": "chestfloran1"
+  },
+  {
+    "desc": "A long chest, made from sticks. Its security is questionable.",
+    "file": "chestfloran2.object",
+    "name": "Large Primitive Chest",
+    "path": "chestfloran2"
+  },
+  {
+    "desc": "A chest made from plant material. It appears to be still growing.",
+    "file": "chestplant1.object",
+    "name": "Small Overgrown Chest",
+    "path": "chestplant1"
+  },
+  {
+    "desc": "It's just an armchair made of bones. No big deal.",
+    "file": "floranarmchair.object",
+    "name": "Primitive Armchair",
+    "path": "floranarmchair"
+  },
+  {
+    "desc": "The bone frame is sort of disturbing, but that fur blanket looks mighty comfy.",
+    "file": "floranbed.object",
+    "name": "Primitive Bed",
+    "path": "floranbed"
+  },
+  {
+    "desc": "A bench made of wood and bones. Seems... inviting?",
+    "file": "floranbench.object",
+    "name": "Primitive Bench",
+    "path": "floranbench"
+  },
+  {
+    "desc": "The result of a successful Floran hunt.",
+    "file": "floranbonedisplay1.object",
+    "name": "Bone Trophy",
+    "path": "floranbonedisplay1"
+  },
+  {
+    "desc": "There are barbaric Floran tales etched into the bone.",
+    "file": "floranbonedisplay2.object",
+    "name": "Bone Carving",
+    "path": "floranbonedisplay2"
+  },
+  {
+    "desc": "A rack of 3 unidentified bones.",
+    "file": "floranbonerack.object",
+    "name": "Bone Rack",
+    "path": "floranbonerack"
+  },
+  {
+    "desc": "A tiny stool carved from bone.",
+    "file": "floranbonestool.object",
+    "name": "Primitive Stool",
+    "path": "floranbonestool"
+  },
+  {
+    "desc": "This entire table appears to have been carved from a single, enormous bone.",
+    "file": "floranbonetable1.object",
+    "name": "Large Primitive Table",
+    "path": "floranbonetable1"
+  },
+  {
+    "desc": "A table made from many small bones.",
+    "file": "floranbonetable2.object",
+    "name": "Short Primitive Table",
+    "path": "floranbonetable2"
+  },
+  {
+    "desc": "A bookcase made from the remains of Floran prey.",
+    "file": "floranbookcase.object",
+    "name": "Primitive Bookcase",
+    "path": "floranbookcase"
+  },
+  {
+    "desc": "A cabinet adorned with huge, sharp fangs.",
+    "file": "florancabinet1.object",
+    "name": "Large Primitive Cabinet",
+    "path": "florancabinet1"
+  },
+  {
+    "desc": "A cabinet adorned with huge, sharp fangs.",
+    "file": "florancabinet2.object",
+    "name": "Small Primitive Cabinet",
+    "path": "florancabinet2"
+  },
+  {
+    "desc": "The cabinet made of leather stretched between four large tusks.",
+    "file": "florancabinet3.object",
+    "name": "Huge Primitive Cabinet",
+    "path": "florancabinet3"
+  },
+  {
+    "desc": "A string of bones to hang from the ceiling, like a morbid wind chime.",
+    "file": "floranceilingbones1.object",
+    "name": "Large Bone Chimes",
+    "path": "floranceilingbones1"
+  },
+  {
+    "desc": "A string of bones to hang from the ceiling, like a morbid wind chime.",
+    "file": "floranceilingbones2.object",
+    "name": "Small Bone Chimes",
+    "path": "floranceilingbones2"
+  },
+  {
+    "desc": "A simple wooden chair with bone accents.",
+    "file": "floranchair.object",
+    "name": "Primitive Chair",
+    "path": "floranchair"
+  },
+  {
+    "desc": "Torches have been stuck to a sapling in lieu of a fancy chandelier.",
+    "file": "floranchandelier.object",
+    "name": "Primitive Chandelier",
+    "path": "floranchandelier"
+  },
+  {
+    "desc": "A piece of thin leather is stretched from the ceiling.",
+    "file": "florancorner.object",
+    "name": "Leather Support",
+    "path": "florancorner"
+  },
+  {
+    "desc": "A couch made of leather hide and large bones.",
+    "file": "florancouch.object",
+    "name": "Primitive Couch",
+    "path": "florancouch"
+  },
+  {
+    "desc": "A storage crate made of unrefined wood and bone.",
+    "file": "florancrate.object",
+    "name": "Primitive Crate",
+    "path": "florancrate"
+  },
+  {
+    "desc": "A curtain, or a slab of half-dried, half-eaten meat. One of the two.",
+    "file": "florancurtain.object",
+    "name": "Primitive Curtain",
+    "path": "florancurtain"
+  },
+  {
+    "desc": "A desk, probably belonging to the greenfinger of a Floran tribe.",
+    "file": "florandesk.object",
+    "name": "Primitive Desk",
+    "path": "florandesk"
+  },
+  {
+    "desc": "This door is hardly suitable for keeping the weather out.",
+    "file": "florandoor.object",
+    "name": "Primitive Door",
+    "path": "florandoor"
+  },
+  {
+    "desc": "A bongo drum fashioned out of leather and wood.",
+    "file": "florandrum1.object",
+    "name": "Medium Bongo",
+    "path": "florandrum1"
+  },
+  {
+    "desc": "A bongo drum fashioned out of leather and wood.",
+    "file": "florandrum2.object",
+    "name": "Large Bongo",
+    "path": "florandrum2"
+  },
+  {
+    "desc": "A bongo drum fashioned out of leather and wood.",
+    "file": "florandrum3.object",
+    "name": "Small Bongo",
+    "path": "florandrum3"
+  },
+  {
+    "desc": "A bongo drum fashioned out of leather and wood.",
+    "file": "florandrum4.object",
+    "name": "Tiny Bongo",
+    "path": "florandrum4"
+  },
+  {
+    "desc": "A giant pod. It seems to contain a beast.",
+    "file": "giantfloranpod.object",
+    "name": "Giant Fungal Pod",
+    "path": "florangiantpod"
+  },
+  {
+    "desc": "A strange green light pod is hanging loosely from a curved wooden post.",
+    "file": "floranlamp1.object",
+    "name": "Vine Pod Lamp",
+    "path": "floranlamp1"
+  },
+  {
+    "desc": "The pod emits a natural green light.",
+    "file": "floranlight.object",
+    "name": "Vine Wall Light",
+    "path": "floranlight"
+  },
+  {
+    "desc": "Some kind of bizarre pod. Looks like it's hatched.",
+    "file": "floranopenpod1.object",
+    "name": "Open Fungal Pod",
+    "path": "floranopenpod1"
+  },
+  {
+    "desc": "Some kind of bizarre pod. Looks like it's hatched.",
+    "file": "floranopenpod2.object",
+    "name": "Open Fungal Pod",
+    "path": "floranopenpod2"
+  },
+  {
+    "desc": "This painting seems to illustrate how to build a fire.",
+    "file": "floranpainting1.object",
+    "name": "Primitive Fire Art",
+    "path": "floranpainting1"
+  },
+  {
+    "desc": "It looks like someone has painted glyphs onto a piece of leather.",
+    "file": "floranpainting2.object",
+    "name": "Primitive Glyph Art",
+    "path": "floranpainting2"
+  },
+  {
+    "desc": "It appears to be a tally chart.",
+    "file": "floranpainting3.object",
+    "name": "Primitive Chart Art",
+    "path": "floranpainting3"
+  },
+  {
+    "desc": "It appears to be a painting of a falling leaf.",
+    "file": "floranpainting4.object",
+    "name": "Primitive Leaf Painting",
+    "path": "floranpainting4"
+  },
+  {
+    "desc": "A Floran's idea of abstract art.",
+    "file": "floranpainting5.object",
+    "name": "Primitive Abstract Art",
+    "path": "floranpainting5"
+  },
+  {
+    "desc": "A large pelt with thick, lustrous fur.",
+    "file": "floranpelt1.object",
+    "name": "Large Brown Pelt",
+    "path": "floranpelt1"
+  },
+  {
+    "desc": "This pelt serves as a Floran hunter's trophy.",
+    "file": "floranpelt2.object",
+    "name": "Small Black Pelt",
+    "path": "floranpelt2"
+  },
+  {
+    "desc": "A ragged fur pelt, hung from two large tusks.",
+    "file": "floranpelt3.object",
+    "name": "Long Black Pelt",
+    "path": "floranpelt3"
+  },
+  {
+    "desc": "The pelt of a large, snow dwelling animal.",
+    "file": "floranpelt4.object",
+    "name": "Large Snowy Pelt",
+    "path": "floranpelt4"
+  },
+  {
+    "desc": "The pelt of a small, snow dwelling animal.",
+    "file": "floranpelt5.object",
+    "name": "Small Snowy Pelt",
+    "path": "floranpelt5"
+  },
+  {
+    "desc": "Some kind of bizarre pod. Something is growing out of it.",
+    "file": "floranpod1.object",
+    "name": "Fungal Pod",
+    "path": "floranpod1"
+  },
+  {
+    "desc": "Some kind of bizarre pod. Something is growing out of it.",
+    "file": "floranpod2.object",
+    "name": "Fungal Pod",
+    "path": "floranpod2"
+  },
+  {
+    "desc": "Some kind of bizarre pod. Something is growing out of it.",
+    "file": "floranpod3.object",
+    "name": "Fungal Pod",
+    "path": "floranpod3"
+  },
+  {
+    "desc": "Looks like the Apex and the Agarans aren't compatible.",
+    "file": "floranpodapex.object",
+    "name": "Trapped Apex Pod",
+    "path": "floranpodapex"
+  },
+  {
+    "desc": "A wooden screen, perfect for dressing behind.",
+    "file": "floranscreen1.object",
+    "name": "Wooden Dressing Screen",
+    "path": "floranscreen1"
+  },
+  {
+    "desc": "A leather screen, used in Floran food preparation.",
+    "file": "floranscreen2.object",
+    "name": "Leather Dressing Screen",
+    "path": "floranscreen2"
+  },
+  {
+    "desc": "A wood and bone shelf used for storing supplies and keepsakes.",
+    "file": "floranshelf.object",
+    "name": "Primitive Shelf",
+    "path": "floranshelf"
+  },
+  {
+    "desc": "A table fashioned out a small tree topped with a slab of wood.",
+    "file": "floransmalltable.object",
+    "name": "Small Primitive Table",
+    "path": "floransmalltable"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "floranstoragelocker.object",
+    "name": "Floran Storage Locker",
+    "path": "floranstoragelocker"
+  },
+  {
+    "desc": "A very basic cooking pot suspended over a campfire.",
+    "file": "floranstove.object",
+    "name": "Primitive Stove",
+    "path": "floranstove"
+  },
+  {
+    "desc": "Floran come together at tables like these to eat flesh stew.",
+    "file": "florantable1.object",
+    "name": "Primitive Table",
+    "path": "florantable1"
+  },
+  {
+    "desc": "A cooking countertop used for chopping meat.",
+    "file": "florantable2.object",
+    "name": "Primitive Countertop",
+    "path": "florantable2"
+  },
+  {
+    "desc": "An animal pelt stretched and dried between two large bones.",
+    "file": "florantanningrack.object",
+    "name": "Primitive Tanning Rack",
+    "path": "florantanningrack"
+  },
+  {
+    "desc": "This toilet doesn't look very leak-proof.",
+    "file": "florantoilet.object",
+    "name": "Primitive Toilet",
+    "path": "florantoilet"
+  },
+  {
+    "desc": "A crudely made bench. It's had a lot of use during Floran hunts.",
+    "file": "huntingbench.object",
+    "name": "Crude Bench",
+    "path": "huntingbench"
+  },
+  {
+    "desc": "A statue of a Floran. It looks like a great hunter.",
+    "file": "huntingbigstatue.object",
+    "name": "Large Floran Statue",
+    "path": "huntingbigstatue"
+  },
+  {
+    "desc": "A Floran spear mounted on a decorative plaque.",
+    "file": "huntingdisplay1.object",
+    "name": "Spear on a Plaque",
+    "path": "huntingdisplay1"
+  },
+  {
+    "desc": "An empty plaque. What belongs here?",
+    "file": "huntingdisplay2.object",
+    "name": "Empty Plaque",
+    "path": "huntingdisplay2"
+  },
+  {
+    "desc": "This door is hardly suitable for keeping the weather out.",
+    "file": "huntingdoor1.object",
+    "name": "Bamboo Door",
+    "path": "huntingdoor1"
+  },
+  {
+    "desc": "A standing torch. Illuminates the giant beast about to eat you.",
+    "file": "huntinggroundtorch.object",
+    "name": "Sturdy Torch Stand",
+    "path": "huntinggroundtorch"
+  },
+  {
+    "desc": "A light made of vines. Or a vine made of lights?",
+    "file": "huntinglight1.object",
+    "name": "Large Vine Lights",
+    "path": "huntinglight1"
+  },
+  {
+    "desc": "A light made of vines. Or a vine made of lights?",
+    "file": "huntinglight2.object",
+    "name": "Small Vine Lights",
+    "path": "huntinglight2"
+  },
+  {
+    "desc": "A large, luminous pod hanigng from a vine.",
+    "file": "huntinglight3.object",
+    "name": "Vine Pod Light",
+    "path": "huntinglight3"
+  },
+  {
+    "desc": "Some bones on a pike. How morbid.",
+    "file": "huntingpike1.object",
+    "name": "Bones on a Pike",
+    "path": "huntingpike1"
+  },
+  {
+    "desc": "A skull on a pike. A Floran favourite.",
+    "file": "huntingpike2.object",
+    "name": "Skull on a Pike",
+    "path": "huntingpike2"
+  },
+  {
+    "desc": "Penguin bones on a pike arranged decoratively.",
+    "file": "huntingpike3.object",
+    "name": "Penguin Bones Pike",
+    "path": "huntingpike3"
+  },
+  {
+    "desc": "A raised platform. Don't get stuck under it.",
+    "file": "huntingplatform1.object",
+    "name": "Raised Platform",
+    "path": "huntingplatform1"
+  },
+  {
+    "desc": "A raised platform. Don't get stuck under it.",
+    "file": "huntingplatform2.object",
+    "name": "Ramped Platform",
+    "path": "huntingplatform2"
+  },
+  {
+    "desc": "A bundle of unusually large leaves.",
+    "file": "huntingplatformleaves.object",
+    "name": "Leaf Bundle",
+    "path": "huntingplatformleaves"
+  },
+  {
+    "desc": "Very helpful rocks. Or could the arrow be a trick?",
+    "file": "huntingplatformrocks.object",
+    "name": "Arrow Etched Rocks",
+    "path": "huntingplatformrocks"
+  },
+  {
+    "desc": "An ideal device for preparing traps and the like.",
+    "file": "huntingpressureplate.object",
+    "name": "Hunting Pressure Plate",
+    "path": "huntingpressureplate"
+  },
+  {
+    "desc": "Sharp, spiky sticks. Don't fall on them.",
+    "file": "huntingpunjisticks1.object",
+    "name": "Large Sharp Sticks",
+    "path": "huntingpunjisticks1"
+  },
+  {
+    "desc": "Sharp, spiky sticks. Don't fall on them.",
+    "file": "huntingpunjisticks2.object",
+    "name": "Small Sharp Sticks",
+    "path": "huntingpunjisticks2"
+  },
+  {
+    "desc": "A railing held together with bones.",
+    "file": "huntingrail1.object",
+    "name": "Crooked Bone Railing",
+    "path": "huntingrail1"
+  },
+  {
+    "desc": "A railing made of pikes tied together.",
+    "file": "huntingrail2.object",
+    "name": "Crooked Pike Railing",
+    "path": "huntingrail2"
+  },
+  {
+    "desc": "A statue of a Floran holding a spear menacingly.",
+    "file": "huntingstatue.object",
+    "name": "Floran Statue",
+    "path": "huntingstatue"
+  },
+  {
+    "desc": "A head mounted on a round plaque. Its eyes follow you...",
+    "file": "huntingtrophy1.object",
+    "name": "Round Mounted Skull",
+    "path": "huntingtrophy1"
+  },
+  {
+    "desc": "A finely carved plaque with a skull on display.",
+    "file": "huntingtrophy2.object",
+    "name": "Shield Mounted Skull",
+    "path": "huntingtrophy2"
+  },
+  {
+    "desc": "A skull mounted as a trophy on crossed wood planks.",
+    "file": "huntingtrophy3.object",
+    "name": "Cross Mounted Skull",
+    "path": "huntingtrophy3"
+  },
+  {
+    "desc": "A Floran weapon rack. Unsurprisingly, many of the weapons are gone.",
+    "file": "huntingweaponrack1.object",
+    "name": "Hunting Weapon Rack",
+    "path": "huntingweaponrack1"
+  },
+  {
+    "desc": "A Floran weapon rack. All of the weapons are missing.",
+    "file": "huntingweaponrack2.object",
+    "name": "Empty Weapon Rack",
+    "path": "huntingweaponrack2"
+  },
+  {
+    "desc": "A Floran prison bedroll. It spreads out on the ground.",
+    "file": "plantbed1.object",
+    "name": "Plant Bedroll",
+    "path": "plantbed1"
+  },
+  {
+    "desc": "A wall mountable Floran prison bunk.",
+    "file": "plantbed2.object",
+    "name": "Plant Wall Bunk",
+    "path": "plantbed2"
+  },
+  {
+    "desc": "A basic bedroll on a wheeled wooden frame.",
+    "file": "plantbed3.object",
+    "name": "Wheeled Bed",
+    "path": "plantbed3"
+  },
+  {
+    "desc": "A Floran prisoner bedroll covered with a blanket.",
+    "file": "plantbed4.object",
+    "name": "Covered Plant Bedroll",
+    "path": "plantbed4"
+  },
+  {
+    "desc": "This organic light flickers softly.",
+    "file": "plantbiolight.object",
+    "name": "Organic Biolight",
+    "path": "plantbiolight"
+  },
+  {
+    "desc": "A broken cage. What could have escaped?",
+    "file": "plantbrokencage.object",
+    "name": "Broken Wooden Cage",
+    "path": "plantbrokencage"
+  },
+  {
+    "desc": "A small cabinet with a table top.",
+    "file": "plantcabinet1.object",
+    "name": "Small Cabinet",
+    "path": "plantcabinet1"
+  },
+  {
+    "desc": "A desk with large cabinet drawers.",
+    "file": "plantcabinet2.object",
+    "name": "Large Cabinet",
+    "path": "plantcabinet2"
+  },
+  {
+    "desc": "A large cage for designed to hold Floran prisoners.",
+    "file": "plantcage1.object",
+    "name": "Large Wooden Cage",
+    "path": "plantcage1"
+  },
+  {
+    "desc": "A study small Floran prison cage made from wood.",
+    "file": "plantcage2.object",
+    "name": "Small Wooden Cage",
+    "path": "plantcage2"
+  },
+  {
+    "desc": "A hanging cage designed to hold Floran prisoners.",
+    "file": "plantcage3.object",
+    "name": "Suspended Wooden Cage",
+    "path": "plantcage3"
+  },
+  {
+    "desc": "A wooden chair overgrown with vines.",
+    "file": "plantchair.object",
+    "name": "Overgrown Chair",
+    "path": "plantchair"
+  },
+  {
+    "desc": "A desk lamp made from a glowing plant pod.",
+    "file": "plantdesklamp1.object",
+    "name": "Organic Desk Lamp",
+    "path": "plantdesklamp"
+  },
+  {
+    "desc": "A door made from interlocking vines.",
+    "file": "plantdoor1.object",
+    "name": "Vine Door",
+    "path": "plantdoor1"
+  },
+  {
+    "desc": "A retractable gate, made from a light wood.",
+    "file": "plantdoor2.object",
+    "name": "Retractable Wooden Gate",
+    "path": "plantdoor2"
+  },
+  {
+    "desc": "A Drysap Dispenser. The one thing standing between the Floran and a dusty demise.",
+    "file": "plantdrysapdispenser.object",
+    "name": "Drysap Dispenser",
+    "path": "plantdrysapdispenser"
+  },
+  {
+    "desc": "A large geyser, covered in plant growth.",
+    "file": "plantgeyser1.object",
+    "name": "Large Overgrown Geyser",
+    "path": "plantgeyser1"
+  },
+  {
+    "desc": "A small geyser wrapped in growing vines.",
+    "file": "plantgeyser2.object",
+    "name": "Small Overgrown Geyser",
+    "path": "plantgeyser2"
+  },
+  {
+    "desc": "A log, smoothed for sitting on.",
+    "file": "plantlog.object",
+    "name": "Sitting Log",
+    "path": "plantlog"
+  },
+  {
+    "desc": "A glowing orb. It looks like there's room to store things inside.",
+    "file": "plantorb.object",
+    "name": "Glowing Orb",
+    "path": "plantorb"
+  },
+  {
+    "desc": "Lots of tempting buttons that should probably be left alone.",
+    "file": "plantpanel.object",
+    "name": "Small Wooden Console",
+    "path": "plantpanel"
+  },
+  {
+    "desc": "Large logs assembled as a construction platform.",
+    "file": "plantplatform1.object",
+    "name": "Large Wooden Scaffolding",
+    "path": "plantplatform1"
+  },
+  {
+    "desc": "Large logs arranged as a construction staging platform.",
+    "file": "plantplatform2.object",
+    "name": "Large Wooden Staging",
+    "path": "plantplatform2"
+  },
+  {
+    "desc": "A prison torture rack. It's not a stretch to say this would hurt.",
+    "file": "plantrack.object",
+    "name": "Interrogation Rack",
+    "path": "plantrack"
+  },
+  {
+    "desc": "An empty shelving rack.",
+    "file": "plantshelf.object",
+    "name": "Empty Shelf",
+    "path": "plantshelf"
+  },
+  {
+    "desc": "This torch is wrapped in a plant covering.",
+    "file": "planttorch.object",
+    "name": "Plant Torch",
+    "path": "planttorch"
+  },
+  {
+    "desc": "An arcane torture device. Best not to ask how it's used.",
+    "file": "planttorturedevice.object",
+    "name": "Torture Device",
+    "path": "planttorturedevice"
+  },
+  {
+    "desc": "A fragile wide urn made from clay.",
+    "file": "planturn1.object",
+    "name": "Wide Urn",
+    "path": "planturn1"
+  },
+  {
+    "desc": "A fragile thin urn made from clay.",
+    "file": "planturn2.object",
+    "name": "Thin Urn",
+    "path": "planturn2"
+  },
+  {
+    "desc": "A fragile small urn made from clay.",
+    "file": "planturn3.object",
+    "name": "Small Urn",
+    "path": "planturn3"
+  },
+  {
+    "desc": "A wooden table which is overgrown with vines.",
+    "file": "plantvinetable.object",
+    "name": "Overgrown Table",
+    "path": "plantvinetable"
+  },
+  {
+    "desc": "A small volcanic geyser. It looks hot.",
+    "file": "plantvolcano1.object",
+    "name": "Small Volcanic Geyser",
+    "path": "plantvolcano1"
+  },
+  {
+    "desc": "A small volcanic geyser. It's lighting the area faintly.",
+    "file": "plantvolcano2.object",
+    "name": "Large Volcanic Geyser",
+    "path": "plantvolcano2"
+  },
+  {
+    "desc": "A wide volcanic geyser. It's venting hot gasses.",
+    "file": "plantvolcano3.object",
+    "name": "Wide Volcanic Geyser",
+    "path": "plantvolcano3"
+  },
+  {
+    "desc": "A tall volcanic geyser. It's seeping lava.",
+    "file": "plantvolcano4.object",
+    "name": "Tall Volcanic Geyser",
+    "path": "plantvolcano4"
+  },
+  {
+    "desc": "A short volcanic geyser. It casts a faint glow.",
+    "file": "plantvolcano5.object",
+    "name": "Short Volcanic Geyser",
+    "path": "plantvolcano5"
+  }
+]

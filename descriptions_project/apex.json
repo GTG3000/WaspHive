@@ -1,0 +1,764 @@
+[
+  {
+    "desc": "Big Ape is All Seeing!",
+    "file": "apexapesign.object",
+    "name": "Big Ape Poster",
+    "path": "apexapesign"
+  },
+  {
+    "desc": "Look! Fishies!",
+    "file": "apexaquarium1.object",
+    "name": "Wooden Aquarium",
+    "path": "apexaquarium1"
+  },
+  {
+    "desc": "An empty aquarium. How lonely.",
+    "file": "apexaquarium2.object",
+    "name": "Empty Wooden Aquarium",
+    "path": "apexaquarium2"
+  },
+  {
+    "desc": "This upholstery is bananas.",
+    "file": "apexarmchair.object",
+    "name": "Standard Issue Armchair",
+    "path": "apexarmchair"
+  },
+  {
+    "desc": "All Hail the Great Banana!",
+    "file": "apexbananasign.object",
+    "name": "Banana Propaganda Poster",
+    "path": "apexbananasign"
+  },
+  {
+    "desc": "A cheaply-manufactured bed.",
+    "file": "apexbed.object",
+    "name": "Standard Issue Bed",
+    "path": "apexbed"
+  },
+  {
+    "desc": "Vials full of various blood types. I hope they didn't take out ALL their blood.",
+    "file": "apexbloodbank.object",
+    "name": "Bloodbank",
+    "path": "apexbloodbank"
+  },
+  {
+    "desc": "A brain in a jar, daydreaming.",
+    "file": "apexbrainjar.object",
+    "name": "Brain in a Jar",
+    "path": "apexbrainjar"
+  },
+  {
+    "desc": "A bust of an important Apex.",
+    "file": "apexbustmale.object",
+    "name": "Apex Male Bust",
+    "path": "apexbustmale"
+  },
+  {
+    "desc": "A creepy monitor. A face flickers onto the screen, almost faster than the eye can see.",
+    "file": "apexceilingtv.object",
+    "name": "Flickering Ceiling TV",
+    "path": "apexceilingtv"
+  },
+  {
+    "desc": "A comfy chair, looks like it's meant to be nailed to the floor.",
+    "file": "apexcomfychair.object",
+    "name": "Standard Issue Seat",
+    "path": "apexcomfychair"
+  },
+  {
+    "desc": "That big red lever should probably be left alone.",
+    "file": "apexconsole1.object",
+    "name": "Research Terminal",
+    "path": "apexconsole1"
+  },
+  {
+    "desc": "I wonder what all these buttons are for...",
+    "file": "apexconsolekeyboard.object",
+    "name": "Console Keyboard",
+    "path": "apexconsolekeyboard"
+  },
+  {
+    "desc": "It should be stocked full of science journals and lab reports.",
+    "file": "apexcoolbookcase.object",
+    "name": "Cool Bookcase",
+    "path": "apexcoolbookcase"
+  },
+  {
+    "desc": "It's an exceptionally cool chair.",
+    "file": "apexcoolchair.object",
+    "name": "Cool Chair",
+    "path": "apexcoolchair"
+  },
+  {
+    "desc": "This cool computer is making a lot of 'beep boop boop beep' noises.",
+    "file": "apexcoolcomputer.object",
+    "name": "Cool Computer",
+    "path": "apexcoolcomputer"
+  },
+  {
+    "desc": "This cupboard is sleek, but it doesn't look sturdy.",
+    "file": "apexcoolcupboard.object",
+    "name": "Cool Cupboard",
+    "path": "apexcoolcupboard"
+  },
+  {
+    "desc": "This desk is sleek, looks solid.",
+    "file": "apexcooldesk.object",
+    "name": "Cool Desk",
+    "path": "apexcooldesk"
+  },
+  {
+    "desc": "This door is made of some sort of bulletproof material.",
+    "file": "apexcooldoor.object",
+    "name": "Security Door",
+    "path": "apexcooldoor"
+  },
+  {
+    "desc": "It looks like a server. I wonder what kind of games could be hosted on that.",
+    "file": "apexcoolserver.object",
+    "name": "Cool Server",
+    "path": "apexcoolserver"
+  },
+  {
+    "desc": "There's nothing of interest on this shelf.",
+    "file": "apexcoolshelf1.object",
+    "name": "Cool Empty Shelf",
+    "path": "apexcoolshelf1"
+  },
+  {
+    "desc": "It seems irresponsible to leave a bunch of unlabelled chemicals unattended.",
+    "file": "apexcoolshelf2.object",
+    "name": "Cool Chemical Shelf",
+    "path": "apexcoolshelf2"
+  },
+  {
+    "desc": "That sure is a cool table.",
+    "file": "apexcooltable.object",
+    "name": "Cool Table",
+    "path": "apexcooltable"
+  },
+  {
+    "desc": "Another victim of this tacky polka dot print.",
+    "file": "apexcouch.object",
+    "name": "Standard Issue Couch",
+    "path": "apexcouch"
+  },
+  {
+    "desc": "A pair of standard issue kitchen cabinets.",
+    "file": "apexcounter1.object",
+    "name": "Standard Issue Cabinet",
+    "path": "apexcounter1"
+  },
+  {
+    "desc": "A standard issue kitchen counter.",
+    "file": "apexcounter2.object",
+    "name": "Standard Issue Counter",
+    "path": "apexcounter2"
+  },
+  {
+    "desc": "A thin set of short curtains.",
+    "file": "apexcurtain.object",
+    "name": "Standard Issue Curtain",
+    "path": "apexcurtain"
+  },
+  {
+    "desc": "Each of these desks has a coffee mug and lamp fused to its surface.",
+    "file": "apexdesk.object",
+    "name": "Standard Issue Desk",
+    "path": "apexdesk"
+  },
+  {
+    "desc": "Don't do it!",
+    "file": "apexdonotenter.object",
+    "name": "Do Not Enter Sign",
+    "path": "apexdonotenter"
+  },
+  {
+    "desc": "Ape Flu? Sounds serious...",
+    "file": "apexflusign.object",
+    "name": "Ape Flu Poster",
+    "path": "apexflusign"
+  },
+  {
+    "desc": "A fridge, good for keeping food cold.",
+    "file": "apexfridge.object",
+    "name": "Standard Issue Fridge",
+    "path": "apexfridge"
+  },
+  {
+    "desc": "I think Big Ape is watching...",
+    "file": "apexhdtv.object",
+    "name": "Big Ape HDTV",
+    "path": "apexhdtv"
+  },
+  {
+    "desc": "A short wooden lamp with a polka dot lamp shade.",
+    "file": "apexlamp1.object",
+    "name": "Standard Issue Lamp",
+    "path": "apexlamp1"
+  },
+  {
+    "desc": "A tall wooden lamp with a polka dot lamp shade.",
+    "file": "apexlamp2.object",
+    "name": "Standard Issue Tall Lamp",
+    "path": "apexlamp2"
+  },
+  {
+    "desc": "A paper ceiling lamp.",
+    "file": "apexlamp3.object",
+    "name": "Paper Lantern",
+    "path": "apexlamp3"
+  },
+  {
+    "desc": "Go Ape!",
+    "file": "apexlevel1sign.object",
+    "name": "Apex Level 01 Sign",
+    "path": "apexlevel1sign"
+  },
+  {
+    "desc": "A Miniknog locker.",
+    "file": "apexlocker.object",
+    "name": "Laboratory Locker",
+    "path": "apexlocker"
+  },
+  {
+    "desc": "The sign indicates something medicine-related in the vicinity.",
+    "file": "apexmedsign.object",
+    "name": "Medical Bay Sign",
+    "path": "apexmedsign"
+  },
+  {
+    "desc": "A defaced poster of Big Ape.",
+    "file": "apexmocksign.object",
+    "name": "Disobey Sign",
+    "path": "apexmocksign"
+  },
+  {
+    "desc": "A fancy plaque with an inscription on it.",
+    "file": "apexnameplate.object",
+    "name": "Fancy Plaque",
+    "path": "apexnameplate"
+  },
+  {
+    "desc": "I'd better do what they say... ha!",
+    "file": "apexobeysign.object",
+    "name": "Obey Sign",
+    "path": "apexobeysign"
+  },
+  {
+    "desc": "A standard issue office chair.",
+    "file": "apexofficechair.object",
+    "name": "Office Chair",
+    "path": "apexofficechair"
+  },
+  {
+    "desc": "Cooks food to a reasonable standard.",
+    "file": "apexoven.object",
+    "name": "Standard Issue Oven",
+    "path": "apexoven"
+  },
+  {
+    "desc": "A very flattering painting of Big Ape, Glorious Beloved Leader of the Apex.",
+    "file": "apexpainting1.object",
+    "name": "Glorious Leader Painting",
+    "path": "apexpainting1"
+  },
+  {
+    "desc": "A portrait of an Apex peace-keeper.",
+    "file": "apexpainting2.object",
+    "name": "Apex Portrait",
+    "path": "apexpainting2"
+  },
+  {
+    "desc": "It's a framed replica of Big Ape's hit album, 'Jungle Love'.",
+    "file": "apexpainting3.object",
+    "name": "Big Ape Record",
+    "path": "apexpainting3"
+  },
+  {
+    "desc": "Don't underestimate an Apex's love for bananas.",
+    "file": "apexpainting4.object",
+    "name": "Standard Issue Painting",
+    "path": "apexpainting4"
+  },
+  {
+    "desc": "May we forever obey him.",
+    "file": "apexpainting5.object",
+    "name": "Big Ape Cross-Stitch",
+    "path": "apexpainting5"
+  },
+  {
+    "desc": "There's some sheet music here.",
+    "file": "apexpiano.object",
+    "name": "Standard Issue Piano",
+    "path": "apexpiano"
+  },
+  {
+    "desc": "There seems to be an Apex in there, connected to a bunch of wires and tubes.",
+    "file": "apexpod.object",
+    "name": "Life Support Pod",
+    "path": "apexpod"
+  },
+  {
+    "desc": "The pod is empty.",
+    "file": "apexpod2.object",
+    "name": "Empty Life Support Pod",
+    "path": "apexpod2"
+  },
+  {
+    "desc": "The radio is switched on but silent.",
+    "file": "apexradio.object",
+    "name": "Standard Issue Radio",
+    "path": "apexradio"
+  },
+  {
+    "desc": "It's churning out sultry tunes from Big Ape's #1 album, 'Jungle Love'.",
+    "file": "apexrecordplayer.object",
+    "name": "Standard Issue Turntable",
+    "path": "apexrecordplayer"
+  },
+  {
+    "desc": "Don't forget to wash your hands!",
+    "file": "apexsink.object",
+    "name": "Bathroom Sink",
+    "path": "apexsink"
+  },
+  {
+    "desc": "A lightweight sliding door, advertised as being slimmer, faster, and more expensive.",
+    "file": "apexslidingdoor1.object",
+    "name": "Light Sliding Door",
+    "path": "apexslidingdoor1"
+  },
+  {
+    "desc": "A lightweight sliding door, advertised as being slimmer, faster, and more expensive.",
+    "file": "apexslidingdoor2.object",
+    "name": "Black Sliding Door",
+    "path": "apexslidingdoor2"
+  },
+  {
+    "desc": "Intercoms are often used to broadcast messages...or receive them.",
+    "file": "apexspeaker.object",
+    "name": "Announcement Intercom",
+    "path": "apexspeaker"
+  },
+  {
+    "desc": "This seems to be a scientist that 'gave his body to science'.",
+    "file": "apexstatue.object",
+    "name": "Apex Scientist Statue",
+    "path": "apexstatue"
+  },
+  {
+    "desc": "It's a bust of Big Ape, Glorious Leader of the Apex.",
+    "file": "apexstatue1.object",
+    "name": "Big Ape Bust",
+    "path": "apexstatue1"
+  },
+  {
+    "desc": "All Hail the Great Banana!",
+    "file": "apexstatue2.object",
+    "name": "Great Banana Statue",
+    "path": "apexstatue2"
+  },
+  {
+    "desc": "All Hail the Great Banana! The sacred fruit!",
+    "file": "apexstatue3.object",
+    "name": "Great Banana Lock Statue",
+    "path": "apexstatue3"
+  },
+  {
+    "desc": "A nice, spacious, wall-mounted storage solution.",
+    "file": "apexstoragelocker.object",
+    "name": "Apex Storage Locker",
+    "path": "apexstoragelocker"
+  },
+  {
+    "desc": "There are some items on this shelf.",
+    "file": "apexstoreshelf.object",
+    "name": "Wooden Store Shelf",
+    "path": "apexstoreshelf"
+  },
+  {
+    "desc": "A sign advertising a place to buy stuff.",
+    "file": "apexstoresign.object",
+    "name": "Store Sign",
+    "path": "apexstoresign"
+  },
+  {
+    "desc": "A basic mass produced table.",
+    "file": "apextable.object",
+    "name": "Standard Issue Table",
+    "path": "apextable"
+  },
+  {
+    "desc": "This strange lamp emits a low green light.",
+    "file": "apextablelamp.object",
+    "name": "Green Lamp Pod",
+    "path": "apextablelamp"
+  },
+  {
+    "desc": "A military tent.",
+    "file": "apextent.object",
+    "name": "Military Tent",
+    "path": "apextent"
+  },
+  {
+    "desc": "Think happy thoughts!",
+    "file": "apexthoughtreassign.object",
+    "name": "Reassignment Sign",
+    "path": "apexthoughtreassign"
+  },
+  {
+    "desc": "A table reserved for traitors.",
+    "file": "apextorturebed.object",
+    "name": "Interrogation Table",
+    "path": "apextorturebed"
+  },
+  {
+    "desc": "There's nothing on. Every channel just displays a picture of Big Ape.",
+    "file": "apextv.object",
+    "name": "Big Ape TV",
+    "path": "apextv"
+  },
+  {
+    "desc": "What does it MEAN?",
+    "file": "apexwallpainting1.object",
+    "name": "Modern Painting",
+    "path": "apexwallpainting1"
+  },
+  {
+    "desc": "What does it MEAN?",
+    "file": "apexwallpainting2.object",
+    "name": "Vertical Modern Painting",
+    "path": "apexwallpainting2"
+  },
+  {
+    "desc": "A very basic mass produced wardrobe.",
+    "file": "apexwardrobe.object",
+    "name": "Standard Issue Wardrobe",
+    "path": "apexwardrobe"
+  },
+  {
+    "desc": "A standard issue wooden dining chair.",
+    "file": "apexwoodenchair.object",
+    "name": "Standard Issue Chair",
+    "path": "apexwoodenchair"
+  },
+  {
+    "desc": "The shelves are empty.",
+    "file": "apexwoodenshelves.object",
+    "name": "Standard Issue Shelves",
+    "path": "apexwoodenshelves"
+  },
+  {
+    "desc": "It's just a wall panel.",
+    "file": "apexwoodpanel.object",
+    "name": "Standard Issue Wall Panel",
+    "path": "apexwoodpanel"
+  },
+  {
+    "desc": "I should probably go that way.",
+    "file": "arrowsign.object",
+    "name": "Arrow Sign",
+    "path": "arrowsign"
+  },
+  {
+    "desc": "A flask full of blue liquid.",
+    "file": "blueflask.object",
+    "name": "Blue Flask",
+    "path": "blueflask"
+  },
+  {
+    "desc": "Acceptable whether you're wearing sweatpants and a beanie or pantaloons.",
+    "file": "cider.object",
+    "name": "Mulled Fruit Drink",
+    "path": "cider"
+  },
+  {
+    "desc": "An appropriately glorious monument dedicated to a glorious leader.",
+    "file": "classicapestatue.object",
+    "name": "Big Ape Monument",
+    "path": "classicapestatue"
+  },
+  {
+    "desc": "Big ape statue with no head.",
+    "file": "classicapestatuenohead.object",
+    "name": "Headless Big Ape Statue",
+    "path": "classicapestatuenohead"
+  },
+  {
+    "desc": "This door is beautifully crafted.",
+    "file": "classicbardoor.object",
+    "name": "Classic Barred Door",
+    "path": "classicbardoor"
+  },
+  {
+    "desc": "A beautiful bed of rich wood and silks.",
+    "file": "classicbed.object",
+    "name": "Classic Bed",
+    "path": "classicbed"
+  },
+  {
+    "desc": "A bookcase built to be filled with classic literature.",
+    "file": "classicbookcase.object",
+    "name": "Classic Bookcase",
+    "path": "classicbookcase"
+  },
+  {
+    "desc": "A golden candlestick with three prongs. The wax never seems to melt.",
+    "file": "classiccandlestick.object",
+    "name": "Classic Candlestick",
+    "path": "classiccandlestick"
+  },
+  {
+    "desc": "A dining chair fit for the sort of person who enjoys caviar.",
+    "file": "classicchair.object",
+    "name": "Classic Chair",
+    "path": "classicchair"
+  },
+  {
+    "desc": "This chandelier is made of wrought-iron. It looks expensive.",
+    "file": "classicchandelier.object",
+    "name": "Classic Chandelier",
+    "path": "classicchandelier"
+  },
+  {
+    "desc": "A classy chest filled with classy treasure!",
+    "file": "classicchest.object",
+    "name": "Classic Chest",
+    "path": "classicchest"
+  },
+  {
+    "desc": "The reason you don't play ball in the house.",
+    "file": "classicchina.object",
+    "name": "Classic China Cabinet",
+    "path": "classicchina"
+  },
+  {
+    "desc": "A large classy storage cabinet.",
+    "file": "classiccupboard.object",
+    "name": "Classic Cupboard",
+    "path": "classiccupboard"
+  },
+  {
+    "desc": "The classiest curtain.",
+    "file": "classiccurtain1.object",
+    "name": "Classic Curtain",
+    "path": "classiccurtain1"
+  },
+  {
+    "desc": "The classiest drape.",
+    "file": "classiccurtain2.object",
+    "name": "Classic Drape",
+    "path": "classiccurtain2"
+  },
+  {
+    "desc": "Thin hanging drapes. Quite classy.",
+    "file": "classiccurtain3.object",
+    "name": "Classic Thin Drape",
+    "path": "classiccurtain3"
+  },
+  {
+    "desc": "The sort of desk that's used exclusively for making important decisions.",
+    "file": "classicdesk.object",
+    "name": "Classic Desk",
+    "path": "classicdesk"
+  },
+  {
+    "desc": "For when you want to make a table-based statement.",
+    "file": "classicdiningtable.object",
+    "name": "Classic Dining Table",
+    "path": "classicdiningtable"
+  },
+  {
+    "desc": "A classic banana-infused wood door with a gilded handle.",
+    "file": "classicdoor.object",
+    "name": "Classic Door",
+    "path": "classicdoor"
+  },
+  {
+    "desc": "An ornate fountain - much of the water appears to be wasted.",
+    "file": "classicfountain.object",
+    "name": "Water Fountain",
+    "path": "classicfountain"
+  },
+  {
+    "desc": "A soft scent of fruit juice lingers.",
+    "file": "classicglass.object",
+    "name": "Crystal Glass",
+    "path": "classicglass"
+  },
+  {
+    "desc": "A pretty iron wall sconce.",
+    "file": "classiclight.object",
+    "name": "Classic Light",
+    "path": "classiclight"
+  },
+  {
+    "desc": "A ceiling spotlight. Ideal lighting for fancy artwork.",
+    "file": "classiclightart.object",
+    "name": "Classic Ceiling Light",
+    "path": "classiclightart"
+  },
+  {
+    "desc": "For displaying the fanciest of items, or holding up the smallest of buildings.",
+    "file": "classicpillarsmall.object",
+    "name": "Small Pillar",
+    "path": "classicpillarsmall"
+  },
+  {
+    "desc": "A fine china plate.",
+    "file": "classicplate.object",
+    "name": "Classic Plate",
+    "path": "classicplate"
+  },
+  {
+    "desc": "Good for hosting small dinner parties.",
+    "file": "classictable.object",
+    "name": "Classic Table",
+    "path": "classictable"
+  },
+  {
+    "desc": "Watch out! Lightning bolts!",
+    "file": "electricsign.object",
+    "name": "Electricity Warning Sign",
+    "path": "electricsign"
+  },
+  {
+    "desc": "A board game, with a cardboard castle and game pieces.",
+    "file": "fantasyboardgame.object",
+    "name": "Fantasy Board Game",
+    "path": "fantasyboardgame"
+  },
+  {
+    "desc": "A delightful hanging basket. Don't swing from it!",
+    "file": "flowerbasket1.object",
+    "name": "Hanging Basket",
+    "path": "flowerbasket1"
+  },
+  {
+    "desc": "A delightful hanging basket. Don't swing from it!",
+    "file": "flowerbasket2.object",
+    "name": "Hanging Basket",
+    "path": "flowerbasket2"
+  },
+  {
+    "desc": "A beautiful flower bed. Watch out for bees!",
+    "file": "flowerbed1.object",
+    "name": "Flower Bed",
+    "path": "flowerbed1"
+  },
+  {
+    "desc": "A beautiful flower bed. Watch out for bees!",
+    "file": "flowerbed2.object",
+    "name": "Flower Bed",
+    "path": "flowerbed2"
+  },
+  {
+    "desc": "I didn't know clocks were capable of reproduction.",
+    "file": "grandfatherclock.object",
+    "name": "Grandfather Clock",
+    "path": "grandfatherclock"
+  },
+  {
+    "desc": "A flask full of green goo.",
+    "file": "greenflask.object",
+    "name": "Green Flask",
+    "path": "greenflask"
+  },
+  {
+    "desc": "Everything looks significantly more terrifying under a microscope.",
+    "file": "microscope.object",
+    "name": "Microscope",
+    "path": "microscope"
+  },
+  {
+    "desc": "An electrically charged plasma field. It reacts to sound.",
+    "file": "plasmadisc.object",
+    "name": "Plasma Disc",
+    "path": "plasmadisc"
+  },
+  {
+    "desc": "A sign that reads \"Danger!\". It couldn't really send a clearer message.",
+    "file": "reddangersign.object",
+    "name": "Red Danger Sign",
+    "path": "reddangersign"
+  },
+  {
+    "desc": "A flask full of red liquid.",
+    "file": "redflask.object",
+    "name": "Red Flask",
+    "path": "redflask"
+  },
+  {
+    "desc": "A factory capabable of creating the latest in urban robot technology.",
+    "file": "respawnpod.object.disabled",
+    "name": "Apex Respawn Pod",
+    "path": "respawnpod"
+  },
+  {
+    "desc": "A pile of sand bags.",
+    "file": "sandbags.object",
+    "name": "Sand Bags",
+    "path": "sandbags"
+  },
+  {
+    "desc": "The finest security camera around.",
+    "file": "securitycamera.object",
+    "name": "Hi-tech Security Camera",
+    "path": "securitycamera"
+  },
+  {
+    "desc": "A wireless energy supply.",
+    "file": "tesla.object",
+    "name": "Wireless Generator",
+    "path": "tesla"
+  },
+  {
+    "desc": "BZZZZZZZZT, ouch.",
+    "file": "teslaspike.object",
+    "name": "Tesla Spike",
+    "path": "teslaspike"
+  },
+  {
+    "desc": "The finest automated security turret around.",
+    "file": "turret.object",
+    "name": "Hi-tech Turret",
+    "path": "turret"
+  },
+  {
+    "desc": "A large decorative vase. Looks pretty smashable.",
+    "file": "vaseclassiclarge1.object",
+    "name": "Large Striped Vase",
+    "path": "vaseclassiclarge1"
+  },
+  {
+    "desc": "A large decorative vase. Looks pretty smashable.",
+    "file": "vaseclassiclarge2.object",
+    "name": "Large Fancy Vase",
+    "path": "vaseclassiclarge2"
+  },
+  {
+    "desc": "A decorative vase. Looks pretty smashable.",
+    "file": "vaseclassicmedium1.object",
+    "name": "Fancy Vase",
+    "path": "vaseclassicmedium1"
+  },
+  {
+    "desc": "A decorative vase. Looks pretty smashable.",
+    "file": "vaseclassicmedium2.object",
+    "name": "Classic Vase",
+    "path": "vaseclassicmedium2"
+  },
+  {
+    "desc": "A decorative vase. Looks pretty smashable.",
+    "file": "vaseclassicsmall1.object",
+    "name": "Small Fancy Vase",
+    "path": "vaseclassicsmall1"
+  },
+  {
+    "desc": "A decorative vase. Looks pretty smashable.",
+    "file": "vaseclassicsmall2.object",
+    "name": "Small Striped Vase",
+    "path": "vaseclassicsmall2"
+  }
+]

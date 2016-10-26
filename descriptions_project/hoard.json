@@ -1,0 +1,80 @@
+[
+  {
+    "desc": "A barrel filled with treasure!",
+    "file": "barrelgoldfilled.object",
+    "name": "Treasure Barrel",
+    "path": "barrelgoldfilled"
+  },
+  {
+    "desc": "A display for a large diamond.",
+    "file": "diamonddisplay.object",
+    "name": "Diamond Display",
+    "path": "diamonddisplay"
+  },
+  {
+    "desc": "A golden pedestal for something special.",
+    "file": "goldenpedestal.object",
+    "name": "Golden Pedestal",
+    "path": "goldenpedestal"
+  },
+  {
+    "desc": "An odd golden jug for special ceremonies.",
+    "file": "goldvase1.object",
+    "name": "Odd Gold Jug",
+    "path": "goldvase1"
+  },
+  {
+    "desc": "A golden jug for special ceremonies.",
+    "file": "goldvase2.object",
+    "name": "Gold Jug",
+    "path": "goldvase2"
+  },
+  {
+    "desc": "A slim golden deocrative vase.",
+    "file": "goldvase3.object",
+    "name": "Gold Slim Vase",
+    "path": "goldvase3"
+  },
+  {
+    "desc": "A slim gold vase.",
+    "file": "goldvase4.object",
+    "name": "Gold Slim Vase",
+    "path": "goldvase4"
+  },
+  {
+    "desc": "A classic golden jug.",
+    "file": "goldvase5.object",
+    "name": "Gold Classic Jug",
+    "path": "goldvase5"
+  },
+  {
+    "desc": "A grail! It might be holy.",
+    "file": "grail.object",
+    "name": "Grail",
+    "path": "grail"
+  },
+  {
+    "desc": "A small golden spotlight.",
+    "file": "mysteriouslight.object",
+    "name": "Golden Spotlight",
+    "path": "mysteriouslight"
+  },
+  {
+    "desc": "A Safe.",
+    "file": "safe.object",
+    "name": "Safe",
+    "path": "safe"
+  },
+  {
+    "desc": "A treasure chest.",
+    "file": "treasurechest.object",
+    "name": "Treasure Chest",
+    "path": "treasurechest"
+  },
+  {
+    "desc": "A wooden crate filled with treasure.",
+    "file": "woodencrategoldfilled.object",
+    "name": "Treasure Filled Crate",
+    "path": "woodencrategoldfilled"
+  }
+]

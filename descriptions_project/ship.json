@@ -1,0 +1,614 @@
+[
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "apexcaptainschair.object",
+    "name": "Apex Captain's Chair",
+    "path": "apexcaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "apexfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "apexfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "apexshipdoor.object",
+    "name": "Apex Ship Door",
+    "path": "apexshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "apexshiphatch.object",
+    "name": "Apex Ship Hatch",
+    "path": "apexshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "apexshipdoorBroken.object",
+    "name": "Apex Ship Door",
+    "path": "apexshipdoorbroken"
+  },
+  {
+    "desc": "A common ship light.",
+    "file": "apexshiplight.object",
+    "name": "Ship Light",
+    "path": "apexshiplight"
+  },
+  {
+    "desc": "A malfunctioning light.",
+    "file": "apexshiplightBroken.object",
+    "name": "Broken Ship Light",
+    "path": "apexshiplight"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "apexshiplocker.object",
+    "name": "Shiplocker",
+    "path": "apexshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "apexshiplockerTier0.object",
+    "name": "Shiplocker",
+    "path": "apexshiplockerTier0"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "aviancaptainschair.object",
+    "name": "Avian Captain's Chair",
+    "path": "aviancaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "avianfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "avianfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "avianshipdoor.object",
+    "name": "Avian Ship Door",
+    "path": "avianshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "avianshiphatch.object",
+    "name": "Avian Ship Hatch",
+    "path": "avianshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "avianshipdoorBroken.object",
+    "name": "Avian Ship Door",
+    "path": "avianshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "avianshiplocker.object",
+    "name": "Shiplocker",
+    "path": "avianshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "avianshiplockerTier0.object",
+    "name": "Shiplocker",
+    "path": "avianshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "aviantechstation.object",
+    "name": "S.A.I.L",
+    "path": "aviantechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "aviantechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "aviantechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "avianteleporter.object",
+    "name": "Teleporter",
+    "path": "avianteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "avianteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "avianteleporterTier0"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "bigboosterflame.object",
+    "name": "Booster Flame",
+    "path": "boosters\\bigboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "bigboosterflameavian.object",
+    "name": "Booster Flame",
+    "path": "boosters\\bigboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "bigboosterflameglitch.object",
+    "name": "Booster Flame",
+    "path": "boosters\\bigboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "bigboosterflamehuman.object",
+    "name": "Booster Flame",
+    "path": "boosters\\bigboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflame.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflameapex.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflameapex2.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflameapex3.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflamehuman2.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflamehuman3.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflamenovakid.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "boosterflamehuman.object",
+    "name": "Booster Flame",
+    "path": "boosters\\boosterflamehuman"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "smallboosterflame.object",
+    "name": "Small Booster Flame",
+    "path": "boosters\\smallboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "smallboosterflameglitch.object",
+    "name": "Booster Flame",
+    "path": "boosters\\smallboosterflame"
+  },
+  {
+    "desc": "I wonder how quickly that would cook a burger.",
+    "file": "smallboosterflamehuman2.object",
+    "name": "Booster Flame",
+    "path": "boosters\\smallboosterflame"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenapexfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenapexfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenavianfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenavianfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenfloranfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenfloranfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenglitchfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenglitchfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenhumanfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenhumanfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokenhylotlfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokenhylotlfuelhatch"
+  },
+  {
+    "desc": "A broken FTL fuel hatch. This won't do!",
+    "file": "brokennovakidfuelhatch.object",
+    "name": "Broken FTL Fuel Hatch",
+    "path": "brokennovakidfuelhatch"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "florancaptainschair.object",
+    "name": "Floran Captain's Chair",
+    "path": "florancaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "floranfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "floranfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "floranshipdoor.object",
+    "name": "Floran Ship Door",
+    "path": "floranshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "floranshiphatch.object",
+    "name": "Floran Ship Hatch",
+    "path": "floranshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "floranshipdoorBroken.object",
+    "name": "Floran Ship Door",
+    "path": "floranshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "floranshiplocker.object",
+    "name": "Shiplocker",
+    "path": "floranshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "floranshiplockerTier0.object",
+    "name": "Shiplocker",
+    "path": "floranshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "florantechstation.object",
+    "name": "S.A.I.L",
+    "path": "florantechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "florantechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "florantechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "floranteleporter.object",
+    "name": "Teleporter",
+    "path": "floranteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "floranteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "floranteleporterTier0"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "glitchcaptainschair.object",
+    "name": "Glitch Captain's Chair",
+    "path": "glitchcaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "glitchfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "glitchfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "glitchshipdoor.object",
+    "name": "Glitch Ship Door",
+    "path": "glitchshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "glitchshiphatch.object",
+    "name": "Glitch Ship Hatch",
+    "path": "glitchshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "glitchshipdoorBroken.object",
+    "name": "Glitch Ship Door",
+    "path": "glitchshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "glitchshiplocker.object",
+    "name": "Shiplocker",
+    "path": "glitchshiplocker"
+  },
+  {
+    "desc": "Store some stuff, why don't you?",
+    "file": "glitchshiplockerTier0.object",
+    "name": "Shiplocker",
+    "path": "glitchshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "glitchtechstation.object",
+    "name": "S.A.I.L",
+    "path": "glitchtechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "glitchtechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "glitchtechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "glitchteleporter.object",
+    "name": "Teleporter",
+    "path": "glitchteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "glitchteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "glitchteleporterTier0"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "humancaptainschair.object",
+    "name": "Human Captain's Chair",
+    "path": "humancaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "humanfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "humanfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "humanshipdoor.object",
+    "name": "Human Ship Door",
+    "path": "humanshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "humanshiphatch.object",
+    "name": "Human Ship Hatch",
+    "path": "humanshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "humanshipdoorBroken.object",
+    "name": "Human Ship Door",
+    "path": "humanshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "humanshiplocker.object",
+    "name": "Ship Locker",
+    "path": "humanshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "humanshiplockerTier0.object",
+    "name": "Ship Locker",
+    "path": "humanshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "humantechstation.object",
+    "name": "S.A.I.L",
+    "path": "humantechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "humantechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "humantechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "humanteleporter.object",
+    "name": "Teleporter",
+    "path": "humanteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "humanteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "humanteleporterTier0"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "hylotlcaptainschair.object",
+    "name": "Hylotl Captain's Chair",
+    "path": "hylotlcaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "hylotlfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "hylotlfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "hylotlshipdoor.object",
+    "name": "Hylotl Ship Door",
+    "path": "hylotlshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "hylotlshiphatch.object",
+    "name": "Hylotl Ship Hatch",
+    "path": "hylotlshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "hylotlshipdoorBroken.object",
+    "name": "Hylotl Ship Door",
+    "path": "hylotlshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "hylotlshiplocker.object",
+    "name": "Shiplocker",
+    "path": "hylotlshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "hylotlshiplockerTier0.object",
+    "name": "Shiplocker",
+    "path": "hylotlshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "hylotltechstation.object",
+    "name": "S.A.I.L",
+    "path": "hylotltechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "hylotltechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "hylotltechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "hylotlteleporter.object",
+    "name": "Teleporter",
+    "path": "hylotlteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "hylotlteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "hylotlteleporterTier0"
+  },
+  {
+    "desc": "The Captain sits here to fly the ship.",
+    "file": "novakidcaptainschair.object",
+    "name": "Novakid Captain's Chair",
+    "path": "novakidcaptainschair"
+  },
+  {
+    "desc": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "file": "novakidfuelhatch.object",
+    "name": "FTL Fuel Hatch",
+    "path": "novakidfuelhatch"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "novakidshipdoor.object",
+    "name": "Novakid Ship Door",
+    "path": "novakidshipdoor"
+  },
+  {
+    "desc": "A hatch suitable for a spaceship.",
+    "file": "novakidshiphatch.object",
+    "name": "Novakid Ship Hatch",
+    "path": "novakidshipdoor"
+  },
+  {
+    "desc": "A door suitable for a spaceship.",
+    "file": "novakidshipdoorBroken.object",
+    "name": "Broken Ship Door",
+    "path": "novakidshipdoorBroken"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "novakidshiplocker.object",
+    "name": "Ship Locker",
+    "path": "novakidshiplocker"
+  },
+  {
+    "desc": "A locker. Store some stuff, why don't you?",
+    "file": "novakidshiplockerTier0.object",
+    "name": "Ship Locker",
+    "path": "novakidshiplockerTier0"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "novakidtechstation.object",
+    "name": "S.A.I.L",
+    "path": "novakidtechstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "novakidtechstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "novakidtechstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "novakidteleporter.object",
+    "name": "Teleporter",
+    "path": "novakidteleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "novakidteleporterTier0.object",
+    "name": "Teleporter",
+    "path": "novakidteleporterTier0"
+  },
+  {
+    "desc": "Can be used to develop highly specialized equipment.",
+    "file": "researchstation.object",
+    "name": "^orange;Research Station^white;",
+    "path": "researchstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "techstation.object",
+    "name": "S.A.I.L",
+    "path": "techstation"
+  },
+  {
+    "desc": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "file": "techstationTier0.object",
+    "name": "S.A.I.L",
+    "path": "techstationTier0"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "teleporter.object",
+    "name": "Teleporter",
+    "path": "teleporter"
+  },
+  {
+    "desc": "Trusty teleporter, what would we do without you?",
+    "file": "teleporterTier0.object",
+    "name": "Teleporter",
+    "path": "teleporterTier0"
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "00back.object",
+    "name": "Protectorate Background",
+    "path": "00"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "00bback.object",
+    "name": "Protectorate Background",
+    "path": "00b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "01back.object",
+    "name": "Protectorate Background",
+    "path": "01"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "01bback.object",
+    "name": "Protectorate Background",
+    "path": "01b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "02back.object",
+    "name": "Protectorate Background",
+    "path": "02"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "02bback.object",
+    "name": "Protectorate Background",
+    "path": "02b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "03back.object",
+    "name": "Protectorate Background",
+    "path": "03"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "03bback.object",
+    "name": "Protectorate Background",
+    "path": "03b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "04back.object",
+    "name": "Protectorate Background",
+    "path": "04"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "04bback.object",
+    "name": "Protectorate Background",
+    "path": "04b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "05back.object",
+    "name": "Protectorate Background",
+    "path": "05"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "05bback.object",
+    "name": "Protectorate Background",
+    "path": "05b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "06back.object",
+    "name": "Protectorate Background",
+    "path": "06"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "06bback.object",
+    "name": "Protectorate Background",
+    "path": "06b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "07back.object",
+    "name": "Protectorate Stage Background",
+    "path": "07"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "07bback.object",
+    "name": "Protectorate Background",
+    "path": "07b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "08back.object",
+    "name": "Protectorate Background",
+    "path": "08"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "08bback.object",
+    "name": "Protectorate Background",
+    "path": "08b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "09back.object",
+    "name": "Protectorate Background",
+    "path": "09"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "09bback.object",
+    "name": "Protectorate Background",
+    "path": "09b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "10back.object",
+    "name": "Protectorate Background",
+    "path": "10"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "10bback.object",
+    "name": "Protectorate Background",
+    "path": "10b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "11back.object",
+    "name": "Protectorate Background",
+    "path": "11"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "11bback.object",
+    "name": "Protectorate Background",
+    "path": "11b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "12back.object",
+    "name": "Protectorate Background",
+    "path": "12"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "12bback.object",
+    "name": "Protectorate Background",
+    "path": "12b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "13back.object",
+    "name": "Protectorate Background",
+    "path": "13"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "13bback.object",
+    "name": "Protectorate Background",
+    "path": "13b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "14back.object",
+    "name": "Protectorate Background",
+    "path": "14"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "14bback.object",
+    "name": "Protectorate Background",
+    "path": "14b"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "15back.object",
+    "name": "Protectorate Background",
+    "path": "15"
+  },
+  {
+    "desc": "A set piece not designed to be used as an object.",
+    "file": "15bback.object",
+    "name": "Protectorate Background",
+    "path": "15b"
+  },
+  {
+    "desc": "This needs a guitar to go with it.",
+    "file": "protectorateamp.object",
+    "name": "Protectorate Amp",
+    "path": "objects\\protectorateamp"
+  },
+  {
+    "desc": "This Matter Manipulator was meant for me... And I may need it to get out of here alive.",
+    "file": "protectoratebeamaxe.object",
+    "name": "Matter Manipulator",
+    "path": "objects\\protectoratebeamaxe"
+  },
+  {
+    "desc": "A bench found in the Protectorate.",
+    "file": "protectoratebench.object",
+    "name": "Protectorate Bench",
+    "path": "objects\\protectoratebench"
+  },
+  {
+    "desc": "So many books, so little time!",
+    "file": "protectoratebookcabinet.object",
+    "name": "Protectorate Book Cabinet",
+    "path": "objects\\protectoratebookcabinet"
+  },
+  {
+    "desc": "Time to study...",
+    "file": "protectoratebooks.object",
+    "name": "Protectorate Books",
+    "path": "objects\\protectoratebooks"
+  },
+  {
+    "desc": "Time to study...",
+    "file": "protectoratebooks2.object",
+    "name": "Protectorate Books",
+    "path": "objects\\protectoratebooks2"
+  },
+  {
+    "desc": "A broken display case.",
+    "file": "protectoratebrokendisplay1.object",
+    "name": "Protectorate Broken Display",
+    "path": "objects\\protectoratebrokendisplay1"
+  },
+  {
+    "desc": "A broken display case.",
+    "file": "protectoratebrokendisplay2.object",
+    "name": "Protectorate Broken Display",
+    "path": "objects\\protectoratebrokendisplay2"
+  },
+  {
+    "desc": "This fluorescent light has seen better days.",
+    "file": "protectoratebrokenlight.object",
+    "name": "Broken Fluorescent Light",
+    "path": "objects\\protectoratebrokenlight"
+  },
+  {
+    "desc": "A broken picture frame.",
+    "file": "protectoratebrokenportrait1.object",
+    "name": "Broken Protectorate Picture Frame",
+    "path": "objects\\protectoratebrokenportrait1"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectoratebrokenportrait2.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectoratebrokenportrait2"
+  },
+  {
+    "desc": "A torn picture frame.",
+    "file": "protectoratebrokenportrait3.object",
+    "name": "Torn Protectorate Picture Frame",
+    "path": "objects\\protectoratebrokenportrait3"
+  },
+  {
+    "desc": "Esther Bright, former Grand Protector.",
+    "file": "protectoratebrokenportrait4.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectoratebrokenportrait4"
+  },
+  {
+    "desc": "Leda Portia, The Grand Protector.",
+    "file": "protectoratebrokenportrait5.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectoratebrokenportrait5"
+  },
+  {
+    "desc": "A broken vending machine.",
+    "file": "protectoratebrokenvending.object",
+    "name": "Broken Vending Machine",
+    "path": "objects\\protectoratebrokenvending"
+  },
+  {
+    "desc": "An exotic-looking cactus in a flower pot.",
+    "file": "protectoratecactiflowerpot.object",
+    "name": "Protectorate Cactus Pot",
+    "path": "objects\\protectoratecactiflowerpot"
+  },
+  {
+    "desc": "A torn bit of fabric from a Protectorate Banner.",
+    "file": "protectoratecape.object",
+    "name": "Protectorate Banner Rag",
+    "path": "objects\\protectoratecape"
+  },
+  {
+    "desc": "I'm very, very late!",
+    "file": "protectorateclock.object",
+    "name": "Protectorate Clock",
+    "path": "objects\\protectorateclock"
+  },
+  {
+    "desc": "The Protectorate Academy door.",
+    "file": "protectoratedoor.object",
+    "name": "Protectorate Academy Door",
+    "path": "objects\\protectoratedoor"
+  },
+  {
+    "desc": "The standard Protectorate student bunk bed.",
+    "file": "protectoratedormbed.object",
+    "name": "Protectorate Bunk Bed.",
+    "path": "objects\\protectoratedormbed"
+  },
+  {
+    "desc": "A bathroom mirror from the Protectorate academy.",
+    "file": "protectoratedormmirror.object",
+    "name": "Protectorate Bathroom Mirror",
+    "path": "objects\\protectoratedormmirror"
+  },
+  {
+    "desc": "The standard Protectorate Dorm Toilet.",
+    "file": "protectoratedormtoilet.object",
+    "name": "Protectorate Dorm Toilet",
+    "path": "objects\\protectoratedormtoilet"
+  },
+  {
+    "desc": "A toilet roll holder. Hope it doesn't run out!",
+    "file": "protectoratedormtoiletroll.object",
+    "name": "Protectorate Toilet Roll Holder.",
+    "path": "objects\\protectoratedormtoiletroll"
+  },
+  {
+    "desc": "A fire extinguisher for when the worst happens.",
+    "file": "protectorateextinguisher.object",
+    "name": "Protectorate Fire Extinguisher",
+    "path": "objects\\protectorateextinguisher"
+  },
+  {
+    "desc": "A fallen ribbon.",
+    "file": "protectoratefallenrope.object",
+    "name": "Protectorate Ruined Ribbon",
+    "path": "objects\\protectoratefallenrope"
+  },
+  {
+    "desc": "A torn Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratefbannertorn1.object",
+    "name": "Torn Protectorate Wall Banner",
+    "path": "objects\\protectoratefbannertorn1"
+  },
+  {
+    "desc": "A torn Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratefbannertorn2.object",
+    "name": "Torn Protectorate Wall Banner",
+    "path": "objects\\protectoratefbannertorn2"
+  },
+  {
+    "desc": "A Poptop action figure from the Protectorate.",
+    "file": "protectoratefigures.object",
+    "name": "Protectorate Poptop Toy",
+    "path": "objects\\protectoratefigures"
+  },
+  {
+    "desc": "What a lovely flower!",
+    "file": "protectorateflower.object",
+    "name": "Protectorate Flower",
+    "path": "objects\\protectorateflower"
+  },
+  {
+    "desc": "For when you want to procrastinate.",
+    "file": "protectorategamesconsole.object",
+    "name": "Protectorate Games Console",
+    "path": "objects\\protectorategamesconsole"
+  },
+  {
+    "desc": "A bench found in the Protectorate garden. It has a plaque.",
+    "file": "protectorategardenbench.object",
+    "name": "Protectorate Garden Bench",
+    "path": "objects\\protectorategardenbench"
+  },
+  {
+    "desc": "Protectorate Garden Bushes.",
+    "file": "protectorategardentree.object",
+    "name": "Protectorate Garden Bushes",
+    "path": "objects\\protectorategardentree"
+  },
+  {
+    "desc": "An old book full of guidelines for Protectors.",
+    "file": "protectorateguidelines.object",
+    "name": "Protectorate Old Book",
+    "path": "objects\\protectorateguidelines"
+  },
+  {
+    "desc": "A students guitar.",
+    "file": "protectorateguitar.object",
+    "name": "Protectorate Red Guitar",
+    "path": "objects\\protectorateguitar"
+  },
+  {
+    "desc": "A stage curtain from the Protectorate Academy.",
+    "file": "protectoratehallcurtain.object",
+    "name": "Protectorate Stage Curtain",
+    "path": "objects\\protectoratehallcurtain"
+  },
+  {
+    "desc": "A stage curtain from the Protectorate Academy.",
+    "file": "protectoratehallcurtain2.object",
+    "name": "Protectorate Stage Curtain",
+    "path": "objects\\protectoratehallcurtain2"
+  },
+  {
+    "desc": "A light meant to draw attention to an area.",
+    "file": "protectoratehalllight.object",
+    "name": "Hall Spotlight",
+    "path": "objects\\protectoratehalllight"
+  },
+  {
+    "desc": "It's entrancing. I can't look away.",
+    "file": "protectoratehologlobe.object",
+    "name": "Protectorate Hologlobe",
+    "path": "objects\\protectoratehologlobe"
+  },
+  {
+    "desc": "A dancing hula girl. Aloha!",
+    "file": "protectoratehulagirl.object",
+    "name": "Protectorate Hula Girl",
+    "path": "objects\\protectoratehulagirl"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap1.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap1"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap2.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap2"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap3.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap3"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap4.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap4"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap5.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap5"
+  },
+  {
+    "desc": "A Protector...",
+    "file": "protectorateincap6.object",
+    "name": "Protectorate Body",
+    "path": "objects\\protectorateincap6"
+  },
+  {
+    "desc": "A good source of information.",
+    "file": "protectorateinfobooth.object",
+    "name": "Info Booth",
+    "path": "objects\\protectorateinfobooth"
+  },
+  {
+    "desc": "It's entrancing. I can't look away.",
+    "file": "protectoratelavalamp.object",
+    "name": "Protectorate Lava Lamp",
+    "path": "objects\\protectoratelavalamp"
+  },
+  {
+    "desc": "This fluorescent light has seen better days.",
+    "file": "protectoratelight.object",
+    "name": "Broken Fluorescent Light",
+    "path": "objects\\protectoratelight"
+  },
+  {
+    "desc": "Beautiful warm rays of light",
+    "file": "protectoratelightrays.object",
+    "name": "protractorate light rays",
+    "path": "objects\\protectoratelightrays"
+  },
+  {
+    "desc": "A bin.",
+    "file": "protectoratelobbybin.object",
+    "name": "Protectorate Bin",
+    "path": "objects\\protectoratelobbybin"
+  },
+  {
+    "desc": "A nice looking chair for cool Protectorate students.",
+    "file": "protectoratelobbychair.object",
+    "name": "Protectorate Lobby Chair",
+    "path": "objects\\protectoratelobbychair"
+  },
+  {
+    "desc": "A bank of locked Protectorate lockers.",
+    "file": "protectoratelobbylockers.object",
+    "name": "Locked Protectorate Lockers",
+    "path": "objects\\protectoratelobbylockers"
+  },
+  {
+    "desc": "A bank of protectorate lockers, including yours.",
+    "file": "protectoratelobbylockers2.object",
+    "name": "My Locker",
+    "path": "objects\\protectoratelobbylockers"
+  },
+  {
+    "desc": "A nice lobby plant.",
+    "file": "protectoratelobbyplant.object",
+    "name": "Protectorate Lobby Plant.",
+    "path": "objects\\protectoratelobbyplant"
+  },
+  {
+    "desc": "Race banners from the Protectorate Academy.",
+    "file": "protectoratelobbyracebanners.object",
+    "name": "Protectorate Race Banners",
+    "path": "objects\\protectoratelobbyracebanners"
+  },
+  {
+    "desc": "A table from the Protectorate academy.",
+    "file": "protectoratelobbytable.object",
+    "name": "Protectorate Lobby Table",
+    "path": "objects\\protectoratelobbytable"
+  },
+  {
+    "desc": "A television playing a news report",
+    "file": "protectoratelobbytv.object",
+    "name": "Lobby TV",
+    "path": "objects\\protectoratelobbytv"
+  },
+  {
+    "desc": "A vending machine from the Protectorate Lobby.",
+    "file": "protectoratelobbyvending.object",
+    "name": "Protectorate Vending Machine",
+    "path": "objects\\protectoratelobbyvending"
+  },
+  {
+    "desc": "A replica of a Matter Manipulator",
+    "file": "protectoratemanipulator.object",
+    "name": "Protectorate Matter Manipulator",
+    "path": "objects\\protectoratemanipulator"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectorateportrait1.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectorateportrait1"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectorateportrait2.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectorateportrait2"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectorateportrait3.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectorateportrait3"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectorateportrait4.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectorateportrait4"
+  },
+  {
+    "desc": "A portrait of a former Grand Protector.",
+    "file": "protectorateportrait5.object",
+    "name": "Grand Protector Portrait",
+    "path": "objects\\protectorateportrait5"
+  },
+  {
+    "desc": "A poster of a Matter Manipulator.",
+    "file": "protectorateposter1.object",
+    "name": "Poster",
+    "path": "objects\\protectorateposter1"
+  },
+  {
+    "desc": "A retro poster.",
+    "file": "protectorateposter2.object",
+    "name": "Poster",
+    "path": "objects\\protectorateposter2"
+  },
+  {
+    "desc": "A radio.",
+    "file": "protectorateradio.object",
+    "name": "Protectorate Radio",
+    "path": "objects\\protectorateradio"
+  },
+  {
+    "desc": "The robe of a previous Grand Protector. Fancy!",
+    "file": "protectoraterobe.object",
+    "name": "Protectorate Robe Prop",
+    "path": "objects\\protectoraterobe"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectorateroofdetail01.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectorateroofdetail01"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectorateroofdetail02.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectorateroofdetail02"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectorateroofdetail03.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectorateroofdetail03"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectorateroofdetail04.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectorateroofdetail04"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectorateroofdetail05.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectorateroofdetail05"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectoraterooftopprop1.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectoraterooftopprop1"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectoraterooftopprop2.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectoraterooftopprop2"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectoraterooftopprop3.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectoraterooftopprop3"
+  },
+  {
+    "desc": "A roof top vent from the Protectorate Academy.",
+    "file": "protectoraterooftopprop4.object",
+    "name": "Protectorate Roof Top Vent",
+    "path": "objects\\protectoraterooftopprop4"
+  },
+  {
+    "desc": "A fancy red ribbon.",
+    "file": "protectoraterope.object",
+    "name": "Protectorate Ribbon",
+    "path": "objects\\protectoraterope"
+  },
+  {
+    "desc": "There's no way back. Even a Matter Manipulator couldn't break up this reinforced debris.",
+    "file": "protectoraterubble.object",
+    "name": "Impassable Rubble",
+    "path": "objects\\protectoraterubble"
+  },
+  {
+    "desc": "Security station from the Protectorate Academy.",
+    "file": "protectoratesecuritystation.object",
+    "name": "Protectorate Security Station",
+    "path": "objects\\protectoratesecuritystation"
+  },
+  {
+    "desc": "A ship from the Protectorate Academy.",
+    "file": "protectorateship.object",
+    "name": "Protectorate Ship",
+    "path": "objects\\protectorateship"
+  },
+  {
+    "desc": "Smoke",
+    "file": "protectoratesmokegen.object",
+    "name": "Smoke",
+    "path": "objects\\protectoratesmokegen"
+  },
+  {
+    "desc": "Smoke billows from this point.",
+    "file": "protectoratesmokeprimer.object",
+    "name": "Smoke",
+    "path": "objects\\protectoratesmokeprimer"
+  },
+  {
+    "desc": "It's a large rack of status pods.",
+    "file": "protectoratestorage1.object",
+    "name": "Status Pod Storage Unit",
+    "path": "objects\\protectoratestorage1"
+  },
+  {
+    "desc": "It's a large rack of status pods.",
+    "file": "protectoratestorage2.object",
+    "name": "Status Pod Storage Unit",
+    "path": "objects\\protectoratestorage2"
+  },
+  {
+    "desc": "It's a rack of status pods and pod chests.",
+    "file": "protectoratestorage3.object",
+    "name": "Pod Chest Storage Unit",
+    "path": "objects\\protectoratestorage3"
+  },
+  {
+    "desc": "It's a rack of small capsules.",
+    "file": "protectoratestorage4.object",
+    "name": "Capsule Storage Unit",
+    "path": "objects\\protectoratestorage4"
+  },
+  {
+    "desc": "It's a rack of small capsules.",
+    "file": "protectoratestorage5.object",
+    "name": "Capsule Storage Unit",
+    "path": "objects\\protectoratestorage5"
+  },
+  {
+    "desc": "It's a rack of small capsules.",
+    "file": "protectoratestorage6.object",
+    "name": "Capsule Storage Unit",
+    "path": "objects\\protectoratestorage6"
+  },
+  {
+    "desc": "It's an empty storage unit.",
+    "file": "protectoratestorageempty.object",
+    "name": "Empty Storage Unit",
+    "path": "objects\\protectoratestorageempty"
+  },
+  {
+    "desc": "An invading tentacle.",
+    "file": "protectoratetentacle.object",
+    "name": "Protectorate Tentacle",
+    "path": "objects\\protectoratetentacle"
+  },
+  {
+    "desc": "An invading tentacle.",
+    "file": "protectoratetentacle2.object",
+    "name": "Protectorate Tentacle",
+    "path": "objects\\protectoratetentacle2"
+  },
+  {
+    "desc": "A very robust looking tool box.",
+    "file": "protectoratetoolbox.object",
+    "name": "Red Toolbox",
+    "path": "objects\\protectoratetoolbox"
+  },
+  {
+    "desc": "A Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratewallbanner.object",
+    "name": "Protectorate Wall Banner",
+    "path": "objects\\protectoratewallbanner"
+  },
+  {
+    "desc": "A simple waste bin for students.",
+    "file": "protectoratewastebin.object",
+    "name": "Protectorate Waste Bin",
+    "path": "objects\\protectoratewastebin"
+  },
+  {
+    "desc": "Are you thirsty?",
+    "file": "protectoratewaterdispenser.object",
+    "name": "Protectorate Water Dispenser",
+    "path": "objects\\protectoratewaterdispenser"
+  },
+  {
+    "desc": "A water tank from the Protectorate Academy.",
+    "file": "protectoratewatertank.object",
+    "name": "Protectorate Water Tank",
+    "path": "objects\\protectoratewatertank"
+  },
+  {
+    "desc": "A Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratewindbanner.object",
+    "name": "Protectorate Wall Banner",
+    "path": "objects\\protectoratewindbanner"
+  },
+  {
+    "desc": "A Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratewindbanner2.object",
+    "name": "Protectorate Wall Banner",
+    "path": "objects\\protectoratewindbanner2"
+  },
+  {
+    "desc": "A Protectorate wallbanner from the Protectorate academy.",
+    "file": "protectoratewindbanner3.object",
+    "name": "Protectorate Wall Banner",
+    "path": "objects\\protectoratewindbanner3"
+  },
+  {
+    "desc": "Protectorate wind chimes. These can be found in the garden.",
+    "file": "protectorategardenwindchimes.object",
+    "name": "Protectorate Garden Wind Chimes",
+    "path": "objects\\protectoratewindchimes"
+  }
+]

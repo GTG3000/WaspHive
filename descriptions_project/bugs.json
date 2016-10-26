@@ -1,0 +1,260 @@
+[
+  {
+    "desc": "These bugs appear to rise from clouds of ash.",
+    "file": "ashsprite.object",
+    "name": "Ashsprite",
+    "path": "ashsprite"
+  },
+  {
+    "desc": "The surface of this bug's shell shimmers like oil.",
+    "file": "aurorabee.object",
+    "name": "Aurorabee",
+    "path": "aurorabee"
+  },
+  {
+    "desc": "This blue bug has sharp little teeth.",
+    "file": "blueback.object",
+    "name": "Blueback",
+    "path": "blueback"
+  },
+  {
+    "desc": "Vibrant and beautiful, it has a friendly little smile on its face.",
+    "file": "brightstripe.object",
+    "name": "Brightstripe",
+    "path": "brightstripe"
+  },
+  {
+    "desc": "A bright yellow bug, its wings smell like butter.",
+    "file": "butterbee.object",
+    "name": "Butterbee",
+    "path": "butterbee"
+  },
+  {
+    "desc": "Thrives in desolate conditions.",
+    "file": "cinderfly.object",
+    "name": "Cinderfly",
+    "path": "cinderfly"
+  },
+  {
+    "desc": "A lively bug, it can be seen drinking morning dew.",
+    "file": "dewhopper.object",
+    "name": "Dewhopper",
+    "path": "dewhopper"
+  },
+  {
+    "desc": "This bug makes a faint ringing sound as it flies through the air.",
+    "file": "driftbell.object",
+    "name": "Driftbell",
+    "path": "driftbell"
+  },
+  {
+    "desc": "The trail of a dustmoth looks like stardust.",
+    "file": "dustmoth.object",
+    "name": "Dustmoth",
+    "path": "dustmoth"
+  },
+  {
+    "desc": "Its tawny wings make it hard to spot on trees.",
+    "file": "fawnfly.object",
+    "name": "Fawnfly",
+    "path": "fawnfly"
+  },
+  {
+    "desc": "A large, formidable bug. Can survive extreme heat.",
+    "file": "fireygiant.object",
+    "name": "Fireygiant",
+    "path": "fireygiant"
+  },
+  {
+    "desc": "Hot to the touch, its shell flickers like flame.",
+    "file": "flameroach.object",
+    "name": "Flameroach",
+    "path": "flameroach"
+  },
+  {
+    "desc": "This bug is easily mistaken for a snowflake.",
+    "file": "frostfleck.object",
+    "name": "Frostfleck",
+    "path": "frostfleck"
+  },
+  {
+    "desc": "Where there's frost, there are frostflies.",
+    "file": "frostfly.object",
+    "name": "Frostfly",
+    "path": "frostfly"
+  },
+  {
+    "desc": "These bugs float on updrafts of poisonous gases.",
+    "file": "gasgiant.object",
+    "name": "Gasgiant",
+    "path": "gasgiant"
+  },
+  {
+    "desc": "The warmer this bug gets, the more it glows.",
+    "file": "glowbug.object",
+    "name": "Glowbug",
+    "path": "glowbug"
+  },
+  {
+    "desc": "A bug with glistening gold wings, very fancy!",
+    "file": "goldbuck.object",
+    "name": "Goldbuck",
+    "path": "goldbuck"
+  },
+  {
+    "desc": "This bug looks like it's wearing tiny green shoes.",
+    "file": "greentip.object",
+    "name": "Greentip",
+    "path": "greentip"
+  },
+  {
+    "desc": "Attracted to heat, this little guy needs warmth.",
+    "file": "heathugger.object",
+    "name": "Heathugger",
+    "path": "heathugger"
+  },
+  {
+    "desc": "This bug never stops eating.",
+    "file": "hivehog.object",
+    "name": "Hivehog",
+    "path": "hivehog"
+  },
+  {
+    "desc": "This bug's wings are frozen over.",
+    "file": "icetip.object",
+    "name": "Icetip",
+    "path": "icetip"
+  },
+  {
+    "desc": "This tiny creature skips across hot lakes of lava.",
+    "file": "lavahopper.object",
+    "name": "Lavahopper",
+    "path": "lavahopper"
+  },
+  {
+    "desc": "These bugs can be seen dancing at dusk.",
+    "file": "muddancer.object",
+    "name": "Muddancer",
+    "path": "muddancer"
+  },
+  {
+    "desc": "This bug is incredibly sticky. It has two long horns on its head.",
+    "file": "mudstag.object",
+    "name": "Mudstag",
+    "path": "mudstag"
+  },
+  {
+    "desc": "The smallest and most pathetic bug I've ever seen.",
+    "file": "orphanfly.object",
+    "name": "Orphanfly",
+    "path": "orphanfly"
+  },
+  {
+    "desc": "This bug rubs its legs together to produce tiny sparks.",
+    "file": "phoenixfly.object",
+    "name": "Phoenixfly",
+    "path": "phoenixfly"
+  },
+  {
+    "desc": "This little bug's legs are covered in see-through hairs.",
+    "file": "polarmoth.object",
+    "name": "Polarmoth",
+    "path": "polarmoth"
+  },
+  {
+    "desc": "Not to be confused with the infamous Dreadwing.",
+    "file": "redwing.object",
+    "name": "Redwing",
+    "path": "redwing"
+  },
+  {
+    "desc": "Who would live in the desert? This clown.",
+    "file": "sandclown.object",
+    "name": "Sandclown",
+    "path": "sandclown"
+  },
+  {
+    "desc": "This bug's legs move so fast they're difficult to count.",
+    "file": "scuttleploom.object",
+    "name": "Scuttleploom",
+    "path": "scuttleploom"
+  },
+  {
+    "desc": "This bug has a snout like a seahorse.",
+    "file": "seahornet.object",
+    "name": "Seahornet",
+    "path": "seahornet"
+  },
+  {
+    "desc": "Hard to spot, these bugs are as black as night.",
+    "file": "shadowmoth.object",
+    "name": "Shadowmoth",
+    "path": "shadowmoth"
+  },
+  {
+    "desc": "The wings of this bug are iridescent like ice.",
+    "file": "shardwing.object",
+    "name": "Shardwing",
+    "path": "shardwing"
+  },
+  {
+    "desc": "It looks as if it could slip out of its shell at a moments notice.",
+    "file": "shellcreep.object",
+    "name": "Shellcreep",
+    "path": "shellcreep"
+  },
+  {
+    "desc": "The tips of its legs are covered in snow.",
+    "file": "snowskater.object",
+    "name": "Snowskater",
+    "path": "snowskater"
+  },
+  {
+    "desc": "You'll smell one of these little guys before you see one.",
+    "file": "stinkjack.object",
+    "name": "Stinkjack",
+    "path": "stinkjack"
+  },
+  {
+    "desc": "This pretty bug loves sunshine.",
+    "file": "sunskipper.object",
+    "name": "Sunskipper",
+    "path": "sunskipper"
+  },
+  {
+    "desc": "A steaming cup of Earl Grey.",
+    "file": "testbug.object",
+    "name": "Teacup",
+    "path": "testbug"
+  },
+  {
+    "desc": "This prickly little fellow has razor sharp wings.",
+    "file": "thornbee.object",
+    "name": "Thornbee",
+    "path": "thornbee"
+  },
+  {
+    "desc": "Comes out only during certain phases of the moon.",
+    "file": "tidefly.object",
+    "name": "Tidefly",
+    "path": "tidefly"
+  },
+  {
+    "desc": "Its legs look like intertwining vines.",
+    "file": "vineclimber.object",
+    "name": "Vineclimber",
+    "path": "vineclimber"
+  },
+  {
+    "desc": "A bug that can usually be found chasing the crest of a wave.",
+    "file": "wavebird.object",
+    "name": "Wavebird",
+    "path": "wavebird"
+  },
+  {
+    "desc": "This guy has a creepy little face.",
+    "file": "xenofly.object",
+    "name": "Xenofly",
+    "path": "xenofly"
+  }
+]

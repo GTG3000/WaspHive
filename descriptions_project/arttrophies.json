@@ -1,0 +1,236 @@
+[
+  {
+    "desc": "A statue dedicated to Benjamin \"Meuterion\" Deust.",
+    "file": "benjaminstatue.object",
+    "name": "Benjamin Deust Statue",
+    "path": "backerstatue"
+  },
+  {
+    "desc": "A statue of Cameron \"KyeTheShy\" York. Loved to adventure, but wandered a little too far... Into Space.",
+    "file": "cameronstatue.object",
+    "name": "Cameron York Statue",
+    "path": "backerstatue"
+  },
+  {
+    "desc": "The plaque reads \"For a father who opened up a new world for me. In Memory of Tracy Dietrich 1963-2003\".",
+    "file": "memorialstatue.object",
+    "name": "Imagination Memorial",
+    "path": "backerstatue"
+  },
+  {
+    "desc": "The only letters I can make out are \"xOliver137\".",
+    "file": "oliverstatue.object",
+    "name": "xOliver137 Statue",
+    "path": "backerstatue"
+  },
+  {
+    "desc": "This statue is dedicated to a creature named Derrick, who seemingly vanished from his owner.",
+    "file": "derrickstatue.object",
+    "name": "Derrick Statue",
+    "path": "derrickstatue"
+  },
+  {
+    "desc": "A statue of a flower, important to the Floran.",
+    "file": "flowerstatue.object",
+    "name": "Big Flower Statue",
+    "path": "flowerstatue"
+  },
+  {
+    "desc": "Ahh The Son of Man, you make me hungry!",
+    "file": "genericpainting1.object",
+    "name": "Curious Painting",
+    "path": "genericpainting1"
+  },
+  {
+    "desc": "A rather detailed sketch of Glitch anatomy.",
+    "file": "glitchianman.object",
+    "name": "Glitchian Man",
+    "path": "glitchianman"
+  },
+  {
+    "desc": "A portrait of William Glitchspeare.",
+    "file": "glitchspeare.object",
+    "name": "Glitchspeare Portrait",
+    "path": "glitchspeare"
+  },
+  {
+    "desc": "A Golden Egg! What!?",
+    "file": "goldenegg.object",
+    "name": "Golden Egg",
+    "path": "goldenegg"
+  },
+  {
+    "desc": "A portrait of an Apex couple.",
+    "file": "paintingapegothic.object",
+    "name": "Gothic Ape Painting",
+    "path": "paintingapegothic"
+  },
+  {
+    "desc": "A haunting painting of a screaming Apex.",
+    "file": "paintingapescream.object",
+    "name": "Howler Monkey Painting",
+    "path": "paintingapescream"
+  },
+  {
+    "desc": "A painting of a great Apex poet. He...looks familiar.",
+    "file": "paintingapespeare.object",
+    "name": "Apex Poet Portrait",
+    "path": "paintingapespeare"
+  },
+  {
+    "desc": "A portrait of an Apex with an earring.",
+    "file": "paintingapexpearlearring.object",
+    "name": "Subtle Ape Painting",
+    "path": "paintingapexpearlearring"
+  },
+  {
+    "desc": "A very famous portrait of a mysterious lady.",
+    "file": "paintingapexpixellisa.object",
+    "name": "Classic Ape Painting",
+    "path": "paintingapexpixellisa"
+  },
+  {
+    "desc": "A quiet painting of an Apex with a pet.",
+    "file": "paintingapexwithermine.object",
+    "name": "Pet Painting",
+    "path": "paintingapexwithermine"
+  },
+  {
+    "desc": "A painting of a blonde woman standing in a clam.",
+    "file": "paintingbirthofapevenus.object",
+    "name": "Beautiful Ape Painting",
+    "path": "paintingbirthofapevenus"
+  },
+  {
+    "desc": "A painting of a blonde woman standing in a clam.",
+    "file": "paintingbirthofvenus.object",
+    "name": "Beautiful Painting",
+    "path": "paintingbirthofvenus"
+  },
+  {
+    "desc": "A grand painting of two pointing Apex figures.",
+    "file": "paintingcreationofapepixel.object",
+    "name": "Grand Big Ape Painting",
+    "path": "paintingcreationofapepixel"
+  },
+  {
+    "desc": "A grand painting of two pointing figures.",
+    "file": "paintingcreationofpixel.object",
+    "name": "Grand Painting",
+    "path": "paintingcreationofpixel"
+  },
+  {
+    "desc": "A portrait of a human couple.",
+    "file": "paintinggothic.object",
+    "name": "Gothic Painting",
+    "path": "paintinggothic"
+  },
+  {
+    "desc": "A very famous portrait of a mysterious lady.",
+    "file": "paintingmonalisa.object",
+    "name": "Classic Painting",
+    "path": "paintingmonalisa"
+  },
+  {
+    "desc": "A portrait of a woman with an earring.",
+    "file": "paintingpearlearring.object",
+    "name": "Subtle Painting",
+    "path": "paintingpearlearring"
+  },
+  {
+    "desc": "A haunting painting of a screaming figure.",
+    "file": "paintingscream.object",
+    "name": "Screaming Painting",
+    "path": "paintingscream"
+  },
+  {
+    "desc": "A painting of a famous, long-dead Earthling poet.",
+    "file": "paintingshakespeare.object",
+    "name": "Famous Poet Portrait",
+    "path": "paintingshakespeare"
+  },
+  {
+    "desc": "A beautiful painting of the night sky.",
+    "file": "paintingstarrynight.object",
+    "name": "Abstract Painting",
+    "path": "paintingstarrynight"
+  },
+  {
+    "desc": "A bit of Glitch surrealism.",
+    "file": "persistenceofpixels.object",
+    "name": "Persistence of Pixels",
+    "path": "persistenceofpixels"
+  },
+  {
+    "desc": "A painting of two rainbows. A double rainbow.",
+    "file": "rainbowpainting.object",
+    "name": "Rainbow Painting",
+    "path": "rainbowpainting"
+  },
+  {
+    "desc": "A stunning unicorn statue. Watch out for the horn!",
+    "file": "rainbowunicornstatue.object",
+    "name": "Rainbow Unicorn Statue",
+    "path": "rainbowunicornstatue"
+  },
+  {
+    "desc": "An Apex statue. A perfect likeness.",
+    "file": "sandstonestatueapex.object",
+    "name": "Apex Sandstone Statue",
+    "path": "sandstonestatueapex"
+  },
+  {
+    "desc": "An Avian statue. Not likely to fly away.",
+    "file": "sandstonestatueavian.object",
+    "name": "Avian Sandstone Statue",
+    "path": "sandstonestatueavian"
+  },
+  {
+    "desc": "A statue of a Floran. Won't stab you... probably.",
+    "file": "sandstonestatuefloran.object",
+    "name": "Floran Sandstone Statue",
+    "path": "sandstonestatuefloran"
+  },
+  {
+    "desc": "A sandstone Glitch. It's not sentient.",
+    "file": "sandstonestatueglitch.object",
+    "name": "Glitch Sandstone Statue",
+    "path": "sandstonestatueglitch"
+  },
+  {
+    "desc": "A statue of a human. Check out the hair.",
+    "file": "sandstonestatuehuman.object",
+    "name": "Human Sandstone Statue",
+    "path": "sandstonestatuehuman"
+  },
+  {
+    "desc": "A statue of a Hylotl. Has the Innsmouth Look.",
+    "file": "sandstonestatuehylotl.object",
+    "name": "Hylotl Sandstone Statue",
+    "path": "sandstonestatuehylotl"
+  },
+  {
+    "desc": "A very famous self-portrait of a very famous Hylotl artist.",
+    "file": "selfportraitofhylotlshu.object",
+    "name": "Self-Portrait of Hylotl-Shu",
+    "path": "selfportraitofhylotlshu"
+  },
+  {
+    "desc": "A statue of a mushroom.",
+    "file": "shroomstatue.object",
+    "name": "Mushroom Statue",
+    "path": "shroomstatue"
+  },
+  {
+    "desc": "A very famous portrait of a mysterious lady.",
+    "file": "tenstudiesinfemalehylotlgy.object",
+    "name": "Studies in Female Hylotlgy",
+    "path": "tenstudiesoffemalehylotlgy"
+  },
+  {
+    "desc": "Ancient Greek marble sculpture, Venus De Pixel. Sculptor Unknown.",
+    "file": "venusdepixel.object",
+    "name": "Venus de Pixel",
+    "path": "venusdepixel"
+  }
+]
