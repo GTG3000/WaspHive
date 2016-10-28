@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "sugar", "count" : 10 },
+    { "item" : "sugar", "count" : 4 },
     { "item" : "livingroot", "count" : 3 },
 	{ "item" : "titaniumbar", "count": 5 },
 	{ "item" : "hardenedcarapace", "count": 1},

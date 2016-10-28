@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "sugar", "count" : 10 },
+    { "item" : "sugar", "count" : 8 },
     { "item" : "livingroot", "count" : 3 },
 	{ "item" : "refinedaegisalt", "count": 1 },
 	{ "item" : "refinedviolium", "count": 1 },
