@@ -7,7 +7,7 @@
 	"description" : "A comb of waxed paper, full of liquid rich in inedible stuff.",
 	"shortdescription" : "T5 Pants Growth Pack",
 	"effects" : [ [
-		{ "effect" : "spawnwasplegs" },
+		{ "effect" : "spawnwasplegs5" },
 		{ "effect" : "hivepoison" }
 	] ],
 	//"emote" : "",

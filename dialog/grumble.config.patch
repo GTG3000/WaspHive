@@ -1,0 +1,50 @@
+[
+	{
+		"op": "add",
+		"path": "/tagCriteria/vespoid",
+		"value": {
+			"default": [
+				"Thizz plazze... I don't like thizz at all..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/enclosedArea/vespoid",
+		"value": {
+			"default": [
+				"Thiz plaze could uze a makeover."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/otherDeed/vespoid",
+		"value": {
+			"default": [
+				"You've got to bee joking!",
+				"I'm not paying to ztay here for that!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/severe/vespoid",
+		"value": {
+			"default": [
+				"Zomething needz to bee done...NOW!",
+				"I'd like to file a complaint!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/final/vespoid",
+		"value": {
+			"default": [
+				"I'm buzzing outta here...",
+				"I bet there'zz a better hive out there."
+			]
+		}
+	}
+]

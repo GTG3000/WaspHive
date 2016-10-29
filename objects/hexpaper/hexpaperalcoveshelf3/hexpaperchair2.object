@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "category" : "furniture",
   "price" : 150,
-  "description" : "An impressive alcove of hexagons, containing a seat and a tabletop.",
+  "description" : "An alcove of hexagons, useful as a shelf.",
   "shortdescription" : "Paper Comb Alcove Shelf",
   "race" : "wasphive",
 
@@ -25,7 +25,7 @@
       "imagePosition" : [-23, 0],
       "flipImages" : true,
       "direction" : "left",
-	  "zLevel" : -1,
+	  "renderLayer" : "Object-1",
 
       //"spaceScan" : 0.1,
       "anchors" : [ "background" ],
@@ -39,7 +39,7 @@
       "image" : "hexpaperchair.png:<color>",
       "imagePosition" : [-24, 0],
       "direction" : "right",
-	  "zLevel" : -1,
+	  "renderLayer" : "Object-1",
 
       //"spaceScan" : 0.1,
       "anchors" : [ "background" ],

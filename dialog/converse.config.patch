@@ -1,0 +1,212 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/wasphive",
+		"value": {
+			"default" : [
+		"Hello there."
+	],
+	"generic" : [
+		"Hello.",
+		"Don't be zkared. Hive won't zting. Unlezz you azk.",
+		"Doez hive zpeak well? Hive triez not to buzz.",
+		"Hive iz zmall, but ztill proud.",
+		"Hive iz pleazed to meet you.",
+		"Hive wantz zweetz.",
+		"Do you paint? Hive likez ze colourz.",
+		"Hive waz zpawned for a purpoze!",
+		"Hive doez not underztand ozer zpeciez too well.",
+		"What iz your opinion on zweet?"
+	],
+	"apex" : [
+		"Hive heard monkeyz like zweet bananaz? Hive likez zweet too.",
+		"You look fluffy. Can hive touch?",
+		"Hive heard ze Apex are controlled by ze central mind, too?",
+		"Apex zeem to change zemzelvez almozt az eazily az a hive!",
+		"Don't be zkared. Hive iz not tattletale.",
+		"Monkey needz too cheer up.",
+		"Zere iz no miniknog here.",
+		"Hive haz learned about individuality. Zo zhould Apex.",
+		"Hive haz heard zat Apex all work towardz a common goal too! What iz it zough?"
+	],
+	"avian" : [
+		"Hive haz heard zat birdz eat bugz. Hive would like to zee you try.",
+		"Hive could fly if Hive wanted.",
+		"Hive heard of Kluexzz. Hive doez not accept.",
+		"Avian zerve Kluex like dronez zerve hive.",
+		"Hive doez not require mizzionariez.",
+		"Your featherz look fluffy. Can hive touch?",
+		"Avianz like fruitz. Do Avianz like zweet?",
+		"Hive likez Avian bannerz. Pretty colourz!",
+		"Hive iz intrigued by Avian krystalz, could Avian tell Hive about zem?",
+		"Zing for me, pretty bird."
+	],
+	"floran" : [
+		"Floranz are not zweet, and Hive iz not edible.",
+		"Hive enjoyz hunting too! Zough hive iz a little zhort-handed.",
+		"Do Floranz enjoy zweet?",
+		"Hive iz not intimidated!",
+		"Hive appreciatez Floran art.",
+		"Floranz figured tech out on zeir own. Hive iz imprezzed.",
+		"Hive hopez Floran doez not feel like ztabbing today.",
+		"Hive would like to go hunting wiz Floran, but Hive iz az buzy az a bee.",
+		"Do Floranz grow zweet fruit?",
+		"Hive notizzed zat Floran alzo haz trouble pronounzing zzz.",
+		"Hive welcomezzz Floran."
+	],
+	"glitch" : [
+		"Ze Glitch have hard zhellz, juzt like Hive!",
+		"Hive haz heard zat ze Glitch have a hivemind of zeir own, iz zat true?",
+		"Hello zere, induztriouz machine!",
+		"Can Glitch feel tazte? If zo, do you like zweet?",
+		"Glitch are amazing! Hive wonderz if you upgrade yourzelf for variouz tazkz?",
+		"Hive iz curiouz - what makez Glitch tick?",
+		"Glith zerve a king juzt like dronez zerve a hive.",
+		"Joyouz. Nize to meet you, metal man."
+	],
+	"human" : [
+		"Hive iz wiz ze protectorate! Hive will do what Hive can.",
+		"Hive iz pleazed to meet another human. Humanz are good influence.",
+		"Paint me like one of your french wazpz, human.",
+		"Hive iz zure zat humanity will recover. Zere iz more to ze protectorate zan one planet.",
+		"Humanz taught hivez all ze technologiez. Hive iz zankful.",
+		"Doez hive look human enough? Hive put a lot of effort in zis look.",
+		"Hive apologizes for buzzing. Human language iz not eazy to pronounze. Hive iz more uzed to buzzing and clicking.",
+		"Hive findz human ritualz entertaining.",
+		"You don't look too happy. Doez human want a hug?",
+		"Hello zere, human friend!"
+	],
+	"hylotl" : [
+		"Hive hopez fizh perzon iz not going to write on wallz.",
+		"Hive enjoyz crafting art too. But fizh people don't zeem to get it.",
+		"Zo zlimy. No hugz for you.",
+		"Zomezink fizhy izz going on here.",
+		"Hive can zwim juzt az well az ze fizh perzon.",
+		"Iz fizh perzon interezted in zome artizan paper?",
+		"Zum day, Hive will be colourful enough for ze fizhez to paint Hive.",
+		"Hive seez everyzink. Doez tzird eye help fizh people much?"
+	],
+	"novakid" : [
+		"Zhiny and colourful! Hive likez you.",
+		"Doez zhiny perzon need to zleep?",
+		"Hive never zeen anyone like you before, zhiny perzon!",
+		"Zat brand of yourz lookz important. Doez it denote your hive?",
+		"Hive wonderz juzt how volatile novakid are.",
+		"Don't zet anyzink on fire, fire perzon."
+	],
+	"vespoid" : [
+		"Vezpoidz are hippiez. Humanz told Hive zo.",
+		"Fake wazp.",
+		"Doez ztrange non-hive have zweet?",
+		"Hive feelz zat paper iz a far zuperior building material.",
+		"Anozer hive? No... No, you're not."
+	],
+	"wasphive" : [
+		"Good day, fellow hive.",
+		"Hive respectz ozer hive. But Hive iz zuperior.",
+		"Hive could zhare zweet. But Hive nedz zweet more.",
+		"Hive iz glad to zee more hivez around.",
+		"Hive thinkz Hive lookz more human zan ozer hive.",
+		"Hive hopez Hive can afford to get zum dronez zoon."
+	]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/apex/wasphive",
+		"value": [
+			"You're one huge bug!",
+			"Please don't sting me? I'm way too busy.",
+			"I'd offer you a banana, but... I need to save up food.",
+			"Your exoskeleton looks strong.",
+			"Could you give me wings too? I'd fly away from here.",
+			"I heard hives are controlled by central hivemind? Almost like Big Ape.",
+			"You make a lot of stuff from paper. Aren't you scared of fires?",
+			"I have sugar, do you want some?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/floran/wasphive",
+		"value": [
+			"Floran heard of floran who tassted bug. Other floran losst tongue. Floran won't hunt bug.",
+			"Doess buzzy bug harvest nectar?",
+			"Don't try chewing Floran into paper!",
+			"Bug iss interessting. Floran won't sstab.",
+			"Bug iss genderless like Floran. Other racess don't understand.",
+			"What bringss bugman around?",
+			"Floran has no quarrel with bugman.",
+			"Sshiny bug."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/human/wasphive",
+		"value": [
+			"You're one of those wasp-people, aren't you?",
+			"I've heard a lot about wasps!",
+			"Sweet soda is as good as honey, don't you think?",
+			"I heard you bugs try to look like humans. I love how you look!",
+			"Hello there, bug friend!",
+			"You guys are protectorate, aren't you?",
+			"Your wings are so pretty!",
+			"You're just the sweetest, honey."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/glitch/wasphive",
+		"value": [
+			"Curious. I haven't seen many giant bugs before.",
+			"Vary. Sugar could wreck hell on my joints.",
+			"Joyous. Welcome, bug friend.",
+			"Curious. Many bugs are very industrious. Are you a part of a hive?",
+			"Hopeful. I've heard wasps are all networked together. Could I join? I have a network cable.",
+			"Hopeful. Could you lend me a cup of sugar?",
+			"Smitten. Your chassis is very much like a Glitch one.",
+			"Calm. Welcome, bug friend."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/hylotl/wasphive",
+		"value": [
+			"Oh look, a bug.",
+			"Greetings, my bug friend.",
+			"Good day insect.",
+			"Do bugs write poetry? Does it include buzzing?",
+			"I have heard of a prominent wasp musician. Dj Buzzy has the most enticing choir assembled.",
+			"I have seen art your kind does, bug. You have ways to go.",
+			"I haven't read many books by bugs. Plenty of books about bugs though.",
+			"Can bugs swim?",
+			"I've seen pictures of your kind being exquisitely colourful. Why aren't you?",
+			"Do you drink tea with sugar... Or sugar with tea?",
+			"Your kind seems to be proficient with origami."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avian/wasphive",
+		"value": [
+			"Greetings.",
+			"Please don't sting me.",
+			"Do wasps eat seeds? I've got plenty.",
+			"I envy your kind so much. You can fly!",
+			"I heard you bugs like sweets! What kind of sweets? ...How much can you eat in one go?",
+			"Does your kind wistle? Or just buzz rhythmically?",
+			"Could you make a paper bird for me?",
+			"I heard your kind are with the protectorate? Nice to see you around.",
+			"Hello, bug friend!"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/novakid/wasphive",
+		"value": [
+			"You're a bug, huh? Well that's the darndest thing.",
+			"Ya'll bugs like them sweets a lot, don'cha?",
+			"You sure got some big, unblinkin' eyes there.",
+			"Haven't met many folks like you, bug."
+		]
+	}
+]

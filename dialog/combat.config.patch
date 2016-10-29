@@ -1,0 +1,38 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/wasphive",
+		"value": {
+			"default": [
+				"Hive zhall defend!",
+				"In ze name of Protektorate!",
+				"Zziz will zzting!",
+				"You are no zzreat!",
+				"Buzzzz!",
+				"*angry buzzing*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/wasphive",
+		"value": {
+			"default": [
+				"Target down!",
+				"Hive iz viktoriouz!",
+				"Zat zhall teach you!",
+				"Zzat'z one lezz of you!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/wasphive",
+		"value": {
+			"default": [
+				"Lozt zzem...",
+				"Zey got away..."
+			]
+		}
+	}
+]

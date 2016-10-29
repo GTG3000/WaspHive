@@ -1,0 +1,48 @@
+{
+  "objectName" : "hexpainting_squares",
+  "colonyTags" : ["wasphive","pretty"],
+  "printable" : true,
+  "rarity" : "Common",
+
+  "category" : "furniture",
+  "price" : 70,
+  "description" : "An abstract painting of... Something.",
+  "shortdescription" : "Paper Comb Art",
+  "race" : "wasphive",
+  "health" : 1.5,
+
+  "apexDescription" : "",
+  "avianDescription" : "This is one large paper comb!",
+  "floranDescription" : "Iss thiss a nesst?",
+  "glitchDescription" : "Curious. Looks like someone decorated this wall with paper.",
+  "humanDescription" : "A nice paper tiling for walls.",
+  "hylotlDescription" : "A hexagonal piece of paper on the wall. An empty painting?",
+  "novakidDescription" : "Sure is a big ol' comb.",
+  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+
+  "inventoryIcon" : "hexpaperhexagonicon.png",
+  "orientations" : [
+    {
+      "image" : "hexpainting_squares.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "left",
+	 
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    },
+    {
+      "dualImage" : "hexpainting_squares.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+      "bgAnchors" : [ [0, 0], [0,1] ],
+      "direction" : "right",
+
+      "collision" : "platform",
+      "collisionSpaces" : [  [0, 1]],
+	  "spaces" : [[-1,0],[0,0],[1,0],[0,1]]
+    }
+
+  ],
+  "frameCooldown" : 5
+}

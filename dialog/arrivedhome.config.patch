@@ -1,0 +1,26 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/wasphive",
+		"value": {
+			"default": [
+				"You called Hive?",
+				"Hive iz here.",
+				"Yezz?",
+				"You wanted zomezink?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/wasphive",
+		"value": {
+			"default": [
+				"Hive payz Hivez duez.",
+				"Here'z zomezink for your trouble.",
+				"Hive haz no zweet for you, but hopez ziz will do.",
+				"Hive doez Hivez part."
+			]
+		}
+	}
+]

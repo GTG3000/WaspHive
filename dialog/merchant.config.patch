@@ -1,0 +1,69 @@
+[
+	{
+		"op": "add",
+		"path": "/merchantStart/vespoid",
+		"value": {
+			"default": [
+				"Come come.",
+				"Would you like to look at our zuppliezz?",
+				"We akzzept pixelzz and petalzz.",
+				"Here'zz what I got.",
+				"Pleazzze, take a look."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/vespoid",
+		"value": {
+			"default": [
+				"Come again~",
+				"Thankzzz!",
+				"Do come back zometime!.",
+				"Tell your friendzzz!!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/vespoid",
+		"value": {
+			"default": [
+				"Follow me~",
+				"The bezt pricez around, juzzt over here.",
+				"I can zhow you what I got at my zztore."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/vespoid",
+		"value": {
+			"default": [
+				"Zee anything?",
+				"Pleaze, feel free.",
+				"I got everything that can help you, anywhere."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/vespoid",
+		"value": {
+			"default" : [
+				"I got the goodzzz!",
+				"If you can't find it here, it'zz not anywhere.",
+				"Best dealzzz here!",
+				"New goodz in ztock."
+			],
+			"vespoid" : [
+				"I got the goodzzz!",
+				"If you can't find it here, it'zz not anywhere.",
+				"Best dealzzz here!",
+				"New goodz in ztock.",
+				"Need zome help?",
+				"Anything I can help you with?"
+			]
+		}
+	}
+]
