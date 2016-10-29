@@ -24,6 +24,7 @@
       { "item" : "hexpaperglass" },
       { "item" : "hexpaperplatform" },
 	  { "item" : "wingstim" },
+	  { "item" : "wingspeedstim" },
 
 // Anvil
       { "item" : "humantier1head" },

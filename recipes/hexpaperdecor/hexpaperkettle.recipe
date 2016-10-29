@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "hexpaperchair1"	, "count" 		: 1 },
 	{ "item" : "sugar"			, "count" 		: 5},
-	{ "item" : "plantfiber"		, "count" 		: 5},
+	{ "item" : "plantfibre"		, "count" 		: 5},
 	{ "item" : "liquidwater"	, "count" 		: 1},
 	{ "item" : "copperbar"		, "count" 		: 1}
   ],
