@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "hexpaperchair1", "count" : 7 },
+    { "item" : "paper", "count" : 15 },
+    { "item" : "copperbar", "count" : 5 },
+    { "item" : "cryonicextract", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "hexpaperfridge",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}
