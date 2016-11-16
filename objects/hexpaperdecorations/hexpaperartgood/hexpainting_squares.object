@@ -11,14 +11,14 @@
   "race" : "wasphive",
   "health" : 1.5,
 
-  "apexDescription" : "",
-  "avianDescription" : "This is one large paper comb!",
-  "floranDescription" : "Iss thiss a nesst?",
-  "glitchDescription" : "Curious. Looks like someone decorated this wall with paper.",
-  "humanDescription" : "A nice paper tiling for walls.",
-  "hylotlDescription" : "A hexagonal piece of paper on the wall. An empty painting?",
-  "novakidDescription" : "Sure is a big ol' comb.",
-  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+  "apexDescription" : "An abstract painting. As meaningful as standart issue art.",
+  "avianDescription" : "Bright colours in squares. What could this mean?",
+  "floranDescription" : "Floran doess not appreciate the messsage the colorss deliver.",
+  "glitchDescription" : "Curious. This painting is an abstraction. Of what, though?",
+  "humanDescription" : "Reminds me of Mondrian. Or of someone randomly drawing squares.",
+  "hylotlDescription" : "This 'art' is devoid of beauty and does not deserve it's name.",
+  "novakidDescription" : "Well it's a paintin' alright.",
+  "wasphiveDescription" : "Hive appreciatez ze colourz.",
 
   "inventoryIcon" : "hexpaperhexagonicon.png",
   "orientations" : [
