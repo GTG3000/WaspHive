@@ -1,35 +1,26 @@
 [
 	{
 		"op": "add",
-		"path": "/helpme/vespoid",
+		"path": "/helpme/wasphive",
 		"value": {
 			"default": [
-				"I need help!",
-				"Need back up!",
-				"Requesting soldier support!",
-				"Get off me!"
+				"Hive needz help!",
+				"Requezting zupport!",
+				"Help Hive!",
+				"Not enough handz here!"
 			]
 		}
 	},
-	{
+		{
 		"op": "add",
-		"path": "/helpthem/vespoid",
+		"path": "/safe/wasphive",
 		"value": {
 			"default": [
-				"Leave <name> alone!",
-			"You're making a big mizztake!",
-			"You monzzter!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/encourage/vespoid",
-		"value": {
-			"default": [
-				"Get'em, GET'EM!",
-				"You're in trouble now!",
-				"Zwarm them!"
+				"Hive zurvived!",
+				"Hive iz zafe onze again.",
+				"Hive iz glad it iz over.",
+				"Hive livez anozer day.",
+				"Hive really needz a weapon."
 			]
 		}
 	}

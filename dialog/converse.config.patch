@@ -12,7 +12,7 @@
 		"Doez hive zpeak well? Hive triez not to buzz.",
 		"Hive iz zmall, but ztill proud.",
 		"Hive iz pleazed to meet you.",
-		"Hive wantz zweetz.",
+		"Hive wantz zweet.",
 		"Do you paint? Hive likez ze colourz.",
 		"Hive waz zpawned for a purpoze!",
 		"Hive doez not underztand ozer zpeciez too well.",
@@ -32,7 +32,7 @@
 	"avian" : [
 		"Hive haz heard zat birdz eat bugz. Hive would like to zee you try.",
 		"Hive could fly if Hive wanted.",
-		"Hive heard of Kluexzz. Hive doez not accept.",
+		"Hive heard of Kluex. Hive doez not accept.",
 		"Avian zerve Kluex like dronez zerve hive.",
 		"Hive doez not require mizzionariez.",
 		"Your featherz look fluffy. Can hive touch?",
@@ -46,9 +46,9 @@
 		"Hive enjoyz hunting too! Zough hive iz a little zhort-handed.",
 		"Do Floranz enjoy zweet?",
 		"Hive iz not intimidated!",
-		"Hive appreciatez Floran art.",
+		"Hive apprezhiatez Floran art.",
 		"Floranz figured tech out on zeir own. Hive iz imprezzed.",
-		"Hive hopez Floran doez not feel like ztabbing today.",
+		"Hive hopez Floran doez not feel like ztabbing today. 'coz Hive feelz like ztinging.",
 		"Hive would like to go hunting wiz Floran, but Hive iz az buzy az a bee.",
 		"Do Floranz grow zweet fruit?",
 		"Hive notizzed zat Floran alzo haz trouble pronounzing zzz.",
@@ -59,19 +59,19 @@
 		"Hive haz heard zat ze Glitch have a hivemind of zeir own, iz zat true?",
 		"Hello zere, induztriouz machine!",
 		"Can Glitch feel tazte? If zo, do you like zweet?",
-		"Glitch are amazing! Hive wonderz if you upgrade yourzelf for variouz tazkz?",
+		"Glitch are amazzing! Hive wonderz if you upgrade yourzelf for variouz tazkz?",
 		"Hive iz curiouz - what makez Glitch tick?",
-		"Glith zerve a king juzt like dronez zerve a hive.",
+		"Glitch zerve a king juzt like dronez zerve a hive.",
 		"Joyouz. Nize to meet you, metal man."
 	],
 	"human" : [
 		"Hive iz wiz ze protectorate! Hive will do what Hive can.",
-		"Hive iz pleazed to meet another human. Humanz are good influence.",
-		"Paint me like one of your french wazpz, human.",
+		"Hive iz pleazed to meet another human. Humanz are good influenze.",
+		"Paint Hive like one of your french wazpz, human.",
 		"Hive iz zure zat humanity will recover. Zere iz more to ze protectorate zan one planet.",
 		"Humanz taught hivez all ze technologiez. Hive iz zankful.",
 		"Doez hive look human enough? Hive put a lot of effort in zis look.",
-		"Hive apologizes for buzzing. Human language iz not eazy to pronounze. Hive iz more uzed to buzzing and clicking.",
+		"Hive apologizez for buzzing. Human language iz not eazy to pronounze. Hive iz more uzed to buzzing and kliking.",
 		"Hive findz human ritualz entertaining.",
 		"You don't look too happy. Doez human want a hug?",
 		"Hello zere, human friend!"
@@ -104,10 +104,19 @@
 	"wasphive" : [
 		"Good day, fellow hive.",
 		"Hive respectz ozer hive. But Hive iz zuperior.",
-		"Hive could zhare zweet. But Hive nedz zweet more.",
+		"Hive could zhare zweet. But Hive needz zweet more.",
 		"Hive iz glad to zee more hivez around.",
 		"Hive thinkz Hive lookz more human zan ozer hive.",
 		"Hive hopez Hive can afford to get zum dronez zoon."
+	],
+	"avali" : [
+		"Hive doez not zmell too well, but Hive zmelled you.",
+		"Iz it not too hot for fuzzy chemical thing?",
+		"Hive doez not welcome chemical turkey.",
+		"Humanz taught Hive to be vary of your kind.",
+		"Raptorz are hunterz, juzt like floranz, yez?",
+		"Do you have any interezting trophiez?",
+		"Iz zweet poizonouz to chemical thingz?"
 	]
 		}
 	},
@@ -158,7 +167,7 @@
 		"path": "/converse/glitch/wasphive",
 		"value": [
 			"Curious. I haven't seen many giant bugs before.",
-			"Vary. Sugar could wreck hell on my joints.",
+			"Wary. Sugar could wreck hell on my joints.",
 			"Joyous. Welcome, bug friend.",
 			"Curious. Many bugs are very industrious. Are you a part of a hive?",
 			"Hopeful. I've heard wasps are all networked together. Could I join? I have a network cable.",
@@ -175,7 +184,7 @@
 			"Greetings, my bug friend.",
 			"Good day insect.",
 			"Do bugs write poetry? Does it include buzzing?",
-			"I have heard of a prominent wasp musician. Dj Buzzy has the most enticing choir assembled.",
+			"I have heard of a prominent wasp musician. DJ Buzzy has the most enticing choir assembled.",
 			"I have seen art your kind does, bug. You have ways to go.",
 			"I haven't read many books by bugs. Plenty of books about bugs though.",
 			"Can bugs swim?",
@@ -193,7 +202,7 @@
 			"Do wasps eat seeds? I've got plenty.",
 			"I envy your kind so much. You can fly!",
 			"I heard you bugs like sweets! What kind of sweets? ...How much can you eat in one go?",
-			"Does your kind wistle? Or just buzz rhythmically?",
+			"Does your kind whistle? Or just buzz rhythmically?",
 			"Could you make a paper bird for me?",
 			"I heard your kind are with the protectorate? Nice to see you around.",
 			"Hello, bug friend!"
@@ -208,5 +217,16 @@
 			"You sure got some big, unblinkin' eyes there.",
 			"Haven't met many folks like you, bug."
 		]
-	}
+	}//,
+	//{
+	//	"op": "add",
+	//	"path": "/converse/vespoid/wasphive",
+	//	"value": [
+	//		"A wazp! Pleaze don't attack!",
+	//		"I have zweet honey, if you want.",
+	//		"Your beehind looks too small.",
+	//		"Do thoze wingz actually work?",
+	//		"Vespoids and wasps can be friends!"
+	//	]
+	//}
 ]

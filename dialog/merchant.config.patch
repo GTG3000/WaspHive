@@ -1,68 +1,61 @@
 [
 	{
 		"op": "add",
-		"path": "/merchantStart/vespoid",
+		"path": "/merchantStart/wasphive",
 		"value": {
 			"default": [
-				"Come come.",
-				"Would you like to look at our zuppliezz?",
-				"We akzzept pixelzz and petalzz.",
-				"Here'zz what I got.",
-				"Pleazzze, take a look."
+				"Come, come!",
+				"Here'z what Hive got.",
+				"Hive acceptz pixzelz. And tradez for zweet.",
+				"Only ze bezt zuppliez!"
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/merchantEnd/vespoid",
+		"path": "/merchantEnd/wasphive",
 		"value": {
 			"default": [
-				"Come again~",
-				"Thankzzz!",
-				"Do come back zometime!.",
-				"Tell your friendzzz!!"
+				"Come again!",
+				"Tell your friendz!",
+				"Thankz for your buzinez!",
+				"Hive encouragez you to come again!"
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/follow/vespoid",
+		"path": "/follow/wasphive",
 		"value": {
 			"default": [
-				"Follow me~",
-				"The bezt pricez around, juzzt over here.",
-				"I can zhow you what I got at my zztore."
+				"Follow Hive~",
+				"Bezt priczez around, juzt over here.",
+				"Hive can zhow you what Hive haz, at ze ztore.",
+				"Bezt quality! Come, zee for yourzelf!"
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/welcome/vespoid",
+		"path": "/welcome/wasphive",
 		"value": {
 			"default": [
-				"Zee anything?",
+				"Zee anyzink you like?",
+				"Hive iz zure to have zomezink you need!",
 				"Pleaze, feel free.",
-				"I got everything that can help you, anywhere."
+				"Check out ze merchandize!"
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/tout/vespoid",
+		"path": "/tout/wasphive",
 		"value": {
 			"default" : [
-				"I got the goodzzz!",
-				"If you can't find it here, it'zz not anywhere.",
-				"Best dealzzz here!",
-				"New goodz in ztock."
-			],
-			"vespoid" : [
-				"I got the goodzzz!",
-				"If you can't find it here, it'zz not anywhere.",
-				"Best dealzzz here!",
-				"New goodz in ztock.",
-				"Need zome help?",
-				"Anything I can help you with?"
+				"Ze zwetezt dealz!",
+				"Hive got ze goodzz!",
+				"Bezt dealz around!",
+				"New goodz in ztock!"
 			]
 		}
 	}

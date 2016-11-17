@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/wasphive",
+    "value": {
+      "male": [
+        "/sfx/humanoid/questionbuzz2.ogg",
+        "/sfx/humanoid/questionbuzz3.ogg",
+        "/sfx/humanoid/questionbuzz4.ogg",
+        "/sfx/humanoid/questionbuzz5.ogg",
+        "/sfx/humanoid/questionbuzz6.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/questionbuzz2.ogg",
+        "/sfx/humanoid/questionbuzz3.ogg",
+        "/sfx/humanoid/questionbuzz4.ogg",
+        "/sfx/humanoid/questionbuzz5.ogg",
+        "/sfx/humanoid/questionbuzz6.ogg"
+      ]
+    }
+  }
+]

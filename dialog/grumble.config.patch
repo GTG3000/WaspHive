@@ -1,49 +1,54 @@
 [
 	{
 		"op": "add",
-		"path": "/tagCriteria/vespoid",
+		"path": "/tagCriteria/wasphive",
 		"value": {
 			"default": [
-				"Thizz plazze... I don't like thizz at all..."
+				"Hive doez not like ziz plaze at all.",
+				"Ziz plaze needz to be redecorated."
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/enclosedArea/vespoid",
+		"path": "/enclosedArea/wasphive",
 		"value": {
 			"default": [
-				"Thiz plaze could uze a makeover."
+				"Hive doez not like ziz much frezh air.",
+				"Hive doez not appreciate ze extra ventillation."
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/otherDeed/vespoid",
+		"path": "/otherDeed/wasphive",
 		"value": {
 			"default": [
-				"You've got to bee joking!",
-				"I'm not paying to ztay here for that!"
+				"Hive iz not paying for zharing!",
+				"Ziz plaze belongz to Hive! No zharing!",
+				"You have got to be kidding Hive!"
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/severe/vespoid",
+		"path": "/severe/wasphive",
 		"value": {
 			"default": [
-				"Zomething needz to bee done...NOW!",
-				"I'd like to file a complaint!"
+				"Hive would like to file a complaint!",
+				"Zomezink needz to be done. Now.",
+				"Hive iz fed up wiz ziz plaze."
 			]
 		}
 	},
 	{
 		"op": "add",
-		"path": "/final/vespoid",
+		"path": "/final/wasphive",
 		"value": {
 			"default": [
-				"I'm buzzing outta here...",
-				"I bet there'zz a better hive out there."
+				"Hive iz out of here.",
+				"Hive can find better plaze for zhure.",
+				"Hive iz out of ziz dump."
 			]
 		}
 	}

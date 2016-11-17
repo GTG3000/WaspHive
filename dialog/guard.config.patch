@@ -1,13 +1,13 @@
 [
 	{
 		"op": "add",
-		"path": "/hail/vespoid",
+		"path": "/hail/wasphive",
 		"value": {
 			"default": [
-				"Hi there.",
-				"buzzes",
-				"Welcome to our village.",
-				"I'm bored.."
+				"Hello zere.",
+				"Welcome to our zettlement."
+				"Hive welcomez you."
+				"Buzz."
 			]
 		}
 	}
