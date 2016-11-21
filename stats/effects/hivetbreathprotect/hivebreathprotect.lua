@@ -27,12 +27,14 @@ function update(dt)
 		if self.statMin >= 3 then
 			table.insert(protections,{stat = "biomecoldImmunity", amount = 1})	
 			table.insert(protections,{stat = "ffextremecoldImmunity", amount = 1})	
+			table.insert(protections,{stat = "weaknessIceImmunity", amount = 1})	
 			--effect.addStatModifierGroup({{stat = "biomecoldImmunity", amount = 1}})
 			--sb.logInfo("COLD PROTECTED")
 		end
 		if self.statMin >= 4 then
 			table.insert(protections,{stat = "biomeheatImmunity", amount = 1})	
 			table.insert(protections,{stat = "ffextremeheatImmunity", amount = 1})	
+			table.insert(protections,{stat = "weaknessFireImmunity", amount = 1})	
 			--effect.addStatModifierGroup({{stat = "biomeheatImmunity", amount = 1}})
 			--sb.logInfo("HEAT PROTECTED")
 		end

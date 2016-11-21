@@ -11,7 +11,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/craftingfood.config",
-    "filter" : [ "craftingfood" ],
+    "filter" : [ "craftingfood", "campfire" ],
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : " Paper Comb Cooking Table",
