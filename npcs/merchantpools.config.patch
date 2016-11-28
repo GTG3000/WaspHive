@@ -1,0 +1,12 @@
+[
+	{
+		"op": "add",
+		"path": "/wasphivemerchant",
+		"value": [
+			[ 0, [
+				{ "item": { "name": "torch"	} },
+				{ "item": { "name": "flare" } }
+			]]
+		]
+	}
+]

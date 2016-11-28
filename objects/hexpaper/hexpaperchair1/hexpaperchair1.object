@@ -50,5 +50,5 @@
 	  "spaces" : [[-2,0],[-1,0],[0,0]]
     }
   ],
-  "learnBlueprintsOnPickup" : [ "hexpaperbed", "hexpaperbookcase", "hexpaperbutton", "hexpaperceilingbookcase", "hexpaperchair", "hexpaperchest", "hexpapercookingtable", "hexpaperlight3", "hexpaperswitch", "hexpapertable", "hexpapergate", "hexpaperlight1", "hexpaperchair1", "hexpaperchair3", "hexpaperdesk", "hexpapercup", "hexpaperkettle", "hexpaperplate", "hexpaperfridge" ]
+  "learnBlueprintsOnPickup" : [ "hexpaperbed", "hexpaperbookcase", "hexpaperbutton", "hexpaperceilingbookcase", "hexpaperchair", "hexpaperchest", "hexpapercookingtable", "hexpaperlight3", "hexpaperswitch", "hexpapertable", "hexpapergate", "hexpaperlight1", "hexpaperchair1", "hexpaperchair3", "hexpaperdesk", "hexpapercup", "hexpaperkettle", "hexpaperplate" ]
 }
