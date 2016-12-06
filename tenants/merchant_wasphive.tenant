@@ -13,17 +13,7 @@
             "spawn": "npc",
             "species": "wasphive",
             "type": "merchanttenant",
-            "overrides": {
-                "scriptConfig": {
-                    "merchant": {
-                        "categories": {
-                            "wasphive": [
-                                "genericarmour"
-                            ]
-                        }
-                    }
-                }
-            }
+            "overrides": {}
         }
     ],
     "rent": {

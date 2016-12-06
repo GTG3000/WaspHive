@@ -1,0 +1,23 @@
+[
+	{
+		"op": "add",
+		"path": "/items/wasphive",
+		"value": [
+			[ 0,[{
+						"head": 	[ { "name": "wasphive5head" } ],
+						"chest": 	[ { "name": "wasphive5chest" } ],
+						"legs": 	[ { "name": "wasphive5pants" } ],
+						"back": 	[ { "name": "waspwingsspeed" } ],
+						"primary": [
+							"npcpistol",
+							"npcmachinepistol",
+							"npcassaultrifle"
+							
+						],
+						"sheathedprimary": [
+							"npcbroadsword"
+						]
+			}]]
+		]
+	}
+]

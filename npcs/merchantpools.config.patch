@@ -4,8 +4,11 @@
 		"path": "/wasphivemerchant",
 		"value": [
 			[ 0, [
-				{ "item": { "name": "torch"	} },
-				{ "item": { "name": "flare" } }
+				{ "item": { "name": "hexpaperchair1"	} },
+				{ "item": { "name": "hexpaperhexagon"	} },
+				{ "item": { "name": "paper"	} },
+				{ "item": { "name": "sugar"	} },
+				{ "item": { "name": "wasphivefacts-codex" } }
 			]]
 		]
 	}

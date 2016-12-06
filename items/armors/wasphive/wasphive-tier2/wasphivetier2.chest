@@ -7,7 +7,7 @@
   "category" : "chestarmour",
   "description" : "A simple carapace grown by a hive. It feels like an airtight second skin.",
   "shortdescription" : "Drone Carapace",
-  "tooltipKind" : "armor",
+  "tooltipKind" : "armoraugment",
 
   "maleFrames" : {
     "body" : "chest.png",
@@ -44,6 +44,8 @@
       "amount" : 5
     }
   ],
+  
+  "acceptsAugmentType" : "back",
   
   "statusEffects" : [
 	"hivebreathprotect",

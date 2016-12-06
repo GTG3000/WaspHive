@@ -7,7 +7,7 @@
   "category" : "chestarmour",
   "description" : "Simple carapace grown by a hive. It seems airtight. You can feel it wear you.",
   "shortdescription" : "Drone Carapace",
-  "tooltipKind" : "armor",
+  "tooltipKind" : "armoraugment",
 
   "maleFrames" : {
     "body" : "chest.png",
@@ -44,6 +44,8 @@
       "amount" : 5
     }
   ],
+  
+  "acceptsAugmentType" : "back",
   
   "statusEffects" : [
 	"hivebreathprotect",

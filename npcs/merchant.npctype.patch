@@ -1,0 +1,27 @@
+[
+	{
+		"op": "add",
+		"path": "/scriptConfig/merchant/categories/wasphive",
+		"value": ["basicmerchant","wasphivemerchant"]
+	},
+	{
+		"op": "add",
+		"path": "/items/wasphive",
+		"value": [
+			[ 0, [{
+					"head":  [
+						{ "name": "coolfezhead", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } }
+					],
+					"back":  [
+						{ "name": "waspwings"		}
+					],
+					"chest": [
+						{ "name": "avianfancyshirt", "parameters" : { "colorIndex" : [1] } }
+					],
+					"legs":  [
+						{ "name": "jeans2legs", "parameters" : { "colorIndex" : [1] } }
+					]
+			}]]
+		]
+	}
+]
