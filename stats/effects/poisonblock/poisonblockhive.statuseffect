@@ -1,0 +1,9 @@
+{
+  "name" : "poisonblockhive",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "poisonblock.lua"
+  ]
+}

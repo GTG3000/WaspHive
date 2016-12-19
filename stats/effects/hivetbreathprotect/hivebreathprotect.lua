@@ -16,27 +16,29 @@ function update(dt)
 		if self.statMin >=1 then
 			table.insert(protections,{stat = "breathProtection", amount = 1})
 			--effect.addStatModifierGroup({{stat = "breathProtection", amount = 1}})
-			--sb.logInfo("BREATH PROTECTED")
+			sb.logInfo("BREATH PROTECTED")
 		end
 		if self.statMin >= 2 then
 			table.insert(protections,{stat = "biomeradiationImmunity", amount = 1})	
 			table.insert(protections,{stat = "ffextremeradiationImmunity", amount = 1})	
 			--effect.addStatModifierGroup({{stat = "biomeradiationImmunity", amount = 1}})
-			--sb.logInfo("RADIATION PROTECTED")
+			sb.logInfo("RADIATION PROTECTED")
 		end
 		if self.statMin >= 3 then
 			table.insert(protections,{stat = "biomecoldImmunity", amount = 1})	
 			table.insert(protections,{stat = "ffextremecoldImmunity", amount = 1})	
 			table.insert(protections,{stat = "weaknessIceImmunity", amount = 1})	
+			table.insert(protections,{stat = "iceResistance", amount = 0.25})	
 			--effect.addStatModifierGroup({{stat = "biomecoldImmunity", amount = 1}})
-			--sb.logInfo("COLD PROTECTED")
+			sb.logInfo("COLD PROTECTED")
 		end
 		if self.statMin >= 4 then
 			table.insert(protections,{stat = "biomeheatImmunity", amount = 1})	
 			table.insert(protections,{stat = "ffextremeheatImmunity", amount = 1})	
 			table.insert(protections,{stat = "weaknessFireImmunity", amount = 1})	
+			table.insert(protections,{stat = "fireResistance", amount = 0.25})	
 			--effect.addStatModifierGroup({{stat = "biomeheatImmunity", amount = 1}})
-			--sb.logInfo("HEAT PROTECTED")
+			sb.logInfo("HEAT PROTECTED")
 		end
 		effect.setStatModifierGroup(self.groupID,protections)
 	end

@@ -8,6 +8,6 @@ function update(dt)
 	wholdUpdate(dt)
 	if world.entitySpecies(entity.id()) == "wasphive" then
 		status.addEphemeralEffect("hiveprotect",math.huge)
-		status.addEphemeralEffect("poisonblockaugment",math.huge)
+		status.addEphemeralEffect("poisonblockhive",math.huge)
 	end
 end
