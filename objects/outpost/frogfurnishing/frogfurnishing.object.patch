@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/storeInventory/furniture/-",
+    "value": "hexpaperhexagon"
+  },
+  {
+    "op": "add",
+    "path": "/storeInventory/furniture/-",
+    "value": "hexpaperchair1"
+  }
+]
