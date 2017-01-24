@@ -101,9 +101,9 @@ function update(args)
 			doMultiJump()
 			self.isJumping = true
 		elseif args.moves["jump"] 
-		and mcontroller.falling()
-		and not status.resourceLocked("energy")
-		and status.overConsumeResource("energy", self.hoverEnergy) then
+			and mcontroller.falling()
+			and not status.resourceLocked("energy")
+			and status.overConsumeResource("energy", self.hoverEnergy) then
 			mcontroller.controlParameters(self.fallParams)
 			if self.soundtimer < 0 then
 				self.soundtimer = 1
@@ -120,14 +120,16 @@ function update(args)
 				--mcontroller.controlModifiers({speedModifier = self.sideSpeed})
 			end
 			self.isJumping = true
+		elseif mcontroller.falling() then
+			mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), math.max(self.maxFallSpeed*2,-30)))
 		end
 	end
 	if mcontroller.crouching() or mcontroller.groundMovement() or mcontroller.liquidMovement() then
-	animator.setAnimationState("jumping","invisible")
+		animator.setAnimationState("jumping","invisible")
 	elseif self.isJumping then
-	animator.setAnimationState("jumping","on")
+		animator.setAnimationState("jumping","on")
 	else
-	animator.setAnimationState("jumping","off")
+		animator.setAnimationState("jumping","off")
 	end
 	animator.setFlipped( mcontroller.facingDirection() > 0)
 end

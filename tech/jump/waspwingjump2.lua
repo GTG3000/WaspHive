@@ -99,7 +99,7 @@ function update(args)
     elseif jumpActivated and canMultiJump() then
       doMultiJump()
 	  self.isJumping = true
-    elseif args.moves["jump"] 
+    elseif args.moves["jump"]  --the wasp stuff
 	  and mcontroller.falling()
 	  and not status.resourceLocked("energy")
 	  and status.overConsumeResource("energy", self.hoverEnergy) then
@@ -112,6 +112,8 @@ function update(args)
 	  end
       mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), self.maxFallSpeed))
 	  self.isJumping = true
+	elseif mcontroller.falling() then
+      mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), math.max(self.maxFallSpeed*2,-30)))
 	end
   end
   if mcontroller.crouching() or mcontroller.groundMovement() or mcontroller.liquidMovement() then
