@@ -113,7 +113,11 @@ function update(args)
       mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), self.maxFallSpeed))
 	  self.isJumping = true
 	elseif mcontroller.falling() then
-      mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), math.max(self.maxFallSpeed*2,-30)))
+	  if args.moves["down"] then
+        mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), -40))
+	  else
+		mcontroller.setYVelocity(math.max(mcontroller.yVelocity(), math.max(self.maxFallSpeed*2,-30)))
+	  end
 	end
   end
   if mcontroller.crouching() or mcontroller.groundMovement() or mcontroller.liquidMovement() then
@@ -163,7 +167,7 @@ function grabWall(wall)
   self.wallGrabFreezeTimer = self.wallGrabFreezeTime
   self.wallReleaseTimer = 0
   mcontroller.setVelocity({0, 0})
-  tech.setToolUsageSuppressed(true)
+  --tech.setToolUsageSuppressed(true)
   tech.setParentState("fly")
   animator.playSound("wallGrab")
 end
