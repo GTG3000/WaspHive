@@ -12,7 +12,7 @@ function growItem(message,isLocal,itemName)
 	player.giveItem(itemName)
 	if self.debug then
 		local messageTemp = self.radioMessages.received
-		messageTemp.text="Spawning item "..itemName
+		messageTemp.text="Spawning item "..sb.printJson(itemName)
 		player.radioMessage(messageTemp)
 	end
 end

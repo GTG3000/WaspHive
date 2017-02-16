@@ -11,6 +11,6 @@
   "novakiddescription" : "Made for holdin' up a roof of a card house, I recon.",
   "wasphiveDescription" : "Zpecially made paper holdz hivez together.",
 
-  "materialId" : 10001,
+  "materialId" : 11501,
   "learnBlueprintsOnPickup" : [ "hexpapersupport" ]
 }

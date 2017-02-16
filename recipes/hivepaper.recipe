@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "logblock", "count" : 1 }
+    { "item" : "logblock", "count" : 10 }
   ],
   "output" : {
-    "item" : "paper",
-    "count" : 10
+    "item" : "hivepaper",
+    "count" : 1
   },
   "groups" : [ "plain", "ingredients", "all" ]
 }

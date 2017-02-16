@@ -12,7 +12,7 @@
   "wasphivedescription" : "Hive putz paper togezer firmly into platformz.",
   //"learnBlueprintsOnPickup" : [ "protectorateplatform" ],
   
-  "materialId" : 10004,
+  "materialId" : 11504,
   "learnBlueprintsOnPickup" : [ "hexpaperplatform" ]
 
 }

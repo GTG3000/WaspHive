@@ -11,6 +11,6 @@
   "novakiddescription" : "A lotta paper hexagons stuck together.",
   "wasphivedescription": "Hive makez zturdy combz, and buildz zturdy wallz out of zem.",
 
-  "materialId" : 10000,
+  "materialId" : 11500,
   "learnBlueprintsOnPickup" : [ "hexpaperwall" ]
 }

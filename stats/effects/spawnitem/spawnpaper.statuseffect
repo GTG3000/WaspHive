@@ -1,0 +1,20 @@
+{
+  "name" : "spawnpaper",
+  //"blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {
+    "item": {
+		"name" : "paper",
+		"count": 150,
+		"parameters" : {}
+	}
+  },
+  "defaultDuration" : 2.5,
+
+  "scripts" : [
+    "spawnitem.lua"
+  ],
+
+  "label" : "Growing Wings",
+  "icon" : "/interface/statuses/growingstatus.png"
+}

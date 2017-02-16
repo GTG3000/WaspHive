@@ -1,5 +1,5 @@
 {
-  "materialId" : 10004,
+  "materialId" : 11504,
   "materialName" : "hexpaperplatform",
   "collisionKind" : "platform",
   "itemDrop" : "hexpaperplatform",

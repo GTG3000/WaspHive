@@ -11,6 +11,6 @@
   "novakiddescription" : "I can see all t'way through these glass cells.",
   "wasphivedescription" : "Zometimez Hive wantz natural light in ze roomz.",
 
-  "materialId" : 10003,
+  "materialId" : 11503,
   "learnBlueprintsOnPickup" : [ "hexpaperglass" ]
 }

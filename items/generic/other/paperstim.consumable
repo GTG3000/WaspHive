@@ -1,0 +1,21 @@
+{
+  "itemName" : "hivepaper",
+  "rarity" : "Rare",
+  "price" : 500,
+  "category" : "medicine",
+  "inventoryIcon" : "wingstim.png",
+  "description" : "A package of fiber to be turned into paper by a hive.",
+  "shortdescription" : "Paper pack",
+  "effects" : [ [
+      {
+        "effect" : "spawnpaper"
+      }
+    ] ],
+  //"emote" : "",
+  //"foodValue" : 0,
+  //"emitters" : [ "stimuse" ],
+  "blockingEffects" : [
+    "spawnpaper",
+	"wellfed"
+  ]
+}

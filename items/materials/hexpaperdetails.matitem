@@ -11,6 +11,6 @@
   "novakiddescription" : "Strong lookin' wall made from paper.",
   "wasphiveDescription" : "Hive can make paper very ztronk.",
 
-  "materialId" : 10002,
+  "materialId" : 11502,
   "learnBlueprintsOnPickup" : [ "hexpaperdetails" ]
 }

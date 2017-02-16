@@ -1,6 +1,6 @@
 
 {
-  "materialId" : 10001,
+  "materialId" : 11501,
   "materialName" : "hexpapersupport",
   "frames" : "hexpapersupport.png",
   "particleColor" : [110, 110, 110, 255],
