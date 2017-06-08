@@ -46,9 +46,8 @@
       "sitPosition" : [1.6, 22.5]
     }
   ],
-  "interactAction" : "openCockpitInterface",
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/cockpit/cockpit.config",
 
-  "sitFlipDirection" : false,
-  "soundEffect" : "/sfx/objects/shipengine.ogg",
-  "soundEffectRadius" : 1000
+  "sitFlipDirection" : false
 }
