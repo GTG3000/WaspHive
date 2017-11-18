@@ -11,14 +11,14 @@
   "race" : "wasphive",
   "health" : 1.5,
 
-  "apexDescription" : "A huge paper comb, mounted into the wall.",
-  "avianDescription" : "This is one large paper comb!",
-  "floranDescription" : "Iss thiss a nesst?",
-  "glitchDescription" : "Curious. Looks like someone decorated this wall with paper.",
-  "humanDescription" : "A nice paper tiling for walls.",
-  "hylotlDescription" : "A hexagonal piece of paper on the wall. An empty painting?",
-  "novakidDescription" : "Sure is a big ol' comb.",
-  "wasphiveDescription" : "Covering wallz in combz makez Hive feel at home.",
+  "apexDescription" : "A painting of a Hive's face. Makes me feel a little itchy",
+  "avianDescription" : "A nice picture of a Hive's face.",
+  "floranDescription" : "Sssilly wasspss drew fasssse? Now floran hungry for bug meatsss",
+  "glitchDescription" : "Observant. A detailed painting of a Hive's face.",
+  "humanDescription" : "A Hive portrait.",
+  "hylotlDescription" : "A Hive portrait? I suppose it isn't terrible, for an insect.",
+  "novakidDescription" : "Well ain't that a face only a momma could love.",
+  "wasphiveDescription" : "Hive thinkzz face makezz good decoration.",
 
   "inventoryIcon" : "hexpaperhexagonicon.png",
   "orientations" : [
